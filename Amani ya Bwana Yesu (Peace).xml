@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:24">
+  <properties>
+    <titles>
+      <title>Amani ya Bwana Yesu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amani ya Bwana Yesu, <br/>amani iwe nawe.<br/>Amani ya Bwana Yesu, <br/>amani iwe nawe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ewe mwenzangu pokea <br/>(amani)<br/>Amani (ya Yesu)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Upendo wa Bwana Yesu, <br/>upendo uwe nawe.<br/>Upendo wa Bwana Yesu, <br/>upendo uwe nawe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Neema ya Bwana Yesu, <br/>neema iwe nawe.<br/>Neema ya Bwana Yesu, <br/>neema iwe nawe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Faraja ya Bwana Yesu, <br/>faraja iwe nawe.<br/>Faraja ya Bwana Yesu, <br/>faraja iwe nawe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Baraka ya Bwana Yesu, <br/>baraka iwe nawe.<br/>Baraka ya Bwana Yesu, <br/>baraka iwe nawe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Furaha ya Bwana Yesu, <br/>furaha iwe nawe.<br/>Furaha ya Bwana Yesu, <br/>furaha iwe nawe.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:36">
+  <properties>
+    <titles>
+      <title>Baba tunaleta</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 v4 c1 v5 v6 c1 v7 v8 c1 v9 v10 c1</verseOrder>
+    <authors>
+      <author>Offertory Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Baba tunaleta vipaji<br/>twakuomba sana pokea.<br/>Baba tunaleta twakuomba <br/>sana pokea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twaja kushukuru kwa <br/>yote unatujalia wanao.<br/>Baba tunaleta <br/>twakuomba sana pokea.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Baba tunasema, <br/>asante, asante.<br/>Kutupa uzima, <br/>asante, asante.<br/>Kwa kutukomboa, <br/>asante, asante.<br/>Kutuweka huru, <br/>asante, asante.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mkate na divai twaleta<br/>twakuomba sana pokea.<br/>Baba tunaleta <br/>twakuomba sana pokea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ndio kazi yetu wanao <br/>twakuomba sana pokea.<br/>Baba tunaleta <br/>twakuomba sana pokea.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mazao ya shamba twaleta<br/>twakuomba sana pokea.<br/>Baba tunaleta <br/>twakuomba sana pokea.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hata ni kidogo twaleta<br/>twakuomba sana pokea.<br/>Baba tunaleta <br/>twakuomba sana pokea.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nazo fedha zetu twaleta <br/>twakuomba sana pokea.<br/>Baba tunaleta <br/>twakuomba sana pokea.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Utupe baraka twaleta <br/>twakuomba sana pokea.<br/>Baba tunaleta <br/>twakuomba sana pokea.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Pia nyoyo zetu twaleta <br/>twakuomba sana pokea.<br/>Baba tunaleta <br/>twakuomba sana pokea.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Japo ni kidogo twaleta <br/>twakuomba sana pokea.<br/>Baba tunaleta <br/>twakuomba sana pokea.</lines>
+    </verse>
+  </lyrics>
+</song>

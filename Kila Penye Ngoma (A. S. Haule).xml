@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:01">
+  <properties>
+    <titles>
+      <title>Kila Penye Ngoma</title>
+    </titles>
+    <verseOrder>c1 c2 c3 v1 c1 c2 c3 v2 c1 c2 c3</verseOrder>
+    <authors>
+      <author>A. S. Haule</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kila penye ngoma <br/>hapakosi chereko (chereko)<br/>(na) kila penye chereko chereko <br/>zawadi zawadi hazikosi. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Twendeni sa-sa <br/>kwa Bwana mfu-fuka<br/>aliyeshi-nda mauti mzima <br/>kweli zawadi zawadi tukatoe. x2</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Haya twende twende twende, <br/>zawadi tumwage tumwage<br/>kwa Bwana aliyefu-u-ufuka, <br/>fufu-u-u-uka. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Na tutoe zawadi nzuri <br/>tena za kutamanisha<br/>siku siku ya harusi <br/>siku ya ngoma<br/>je mimi nitatoa <br/>nini hata kikupendeze<br/>siku siku ya kufufuka <br/>siku ya leo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wanasimama kwa chereko <br/>nyimbo ngoma na vigelegele<br/>siku siku ya kufufuka siku ya leo<br/>nawe jirani twende tukatoe <br/>hata kidogo usisite<br/>siku siku ya kufufuka siku ya leo.</lines>
+    </verse>
+  </lyrics>
+</song>

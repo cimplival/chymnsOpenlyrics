@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:30">
+  <properties>
+    <titles>
+      <title>Ni wakati wa amani</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Amani</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ni wakati wa amani,<br/>yesu atupenda,<br/>amani yake Bwana,<br/>yesu atupenda.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ye ye ye <br/>ye ye ye.<br/>Yesu atupenda,<br/>wo wo wo<br/>wo wo wo,<br/>Yesu atupenda. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ni wakati wa upendo,<br/>yesu atupenda,<br/>upendo wake Bwana,<br/>yesu atupenda.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni wakati wa baraka,<br/>yesu atupenda,<br/>baraka yake Bwana,<br/>yesu atupenda.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ni wakati wa fadhili,<br/>yesu atupenda,<br/>fadhili yake Bwana,<br/>yesu atupenda.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ni wakati wa neema,<br/>yesu atupenda,<br/>neema yake Bwana,<br/>yesu atupenda.</lines>
+    </verse>
+  </lyrics>
+</song>

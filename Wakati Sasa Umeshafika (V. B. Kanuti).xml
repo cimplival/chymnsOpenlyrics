@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:23">
+  <properties>
+    <titles>
+      <title>Wakati Sasa Umeshafika</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>V. B. Kanuti</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Wakati sasa umeshafika <br/>wa kujifikiria,<br/>kitu gani umtolee Bwana <br/>kama shukrani zako.<br/>Toa kwa moyo wa mapendo,<br/>toa ulicho nacho, <br/>toa kwa ukarimu<br/>Mungu anakuona ndugu <br/>mpaka moyoni mwako.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ewe ndugu simama, <br/>nenda mbele zake Bwana.<br/>Kamtolee sadaka Bwana <br/>kwa mapendo yako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tolea moyo wako pamoja <br/>na matendo yako.<br/>Naye Bwana Mungu <br/>wako kweli atakubariki.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siku zote Mungu wako <br/>amekulinda vyema.<br/>Nawe sasa ndugu <br/>yangu Hima ujifikirie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Baraka zake Mungu <br/>za Baba na za Mwana.<br/>Na za Roho mtakatifu <br/>ziwe nanyi siku zote.</lines>
+    </verse>
+  </lyrics>
+</song>

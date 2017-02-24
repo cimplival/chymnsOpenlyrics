@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:47">
+  <properties>
+    <titles>
+      <title>Imbeni Sifa Zake</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Imbeni sifa zake Bwana,<br/>msifuni Bwana msifuni<br/>Hubirini. x4 <br/>matendo yake kwa <br/>kila kiumbe. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tangazeni matendo ya Bwana<br/>kuto -ka ma -sha -ri -ki na magharibi<br/>Se -me -ni Bwana ni mkuu <br/>sana sana sana<br/>((Tukuzeni sifa za Bwana) x2<br/>fikirini matendo ya Bwana,<br/>fikirini matendo yake <br/>yanatisha kama nini). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Waambieni watu, <br/>matendo ya Bwana,<br/>yanatisha sana, <br/>yatisha sana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zisemeni sifa, <br/>sifa zake Bwana,<br/>hubirini Neno, <br/>la Mungu wetu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana ni mkuu, <br/>mwenye kusifiwa,<br/>atukuzwe Mungu,<br/>milele yote.</lines>
+    </verse>
+  </lyrics>
+</song>

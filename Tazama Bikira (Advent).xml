@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:07">
+  <properties>
+    <titles>
+      <title>Tazama Bikira</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Advent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tazama, Bikira atachukua<br/>mimba, na yeye atazaa <br/>mwana.<br/>Naye jina lake ni Emanueli,<br/>Yaani ni Mungu <br/>pamoja nasi.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Malaika akasema:<br/>Salamu, ee Maria<br/>Bwana yu nawe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Utachukua mimba,<br/>utazaa mtoto,<br/>Bwana yu nawe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Utampa jina Yesu <br/>ni mtakatifu,<br/>Bwana yu nawe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mungu atampa kiti <br/>cha babu yake Daudi,<br/>Bwana yu nawe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na utawala wake <br/>hauna mwisho kamwe.<br/>Bwana yu nawe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mimi ni mtumishi <br/>wa Bwana,<br/>Mungu wangu<br/>Bwana yu nawe.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nitakubali yote <br/>anayotaka Mungu,<br/>Bwana yu nawe.</lines>
+    </verse>
+  </lyrics>
+</song>

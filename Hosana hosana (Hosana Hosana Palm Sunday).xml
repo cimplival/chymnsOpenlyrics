@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:40">
+  <properties>
+    <titles>
+      <title>Hosana hosana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Hosana Hosana Palm Sunday</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hosana hosana, Mwana wa Daudi<br/>Hosana hosana, Mwana wa Daudi.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ndiye mbarikiwa yeye ajaye<br/>kwa jina la Bwana, mfalme wa Israeli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosana, hosana, hosana juu<br/>hosana hosana, hosana juu mbinguni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tazameni mfalme anayekuja<br/>kwa jina la Bwana, mpole na mnyenyekevu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mwana wa Daudi ni mbarikiwa,<br/>ndiye mwenye kuja kwa jina lake Bwana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mwana wa Daudi ashangiliwe,<br/>na ahimidiwe, milele na milele.</lines>
+    </verse>
+  </lyrics>
+</song>

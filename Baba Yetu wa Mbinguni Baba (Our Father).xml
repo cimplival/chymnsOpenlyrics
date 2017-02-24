@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:38">
+  <properties>
+    <titles>
+      <title>Baba Yetu wa Mbinguni Baba</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Our Father</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Baba yetu wa mbinguni Baba,<br/>jina lako litukuzwe (Baba),<br/>utakalo lifanyike. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Duniani kama Mbinguni - <br/>Baba utakalo lifanyike.<br/>Utupe leo mkate wetu - <br/>Baba utakalo lifanyike.<br/>Mkate wetu wa kila siku - <br/>Baba utakalo lifanyike. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tusamehe makosa yetu -<br/>Baba utakalo lifanyike. <br/>Kama vile twawasamehe -<br/>Baba utakalo lifanyike. <br/>Waliotukosea sisi -<br/>Baba utakalo lifanyike. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tusamehe makosa yetu - <br/>Baba utakalo lifanyike.<br/>Kama vile twawasamehe - <br/>Baba utakalo lifanyike.<br/>Waliotukosea sisi - <br/>Baba utakalo lifanyike. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwa kuwa ufalme ni wako - <br/>Baba utakalo lifanyike. <br/>Na nguvu na utukufu - <br/>Baba utakalo lifanyike. <br/>Utukufu hata milele - <br/>Baba utakalo lifanyike. </lines>
+    </verse>
+  </lyrics>
+</song>

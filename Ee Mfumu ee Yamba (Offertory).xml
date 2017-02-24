@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:16">
+  <properties>
+    <titles>
+      <title>Ee Mfumu ee Yamba</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ee Mfumue, <br/>yamba makambo. x2<br/>Yamba makambo <br/>ya kimenga na beto. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tala maboko na mono <br/>yo kele mpambo,<br/>tala mono kibeni, <br/>nsunkani ya nene.<br/>Nki kima mono <br/>talenda pesa na ngeye. x2<br/>Mfumu e, mfumu e. x4</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee mfumu e, <br/>yamba ma-mpa. x2<br/>Yamba ma-mpa ya <br/>kimenga na beto. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ee Mfumu e, <br/>yamba vi-nu. x2<br/>Yamba vi-nu <br/>ya kimenga na beto. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ee Mfumu e, <br/>yamba cholare. x2<br/>Yamba cholare <br/>ya kimenga na beto. x2</lines>
+    </verse>
+  </lyrics>
+</song>

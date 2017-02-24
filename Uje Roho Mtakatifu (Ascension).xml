@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:18">
+  <properties>
+    <titles>
+      <title>Uje Roho Mtakatifu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1 v10 c1</verseOrder>
+    <authors>
+      <author>Ascension</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Uje Roho Mtakatifu,<br/>uje mfariji. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Uje Baba wa maskini,<br/>uje mfariji<br/>Roho mtoa wa vipaji,<br/>uje mfariji.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>U rafiji mwema sana,<br/>uje mfariji.<br/>U mfutaji wa machozi,<br/>uje mfariji.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uwe mwanga wa mioyo,<br/>uje mfariji.<br/>Tuangaze toka mbingu,<br/>uje mfariji.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tia nuru akilini,<br/>uje mfariji.<br/>Na upendo mioyoni,<br/>uje mfariji.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Osha machafuko yetu,<br/>uje mfariji.<br/>Na kuponya majeraha,<br/>uje mfariji.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Uregeze ukaidi,<br/>uje mfariji.<br/>Pasha moto ubaridi,<br/>uje mfariji.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Bila nguvu yako wewe,<br/>uje mfariji.<br/>Mwanadamu hana kitu,<br/>uje mfariji.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bila Nguvu yako wewe,<br/>uje mfariji.<br/>Mwanadamu hana kitu,<br/>uje mfariji.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ufukuze mashetani,<br/>uje mfariji.<br/>Na amani tupe hima,<br/>uje mfariji.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Wape waamini wako,<br/>uje mfariji.<br/>Paji zako zote saba,<br/>uje mfariji.</lines>
+    </verse>
+  </lyrics>
+</song>

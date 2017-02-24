@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:29">
+  <properties>
+    <titles>
+      <title>Yesu asante saana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Yesu asante sana. x2<br/>Kujifanya chakula. x2<br/>Kujifanya chakula kutuletea<br/>shibe alama ya pendo. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wewe ndiwe chetu chakula<br/>cha uzima. Umetushibisha <br/>Yesu asante.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kila tunapokula mkate huu<br/>tunapata uzima wa milele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kila tunapokunywa <br/>kikombe hiki<br/>tunapata uzima wa milele.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Twashukuru ee Yesu <br/>kwa wema wako<br/>Umetushibisha Yesu asante.</lines>
+    </verse>
+  </lyrics>
+</song>

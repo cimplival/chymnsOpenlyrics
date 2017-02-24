@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:35">
+  <properties>
+    <titles>
+      <title>Baba Mama na Watoto</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c2 v2 c2 v3 c2 v4</verseOrder>
+    <authors>
+      <author>St. Cecilia Zimmerman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Baba mama na watoto <br/>wao ni familia kamili.<br/>Na hawa wote ni muhimu, <br/>kujenga kanisa la Yesu.<br/>Katika kujenga Kanisa la Yesu <br/>ujenzi huanza nyumbani.<br/>Na kupeana majukumu,<br/>kila mmoja na lake.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Mama awe katekista, <br/>na baba awe padre.<br/>Mama awe katekista, <br/>na baba awe padre.<br/>(Watoto wawe ubao (ubao)<br/>kufundishia wengine<br/>Ili wengineo wajifunze, <br/>kuishi maisha mema). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mama awe katekista maana <br/>yeye ndiye mwalimu.<br/>Kwa kuwa ana huruma <br/>na ni mlezi wa watoto.<br/>Awafundishe mema yote, <br/>upendo sala na bidii.<br/>Na kuwafundisha nidhamu <br/>kwa wenyewe na kwa wengine.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Baba yeye awe padre, <br/>tena yeye ndiye mchungaji.<br/>Ashirikiane naye mama, <br/>watoto wao kuwalea.<br/>Awe mwelekezaji pale <br/>watoto wanapopotoka.<br/>Ili waweze kujenga <br/>familia iliyo bora.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Watoto wawe ubao ubao, <br/>kufundishia wengine.<br/>Kwa tabia zao nzuri <br/>na uadilifu mwema.<br/>Watakuwa ni mfano <br/>bora na kielelezo sawia.<br/>Hiyo ndiyo familia <br/>ya kumpendeza Mungu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Baba mama na watoto <br/>wao ni familia kamili.<br/>Na hawa wote ni muhimu, <br/>kujenga kanisa la Yesu.<br/>Katika kujenga Kanisa la <br/>Yesu ujenzi huanza nyumbani.<br/>Na kupeana majukumu, <br/>kila mmoja na lake.</lines>
+    </verse>
+  </lyrics>
+</song>

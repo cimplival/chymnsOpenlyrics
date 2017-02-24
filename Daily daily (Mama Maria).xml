@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:08">
+  <properties>
+    <titles>
+      <title>Daily daily</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Mama Maria</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daily daily sing to Mary,<br/>sing my soul, her praises due.<br/>All her feasts, her actions <br/>worship, with the heart's <br/>devotion true. Lost in wondering,<br/>contemplation be her majesty<br/>confessed: Call her mother,<br/>call her virgin, happy mother,<br/>virgin blest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>She is mighty to deliver;<br/>Call her, trust her lovingly.<br/>When the tempest rages<br/>round thee, she will calm the<br/>troubled sea. Gifts of heaven <br/>she has given, noble lady to <br/>our race: She is the Queen <br/>who decks her subjects with <br/>the light of God's own grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sing my tongue the virgin's<br/>trophies, who for us her <br/>maker bore; For the curse of<br/>old inflicted, peace and blessings<br/>to restore. Sing his songs of <br/>praise unending, sing the world's<br/>majestic queen; Weary not nor<br/>faint in telling all the gifts<br/>she gives to men.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All my senses, heart, affections,<br/>strive to sound her glory forth; <br/>spread abroad the sweet<br/>memorials, of the virgin's <br/>priceless worth, where the <br/>voice of music thrilling, where<br/>the tongues of eloquence, the <br/>at can utter hymns beseeming <br/>all her matchless excellence?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All our joys, do flow from <br/>Mary, all then join her praise<br/>to sing; Trembling sing the<br/>Virgin Mother, Mother of our <br/>Lord and King. While we sing<br/>her aweful glory, far above <br/>our fancy's reach. Let our <br/>hearts be quick to offer, Love<br/>the heart alone can teach.</lines>
+    </verse>
+  </lyrics>
+</song>

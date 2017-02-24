@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:15">
+  <properties>
+    <titles>
+      <title>Misa Centenary (Agnus Dei)</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ee mwana kondoo <br/>wa Mungu uondoaye <br/>dhambi za dunia ee<br/>Ee mwana ‘tuhurumie. <br/>Mwanakondoo wa Mungu ee, <br/>ee mwana tuhurumie.x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwanakondoo wa Mungu ee,<br/>amani utujalie<br/>mwenye kuondoa dhambi <br/>zetu ee, amani utujalie<br/>Utujalie, amani ee, <br/>amani utujalie.<br/>Utujalie, amani ee, <br/>amani utujalie.</lines>
+    </verse>
+  </lyrics>
+</song>

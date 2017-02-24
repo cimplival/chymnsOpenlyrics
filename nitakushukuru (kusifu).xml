@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:33">
+  <properties>
+    <titles>
+      <title>nitakushukuru</title>
+    </titles>
+    <authors>
+      <author>kusifu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>asante Yesu</lines>
+    </verse>
+    <verse name="c1">
+      <lines>kujifanya chakula</lines>
+    </verse>
+    <verse name="v2">
+      <lines>kujifanya chakula kutuletea shibe</lines>
+    </verse>
+    <verse name="v3">
+      <lines>kutuleta shibe alama ya pendo</lines>
+    </verse>
+  </lyrics>
+</song>

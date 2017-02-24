@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:31">
+  <properties>
+    <titles>
+      <title>Asante Bwana kwa ukarimu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Asante Bwana kwa <br/>ukarimu wako wa ajabu.<br/>Na fadhili zako hazina mipaka,<br/>sina budi kusema <br/>Bwana asante.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Umenijua Bwana<br/> kabla sijazaliwa.<br/>Maisha yangu umeweka <br/>kwenye msitari<br/>kwa maana umenipenda, <br/>umenijali.<br/>Nakushukuru ee <br/>Bwana asante. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ninapotafakari upendo <br/>wako kwangu mimi.<br/>Na riziki zangu <br/>wanipa kila siku.<br/>Nashindwa nikulipe <br/>nini ee Bwana. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na mwili wangu umenipa <br/>akili ya kutosha<br/>Kuliko wanyama <br/>utashi umenipa<br/>Ufananishwe na nani <br/>ee Bwana. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uhai wangu umenipa <br/>na sasa niko hai<br/>Wengi wamezikwa <br/>mimi bado nahema<br/>Nikulipe nini kwa <br/>upendo wako.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na marafiki ndugu jamaa <br/>Bwana umenipa.<br/>Dhiki zikinizidi wanifariji<br/>Upendo wako Bwana <br/>unanishangaza. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kwa hayo yote siwezi <br/>lipa langu shukrani<br/>na mengi bado hata <br/>siwezi kusema<br/>Bwana unayotenda <br/>kwangu makuu.</lines>
+    </verse>
+  </lyrics>
+</song>

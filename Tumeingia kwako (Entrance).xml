@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:15">
+  <properties>
+    <titles>
+      <title>Tumeingia kwako</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tumeingia kwako Bwana Mungu hono!<br/>Tumeingia kwako Bwana Mungu hono!<br/>Abiro iri jaela Yesus kadiromnwa,<br/>Mungu utupokee kwako</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tumeingia kwako Bwana Mungu hono!<br/>Tumeingia kwako Bwana Mungu hono!<br/>Abiro iri jaela Yesus kadiromnwa,<br/>Mungu utupokee kwako<br/>aeeee a aeeee, hono.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nyumba ya Bwana kuna baraka  a aeee.<br/>(tukaingie nyumba ya Bwana tukamwabudu)<br/>a aeeeeee a aeee, hono.<br/>Nyumba ya Bwana kuna amani a aeee<br/>Tukaingie nyumba ya Bwana tukamwabudu<br/>a aeee aeee - hono.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nyumba ya Bwana kuna furaha, a aeee<br/>(tukaingie nyumba ya Bwana tumpe sifa)<br/>a aeeee a aeee, hono.<br/>Tangazeni wokovu wa Bwana a aeee<br/>Yeye ni Bwana muumba vyote Mfalme wetu<br/>a aeeee a aeeee hono.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unatawala dunia yote a aeee<br/>Bwana ingia rohoni mwangu ukatawale<br/>a aeee a aeee hono.<br/>chuki na wivu niondolee a aeee<br/>nimebebana na masengenyo dhidi ya watu<br/>a aeeeee a aeeee, hono.</lines>
+    </verse>
+  </lyrics>
+</song>

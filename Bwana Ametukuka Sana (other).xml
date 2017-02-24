@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:48">
+  <properties>
+    <titles>
+      <title>Bwana Ametukuka Sana</title>
+    </titles>
+    <verseOrder>v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ndipo Musa na (wana) wa Israeli<br/>wakamwimbia Bwana wakinena.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nitamwimbia Bwana <br/>kwa kinywa changu<br/>Kwa maana ametukuka sana<br/>Farasi na mpanda farasi <br/>amewatupa baharini.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bwana ni nguvu zangu <br/>na wimbo wangu<br/>Naye amekuwa wokovu wangu<br/>Yeye ni Mungu wangu na <br/>baba yangu nami nitamsifu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana ni mtu wa vita, <br/>mtu wa vita<br/>Bwana ndilo jina lake jina lake<br/>Magari na jeshi lake Farao <br/>amewatupa baharini<br/>Maakida yake wateule <br/>wamezama bahari ya shamu<br/>Vilindi vimewafunikiza <br/>walizama vilindini kama jiwe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana mkono wako wa kuume<br/>Umepata fahari ya uwezo<br/>Bwana mkono wako <br/>wa kuume wawatesatesa adui<br/>kwa wingi wa ukuu wawangusha <br/>chini wanaokuondokea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Utawaingiza Bwana na kuwapanda<br/>Katika mlima wa urithi wako<br/>Mahali pale ulipojifanyia <br/>Bwana ili upakae<br/>Pale patakatifu<br/>ulipopaweka imara Bwana<br/>Bwana kwa mikono yako<br/>Bwana atatawala milele yote.</lines>
+    </verse>
+  </lyrics>
+</song>

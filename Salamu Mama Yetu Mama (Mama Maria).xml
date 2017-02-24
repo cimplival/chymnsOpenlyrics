@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-29T03:47:27">
+  <properties>
+    <titles>
+      <title>Salamu Mama Yetu Mama</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Mama Maria</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salamu Mama yetu Maria,<br/>Bikira na mwombezi wetu mwema,<br/>Wewe ni kinga yetu,<br/>ni msimamizi wetu na <br/>Mama wa Huruma, <br/>(Mama Maria).</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Maria mtakatifu,<br/>Mama wa Mkombozi tunalia sikia,<br/>tunalalamika;<br/>Maombi yetu Mama,<br/>uyasikie na uyafikishe <br/>kwa mwanao Yesu. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Njia hatuioni twendako<br/>hatujui Maria taa yetu,<br/>Tulinde hatarini utufikishe vema,<br/>Wewe ni ngao yetu,<br/>(Mama Maria)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Safari Yetu ndefu uchovu<br/>unazidi Mama tutie nguvu,<br/>Mawimbi ni makali dhoruba<br/>mvua kali<br/>Tunaishiwa nguvu,<br/>(Mama Maria)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nyosha mkono wako tukinge<br/>na mauti na dhambi tuepushe.<br/>Mlango tufungulie tumwone<br/>Yesu Kristu<br/>Ee Mama tufikishe<br/>(Mama Maria)</lines>
+    </verse>
+  </lyrics>
+</song>

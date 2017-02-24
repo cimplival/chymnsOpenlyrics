@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:53">
+  <properties>
+    <titles>
+      <title>Bwana Nakupenda</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana nakupenda we Mungu wangu<br/>Pembe ya wokovu na nguvu yangu<br/>Wewe ndiwe mwamba na jabali langu<br/>Nakimbilia kwako Mwokozi wangu<br/>Bwana ndiye kinga na ngao yangu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Yeye ndiye mwamba na ngome yangu<br/>Bwana ndiye kinga na ngao yangu<br/>Sitaogopa nimwogope nani<br/>(Kwa hiyo nitamwita astahili sifa<br/>aniokoe na adui zangu). *2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Asifiwe Mungu aliye hai <br/>atukuzwe Mungu wokovu wangu.<br/>Asifiwe mwamba wa usalama, <br/>atukuzwe kati ya mataifa.<br/>Ampa mfalme wokovu wote, <br/>wokovu mkuu ampatia.<br/>Amfanyia fadhili masihi <br/>humjalia mteule wake.<br/>Kwa hiyo nitaliimbia sifa <br/>jina lako Mungu wangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kamba za kifo zilinizingira, <br/>maangamizi yalinivamia.<br/>Kamba za kuzimu zilinisonga, <br/>mitego ya kifo ilinikabili.<br/>Katika tabu nilimwita Mungu <br/>nilimlilia anisaidie.<br/>Aliisikia sauti yangu hekaluni <br/>mwake alisikia.<br/>Kilio changu kilimfikia <br/>masikioni mwake.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hapo ndipo dunia ikatetemeka <br/>ilihangaika na kutikisika.<br/>Misingi ya milima ikayumbayumba <br/>Mungu alikuwa amekasirika.<br/>Moshi ulishuka puani mwake moto <br/>uvunjao kinywani mwake.<br/>Aliinamisha anga akashuka chini <br/>na wingu jeusi miguuni pake.<br/>Makaa mengi ya moto <br/>yakalipuka kutoka kwake.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mungu alinguruma kutoka mbinguni <br/>mkuu akatoa sauti yake.<br/>Alipulika giza mawingu mazito <br/>yaliyojaa maji yalimzunguka.<br/>Huko mawinguni makaa ya moto <br/>mvua ya mawe zikatokea.<br/>Alirusha umeme ukawapiga <br/>maadui zake wakatawanyika.<br/>Hapo ndipo bahari <br/>na dunia zilipoonekana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mungu alinyoosha mkono wake <br/>kutoka juu akanichukua.<br/>Katika maji mengi alininyanyua<br/>akanitoa kwa adui zangu.<br/>Tegemeo langu ni Bwana Mungu <br/>aliniokoa na adui zangu.<br/>Walioniwinda aliwatisha <br/>aliwakemea wakapotea.<br/>Amenitoa hapo akanipeleka <br/>palipo na nafasi.</lines>
+    </verse>
+  </lyrics>
+</song>

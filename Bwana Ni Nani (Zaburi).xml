@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:56">
+  <properties>
+    <titles>
+      <title>Bwana Ni Nani</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>[T] Bwana ni nani atakayekaa <br/>katika hema yako. <br/>[w]Bwana ni nani atakayekaa <br/>katika hema yako. <br/>Nani atakayefanya maskani <br/>yake katika kilima chako. <br/>Yeye aendaye kwa ukamilifu <br/>pia na kutenda haki.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>[s/a] Maskani zako zapendeza <br/>kama nini, Ee Bwana wa majeshi. x2 <br/>(A/T/B): A...min. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[T/b] Heri wakaao nyumbani mwako <br/>Daima wanakuhimidi. x2 </lines>
+    </verse>
+    <verse name="v3">
+      <lines>[s/a] Hakika siku moja, <br/>siku moja katika nyua zako. x2 </lines>
+    </verse>
+    <verse name="v4">
+      <lines>[T/b] Ni bora kuliko siku elfu,<br/>bora kuliko elfu. x2</lines>
+    </verse>
+  </lyrics>
+</song>

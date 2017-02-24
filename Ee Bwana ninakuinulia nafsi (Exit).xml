@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:12">
+  <properties>
+    <titles>
+      <title>Ee Bwana ninakuinulia nafsi</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana ninakuinilia <br/>nafsi yangu. x2<br/>(Wewe ni Mungu wangu; <br/>nakutumaini Mungu usiniache <br/>niaibike). x2 <br/>Adui zangu wasifurahi <br/>kwa kunishinda.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Unijulishe njia zako ee Mungu;<br/>unifundishe unayotaka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uniongoze kwenye ukweli wako; <br/>kwani wewe ni mwokozi wangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na unilinde maisha yangu yote; <br/>usikubali niaibike.</lines>
+    </verse>
+  </lyrics>
+</song>

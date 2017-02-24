@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:15">
+  <properties>
+    <titles>
+      <title>Misa Amecea (Gloria)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Utukufu kwa Mungu <br/>juu mbinguni,<br/>na amani kote duniani,<br/>kwa watu,<br/>wenye mapenzi mema.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sop: Tunakusifu Baba <br/>tunakuheshimu,<br/>twakuabudu sisi tunakutukuza. x2<br/>-----------------------<br/>Ten: Kusifu tunakusifu heshimu  <br/>twakuabudu abudu <br/>tunakutukuza. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twakushukuru Mungu <br/>kwa utukufu,<br/>wako mkuu ewe Mungu mfalme,<br/>ee Baba,<br/>wa mbingu Baba yetu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana wetu mwokozi <br/>Yesu Kristu,<br/>mwana wa pekee <br/>wake Mungu,<br/>uliye,<br/>mwanakondoo wa Mungu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unayeziondoa dhambi zote,<br/>za dunia utuhurumie,<br/>pokea,<br/>pokea ombi letu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wewe unayeketi kuume,<br/>kwake Baba utuhurumie,<br/>sikia,<br/>sikia ombi letu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kwani pekee yako <br/>ndiwe Bwana,<br/>peke yako mkuu <br/>na mkombozi,<br/>pekee,<br/>pekee Yesu Kristu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kwa umoja wa <br/>Roho Mtakatifu,<br/>ndani yake Baba <br/>watukuzwa,<br/>ee Yesu,<br/>milele na milele.</lines>
+    </verse>
+  </lyrics>
+</song>

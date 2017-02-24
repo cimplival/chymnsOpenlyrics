@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:22">
+  <properties>
+    <titles>
+      <title>Ewe Malkia Nyota ya Bahari</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ewe malkia, nyota ya bahari<br/>U mama mpole mwenye huruma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tuombee kwa mwanao<br/>Ewe Maria mama yetu mwema<br/>Sisi wanao tunakulilia<br/>Tuombee kwa mwanao.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mama mwema msafi kabisa <br/>Sikia maombi yetu<br/>(Wafahamu unyonge wetu<br/>hakuna wakumlilia). x2<br/>Mama (wetu) <br/>mama wa Mungu msafi<br/>Mama tuombee. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwenyezi Mungu <br/>kamtuma Gabrieli<br/>Mama Maria 'tapata<br/>mwana tapata.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mungu tuma Gabrieli<br/>Maria tapata <br/>mwana tapata.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tamzaa mwana,<br/>.mwana wa kiume<br/>Naye atakuwa mfalme mkuu<br/>Mwana mwana (wa) kiume<br/>'takuwa mfalme mkuu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Simjui mume, Maria 'lisema<br/>Ewe malaika niambie 'ambie<br/>Mume, alisema,<br/> 'laika niambie.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Roho mtakatifu atakujaza<br/>Nawe utamwita Emmanueli.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ulikubali chukua mimba, <br/>chukua mimba,<br/>Na hivyo giza kaondolewa. x3</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Maria mama wa Mungu (aaa) <br/>Mama tuombee<br/>Mbingu zote za kuheshimu . . .<br/>Mam'etu mwenye usafi . . .<br/>Mam'etu mwenye uzuri . . .<br/>Mam'etu mwenye tukufu . . .</lines>
+    </verse>
+  </lyrics>
+</song>

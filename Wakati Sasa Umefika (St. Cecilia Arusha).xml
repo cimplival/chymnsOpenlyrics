@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:23">
+  <properties>
+    <titles>
+      <title>Wakati Sasa Umefika</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>St. Cecilia Arusha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Wakati sasa umefika, <br/>wa kutoa sadaka.<br/>Amka ndugu tupeleke, <br/>sadaka zetu kwake.<br/>Ni mema mengi sana <br/>kila siku anatugawia.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Lakini tunshindwa kumshukuru <br/>Mungu Baba.<br/>Twendeni kwa pamoja <br/>tupeleke sadaka zetu.<br/>Tutoe kwa upendo Mungu <br/>Baba atapokea.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee ndugu fikiria maisha <br/>yako yote.<br/>Tangu kuumbwa kwako <br/>na bado unaishi.<br/>Mshukuru Mungu Baba <br/>kwa kutoa sadaka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Usiku na mchana hachoki <br/>kutulinda.<br/>Tukiwa na safari <br/>ajali aepusha.<br/>Mshukuru Mungu Baba <br/>kwa kutoa sadaka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uwezo wako wote <br/>umepewa na Mungu.<br/>Na kazi ufanyazo <br/>Mungu amebariki.<br/>Mshukuru Mungu Baba <br/>kwa kutoa sadaka.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mapato yako yote <br/>yanatoka kwa Bwana.<br/>Ingawa ni kidogo <br/>Bwana atapokea.<br/>Mshukuru Mungu Baba <br/>kwa kutoa sadaka.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:18">
+  <properties>
+    <titles>
+      <title>Ee Yesu Unihurumie</title>
+      <title>Ninakuungamia Mungu Wangu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Marcus Mtinga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ninakuungamia Mungu <br/>wangu mpendwa wangu,<br/>tazama najilaza miguuni <br/>kwa majuto.<br/>Ee Bwana ninakuomba <br/>unitazame kwa huruma,<br/>nalia nahuzunika kwa kuwa <br/>mimi nimwenye dhambi.<br/>Ni mambo ya ovyo ovyo <br/>na upuuzi zinaniponza,<br/>kupenda mambo ya giza, <br/>hasira wivu, kiburi choyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Bwana ninakiri <br/>udhaifu wangu wo-te,<br/>unaujua wazi sidiriki<br/>kudanga-nya,<br/>na sasa naona haya kwa <br/>dhambi nyingi nilizo nazo,<br/>nachoka kuishi ji-nsi <br/>nilivyo ninaona uchungu.<br/>Unihurumie, unisamehe <br/>Bwana ninaumia,<br/>ninasikitika ho-fu ni kubwa <br/>mwili hauna nguvu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Popote nipitapo watu <br/>hunisema sa-na,<br/>ni wengi hunifyonya <br/>hutikisa vichwa vya-o,<br/>ni maisha gani haya <br/>tazama Bwana yanavyotisha,<br/>sina mbele wala nyu-ma <br/>mi-mi kweli ninashangaza.<br/>Tamaa za mwili ona <br/>zinavyoiangamiza roho,<br/>adhabu inayoku-ja <br/>hakika ni ngumu kuitaja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ee Yesu ulikufa <br/>kwa ajili yangu mi-mi,<br/>lakini ona sasa <br/>nilivyochanganyiki-wa,<br/>si m--tu si mnyama <br/>ninasi-kitisha sana,<br/>wanyama ndege sama-ki <br/>wadudu nao wanashangaa.<br/>Wanataka kunitenga <br/>sijui sasa niende wapi,<br/>ee Yesu nihurumi-e <br/>nisaidie mwokozi wangu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ee Yesu ndiwe nguvu <br/>kwa wanyonge na dhai-fu,<br/>naomba unigeuze <br/>niwe mtu mnyo-fu,<br/>niuvue mwili mwovu na<br/>kwa hasira utupwe mbali,<br/>ni maisha gani ha-ya <br/>taabu nyingi huzuni tele.<br/>Niwavute watu wengi <br/>wakufuate mwokozi wangu,<br/>na mwisho nifike kwa-ko <br/>kwenye furaha uzima tele.</lines>
+    </verse>
+  </lyrics>
+</song>

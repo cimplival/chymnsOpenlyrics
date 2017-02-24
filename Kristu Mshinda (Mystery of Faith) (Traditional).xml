@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:04">
+  <properties>
+    <titles>
+      <title>Kristu Mshinda (Mystery of Faith)</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Traditional</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kristu Mshinda, <br/>Kristu Mfalme<br/>Kristu, Kristu, mtawala.</lines>
+    </verse>
+  </lyrics>
+</song>

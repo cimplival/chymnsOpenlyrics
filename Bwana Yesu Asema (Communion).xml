@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:02">
+  <properties>
+    <titles>
+      <title>Bwana Yesu Asema</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana Yesu asema, <br/>mimi ndimi mkate <br/>wa uzima. x2<br/>Yeye yule ajaye kwangu <br/>hataona njaa <br/>(kabisa) <br/>naye aniaminiye hataona <br/>kiu kamwe.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ewe Yesu Kristu Bwana <br/>wa utukufu, <br/>wewe ndiwe chakula <br/>na kinywaji milele, <br/>utulishe kwa mwili <br/>na damu yako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwili wako Bwana <br/>ni chakula cha kweli, <br/>damu yako Bwana <br/>ni kinywaji cha uzima, <br/>utulishe pia Bwana <br/>utunyweshe.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:28">
+  <properties>
+    <titles>
+      <title>Gaba Mass (Gloria)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Glory to God in the highest.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>And on earth peace to men,<br/>peace to men <br/>who are God's friends.<br/>Glory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God almighty Father  <br/>heavenly King,<br/>we praise you and <br/>we bless you.<br/>Glory.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We adore you <br/>we glorify you,<br/>we give you thanks <br/>for your great glory. <br/>Glory.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord Jesus Christ<br/>only son of the Father,<br/>Lord Lamb of God <br/>Jesus Christ. <br/>Glory.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>You take away <br/>the sins of the world, <br/>have mercy<br/>receive our prayers. <br/>Glory.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are seated <br/>at the right hand of the Father, <br/>have mercy <br/>Lord Jesus Christ. <br/>Glory.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You alone are holy, <br/>you alone are Lord,<br/>you alone are most high.<br/>Glory.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Glory to the Father, <br/>glory to the Son,<br/>glory to the Spirit <br/>world without end.<br/>Glory.</lines>
+    </verse>
+  </lyrics>
+</song>

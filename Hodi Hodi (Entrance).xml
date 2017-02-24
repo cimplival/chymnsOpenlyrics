@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:38">
+  <properties>
+    <titles>
+      <title>Hodi Hodi</title>
+    </titles>
+    <verseOrder>c1 c2 c1 c2 v1 c1 c2 c1 c2 v2 c1 c2 c1 c2 v3 c1 c2 c1 c2 v4 c1 c2 c1 c2</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hodi hodi nyumbani <br/>mwako Bwana,<br/>ninabisha nifunfungulie.<br/>Nimekuja nyumbani mwako leo,<br/>nimekuja kukuabudu.<br/>Kwa unyenyekevu naijongea,<br/>meza yako yenye Baraka.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nakuja na sala zangu ee Bwana,<br/>nakuomba zisikilize.<br/>Ninakutolea sadaka yangu,<br/>Mungu Baba uipokee.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nyua za Bwana zapendeza, <br/>zinapendeza macho kama nini.<br/>(Natamani kuingia hekaluni,<br/>nikamwabudu) x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nimeingia hekaluni, <br/>nimeingia hekaluni mwako.<br/>(Nimekuja kuabudu kusujudu,<br/>nyumbani mwako). x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unipokee Mungu wangu,<br/>unitakase mimi mwenye dhambi.<br/>(Nimekuja mbele zako,<br/>Mungu Baba unipokee). x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Njooni nyote tuingie,<br/>njooni nyote hekaluni mwake.<br/>(Tuingie tuaubudu tusujudu, <br/>na tushukuru)x2</lines>
+    </verse>
+  </lyrics>
+</song>

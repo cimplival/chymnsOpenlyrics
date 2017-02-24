@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:41">
+  <properties>
+    <titles>
+      <title>Hubirini kwa Kuimba</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Joseph Makoye</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hubirini kwa sauti ya kuimba<br/>Tangazeni tangazeni haya,<br/>yatamkeni mpaka <br/>mwisho wa dunia,<br/>semeni Bwana amelikomboa <br/>taifa lake.<br/>Aleluya, aleluya, aleluya, Aleluya.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mpigieni Mungu kelele <br/>za shangwe nchi yote,<br/>imbeni tukufu wa jina lake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tukuzeni sifa zake, <br/>mwambieni Mungu,<br/>matendo yako <br/>yanatisha kama nini.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Atukuzwe Baba na Mwana <br/>na Roho Mtakatifu,<br/>kama mwanzo na <br/>sasa na siku zote, <br/>na milele amina.</lines>
+    </verse>
+  </lyrics>
+</song>

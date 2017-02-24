@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:37">
+  <properties>
+    <titles>
+      <title>Baba Yetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Misa Imani</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Baba yetu Baba <br/>uliye mbinguni<br/>Jina lako Baba litukuzwe.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Na ufalme wako Baba <br/>uje kwetu,<br/>na mapenzi yako Baba <br/>yatimizwe. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tupe leo mkate wetu <br/>wa kila siku,<br/>mkate wetu Baba tupe <br/>kila siku. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na utusamehe Baba, <br/>tusamehe,<br/>kama tufanyavyo Baba <br/>kwa wenzetu. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Situtie Baba kwenye <br/>kishawishi,<br/>bali utuopoe Baba <br/>maovuni. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ufalme na nguvu <br/>hata utukufu,<br/>vyote vyako Baba <br/>hata milele.</lines>
+    </verse>
+  </lyrics>
+</song>

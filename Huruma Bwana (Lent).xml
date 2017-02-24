@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:42">
+  <properties>
+    <titles>
+      <title>Huruma Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Lent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Huruma Bwana, <br/>huruma kwa watu wako,<br/>uliwakomboa kwa damu <br/>yako takatifu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee Mungu unirehemu,<br/>sawa sawa na fadhili zako. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kiasi cha wingi wa rehema zako,<br/>uyafute makosa yangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unioshe kabisa na uovu wangu,<br/>unitakase dhambi zangu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ee Mungu uniumbie moyo safi,<br/>uifanye upya roho uliyotulia <br/>ndani yangu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Usinitenge na uso wako,<br/>wala roho wako mtakatifu <br/>usiniondolee.</lines>
+    </verse>
+  </lyrics>
+</song>

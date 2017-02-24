@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:52">
+  <properties>
+    <titles>
+      <title>Jawabu la Moyo Wangu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Usione ninaimba <br/>nafurahia naburudika,<br/>maisha yangu mazuri <br/>amani tele moyoni mwangu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(Ni Mungu) anipaye nguvu,<br/>(ni Mungu) anipaye afya.<br/>(Ni Mungu) ananiongoza,<br/>(ni Mungu) msaada wangu.<br/>Jawabu langu la moyo wangu<br/>ndiye Mungu Baba <br/>anilindaye mimi.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jawabu la moyo <br/>wangu ni Mungu <br/>shahidi yangu<br/>nikiwa na matatizo <br/>anijalia faraja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nimezungukazunguka, <br/>maisha yangu hafifu.<br/>Nikamrudia Mungu, <br/>sasa ninatabasamu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Njia zake ndiyo njia, <br/>mapendo yake makuu.<br/>Kanipa heshima kubwa, <br/>mbele ya adui zangu.</lines>
+    </verse>
+  </lyrics>
+</song>

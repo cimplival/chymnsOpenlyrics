@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:48">
+  <properties>
+    <titles>
+      <title>Bwana Anachunga</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana anachunga uzima wangu,<br/>na malisho yake raha tele;<br/>Malisho mwake yale mabichi,<br/>kamwe mimi sitapungukiwa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bwana ndiye kweli <br/>Mchungaji mwema.<br/>Sitahitaji kitu chochote.<br/>Penye majani yale mabichi,<br/>ndipo Bwana atanilisha.<br/>Sitahitaji, kitu chochote<br/>Kitu chochote sitahitaji<br/>Penye majani Yale mabichi<br/>Yale mabichi Penye majani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Penye maji mazuri matulivu,<br/>ndipo anaponiburudisha;<br/>Ananiongoza pasipo <br/>shaka njia nzuri, <br/>adili na nyofu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mabondeni mwa uvuli <br/>wa mauti ninapopita<br/>sitaogopa kwa maana <br/>Bwana yupo na mimi;<br/>Gongo na fimbo vyako faraja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Meza waniandalia vitamu,<br/>Nitashiba mbele ya watesi;<br/>Kichwa changu chajaa mema.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wema na fadhili <br/>zote za Bwana<br/>Zimenijia mpaka milele;<br/>Ninaomba kwake <br/>mchungaji wangu<br/>nikae kwake hata milele.</lines>
+    </verse>
+  </lyrics>
+</song>

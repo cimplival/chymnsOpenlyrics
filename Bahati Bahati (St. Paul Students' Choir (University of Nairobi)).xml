@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:39">
+  <properties>
+    <titles>
+      <title>Bahati Bahati</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>St. Paul Students' Choir (University of Nairobi)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hii ndiyo siri ya maisha mema,<br/>na tena utamu wa kumjua Yesu,<br/>bahati kaacha karamu kubwa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(Bahati bahati nayo <br/>imwangukie nani,<br/>bahati bahati aliyeipata ni nani.<br/>Imeandaliwa kwa wote <br/>wenye moyo safi.<br/>Simama uonje na!<br/>moyo wako utasisimka). x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wateule mbona mnasitasita,<br/>hana ubaguzi wote awaita,<br/>bahati kaacha karamu kubwa, </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kama una dhambi nenda ukatubu,<br/>Bwana hakatai mtu atubupo,<br/>bahati kaacha karamu kubwa. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kama u mgonjwa, <br/>Bwana anaponya,<br/>kama una njaa utapata shibe,<br/>bahati kaacha karamu kubwa. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yote ya dunia yakikukabili,<br/>piga moyo konde, <br/>nenda kwake Bwana,<br/>bahati kaacha karamu kubwa.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:13">
+  <properties>
+    <titles>
+      <title>Mbele Ya Miungu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mbele ya miungu nitakuimbia <br/>Nitakuimbia zaburi,mbele ya <br/>miungu nitakuimbia <br/>nitakuimbia zaburi. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nitakusukuru kwa moyo<br/>wangu wote, mbele ya <br/>miungu, mbele ya miungu<br/> nitakuimbia nitakuimbia zaburi.<br/>Nitasujudu nikilikabil,i Hekalu lako<br/>takatifu, nitalishukuru ji-na lako<br/>nitalishukuru jina lako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines> Nitalishukuru jina lako kwa ajili<br/>ya fadhili zako, na uaminifu<br/> wa-ako na uaminifu wako,<br/>Kwa maana umeikuza<br/> ahadi yako, ku-li-ko ji-na lako lote<br/> ku-uliko jina lako lote. </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:23">
+  <properties>
+    <titles>
+      <title>Alleluia Tumuthaithe</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1 v10 c1 v11 c1 v12 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluia Tumuthaithe <br/>Yesu Klisto<br/>e thayu nthini wa <br/>umbo wa mukate.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alleuia Alleluia alleluia. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sakalamenti ino <br/>ni nene ya Mwiai<br/>Ni liu wa thayu <br/>witu vate nzika<br/>Ve mwii na nthakame <br/>yake Mwiai<br/>Ukai inywonthe <br/>aklisto na mituki. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Thengeeai mwose <br/>mwii utathela<br/>kwa kwosa mwii na <br/>nthakame ya Mwiai. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yesu mwene <br/>niwatwiaie atii<br/>yai mwii wakwa na <br/>nywai nthakame yakwa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ni kana mwose <br/>thayu utathela<br/>Yesu Klisto <br/>niwanengie atume.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ula utonyi wa <br/>kualyula mukate<br/>utw'ike mwii wake <br/>ki wa useny'o. </lines>
+    </verse>
+    <verse name="v7">
+      <lines>Na nthini wa nthembo <br/>ntheu ila ya misa<br/>mukate na hostia <br/>utw'ikaa mwii. </lines>
+    </verse>
+    <verse name="v8">
+      <lines>Na ndivai nthakame <br/>ya Mwiai<br/>yila tuuya mukate <br/>uu na kunywa. </lines>
+    </verse>
+    <verse name="v9">
+      <lines>Kikombe kya nthakame <br/>ya Mwiai<br/>tonanasya kikw'u <br/>kyaku kya wovosyo.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Nthemboni ya misa <br/>ntheu ya umunthi<br/>twi muamba vamwe <br/>na Yesu mwovosya. </lines>
+    </verse>
+    <verse name="v11">
+      <lines>Kumumisya Ngai Asa <br/>wiw'i na wendo.<br/>Nundu wa komunio <br/>ntheu ya Mwiai. </lines>
+    </verse>
+    <verse name="v12">
+      <lines>Twiw'ie tei na <br/>utululumilye<br/>itinani utwose <br/>kwaku Ituni.</lines>
+    </verse>
+  </lyrics>
+</song>

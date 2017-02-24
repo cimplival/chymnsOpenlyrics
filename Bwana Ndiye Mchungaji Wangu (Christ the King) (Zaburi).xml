@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:54">
+  <properties>
+    <titles>
+      <title>Bwana Ndiye Mchungaji Wangu (Christ the King)</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana ndiye mchungaji wangu, <br/>(sitapungukiwa na kitu<br/>sitapungukiwa sitapungukiwa<br/>sitapungukiwa na kitu<br/>sitapungukiwa <br/>sitapungukiwa). x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(Katika majani mabichi <br/>huniongoza). x2<br/>(Aiyelele Iyelele Aiyelele <br/>Aiyelele Iyele Bwana ndiye <br/>mchungaji wangu<br/>sitapungukiwa na kitu). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hunihuisha nafsi yangu <br/>na kuniongoza katika njia <br/>za kwa ajili ya jina lake<br/>Bwana ndiye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naam nijapopita kati <br/>ya bonde la uvuli wa<br/>mauti sitaogopa mabaya<br/>sitaogopa Bwana ndiye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwa maana wewe upo <br/>pamoja nami <br/>upo pamoja nami,<br/>gongo lako <br/>na fimbo yako yanifariji.</lines>
+    </verse>
+  </lyrics>
+</song>

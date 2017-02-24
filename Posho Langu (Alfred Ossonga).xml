@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:50">
+  <properties>
+    <titles>
+      <title>Posho Langu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Alfred Ossonga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana ndiye fungu <br/>la posho langu,<br/>na la kikombe changu<br/>(Wewe unaishika kula yangu,<br/>nimemwambia Bwana, Bwana<br/>wewe ndiwe Bwana wangu). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nitamhimidi Bwana <br/>aliyenipa shauri<br/>na mtima wangu, <br/>umenifundisha usiku<br/>nimemweka Bwana <br/>mbele yangu daima<br/>kwa kuwa yuko kuumeni <br/>kwangu sitaondoshwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa hivyo moyo wangu, <br/>unafurahi moyo wangu<br/>washangilia, <br/>nao mwili wangu utakaa<br/>kwa kutumaini, <br/>maana wewe Bwana<br/>hutamtoa mtakatifu wako <br/>aone uharibifu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Utanijulisha njia, <br/>njia ya uzima<br/>mbele ya uso wako, <br/>ziko furaha tele,<br/>na katika mkono <br/>wako wa kuume<br/>mkono wa kuume <br/>mna neema ya milele.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mungu nihifadhi mimi, <br/>maana nakukimbilia<br/>wewe Mungu wangu, <br/>Bwana ndiwe Bwana wangu,<br/>wewe Bwana ndiwe <br/>fungu la posho langu<br/>na la kikombe changu <br/>wewe unaishika kula yangu.</lines>
+    </verse>
+  </lyrics>
+</song>

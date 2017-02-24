@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:19">
+  <properties>
+    <titles>
+      <title>Ehia Mutikoherwo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Lent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ehia mutikona Muthamaki,<br/>inyuî mwîkaga ciîko itarî njega,<br/>inyuî murakaragia Ngai witu,<br/>muico wanyu ukîrî guka ndîmwîre,<br/>muninwo muthire tarorai<br/>urîa ndogo îthiaga,<br/>îhurunjukaga îgathiî na ndîcoke,<br/>ota muhura ukîringurwo nî mwaki,<br/>uguo nîguo aria aganu makaninwo,<br/>mwarega kwîrira.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Guka gwakerî gwake Muthamaki,<br/>we ndagoka kuhunjia na kuhonia,<br/>agoka guthurania arîa ega, <br/>ehia manimwo.<br/>Agoka na mururumo munene,<br/>ehumbîte ukaru na uthingu.<br/>Arîa ehia matikona riri ucio, <br/>mukerira kîî?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu okire nîgetha atUhonokie,<br/>Akîambwo mutharaba-inî arîhe thirî.<br/>Na inyuî mwatura <br/>mwî ngombo ya mehia, <br/>mukerira kîî?<br/>Mukerirîria irîma imugwîre,<br/>ningî mwîrire mumerio nî maî,<br/>ona mwethe ahunjia <br/>mamuhunjîrie mutikamona.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Inyuî mUguUrîirio wega nî aroka,<br/>tigathethuke we akirie guka,<br/>kirîrîria tutiuî muthenya, no Ithe uî.<br/>Wîra wanyu nîguo uroka kurîhuo,<br/>mînoga yanyu îkinye muthia,<br/>muhumbwo thumbî <br/>njeru na ng’emu ma, <br/>muhanane nake.</lines>
+    </verse>
+  </lyrics>
+</song>

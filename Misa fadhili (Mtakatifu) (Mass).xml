@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:16">
+  <properties>
+    <titles>
+      <title>Misa fadhili (Mtakatifu)</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mtakatifu, mtakatifu Bwana,<br/>mtakatifu Mungu wa majeshi,<br/>mbingu na dunia zimejaa,<br/>zimejaa utukufu wako.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hosanna. x5<br/>Hosanna juu mbinguni. x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mbarikiwa yeye ajaye <br/>kwa jina lake Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

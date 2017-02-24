@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:34">
+  <properties>
+    <titles>
+      <title>Hebu Jiulize</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>E. A. Minja</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Hebu jiulize <br/>lingetolewa tangazo leo<br/>ya kwamba kila apumuaye<br/>na ailipie pumzi avutayo). x2 </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ni nani angejificha asilipe kodi,<br/>Ni nani angesema <br/>yeye ni masikini,<br/>Ni nani angekwepa <br/>kwani yeye ni tajiri<br/>Ni nani angekuwa <br/>kweli mtu wa kiburi<br/>Ni nani angekwepa <br/>kweli kulipia kodi (nasema)<br/>Ni nani angependa<br/>kunyang’anywa uhai wake. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tazama sasa majirani zako wote,<br/>hakuna unayeongea naye<br/>kwani unawadharau<br/>kwa kuwa wao <br/>hawana fedha kama zako<br/>hebu tazama baadhi <br/>ya ndugu zako,<br/>hupendi hata kuwaona kwako<br/>unawakana kwa kuwa, <br/>wao ni maskini,<br/>tena unawaona ni wachafu. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa nini hivyo, biashara zako,<br/>wewe unawaajiri wafanya kazi<br/>Tena ni wachapa kazi <br/>na mwisho wa mwezi,<br/>huwafichia eti wameiba<br/>Hebu tazama <br/>wapoteza fedha nyingi,<br/>unapokuwa baa na marafiki<br/>Kwa ajili tu ya anasa, <br/>na kuwasaidia,<br/>maskini kwako ni hasara.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jitafakari, <br/>fungua na legeza moyo wako<br/>kwa kuwajali wasiojiweza<br/>na wenye shida mbalimbali,<br/>na sio kuegeza<br/>hazina ya moyowe <br/>kwa shetani.</lines>
+    </verse>
+  </lyrics>
+</song>

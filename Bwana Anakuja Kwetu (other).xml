@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:48">
+  <properties>
+    <titles>
+      <title>Bwana Anakuja Kwetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana anakuja, <br/>anakuja kwetu anakuja. x2<br/>Tengenezeni njia yake <br/>yanyosheni mapito yake<br/>anakuja kutukomboa. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Waambieni wanaokufa moyo, <br/>anakuja msiogope,<br/>bali jipeni moyo anakuja. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Furahini wote katika <br/>Bwana, anakuja.<br/>Anakuja naye hatakawia, <br/>anakuja. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Afikapo Bwana na malaika, <br/>anakuja.<br/>Kiti cha enzi atakikalia, <br/>anakuja, </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mataifa yote yatakusanywa, <br/>anakuja.<br/>Mbele yake Bwana hakimu wao, <br/>anakuja.</lines>
+    </verse>
+  </lyrics>
+</song>

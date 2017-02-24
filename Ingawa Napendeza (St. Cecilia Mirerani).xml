@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:49">
+  <properties>
+    <titles>
+      <title>Ingawa Napendeza</title>
+    </titles>
+    <verseOrder>c1 c2 c3 v1 c1 c2 c3 v2 c1 c2 c3</verseOrder>
+    <authors>
+      <author>St. Cecilia Mirerani</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ingawa mimi napendeza, <br/>ingawa wewe wapendeza.<br/>Wapendeza machoni pa watu, <br/>kupendeza si kitu.<br/>Ingawa mimi najipamba, <br/>ingawa wewe wajipamba.<br/>Kujipamba kwa mwili si kitu, <br/>kujipamba si kitu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kujipamba kwa imani <br/>bila matendo ni bure,<br/>wajidanganya tu.<br/>Kujipamba kwa mavazi <br/>bila matendo ni bure<br/>twajidanganya tu.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Uzuri wa uso wako - <br/>bila Mungu ni bure.<br/>Wingi wa mali yako - <br/>bila Mungu ni bure<br/>Uzuri watoka kwa Mungu, <br/>mali yatoka kwa Mungu.<br/>Na majivuno yote, <br/>bila Mungu ni bure.<br/>Kumbuka kila mtu, <br/>kaumbwa kwa jinsiye.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wengi wajisifia <br/>kwa maneno ya watu<br/>wanapakwa kila kona <br/>kwa maneno mazuri.<br/>Bila kufikiria na wewe <br/>wajiona mzuri<br/>mpaka kufikia kusahau <br/>maagano yake<br/>kwa kusifiwasifiwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uzuri ulio nao <br/>mshukuru Mungu.<br/>Mali uliyo nayo <br/>mshukuru Mungu.<br/>Uzuri ni talanta <br/>toka kwa Mungu<br/>tumia uzuri wako <br/>kumshukuru Mwenyezi.</lines>
+    </verse>
+  </lyrics>
+</song>

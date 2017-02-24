@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:16">
+  <properties>
+    <titles>
+      <title>Tunyunyizie Maji</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7</verseOrder>
+    <authors>
+      <author>Psalm Sunday</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tunyunyizie Maji<br/>ee Bwana,<br/>ututakase dhambi zetu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nami nitawapa ninyi,<br/>moyo mpya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nami nitatoa, <br/>moyo wenu wa jiwe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nami nitawapa,<br/>moyo wa nyama.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nitatia roho yangu,<br/>ndani yenu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nitawaendesha,<br/>katika sheria zangu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nanyi mtakuwa,<br/>watu wangu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nami nitakuwa, <br/>Mungu wenu.</lines>
+    </verse>
+  </lyrics>
+</song>

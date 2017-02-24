@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:34">
+  <properties>
+    <titles>
+      <title>Atino ne Yesu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 c1 v4 v5</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Atiyo ne Yesu atiyo ne ngima<br/>aleluya atiyo ne ngima, <br/>atiyo ne Yesu.<br/>Atiyo ne ngima, aleluya <br/>atiyo ne ngima. x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Awuothe ne Yesu, <br/>awuothe ne Yesu.<br/>Aleluya awuothe ne ngima, <br/>awuothe ne Yesu.<br/>Awuothe ne ngima, <br/>aleluya awuothe ne ngima. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Abayo ne Yesu <br/>abayo ne ngima.<br/>Aleluya abayo ne ngima, <br/>abayo ne Yesu.<br/>Abayo ne ngima, aleluya <br/>abayo ne ngima. x2 </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Anyuola na duto,<br/>noringo-weya.<br/>Aleluya noringo-weya, <br/>aleluya noringo-weya.<br/>Anyuola na duto noringo-weya. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Owete na duto noringo-weya,<br/>aleluya noringo-weya.<br/>Owetens duto noringo-weya,<br/>aleluya noringo huella. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Adong’gi Yesu adong gi ngima,<br/>Aleluya adong’gi ngima<br/>Adong’gi Yesu, adong’gi ngima.</lines>
+    </verse>
+  </lyrics>
+</song>

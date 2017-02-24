@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:47">
+  <properties>
+    <titles>
+      <title>Pasipo Makosa</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Lent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pasipo makosa Mkombozi wetu,<br/>katika baraza ya wakosefu<br/>na wote walia asulubiwe,<br/>(aachwe Baraba na <br/>Yesu afe). x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Yesu washika msalaba wako,<br/>na unakubali kufa juu yake<br/>ee Yesu useme sababu gani,<br/>(ya nini mateso makali <br/>haya?) x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni pendo kwa Bwana wa uwinguni,<br/>Ni huruma yake kwa wakosefu.<br/>we mkristu kumbuka <br/>mateso yangu,<br/>(uache makosa, <br/>uache dhambi). x2</lines>
+    </verse>
+  </lyrics>
+</song>

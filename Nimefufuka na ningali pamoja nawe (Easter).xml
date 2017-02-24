@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:31">
+  <properties>
+    <titles>
+      <title>Nimefufuka na ningali pamoja nawe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 v5 c1</verseOrder>
+    <authors>
+      <author>Easter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nimefufuka na ningali <br/>pamoja nawe, <br/>umeniwekea mkono wako. x2 <br/>Maarifa hayo ni ya ajabu <br/>aleluya maarifa haya <br/>ni ya ajabu aleluya. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee Bwana umenichunguza <br/>na kunijua,<br/>wewe wajua kuketi kwangu <br/>na kuondoka kwangu <br/>umelifahamu, <br/>wazo langu tokea mbali.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Umepepeta kwenda kwangu na kulala kwangu, <br/>umeelewa na njia zangu zote <br/>maana hamna neno <br/>ulimini mwangu usilolijua <br/>kabisa Bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Umenizingira nyuma na mbele, <br/>ukaniwekea mkono wako,<br/>maarifa hayo ni ya ajabu,<br/>yanishinda mimi, <br/>haya dirikiki siwezi kuyafikiri.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niende wapi nijiepushe na <br/>roho yako,<br/>niende wapi niukimbie <br/>uso wako, </lines>
+    </verse>
+    <verse name="v5">
+      <lines>kama ningepanda mbinguni <br/>wewe upo, <br/>ningefanya kuzimu <br/>kitanda changu, wewe upo.</lines>
+    </verse>
+  </lyrics>
+</song>

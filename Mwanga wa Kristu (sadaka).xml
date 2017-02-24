@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:23">
+  <properties>
+    <titles>
+      <title>Mwanga wa Kristu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>sadaka</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mwanga wa Kristu, <br/>Mwanga wa Kristu Mwanga <br/>wa Kristu utuangaze,<br/>Kristu Mfufuka Kristu Mfufuka <br/>Kristu mfufuka Utuangaze. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Giza ondoa, Giza ondoa <br/>Giza ondoa utuangaze,<br/>kwako tufike Kwako <br/>tufike Kwako tufike <br/>utuangaze. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tukutambue, Tukutambue <br/>Tukutambue  Utuangaze,<br/>Tukufuate Tukufuate <br/>Tukufuate utuangaze. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ewe Mtukufu, Ewe Mtukufu <br/>Ewe Mtukufu utuangaze,<br/>Dhambi tuoshe Dhambi tuoshe <br/>Dhambi tuosheu tuangaze. </lines>
+    </verse>
+  </lyrics>
+</song>

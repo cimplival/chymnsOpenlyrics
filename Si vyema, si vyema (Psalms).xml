@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:01">
+  <properties>
+    <titles>
+      <title>Si vyema, si vyema</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Psalms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Si vyema, si vyema, si vyema,<br/>Si vyema huyu mtu <br/>awe peke yake,<br/>nitamfanya msaidizi,<br/>nitamfanya msaidizi<br/>nitamfanya msaidizi <br/>wa kufanana naye. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mungu alitoa ubavu <br/>kutoka kwa adamu,<br/>akaufanya mwanamke<br/>akamleta kwa adamu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwanamme atawaacha <br/>babaye, <br/>na mamaye ataabatana,<br/>na mkewe watakuwa mwili mmoja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ee Bwana Mungu,<br/>twakuomba wajalie wanao <br/>wadumu katika upendo,<br/>nawe ukae kati yao.</lines>
+    </verse>
+  </lyrics>
+</song>

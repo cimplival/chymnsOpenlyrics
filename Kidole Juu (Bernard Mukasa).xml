@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:00">
+  <properties>
+    <titles>
+      <title>Kidole Juu</title>
+    </titles>
+    <comments>
+      <comment>Kidole Juu</comment>
+    </comments>
+    <verseOrder>c1 c2 c3 c4 v1 c3 c1 c2 c3 c4 v2 c3 c1 c2 c3 c4 v3 c3 c1 c2 c3 c4 e1 e2 e3</verseOrder>
+    <authors>
+      <author>Bernard Mukasa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hayo mliyofunuliwa, <br/>bila kuyalipia kitu, (nayo) ndiyo,<br/>Yale mliyotumwa, <br/>kwenda kwa walio wadogo<br/>Mungu alowatunukia <br/>awe mkuu pekee yake</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(Jiulize) nani kwenu <br/>(aliyeomba) kuzaliwa!<br/>(Jiulize tena) nani kwenu <br/>(anayejua) siku ya kufa!<br/>Hakuna! Hakuna! ha!</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Hakuna jambo <br/>mnalomiliki hapa duniani<br/>Yote mliyo nayo yana <br/>mwenyewe mnamjua<br/>naye amewapa haya <br/>kusudi mtumikiane<br/>ili kusiwepo na matabaka <br/>miongoni mwenu<br/>hiyo ndiyo hekima - ee aa ee.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Hiyo ni hekima hekima <br/>ni hekima tele,<br/>hiyo ndiyo hekima - ee aa ee.<br/>Ndugu hiyo ndiyo <br/>hekima ya kweli.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kama mliyo nayo <br/>yote yangekuwa yenu<br/>hiyo pumzi m<br/>nayojivunia wapendwa,<br/>isingekuwa inakiogopa kichomi<br/>ingeendele-a hata <br/>palipo kichomi! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uzuri wa sura zenu <br/>zenye ngozi laini,<br/>inakuwaje hamuwezi kuelekeza,<br/>usiungue hata kwenye <br/>maji ya moto<br/>na usioze unapolala kaburini! </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Elimu na vyeo vyenu <br/>na mamlaka yenu,<br/>akili nyingi ufundi <br/>navyo vipaji vyenu,<br/>mbona hamvitumii <br/>mkiwa usingizini<br/>na mnaota ndoto <br/>sawa na za watoto! </lines>
+    </verse>
+    <verse name="e1">
+      <lines>Basi mimi, ninahimizwa, <br/>kujiepusha, kujiinua<br/>nijishushe mbele ya wote, <br/>wawe wakubwa au wadogo.</lines>
+    </verse>
+    <verse name="e2">
+      <lines>Nisijiinue kati ya watu <br/>hata siku moja,<br/>badala yake nijinyenyekeze <br/>ili nifikike,<br/>akihitajika atakayewatumikia watu<br/>Niinue kidole juu kusudi <br/>wanitume mimi, daima. </lines>
+    </verse>
+    <verse name="e3a">
+      <lines>Kidole juu kusudi wanitume mimi<br/>Kidole juu, kuitikia wito <br/>daima kidole juu.<br/>Na nikitumwa niwe <br/>mwaminifu daima kidole juu.<br/>Kidole juu wanitume <br/>na Mungu atukuzwe daima<br/>kidole juu kusudi wanitume mimi.</lines>
+    </verse>
+    <verse name="e3b">
+      <lines>Kidole juu kusudi wanitume mimi<br/>kidole juu, <br/>kuitikia wito daima kidole juu.<br/>Na nikitumwa niwe <br/>mwaminifu daima kidole juu.<br/>Kidole juu wanitume <br/>na Mungu atukuzwe daima<br/>kidole juu kusudi wanitume mimi.</lines>
+    </verse>
+  </lyrics>
+</song>

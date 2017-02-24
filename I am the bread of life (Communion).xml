@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:43">
+  <properties>
+    <titles>
+      <title>I am the bread of life</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am the bread of life.<br/>He who comes to shall<br/>no hunger, he who believes<br/>in me shall not thirst.<br/>No one can come to me<br/>unless the father draw him.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>And I will raise him up x3<br/>on the last day.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The bread that I will give,<br/>is my flesh for the life <br/>of the world,<br/>And he who eats of this bread, <br/>he shall live forever. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unless you eat of the flesh, <br/>of the Son of Man.<br/>And drink of his blood,<br/>and drink of his blood,<br/>you shall not have life<br/>within you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I am the resurrection,<br/>I am the life,<br/>He who believes in me,<br/>ever if he die, he shall;<br/>live for ever.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yes Lord I believe,<br/>that you are the Christ,<br/>the son of God, who have<br/>come into the world.</lines>
+    </verse>
+  </lyrics>
+</song>

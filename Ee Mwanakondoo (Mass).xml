@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:18">
+  <properties>
+    <titles>
+      <title>Ee Mwanakondoo</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ee Mwana kondoo wa Mungu<br/>uondoaye dhambi za dunia<br/>ee mwana ee ee mwana <br/>ee wa Mungu,<br/>uondoaye dhambi <br/>za dunia utuhurumie<br/>ee mwana kondoo wa Mungu. x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Utujalie amani utujalie amani<br/>utujalie amani <br/>utujalie ee Mwana<br/>ee Mwana utujalie amani<br/>utujalie amani.</lines>
+    </verse>
+  </lyrics>
+</song>

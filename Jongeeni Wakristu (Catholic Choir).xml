@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:55">
+  <properties>
+    <titles>
+      <title>Jongeeni Wakristu</title>
+      <title>Jongeeni Tumwabudu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Catholic Choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jongeeni Wakristu, <br/>furahini sana.<br/>Jongeeni, <br/>jongeeni kwa Bethlehemu.<br/>Mfalme wa Mbingu, <br/>kaja duniani.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jongeeni tumwabudu,<br/>jongeeni tumwabudu.<br/>Jongeeni tumwabudu, <br/>Yesu Kristu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Waona wachunga <br/>Malaika wa Mungu.<br/>Wasikia sauti za uwingu<br/>nasisi twende Bethlehemu <br/>pangoni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mapendo makubwa, <br/>Yesu katupenda.<br/>Ametukomboa kwa mapendo,<br/>tumpende tena kweli <br/>kwa vitendo.</lines>
+    </verse>
+  </lyrics>
+</song>

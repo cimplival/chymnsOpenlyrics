@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:10">
+  <properties>
+    <titles>
+      <title>Lord accept the gifts we offer</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord accept the gifts <br/>we offer at this Eucharistic feast,<br/>Bread and wine <br/>to be transformed now, <br/>through the action of thy priest,<br/>Take us too Lord <br/>and transform us, <br/>be thy grace in us increased.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May our souls be pure <br/>and spotless, <br/>as the host of wheat so fine,<br/>May all stain of sin <br/>be crushed out like the grape<br/>that forms the wine,<br/>As we too become partakers <br/>in this sacrifice divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Take our gifts Almighty Father,<br/>living God eternal true,<br/>Which we give through Christ <br/>our Saviour pleading here <br/>for us anew<br/>Grant salvation to us present <br/>and our faith and love renew. </lines>
+    </verse>
+  </lyrics>
+</song>

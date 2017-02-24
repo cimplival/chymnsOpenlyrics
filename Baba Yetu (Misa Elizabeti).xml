@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:36">
+  <properties>
+    <titles>
+      <title>Baba Yetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Misa Elizabeti</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Baba yetu wa mbinguni (jina), <br/>jina lako litukuzwe daima.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ufalme wako utufikie, <br/>duniani Kama mbinguni <br/>(Baba). </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Utupe leo riziki zetu, <br/>utusamehe makosa yetu <br/>(Baba).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kama tunavyowasameha, <br/>wale wanaotukosea <br/>(Baba). </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Usitutie kishawishini, <br/>utuopoe maovuni <br/>(Baba). </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kwa kuwa ufalme <br/>ni wako Baba, <br/>na nguvu na utukufu <br/>(Baba).</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:56">
+  <properties>
+    <titles>
+      <title>Bwana ni Mchungaji</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana ni mchungaji wangu,<br/>sitapungukiwa kitu.<br/>Hunilaza penye majani mabichi,<br/>huniongoza kwa maji matulivu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hakika wema nazo <br/>fadhili zitanifuata mimi,<br/>nitakaa nyumbani mwa Bwana,<br/>siku zote za maisha yangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hunihuisha nafsi yangu,<br/>hun’ongoza kwa njia za haki.<br/>Nipitapo bondeni mwa mauti,<br/>sitaogopa wewe u nami.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Gongo lako na fimbo yako,<br/>vitanifariji mimi.<br/>Waanda meza mbele yangu,<br/>machoni pa watesi wangu.</lines>
+    </verse>
+  </lyrics>
+</song>

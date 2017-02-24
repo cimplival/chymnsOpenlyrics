@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:21">
+  <properties>
+    <titles>
+      <title>Muhiki na muhikania</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Wedding</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Muhiki na muhikania menyai<br/>kuma umuthi mwatuika kiiga<br/>kimwe gitangiteithuranwo. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Naguo wendani uyu<br/>nama ti wendani wa itheru<br/>na ti wa kwiricukwo<br/>naguo wendani uyu <br/>nama muuige ngiya ikuuiro<br/>mutigacambicure.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nimwakigwatithanio <br/>na munyoro munyiitu<br/>gikaragei muri eeri <br/>mutikanericukwo.x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mutikanahurujanio ni<br/>miago itaari njira na thiritu<br/>ya andu aria<br/>matehokete Ngai.x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na mathiina manyu mothe <br/>tegagirai Ngai <br/>na riria mugukena<br/>kenai thiini wa Kristu.x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ngai aromurathimaga<br/>araathime ciana cianyu<br/>na arugamiiriri anyu<br/>na aria magomanite.x2</lines>
+    </verse>
+  </lyrics>
+</song>

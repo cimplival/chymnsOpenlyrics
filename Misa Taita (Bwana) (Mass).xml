@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:19">
+  <properties>
+    <titles>
+      <title>Misa Taita (Bwana)</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana Bwana utuhurumie, <br/>Bwana Bwana utuhurumie, <br/>ee Bwana ee Bwana utuhurumie, <br/>ee Bwana ee ee Bwana ee! </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kristu Kristu utuhurumie, <br/>Kristu Kristu utuhurumie, <br/>ee Kristu ee Kristu utuhurumie, <br/>ee Kristu ee ee Kristu ee! </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana Bwana utuhurumie, <br/>Bwana Bwana utuhurumie, <br/>ee Bwana ee Bwana utuhurumie, <br/>ee Bwana ee ee Bwana ee! </lines>
+    </verse>
+  </lyrics>
+</song>

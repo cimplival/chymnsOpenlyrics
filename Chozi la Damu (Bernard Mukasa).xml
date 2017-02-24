@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:06">
+  <properties>
+    <titles>
+      <title>Chozi la Damu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2</verseOrder>
+    <authors>
+      <author>Bernard Mukasa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Watoto wa nyumbo<br/>zote njooni tuungane. <br/>Tuwalilie wazazi chozi la damu <br/>tupaaze sauti zetu <br/>za majonzi na kwikwi. <br/>Kwa wachache wenye <br/>huruma watatusikia haki <br/>ya malezi bora tumenyang'anywa. </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Urithi wa maadili tumevunjiwa <br/>oh dunia dunia, dunia unatutesa <br/>oh dunia dunia, tumekukosea nini <br/>oh dunia dunia, mbona <br/>hupendi watoto <br/>oh dunia dunia, sikia kilio chetu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1.Oh dada zetu na mama zetu, <br/>tunajua mnajipenda. <br/>Ingawaje tungetamani na sisi mtufikirie <br/>Mavazi mnayovaa leo yanatufundisha nini <br/>Mnafikiria nini kwa kizazi mnachokilea <br/>Msije mkashangaa dunia siku zinazokuja <br/>Viwanda vyote vya nguo vitakapofungwa. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Oh kila siku tunapolala <br/>Baba zetu hamjarudi <br/>Asubuhi tukiamka, <br/>Baba zetu mmeondoka <br/>Usiku tukibahatika <br/>kushtuka usiku wa giza <br/>Tunachokishuhudia ni mama<br/>anapigwa makofi <br/>Na vitisho vya talaka matusi <br/>na harufu ya pombe <br/>Darasa gani mnatupa watoto wenu. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh tukirudi toka shuleni, <br/>madaftari hamkagui <br/>Eti kwa kuwa tumechoka, <br/>burudani mwatuwekea <br/>Video mnazowasha picha <br/>za vita na mauaji <br/>Au mikanda iliyorekodiwa <br/>Sodom na Gomora <br/>Hamkumbuki ya kuwa<br/> mnayafuta ya darasani <br/>Urithi gani mnatupa wazazi wetu. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh kwenye chakula cha usiku, <br/>siku zote baba hayupo <br/>Kusali sala za pamoja, <br/>kwenye nyumba yetu ni mwiko <br/>Amechelewa kutoka kwa <br/>mama mdogo yule wa siri <br/>Au giza likizidi, hatarudi mpaka asubuhi <br/>Na mama akishajua ndiyo <br/>mwaamko wa usiseme <br/>Familia moja baba na mama watano.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh kwa sababu ya mambo haya,<br/> ndugu zetu wanaumia <br/>Wapo wanaorandaranda <br/>mitaani bila makazi <br/>Wengi wamelazimika <br/>kuajiriwa bado wadogo <br/>Hawana tena nafasi <br/>ya kusoma wapate elimu <br/>Na wengi wanajiuza miili yao ili waishi <br/>Mbona dunia umetugeuka watoto.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:58">
+  <properties>
+    <titles>
+      <title>Bwana nikakufananishe na nini</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana nikufananishe na nini,<br/>au nikufananishe na nani,<br/>pendo lako Bwana ni la ajabu,<br/>ndiyo sababu ya furaha yangu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa kuwa Bwana ulinijua, <br/>tangu tumboni mwa mama yangu,<br/>ukanituza kwa upendo,<br/>ukanilaza pendo lako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nilipokua kwenye mateso, <br/>nilifikiri umeniacha,<br/>mawazo yangu,<br/>ya kitoto sikutabua pendo lako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwangu Bwana ulijifunua,<br/>moyo wangu ulikutabua,<br/>matendo mengi yenye nguvu,<br/>uliyatenda mbele yangu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nakiri mbele yako ee bwana, <br/>hakuna atakayenitenga na pendo lako,<br/>la ajabu pendo lisilo na kipimo.</lines>
+    </verse>
+  </lyrics>
+</song>

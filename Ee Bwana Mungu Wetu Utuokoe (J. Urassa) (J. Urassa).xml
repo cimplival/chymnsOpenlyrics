@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:11">
+  <properties>
+    <titles>
+      <title>Ee Bwana Mungu Wetu Utuokoe (J. Urassa)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>J. Urassa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana Mungu wetu utuokoe<br/>Utukusanye kwa kututoa <br/>katika mataifa. x2<br/>Tulishukuru jina la Bwana takatifu<br/>tuzifanyie shangwe <br/>(sifa zako)<br/>sifa zako Bwana.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ahimidiwe Bwana Mungu <br/>wa Israeli.<br/>Tangu milele hata milele, <br/>watu wako waseme <br/>sifa kwa Mungu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mshukuruni Bwana Mungu<br/>kwani ni mwema.<br/>Mshukuruni kwa maana <br/>fadhili zake ni za milele<br/>na milele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mfanyieni Bwana shangwe <br/>dunia yote.<br/>Mtumikieni kwa furaha njooni <br/>mbele zake kwa kuimba zaburi.</lines>
+    </verse>
+  </lyrics>
+</song>

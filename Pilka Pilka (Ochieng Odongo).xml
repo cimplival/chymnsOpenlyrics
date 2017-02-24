@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:49">
+  <properties>
+    <titles>
+      <title>Pilka Pilka</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Ochieng Odongo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pilka pilka kila siku<br/>watu wa dunia<br/>wanahangaika kutafuta <br/>mali za dunia.<br/>Asubuhi ni msongamano, <br/>mchana vilevile<br/>usiku shughuli <br/>zafanyika kama kawaida.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tafuteni kwanza ufalme <br/>ule wa mbinguni<br/>na hayo mengine <br/>(hakika) mazidishiwa<br/>(Yeye Mungu (Mwenyezi)<br/>mtetezi (ajabu)<br/>mkiamini atawashughilikia. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pilika pilika watu <br/>wengi kutafuta elimu.<br/>Hawakumbuki kwamba <br/>Yesu ni mwalimu tosha.<br/>Ajali nyingi barabarani <br/>zinafanyika kwetu.<br/>Tumesahau kwamba Y<br/>esu ni dereva tosha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pilika pilika twatafuta <br/>hospitali kubwa.<br/>Huku daktari mkuu <br/>ni Mungu wa majeshi.<br/>Watu watafuta waganga<br/>ili wapate mali.<br/>Bali Mungu wa mbinguni <br/>ndiye mmliki wa vyote.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pilika pilika tunawaza <br/>usiku na mchana.<br/>Vile tutakula vizuri <br/>na kuvaa vizuri.<br/>Kwani ndege wale wa angani <br/>wanalishwa na nani.<br/>Kama siyo Mungu <br/>wa mbinguni basi huyo nani.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pilika pilika wenzangu <br/>tumuelekee Mungu.<br/>Tusifadhaike bali tuwe <br/>na matumaini.<br/>Atatujalia mema mengi <br/>tukiwa duniani.<br/>Mwisho tutafurahi na Yesu <br/>kule juu mbinguni.</lines>
+    </verse>
+  </lyrics>
+</song>

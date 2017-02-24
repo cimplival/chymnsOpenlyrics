@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:14">
+  <properties>
+    <titles>
+      <title>Mimi Ndimi Chakula</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mimi ndimi chakula <br/>cha uzima,<br/>chakula cha uzima.<br/>(Aulaye mwili wangu,<br/>na kunywa damu yangu,<br/>huyo anao uzima wa milele). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mimi ndimi chakula cha uzima,<br/>kilicho shuka kutoka mbinguni,<br/>alaye chakula hiki <br/>ataishi milele.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chakula nitakachowapa<br/>ni mwili wangu pia damu <br/>yangu, <br/>ni kwa ajili ya uzima<br/>wa ulimwengu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aulaye mwili na damu yangu,<br/>huyo anao uzima wa milele,<br/>na mimi nitamfufua,<br/>siku ya mwisho.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mwili wangu ni chakula kweli<br/>damu yangu ni kinywaji kweli<br/>kweli alaye hukaa mwangu <br/>nami ndani yake.</lines>
+    </verse>
+  </lyrics>
+</song>

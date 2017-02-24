@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:31">
+  <properties>
+    <titles>
+      <title>Zanena Siku Kuu</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Catholic Choir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zanena, siku kuu, <br/>kengele za juu,<br/>waumini furahaini, <br/>mkombozi mkumbusheni,<br/>mzawa leo Bethlehemu, <br/>mzawa leo Bethlehemu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ni hii leo, siku heri, <br/>Ssku nzuri nzuri,<br/>ya uasi kuondolewa, <br/>ya Mbingu kufunguliwa<br/>yakisha maulaumu, <br/>yakisha malaumu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni hii leo, siku njema, <br/>siku ya salama,<br/>aliposhuka Mwokozi, <br/>mwanaye Mungu mwenyezi<br/>kuwa mwanadamu, <br/>kuwa mwanadamu.</lines>
+    </verse>
+  </lyrics>
+</song>

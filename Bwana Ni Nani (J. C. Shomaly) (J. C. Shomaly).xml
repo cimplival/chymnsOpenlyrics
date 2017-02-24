@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:56">
+  <properties>
+    <titles>
+      <title>Bwana Ni Nani (J. C. Shomaly)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>[B] Bwana ni nani ni nani? <br/>[w] Bwana ni nani atakayekaaa <br/>katika hema yako ee Bwana. x2 <br/>(Ni! na! ni! atakayefanya <br/>maskani yake <br/>katika kilima chako. <br/>Ni nani, na ni nani, nani na nani, <br/>ni na-ni, na ni nani Bwana). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ni yeye aendaye kwa ukamilifu <br/>na kuitenda haki asemaye kweli, <br/>kwa moyo wake. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Asiyesingizia kwa ulimi wake<br/>ndiye anastahili, asemaye kweli, <br/>kwa moyo wake. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana ni nani atakayepanda <br/>katika kilima chako kilima chako, <br/>kitakatifu.</lines>
+    </verse>
+  </lyrics>
+</song>

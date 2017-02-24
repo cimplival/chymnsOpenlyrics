@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:42">
+  <properties>
+    <titles>
+      <title>Oh Lord have pity on me</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Oh Lord have pity (entrance)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Oh Lord have pity on me;<br/>As I call on you all the day long.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Since I was born;<br/>Lord sinful I have been.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I've sinned against you;<br/>Lord wash my sins away.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In true repentance;<br/>Now I cry and weep.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Far from your presence;<br/>Do not banish me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Your Holy Spirit;<br/>Do not take from me.</lines>
+    </verse>
+  </lyrics>
+</song>

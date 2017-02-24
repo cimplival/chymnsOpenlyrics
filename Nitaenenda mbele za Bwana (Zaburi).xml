@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:32">
+  <properties>
+    <titles>
+      <title>Nitaenenda mbele za Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nitaenenda mbele za Bwana <br/>mbele za Bwana. x2 <br/>(Katika nchi za walio hai, <br/>katika nchi za walio hai, <br/>katika nchi za walio hai). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Naliamini kwa maana nitasema, <br/>naliteswa sana,<br/>ina thamani machoni pa Bwana, <br/>mauti ya wacha Mungu wake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Bwana hakika mimi <br/>ni mtumishi wako <br/>na mjakazi wako, <br/>umevifungua vifungo vyangu, <br/>nitatoa dhabihu za kushukuru.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nitaziondoa nadhiri kwa Bwana, <br/>mbele ya watu wake, <br/>katika nyua za nyumba <br/>ya Bwana, <br/>ndani yako Ee Yerusalemu.</lines>
+    </verse>
+  </lyrics>
+</song>

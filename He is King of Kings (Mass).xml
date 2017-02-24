@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:34">
+  <properties>
+    <titles>
+      <title>He is King of Kings</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He is king of kings,<br/>he is Lord of Lords<br/>Jesus Christ, <br/>the first and the last,<br/>no man was like him. x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>He died on the cross <br/>to save us all,<br/>no man was like him.<br/>He rose from the dead <br/>to give us life,<br/>no man was like him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I know that <br/>my redeemer lives,<br/>no man was like him.<br/>He will come again <br/>to take us home,<br/>no man was like him.</lines>
+    </verse>
+  </lyrics>
+</song>

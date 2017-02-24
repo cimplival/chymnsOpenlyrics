@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:30">
+  <properties>
+    <titles>
+      <title>Nikupe Nini Mungu Wangu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5</verseOrder>
+    <authors>
+      <author>sadaka</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nikupe nini Mungu wangu<br/>Nikupe nini ee Mwokozi<br/>Nikupe nini Bwana wangu <br/>cha kukupendeza.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kila nitakachoshika <br/>mbona bado ni kidogo<br/>Fadhili unazotenda <br/>kwangu mimi naogopa<br/>Ninakuomba Mwokozi <br/>nifanyie msamaha na unipokee<br/>Mema unayoyatenda <br/>nitafanya nini mimi nikurudishie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nakutolea mkate <br/>toka mmea wa ngano<br/>Nakutolea divai <br/>ni tunda la mzabibu<br/>Ninakuomba Mwokozi <br/>nifanyie msamaha na unipokee<br/>Mema unayoyatenda <br/>nitafanya nini mimi nikurudishie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mchana hata siku <br/>wewe wanisimamia<br/>Na nikiwa safarini <br/>waniepusha ajali<br/>Ninakuomba Mwokozi <br/>nifanyie msamaha na unipokee<br/>Mema unayoyatenda <br/>nitafanya nini mimi nikurudishie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kama njia sioni <br/>Bwana unaniongoza<br/>Na hata nikipotea <br/>kwako unanirudisha<br/>Ninakuomba Mwokozi <br/>nifanyie msamaha na unipokee<br/>Mema unayoyatenda <br/>nitafanya nini mimi nikurudishie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nikiwa na matatizo <br/>Bwana hunisaidia<br/>Nikiwa kwenye majonzi <br/>Bwana unanifariji<br/>Nitatoa nini mimi kitakachokuwa <br/>sawa na fadhili zako<br/>Nitaimba nini mimi niyataje <br/>mema yote utendayo kwangu.</lines>
+    </verse>
+  </lyrics>
+</song>

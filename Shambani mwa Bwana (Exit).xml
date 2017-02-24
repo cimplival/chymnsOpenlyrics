@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:01">
+  <properties>
+    <titles>
+      <title>Shambani mwa Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Shambani mwa Bwana<br/>mna mavuno mengi,<br/>mavuno mengi.<br/>Lakini watenda kazi wachache,<br/>wito wako nimeitika - <br/>wito wako nimeitika<br/>niwe mtumishi wako daima.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nimeitika wito wako <br/>mimi mwanao, <br/>nimeitika wito wako <br/>unipokee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ninahitaji nguvu zako <br/>mimi mwanao, <br/>katika kazi <br/>yakitume unipokee. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ndiwe Muumba wangu Bwana<br/>wanifahamu,<br/>tangu tumboni <br/>mwa mamangu wanifahamu.</lines>
+    </verse>
+  </lyrics>
+</song>

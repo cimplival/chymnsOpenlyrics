@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:27">
+  <properties>
+    <titles>
+      <title>Nearer to thee</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nearer, my God to thee,<br/>nearer to thee! <br/>E'ven though it be a cross<br/>that raiseth me,<br/>still all my song shall be,<br/>nearer, my God to thee!<br/>Nearer my God to thee!<br/>Near to thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Though like the wanderer,<br/>the sun gone down,<br/>darkens be over me,<br/>my rest a stone,<br/>yet in my dreams<br/>I'd be nearer, my God to thee,<br/>nearer, my God to thee,<br/>nearer to thee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There let the way appear,<br/>steps unto Heav'n,<br/>all that thou sendest me,<br/>in mercy given.<br/>Angels to beckon me nearer,<br/>my God to thee, nearer,<br/>my God to thee nearer to thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Then, with my walking thought<br/>bright with thy praise,<br/>out of my stony grief,<br/>Bethel I'll raise,<br/>so by my woes be,<br/>nearer my God to thee,<br/>nearer my God to thee,<br/>nearer to thee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Or, if on joyful wing<br/>cleaving the sky,<br/>sun moon, and stars forgot,<br/>upward i'll fly, <br/>still all my song shall be,<br/>nearer my God to thee,<br/>nearer my God to thee,<br/>nearer to thee.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There in my father's home, <br/>safe and at rest, <br/>there in my saviour's love,<br/>perfectly blest,<br/>age after age to be,<br/>nearer my God to thee,<br/>nearer my God to thee,<br/>nearer to thee.</lines>
+    </verse>
+  </lyrics>
+</song>

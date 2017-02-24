@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:28">
+  <properties>
+    <titles>
+      <title>Gaba Mass (Agnus Dei)</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lamb of God<br/>you who take away <br/>the sins of the world,<br/>have mercy,<br/>have mercy on us. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O Lamb of God<br/>you who take away <br/>the sins of the world,<br/>oh grant us,<br/>oh grant us your peace.</lines>
+    </verse>
+  </lyrics>
+</song>

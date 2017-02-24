@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:30">
+  <properties>
+    <titles>
+      <title>Nikupe Nini Ee Mungu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>G. A. Chavallah</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nikupe nini ee Mungu <br/>cha kukupendeza,<br/>uwezo wangu mdogo<br/>Bwana waujua, <br/>pamoja na dhiki<br/>inayonisonga,<br/>pokea zawadi yangu <br/>hii duni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nikitazama wenzangu <br/>wanakutolea,<br/>zawadi nyingi na nzuri <br/>za kukupendeza,<br/>kasoro mimi tu <br/>natoa kidogo,<br/>wakati mwingine <br/>sitoi kabisa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maisha yangu ya dhiki <br/>Bwana wayajua,<br/>unyonge na udhaifu <br/>wangu waujua,<br/>sina kitu mimi cha <br/>kukutolea,<br/>lakini pokea <br/>nafsi yangu Bwana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nayakabidhi maisha <br/>yangu kwako Bwana,<br/>uniongoze katika njia <br/>za uzima,<br/>unisaidie wakati wa shida,<br/>kwani ni wewe tu <br/>tumaini langu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kutoa ndugu ni moyo <br/>sio utajiri,<br/>ukimtolea Mungu <br/>atakuongeza,<br/>uwasaidie watu maskini<br/>wasiojiweza utabarikiwa. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ninawasihi wenzangu <br/>mliojaliwa,<br/>maisha bora mazuri <br/>na ya kuridhisha,<br/>msimsahau Bwana <br/>Mungu wenu,<br/>toeni kwa wingi <br/>mtabarikiwa.</lines>
+    </verse>
+  </lyrics>
+</song>

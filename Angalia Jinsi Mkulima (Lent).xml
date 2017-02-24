@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:30">
+  <properties>
+    <titles>
+      <title>Angalia Jinsi Mkulima</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2</verseOrder>
+    <authors>
+      <author>Lent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Angalia jinsi mkulima <br/>anavyofurahi-ya,<br/>kuyachuna matunda (yale) <br/>yaliyoiva vizuri<br/>katika bustani yake). x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Na pia kuyatupa yale <br/>mabovu mbali.<br/>Na kuyaacha yaliyo mabichi <br/>ili yapate kuiva vizuri<br/>ili aweze kuyachuma tena.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vivyo hivyo Mungu <br/>hufurahia kuwaita <br/>kwake wale walio safi<br/>na kuwapa nafasi ya <br/>kutubu wale wenye dhambi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ni wajibu kwangu <br/>mimi na wewe,<br/>kutubu kwani <br/>hakuna ajuaye siku.<br/>Wala saa ambayo Mungu <br/>Baba atamwita kwake.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ewe ndugu yangu unafikiria <br/>nini kuingia katika jubilei<br/>ya miaka elfu mbili ukiwa <br/>na mzigo wa dhambi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yafaa nini mtu kupata <br/>raha zote za dunia <br/>ambazo ni za muda.<br/>Na kutupwa katika <br/>moto ule wa milele yote.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mimi na wewe tutumie <br/>nafasi hii tuliyopewa <br/>tutubu dhambi zetu.<br/>Mtu asijeijutia <br/>siku atakayoitwa.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:49">
+  <properties>
+    <titles>
+      <title>Pilgrimage Mass (Peace of God)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(Peace of God,<br/>peace of God forever <br/>be with you). x2<br/>Come to Jesus <br/>the prince of peace,<br/>peace of God forever <br/>be with you.<br/>He's our Saviour and redeemer,<br/>peace of God forever <br/>be with you.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Love of God,<br/>love of God forever <br/>be with you). x2<br/>Come to Jesus <br/>the prince of peace,<br/>love of God forever<br/>be with you. <br/>He's our Saviour and redeemer,<br/>love of God forever <br/>be with you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Joy of God,<br/>joy of God forever <br/>be with you). x2<br/>Come to Jesus the <br/>prince of peace,<br/>joy of God forever <br/>be with you.<br/>He's our Saviour and redeemer,<br/>joy of God forever <br/>be with you.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(Faith of God,<br/>faith of God forever <br/>be with you). x2<br/>Come to Jesus <br/>the prince of peace,<br/>faith of God forever<br/>be with you.<br/>He's our Saviour and redeemer,<br/>faith of God forever <br/>be with you.</lines>
+    </verse>
+  </lyrics>
+</song>

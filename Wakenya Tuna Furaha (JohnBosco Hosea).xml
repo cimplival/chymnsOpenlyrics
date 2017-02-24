@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:23">
+  <properties>
+    <titles>
+      <title>Wakenya Tuna Furaha</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>JohnBosco Hosea</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wakenya tunafuraha (tele)<br/>Mungu kweli katubariki, <br/>nusu karne tuko imara.<br/>Njooni tufanye shangwe,<br/>kwa vifijo na nderemo kuu, <br/>jubilee sherehe kubwa. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(Hakika) <br/>Miaka hamsini tuna uhuru,<br/>tumeishi tukipendana<br/>kwa umoja pia amani,<br/>ni Baraka kuwa Mkenya. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Makabila ya Kenya (Yote)<br/>yamerembesha nchi yetu, <br/>kwa nakshi za utamaduni.<br/>Lugha zinazovutia (sana)<br/>zifurahishazo mioyo, <br/>na bado tunaelewana. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Madhari yaependezayo (sana)<br/>milima mito na mabonde, <br/>nyufa mbuga na fuo za bahari.<br/>maziwa yapendezayo (pia)<br/>hifadhi za kihistoria, <br/>utalii tumeimarika. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ulinzi tuko kijeshi (ona)<br/>angani tuko imara, <br/>nchi maji usituchezee.<br/>majasusi wale wabaya (na)<br/>polisi tunao wa kutosha, <br/>kweli Kenya ni nchi salama. x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Viongozi waliosoma (pia)<br/>sarakasi wanazielewa, <br/>walimwengu tunawatishia.<br/>kuwa Mkenya ni Baraka (kweli)<br/>tujenge nchi kwa furaha, <br/>Kenya yetu ni mimi na wewe. x2</lines>
+    </verse>
+  </lyrics>
+</song>

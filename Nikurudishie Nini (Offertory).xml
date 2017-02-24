@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:30">
+  <properties>
+    <titles>
+      <title>Nikurudishie Nini</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Nikurudishie nini,<br/> Bwana kikupendeze). x2<br/>Kila ninachokitoa <br/>naona bado kidogo.<br/>(Nikurudishie nini, <br/>Bwana kikupendeze). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nashika mfuko wangu, <br/>nakuta nina kidogo,<br/>naomba unipokee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ninakutolea Baba,<br/>zawadi tu hii ya fedha,<br/>naomba unipokee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nakutolea nafaka, <br/>kazi ya mikono yangu,<br/>naomba unipokee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ni mangapi nayafanya,<br/>wewe wanihurumia,<br/>ee Baba najiuliza.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Umenilinda mzima,<br/>kwa wiki iliyopita,<br/>natoa shukrani zangu.</lines>
+    </verse>
+  </lyrics>
+</song>

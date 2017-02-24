@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:46">
+  <properties>
+    <titles>
+      <title>Imani Yangu (Victor Aloyce Murishiwa)</title>
+    </titles>
+    <verseOrder>c1 c2 c3 c4 c5 v1 c1 c2 c3 c4 c5 v2 c1 c2 c3 c4 c5</verseOrder>
+    <authors>
+      <author>Victor Aloyce Murishiwa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nipo katikati ya Mbingu na ardhi, <br/>ninaning'inia sina pa kushika.<br/>Duniani sipo na mbinguni sipo,<br/>ninawayawaya Bwana niokoe.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nikienda huku, <br/>mambo motomoto, <br/>nikirudi kule, ni baridi tupu<br/>mbele yangu giza, <br/>nyuma yangu giza,<br/> mahubiri mengi <br/>yananiyumbisha imani.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Kumtafuta Mwokozi, <br/>ee Mungu uko wapi <br/>ili nije kwako hima,<br/>mbele yangu kuna giza nene <br/>na nyuma yangu ni giza<br/>mahubiri mengi yamezidi <br/>na mengine yananiyumbisha <br/>imani, imani.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Nikienda huku ninabatizwa, <br/>lakini nikirudi kule <br/>ninaitwa mimi kafiri<br/>giza pande zote, <br/>mahubiri ni mengi, <br/>na mengine yananiyumbisha <br/>imani imani.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Nikienda huku ni moto, <br/>nikirudi huku baridi, <br/>vuguvugu haitakiwi<br/>na imani yangu yayumba <br/>Mungu wangu nisaidie <br/>niokoe nisipotee<br/>mahubiri mengi na mengine <br/>yananiyumbisha imani.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Roho yangu Bwana inakutamani,<br/>wewe peke yako ndiwe tiba yangu<br/>neno lako Bwana litaniponya.<br/>Rudi Bwana Yesu njoo kwetu hima<br/>ulimwengu huu, ulioufia<br/>umekuwa jela ya maskini.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Manabii wengi wananiyumbisha<br/>nimfuate yupi, nimuache yupi<br/>wapo wa uongo, wapo wa kwei<br/>kwa sababu wewe, Mungu ni mmoja<br/>twakuomba Baba utuunganishe<br/>matabaka yote na yatoweke.</lines>
+    </verse>
+  </lyrics>
+</song>

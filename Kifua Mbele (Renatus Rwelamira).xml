@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:00">
+  <properties>
+    <titles>
+      <title>Kifua Mbele</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Renatus Rwelamira</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Natembea kifua kikiwa mbele mimi<br/>natembea kifua kikiwa mbele mimi<br/>sina hofu kamwe moyoni mwangu<br/>kwa kuwa nina Yesu moyoni <br/>mwangu mimi.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(Niacheni niimbe, <br/>niacheni nicheze<br/>Niacheni niruke, <br/>nimsifu Mungu wangu). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ni yeye Mungu wangu, <br/>mimi nitamsifu<br/>na ndiye Muumba wangu, <br/>mimi nitamwimbia<br/>nitamsifu Mungu wangu <br/>kila niamkapo<br/>nitamwimbia nyimbo tamu <br/>tena za kupendeza<br/>iyelelele iyele.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yeye ndiye mlinzi wangu, <br/>mlinzi mwaminifu. x2<br/>Yeye ni Alfa tena yeye <br/>ndiye Omega. x2<br/>Iyelelele iyele.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nitamshukuru Bwana <br/>kwa moyo wangu<br/>nitayasimulia matendo yake yote<br/>nitafurahi na kushangilia <br/>wewe Bwana<br/>nitaliimba jina lako <br/>wewe uliye juu.</lines>
+    </verse>
+  </lyrics>
+</song>

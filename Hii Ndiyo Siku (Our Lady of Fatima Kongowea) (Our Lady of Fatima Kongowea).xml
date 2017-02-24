@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:36">
+  <properties>
+    <titles>
+      <title>Hii Ndiyo Siku (Our Lady of Fatima Kongowea)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Our Lady of Fatima Kongowea</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hii ndiyo siku, <br/>aloifanya Bwana. x2<br/>Tuishangilie, na kuifurahiya. x2<br/>(Tupige makofi na vigelegele<br/>Sote turuke juu <br/>tumshukuru Mungu). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ndiwe Mungu wangu <br/>nami nitakushukuru,<br/>ndiwe Mungu wangu <br/>nami nitakutukuza.<br/>Nitakushukuru <br/>kwa moyo wangu wote,<br/>kwa mema yote Bwana <br/>uliyonijalia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nifungulieni malango ya haki,<br/>nitaingia mimi na <br/>kumshukuru Mungu.<br/>Nitakushukuru kwa moyo <br/>wangu wote,<br/>kwa mema yote Bwana <br/>uliyonijalia</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mkono wa kuume <br/>wa Bwana umetukuzwa,<br/>mkono wa Bwana <br/>hutenda makuu.<br/>Nitakushukuru kwa <br/>moyo wangu wote,<br/>kwa mema yote <br/>Bwana uliyonijalia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mshukuruni Bwana kwa <br/>kuwa yeye ni mwema,<br/>kwa maana fadhili zake <br/>ni za milele.<br/>Nitakushukuru kwa moyo <br/>wangu wote,<br/>kwa mema yote <br/>Bwana uliyonijalia.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:08">
+  <properties>
+    <titles>
+      <title>Thayu wa Kristu</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v4 c1 v5 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Thayu wa Kristu <br/>uromuikurukira,<br/>giai na thayu na <br/>mugie naguo muno. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kristu oimiriira <br/>arutwo amerire,<br/>giai na thayu na <br/>mugie naguo muno.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Athuri ona inyui Kristu <br/>aramwira,<br/>giai na thayu na <br/>mugie naguo muno.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Atumia ona inyui Kristu <br/>aramwira,<br/>giai na thayu na <br/>mugie naguo muno.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anake ona inyui Kristu <br/>aramwira,<br/>giai na thayu na <br/>mugie naguo muno.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Airitu ona inyui Kristu <br/>aramwira,<br/>giai na thayu na <br/>mugie naguo muno.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Na ciana ona inyui Kristu <br/>aramwira,<br/>giai na thayu na <br/>mugie naguo muno.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hindi ya thina kristu <br/>aramwira,<br/>giai na thayu na <br/>mugie naguo muno.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:35">
+  <properties>
+    <titles>
+      <title>Njoo Kwetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Advent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Njoo kwetu, masiya (njoo);<br/>Njoo, Bwana, utukoe. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Utuhurumie sisi wadhambi,<br/>tunakulilia, 'tusikilize.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nguvu za shetani <br/>zimetubana,<br/>njia ya uwingu haipitiki.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Utufungulie mlango <br/>wa mbingu,<br/>na kuyatakasa maovu yote.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nazo dhambi zetu <br/>zimetusonga,<br/>kamba za mauti zatuzunguka.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ee Yesu Masiya, <br/>mwenye huruma,<br/>njoo hima Bwana utuokoe.</lines>
+    </verse>
+  </lyrics>
+</song>

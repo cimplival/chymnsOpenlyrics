@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:50">
+  <properties>
+    <titles>
+      <title>Pokeeni kwa Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Harusi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Pokeeni kwa Bwana <br/>wingi wa baraka<br/>kwa ndoa yenu takatifu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wanaume inawapasa <br/>kuwaheshimu wake zao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wanaume wawaonyeshe <br/>wake zao pendo la Kristu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nao wake wawafuate <br/>waume zao kama Kristu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kila mtu ampende mkewe <br/>kama nafsi yake mwenyewe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wanaume watawaacha <br/>baba zao na mama zao.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ataungana na mkewe<br/>na watakuwa mwili mmoja.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hili ni fumbo la upendo <br/>kati ya Kristu na kanisa.</lines>
+    </verse>
+  </lyrics>
+</song>

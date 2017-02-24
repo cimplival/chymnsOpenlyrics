@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:19">
+  <properties>
+    <titles>
+      <title>Upokee Sadaka Yetu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Upokee sadaka yetu —<br/>twakutolea Baba.<br/>Upokee navyo vipaji —<br/>twakutolea Baba.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pokea Baba zawadi,<br/>Pokea Baba zawadi,<br/>twakutolea Baba. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Upokee mkate wetu —<br/>twakutolea Baba.<br/>Upokee divai yetu —<br/>twakutolea Baba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Upokee mazao yetu —<br/>twakutolea Baba.<br/>Upokee na fedha zetu —<br/>twakutolea Baba. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nasi pia ni mali yako —<br/>twakutolea Baba.<br/>Tunatubu makosa yetu — <br/>twakutolea Baba.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Upokee mioyo yetu —<br/>twakutolea Baba.<br/>Upokee na nafsi zetu — <br/>twakutolea Baba.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Haya yote ni mali yako —<br/>twakutolea Baba.<br/>Uyapokee kwa huruma — <br/>twakutolea Baba.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Uviunge vipaji vyetu —<br/>twakutolea Baba.<br/>Na sadaka yake mwanao — <br/>twakutolea Baba.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Usifiwe ewe mtukufu —<br/>twakutolea Baba.<br/>Kwa sadaka yake na yetu —<br/>twakutolea Baba.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Tuhurumie wakosefu —<br/>twakutolea Baba.<br/>Tuletee baraka yako —<br/>twakutolea Baba.</lines>
+    </verse>
+  </lyrics>
+</song>

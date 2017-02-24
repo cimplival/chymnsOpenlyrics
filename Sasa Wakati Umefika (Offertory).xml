@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:00">
+  <properties>
+    <titles>
+      <title>Sasa Wakati Umefika</title>
+    </titles>
+    <verseOrder>c1 c2 c3 c4 v1 c1 c2 c3 c4 v2 c1 c2 c3 c4 v3 c1 c2 c3 c4 v4 c1 c2 c3 c4</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sasa wakati umefika,<br/>wa kushika nilicho nacho <br/>(mimi),<br/>kwa wema niende kwa Mungu <br/>nitoe zawadi.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Sasa wakati umefika,<br/>kwenda mbele ya Mungu wangu <br/>(mimi),<br/>aone nilivyoandaa <br/>zawadi ya leo.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Nitamwambia Bwana pokea,<br/>(hiki)<br/>kidogo nilicho nacho,<br/>kwani Mungu wewe wanijua,<br/>(mimi)<br/>siwezi hata kueleza.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Nakusihi sana Baba unipokee.<br/>Nigawie na baraka niwe salama.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mema yote niliyokuwa nayo<br/>yametoka kwa Mungu,<br/>hivyo nami ni kosa kusahau <br/>kumshukuru.<br/>Kwani kuwepo hapa <br/>leo hii ni kazi ya nani,<br/>Kamwe mimi sitapata uwezo <br/>pasipo Mungu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mema aliyotenda Mungu <br/>nijibu lini na vipi,<br/>mbona hofu yazidi kuwa<br/>ndani ya moyo wangu. <br/>Mbele ya Bwana Mungu <br/>wangu kufanya siri ni bure,<br/>yeye ndiye mpanga mambo <br/>yote ya wanadamu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pumzi anayonipa uhai <br/>inatoka kwa nani, <br/>Bila Mungu hakika <br/>mwanadamu siwezi kitu.<br/>Nimepata nafasi ya leo <br/>yakwenda kutoa zawadi,<br/>Heri niende ya kesho siyo <br/>yangu ajua Baba.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ee Muumba wa vyote <br/>duniani na vyote <br/>vya mbinguni, <br/>mimi leo nakuja kwako<br/>Baba nihurumie<br/>Baba wewe ndiwe unayetawala <br/>kulala na kuamka, <br/>juu yangu utake nini <br/>Baba kisifanyike.</lines>
+    </verse>
+  </lyrics>
+</song>

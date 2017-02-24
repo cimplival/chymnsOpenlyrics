@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:13">
+  <properties>
+    <titles>
+      <title>Mbali kule</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mbali kule nasikia<br/>malaika wa mbinguni;<br/>Wakiimba wengi pia,<br/>wimbo huu juu angani.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Glo - ooooooooo,<br/>ooooo, ooooo - ria,<br/>in excelsis Deo. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wachunga tuambieni,<br/>sababu ya nyimbo hizo;<br/>Mwenye kuimbiwa ni nani, <br/>juu ya nani sifa hizo?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Je hamjui jambo kuu<br/>la kuzaliwa Mwokozi?<br/>Habari ya wimbo huu ndio<br/>kumshukuru Mwenyezi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kweli nasi twende hima<br/>tufike kule aliko;<br/>Tuone mtoto na mama<br/>tuwasalimie huko.</lines>
+    </verse>
+  </lyrics>
+</song>

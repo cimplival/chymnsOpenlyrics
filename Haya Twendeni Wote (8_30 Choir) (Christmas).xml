@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:33">
+  <properties>
+    <titles>
+      <title>Haya Twendeni Wote (8:30 Choir)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Haya twendeni wote <br/>kule Bethlehemu,<br/>tukamwone, tukamwone, <br/>Mkombozi Yesu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Njoni wote tumuone,<br/>huyo mtoto Yesu.<br/>Amelazwa nyasini,<br/>huyo mtoto Yesu.<br/>Akiwa na upole,<br/>huyo mtoto Yesu.<br/>(Haya twende x2).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maria na Yosefu, <br/>huko Bethlehemu.<br/>Wamsujudu mwanao, <br/>huko Bethlehemu.<br/>Wakimtukuza Mungu, <br/>huko Bethlehemu.<br/>(Haya twende x2). </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wachunga waambiwa, <br/>huko Bethlehemu.<br/>Usiku wa manane,<br/>huko Bethlehemu. <br/>Masiha kazaliwa,<br/>huko Bethlehemu.<br/>(Haya twende x2).</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Majusi wanaenda, <br/>huko Bethlehemu.<br/>Kumtolea zawadi, <br/>huko Bethlehemu.<br/>Nyota inaangaza, <br/>huko Bethlehemu.<br/>(Haya twende x2).</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nasi pia twendeni, <br/>huko Bethlehemu.<br/>Tukamuone mtoto, <br/>huko Bethlehemu.<br/>Hakimu wa dunia,<br/>huko Bethlehemu.<br/>(Haya twende x2).</lines>
+    </verse>
+  </lyrics>
+</song>

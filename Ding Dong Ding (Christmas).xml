@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:09">
+  <properties>
+    <titles>
+      <title>Ding Dong Ding</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ding, Dong! <br/>Merrily on high in heaven<br/>the bells are ringing. <br/>Ding, Dong! <br/>Verily the sky is riv'n <br/>with angels singing.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gloria! Hosanna in excelsis.<br/>Gloria! Hosanna in excelsis.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>E'ven so he below, below,<br/>Let steeple bells be swungen,<br/>and oi, oi, oi, by priest <br/>and people sungen.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pray you, dutifully prime,<br/>your matin chime ye ringers;<br/>May you beautifully rime<br/>Your evetime song ye singers.</lines>
+    </verse>
+  </lyrics>
+</song>

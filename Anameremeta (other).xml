@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:29">
+  <properties>
+    <titles>
+      <title>Anameremeta</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Anameremeta sana, <br/>anameremeta kama lulu<br/>Hakika ni nyota ya asubuhi<br/>Huyu ndiye yule mama, <br/>mama yake Bwana Yesu Kristu<br/>Hakika ni mama <br/>Mama wa Mungu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kwa nini tusimshnagilie, (tena) <br/>tukirukaruka kwa furaha (pia).<br/>Na vigelegele tuvipige<br/>tukimshangilie mama Maria.<br/>Kwani kupitia kwake mama (huyo) <br/>ukombozi wetu umefika (kwetu).<br/>Kwa nini tusimwite Yesu <br/>tukiegemea kwake Maria.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mama huyu mama gani, <br/>mama mwenye moyo safi.<br/>Mama aliyereta nuru <br/>ya kuangaza kote.<br/>Mama anameremeta,<br/>tena anang'ara sana.<br/>Anang'ara kama lulu, <br/>lulu ya thamani kubwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Watakatifu Mbinguni <br/>wanamsifu Maria<br/>Nao wanameremeta <br/>wakiitazama nuru<br/>Mama huyu ni wa nuru, <br/>ni nuru ya ulimwengu<br/>Tena anang'ara sana <br/>pia anaangaza.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maria naye Yosefu, <br/>walokuwa naye Yesu.<br/>Nao wanang'ara sana <br/>pia wanameremeta.<br/>Nasi tunaomsifu kuwa<br/>Maria ni Mama.<br/>Nasi tunang'ara sana <br/>pia tutameremeta.</lines>
+    </verse>
+  </lyrics>
+</song>

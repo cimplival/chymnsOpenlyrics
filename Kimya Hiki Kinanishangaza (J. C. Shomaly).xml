@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:02">
+  <properties>
+    <titles>
+      <title>Kimya Hiki Kinanishangaza</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kimya hiki <br/>kinanishangaza sana, <br/>najiuliza. x2<br/>Ni kiumbe <br/>gani asiye na shukrani <br/>humu ulimwenguni. x2 </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ki-imya kimya, <br/>ki-imya kimya,<br/>ki-imya kimya, <br/>mimi nashangaa. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nami natoa sadaka <br/>yangu kwa Bwana,<br/>naye atapokea, jamani. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Japo ni kidogo <br/>Bwana ukipokee, <br/>mimi naleta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kimya ni cha nini, <br/>tuamke wote.<br/>Tupeleke zawadi zetu, <br/>kwake Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

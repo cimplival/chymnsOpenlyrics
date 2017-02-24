@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:22">
+  <properties>
+    <titles>
+      <title>Ewe Kristu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ewe Kristu Bwana mwema <br/>wa jumuia yetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ewe Kristu ndiwe Bwana <br/>tujalie fadhili. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ewe Kristu ndiwe Bwana <br/>tujalie neema. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ewe Kristu ndiwe Bwana <br/>tujalie upendo. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ewe Kristu ndiwe Bwana <br/>tujalie baraka. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ewe Kristu ndiwe Bwana <br/>tujalie amani.</lines>
+    </verse>
+  </lyrics>
+</song>

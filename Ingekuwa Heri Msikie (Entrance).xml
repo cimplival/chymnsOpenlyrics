@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:49">
+  <properties>
+    <titles>
+      <title>Ingekuwa Heri Msikie</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ingekuwa heri leo <br/>msikie sauti yake,<br/>msifanye migumu mioyo yenu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Njooni tumwimbie Bwana <br/>tumfanyie shangwe,<br/>mwamba wa wokovu wetu,<br/>tuje mbele zake kwa shukrani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Njooni tumwabudu <br/>Bwana tupige magoti,<br/>mbele zake Mungu wetu,<br/>aliyetuumba watu wote.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:36">
+  <properties>
+    <titles>
+      <title>Njooni twende nyumbani</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Njooni twende <br/>nyumbani mwake <br/>Bwana anatuita twende,<br/>Njooni nyote tuingie, <br/>tumwombe mahitaji, <br/>Tumshukuru Mungu wetu, <br/>njoni tumwabudu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Anatuita tukamwimbie, <br/>wimbo mpya kwa shangwe kuu;<br/>(Njoni nyote tushangilie, <br/>tuimbe kwa furaha. x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nawe ndugu usipomwimbia, <br/>atafanya mawe yaimbe;<br/>(Yamsifu milele yote, <br/>Bwana Mungu wetu. x2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nyumba ya Bwana milango wazi, <br/>njooni nyote tukaingie;<br/>(Tumwabudu tukamwombe, <br/>Bwana Mungu wetu. x2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tumtolee sadaka safi, <br/>Mungu wetu Baba Mwenyezi;<br/>(Tujitoe sisi wenyewe, <br/>kwake Mungu Baba. x2)</lines>
+    </verse>
+  </lyrics>
+</song>

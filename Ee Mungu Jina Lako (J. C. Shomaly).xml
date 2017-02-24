@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:16">
+  <properties>
+    <titles>
+      <title>Ee Mungu Jina Lako</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana Mungu <br/>jina lako ni tukufu sana, <br/>duniani na mbinguni <br/>wewe watawala! (pia x2) <br/>Nikiziangalia mbingu <br/>kazi ya vidole vyako <br/>Mwezi pia na nyota <br/>Bwana umeratibisha wewe.<br/>Wanyama wa porini, ndege, <br/>samaki warukaruka!  </lines>
+    </verse>
+    <verse name="c2">
+      <lines>(Njooni) njooni tumwimbie Bwana <br/>Njooni tumwimbie Bwana, <br/>yeye ameumba vyote <br/>Njooni tumwimbie. x2 <br/>Njooni tuimbe na ngoma <br/>piga na zeze vinanda <br/>ametuumba njooni tumwimbie.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kaumba nchi <br/>(kaumba wanyama), <br/>samaki wa baharini<br/>(rini na ndege). <br/>Vyote hivyo vyapendeza <br/>(ndeza kama nini)<br/> njooni imbeni <br/>(njooni tumwimbie).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mimea yote <br/>(ameumba yeye), <br/>nchi yote ikajaa misitu. <br/>Chakula chao wanyama <br/>(ni matunda yake), <br/>nyama na ndege wanaruka <br/>(ruka angani). </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tazama mtu <br/>(ndiye kitu gani), <br/>hata wewe umkumbuke <br/>(mbuke ee Bwana). <br/>Na binadamu ni nani <br/>(nani ee Bwana) <br/>umwangazie <br/>(kwa wema).</lines>
+    </verse>
+  </lyrics>
+</song>

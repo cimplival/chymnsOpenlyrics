@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:16">
+  <properties>
+    <titles>
+      <title>Ee Hostia</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ee Hostia (hostia)<br/>yenye wokovu (wokovu)<br/>ee ufunguo wa mbingu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na hila ya (shetani)<br/>tunaposongwa (daima),<br/>utujalie msaada.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Heshima kuu (heshima)<br/>iwe kwa Mungu <br/>(kwa Mungu),<br/>Baba, <br/>Mwanae na Roho.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anatupa (atupa),<br/>uzima wake (uzima)<br/>wa umilele.<br/>Amina.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aleluya, (amina),<br/>aleluya, (amina)<br/>aleluya, aleluya.</lines>
+    </verse>
+  </lyrics>
+</song>

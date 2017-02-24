@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:21">
+  <properties>
+    <titles>
+      <title>Mpeni kaisari</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mpeni kaisari yaliyo <br/>yake kaisari pia mpeni <br/>Mungu yaliyo ya Mungu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Zitende kazi zako (wewe),<br/>kwa nguvu zako zote.<br/>Tembea utakavyo (wewe)<br/>kwa muda wako wote,<br/>lakini umkumbuke <br/>muumba wako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Imba unavyotaka (wewe),<br/>kwa nguvu zako zote<br/>Cheza unavyoweza(wewe)<br/>kwa nguvu zako zote, <br/>lakini umkumbuke <br/>muumba wako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twala uwezavyo (wewe),<br/>kwa cheo chako ndugu.<br/>Tumia utakavyo (wewe)<br/>kwa mali zako zote likine <br/>umkumbuke muumba wako.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Abudu utakavyo (wewe)<br/>amini uwezavyo <br/>Hubiri utakavyo(wewe)<br/>usiku na mchana <br/>likine umkumbuke <br/>muumba wako.</lines>
+    </verse>
+  </lyrics>
+</song>

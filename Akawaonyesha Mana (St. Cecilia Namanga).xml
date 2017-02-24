@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:20">
+  <properties>
+    <titles>
+      <title>Akawaonyesha Mana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>St. Cecilia Namanga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Akawaonyesha mana ili wale, <br/>akawapa nafaka ya mbinguni<br/>Mwanadamu akala <br/>chakula cha mashujaa<br/>Aliwapelekea chakula <br/>cha kuwashibisha). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mambo tuliyoyasikia <br/>na kuyafahamu<br/>Ambayo mababa zetu <br/>walituambia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lakini aliamuru <br/>mawingu ya mbingu<br/>akaifungua milango <br/>ya mbinguni.<br/>Akawanyeshea mana ili wale<br/>akawapa nafaka ya Mbinguni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwanadamu akala <br/>chakula cha mashujaa<br/>aliwapelekea chakula <br/>kuwashibisha.<br/>Aliwapeleka kwa mlima <br/>wake takatifu<br/>mlima alioununua kwa<br/> mkono wake wa kuume.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:33">
+  <properties>
+    <titles>
+      <title>Asiregeee Moyowe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Asiregee moyowe, <br/>asitoke machozi <br/>akikumbuka Mungu wake, <br/>kwa yake makombozi, <br/>Mtoa roho msalabani, <br/>mtaka kufa mwenyewe <br/>kwa sababu kumpendani, <br/>nani mfunga moyowe. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bustani mle Getsemani, <br/>amwona Mungu Baba, <br/>Je mtu Mungu ana nini, <br/>nguvu zake ni haba, <br/>Bwana wangu waziona, <br/>dhambi za binadamu<br/>Mwili wako umetona, <br/>kama jasho la damu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Salamu Rabi salamu, <br/>anena Yuda mbaya, <br/>mwenye moyo wake mgumu, <br/>ambusu pasi haya <br/>aliwaambia basi, <br/>ntakayembusu ndiye, <br/>mtwaeni na kwa upesi, <br/>Yuda nani ni siye.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yuda nani sio yeye, <br/>aliyetenda dhambi, <br/>tukimkosa Mungu Baba, <br/>kumdharau naye mwana, <br/>tukimsikitisha Roho, <br/>tu vipofu kama Yuda, <br/>tunatupa neema yake,<br/>itokayo kwake Yesu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wote ni kupiga mbio, <br/>mitumewe pamoja, <br/>wamtia mikono yao, <br/>askari walokuja <br/>wampeleka hukumuni, <br/>aamuriwe na mtu <br/>atokaye uwinguni, <br/>mwanzi mkuu wa watu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mtume Petri amkanusha, <br/>amenena simjui <br/>uhodari umekwisha, <br/>machoye hainui <br/>Pilato amwona Bwana, <br/>hakukosa ta neno <br/>asema sioni dhambi, <br/>lakini ni mwoga mno. </lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hathubutu kumwachia, <br/>sioni nanawa mikono, <br/>mkimtaka Yesu muueni, <br/>la mwanzi hilo neno <br/>mara askari wamwanza, <br/>ni kupiga kelele, <br/>kumcheka na kumchokoza, <br/>mwenye mema milele.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:22">
+  <properties>
+    <titles>
+      <title>Ewe Mama wa Mwokozi</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>St. Cecilia Mwenge Dsm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ewe Mama wa Mwokozi, <br/>tusikie wanao. Tunaotoa <br/>machozi, kuomba hurumayo.<br/>Tuwe wetu muombezi, <br/>kwa Yesu mwanao.<br/>Maria Mwema tusaidie<br/>tuwe wetu muombezi, <br/>kwa Yesu mwanao<br/>Maria Mwema tusaidie</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Utuombee Maria, <br/>sisi wana wa dunia<br/>tunaosongwa sana <br/>na maovu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa kuwa wewe ni Mama, <br/>Yesu akupenda sana<br/>atalisikiliza ombi lako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Utuombee kwa Yesu, <br/>asafishe dhambi zetu<br/>ili tupate heri ya milele.</lines>
+    </verse>
+  </lyrics>
+</song>

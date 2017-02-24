@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:37">
+  <properties>
+    <titles>
+      <title>Hili Ndilo Neno</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>Neno</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hili ndilo neno,<br/>hili ndilo neno alilotuachia<br/>Bwana Yesu Kristu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tafuta utapata - <br/>Yesu anasema.<br/>Msamaha ukiomba - <br/>Nawe utapata.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nipe Bibilia, nipe Bibilia, <br/>aliyotuachia<br/>nipe Bibilia.</lines>
+    </verse>
+  </lyrics>
+</song>

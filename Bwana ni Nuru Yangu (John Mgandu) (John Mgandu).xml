@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:58">
+  <properties>
+    <titles>
+      <title>Bwana ni Nuru Yangu (John Mgandu)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>John Mgandu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana ni nuru yangu <br/>na wokovu wangu. x2<br/>Bwana ni nuru yangu <br/>na wokovu wangu. x2<br/>(Nimwogope nani, <br/>nimwogope nani, nimwogope nani<br/>Bwana ni nuru yangu <br/>na wokovu wangu) x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana ni ngome <br/>ya uzima na uzima wangu.<br/>Nimhofu nani nimhofu nani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Bwana usikie <br/>kwa sauti ninalia.<br/>Unifadili unijibu<br/>unifadhili unijibu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Moyo wangu umekuambia, <br/>Moyo wangu umekuambia.<br/>Bwana Bwana Bwana Bwana<br/>uso wako nitautafuta.</lines>
+    </verse>
+  </lyrics>
+</song>

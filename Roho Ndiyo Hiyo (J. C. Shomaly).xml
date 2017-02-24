@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:59">
+  <properties>
+    <titles>
+      <title>Roho Ndiyo Hiyo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Roho ndiyo hiyo itiayo uzima<br/>(mwili) Mwili haufai <br/>kitu haufai kitu<br/>maneno hayo <br/>niliyowaambia ni roho,<br/>tena ni uzima. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sheria ya Bwana ni kamilifu,<br/>huiburidisha nafsi yangu<br/>maagizo yake ni ya adili <br/>huufurahisha moyo wangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kicho chake Bwana <br/>ni kitakatifu,<br/>kinadumu milele na milele<br/>hukumu za Bwana <br/>nazo ni kweli,<br/>zina haki kabisa kabisa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tena mtumishi wako huonywa,<br/>katika kuzishika dhawabu<br/>kuzishika zake zake dhawabu,<br/>daima na milele milele.</lines>
+    </verse>
+  </lyrics>
+</song>

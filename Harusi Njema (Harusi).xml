@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:32">
+  <properties>
+    <titles>
+      <title>Harusi Njema</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Harusi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Arusi njema wakristu<br/>ni arusi iliyoandaliwa <br/>mbele ya kanisa. x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akristu, njooni, akristu. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Njooni tushangilie pamoja<br/>Njooni tushangilie leo <br/>ni furaha.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tukiwaona na<br/>wakipatana leo kwetu <br/>ni furaha na<br/>wakipatana leo kwetu ni furaha<br/>wakipatana leo kwetu<br/>ni shangwe.</lines>
+    </verse>
+  </lyrics>
+</song>

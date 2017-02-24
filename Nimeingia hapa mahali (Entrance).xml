@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:31">
+  <properties>
+    <titles>
+      <title>Nimeingia hapa mahali</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nimeingia (Bwana)<br/>hapa mahali patakatifu.<br/>Unipokee (kwako)<br/>unitakase nipate neema.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nimeingia kwako nimeingia <br/>hapa mahali  patakatifu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Bwana mwema wewe <br/>mfadhili sana nakuja <br/>kwako kukutukuza.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nakuabudu pia nakusujudu <br/>nisaidie mimi in wako.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mimi mkristu pokea sala <br/>zangu ninakuomba nisaidie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nihurumie kwani mimi <br/>mnyonge nategemea <br/>msaada wako.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Unipokee kwako unipokee <br/>unitakase nipate neema.</lines>
+    </verse>
+  </lyrics>
+</song>

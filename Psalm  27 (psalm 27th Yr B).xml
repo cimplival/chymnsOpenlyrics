@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:52">
+  <properties>
+    <titles>
+      <title>Psalm  27</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <authors>
+      <author>psalm 27th Yr B</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>May the Lord bless us <br/>all the days of our lives.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Blessed are all <br/>who fear the Lord,<br/>and walk in his ways!<br/>By the labor of your <br/>hands you shall eat.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your wife like a fruitful vine<br/>in the heart of your house;<br/>your children <br/>like shoots of the olive.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Indeed thus shall be blessed<br/>the man who fears the Lord,<br/>May the Lord<br/> bless you from Sion.<br/>May you see <br/>Jerusalem prosper,<br/>all the days of your life.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>May you see your <br/>children's children,<br/>Oh Israel, peace!</lines>
+    </verse>
+  </lyrics>
+</song>

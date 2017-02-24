@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:02">
+  <properties>
+    <titles>
+      <title>Sikukuu ndiyo leo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Easter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sikukuu ndio leo,<br/>sote tufurahi,<br/>mkono wake Mwenyezi<br/>kaleta ushindi.<br/>Kristu abarikiwe anayetujia<br/>kwa jina lake Mungu,<br/>hosana mshindaji.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tuimbe aleluya,<br/>aleluya imbeni<br/>shangwe kwa Bwana Yesu,<br/>leo kafufuka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jiwe lililotupwa ndilo<br/>msingi wetu,<br/>Mungu ameyafanya,<br/>ni ajabu kwetu.<br/>Hii ndiyo ni siku aliyoifanya<br/>Mungu wetu Mwenyezi,<br/>tuishangilie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu Kristu Mwokozi,<br/>tunakushukuru,<br/>wewe ni Mungu wetu, <br/>tunakutukuza.<br/>Kwa majeraha yako<br/>tuweke salama <br/>utulinde daima ee Yesu<br/>Mtukufu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kristu jana na leo,<br/>mwanzo hata mwisho,<br/>zako nyakati zote enzi,<br/>utukufu.<br/>Tumshukuru Mwenyezi <br/>kwa kuwa ni mwema,<br/>kwani zake fadhili zadumu<br/>milele.</lines>
+    </verse>
+  </lyrics>
+</song>

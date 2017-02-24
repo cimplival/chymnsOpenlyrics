@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:18">
+  <properties>
+    <titles>
+      <title>Misa Makoye (Mtakatifu)</title>
+    </titles>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mtakatifu mtakatifu mtakatifu <br/>Bwana Mungu wa majeshi <br/>mbingu na dunia zimejaa<br/>utukufu <br/>kweli zimejaa utukufu wako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Hosana Hosana Hosana juu <br/>mbinguni Hosana). x2 <br/>Mbarikiwa anayekuja anayakuja <br/>kwa jina la Bwana<br/>(Hosana Hosana Hosana<br/> juu mbinguni). x2 </lines>
+    </verse>
+  </lyrics>
+</song>

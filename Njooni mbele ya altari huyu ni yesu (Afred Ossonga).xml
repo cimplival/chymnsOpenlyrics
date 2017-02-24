@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:36">
+  <properties>
+    <titles>
+      <title>Njooni mbele ya altari huyu ni yesu</title>
+    </titles>
+    <authors>
+      <author>Afred Ossonga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Njooni mbele ya altari,ya waalikwa wapendwa.<br/>Huyu ni yesu Kristu.<br/>Tushiriki chakula safi chenye uzima toka mbinguni.<br/>Huyu ni yesu Kristu.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Waumini simameni mtazameni<br/>Huyu ni Yesu Kristu,<br/>Chini ya mafumbo haya matakatifu ya mkate na divai.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Huyu ni Yesu , huyu ni Yesu  <br/>Huyu ni Yesu nii Yesu ni Yesu.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Anatuita wote, tujongee mezani.<br/>Huyu ni Yesu ni Yesu ni Yesu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Karamu ya amani karamu ya mapendo.<br/>Huyu ni Yesu ni Yesu ni Yesu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tuleni mwili wake tunyweni damu yake.<br/>Huyu ni Yesu ni Yesu ni Yesu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tutubu dhambi zetu, twendeni kumpokea.<br/>Huyu ni Yesu ni Yesu ni Yesu.</lines>
+    </verse>
+  </lyrics>
+</song>

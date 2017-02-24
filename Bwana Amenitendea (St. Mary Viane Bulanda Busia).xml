@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:47">
+  <properties>
+    <titles>
+      <title>Bwana Amenitendea</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2</verseOrder>
+    <authors>
+      <author>St. Mary Viane Bulanda Busia</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana amenitendea mambo, <br/>ya ajabu mambo makuu sana.<br/>Amenitendea ya ajabu makuu<br/>Bwana amenitendea mambo<br/>ya ajabu makuu sana.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bwana ametenda haya kwa mkono<br/>ametenda kwa mkono <br/>wake wenye nguvu.<br/>Bwana ametenda, amenitendea <br/>haya kwa huruma yake.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ameniepusha na <br/>magonjwa mengi –<br/>kwa nini nisimshukuru<br/>Mungu wangu<br/>Ameniepusha na ajali nyingi – </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amenipa uhai nazo Baraka<br/>Amenipa neema za kila siku. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amenipa ndugu pia marafiki -<br/>Marafiki hata pia majirani. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amewashinda maadui <br/>zangu wote –<br/>Amenipa ulinzi wa aina zote – </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amenipa uhai bila gharama –<br/>Amenipa Baraka na <br/>neema tele –</lines>
+    </verse>
+  </lyrics>
+</song>

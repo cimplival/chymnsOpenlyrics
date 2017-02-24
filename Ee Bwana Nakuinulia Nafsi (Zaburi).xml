@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:11">
+  <properties>
+    <titles>
+      <title>Ee Bwana Nakuinulia Nafsi</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Ee Bwana, x3 <br/>nakuinulia nafsi yangu). x2 <br/>(Ee Mungu nimekutumaini), x3 <br/>wewe nisiaibike milele.  x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee Bwana unijulishe <br/>nijulishe njia, <br/>unifundishe mapito yako. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Niongoze katika kweli <br/>katika kweli yako, <br/>uniongoze na kunifundisha. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana Mungu ni mwema <br/>sana pia. <br/>Ni mwenye adili atawafundisha <br/>wenye dhambi.</lines>
+    </verse>
+  </lyrics>
+</song>

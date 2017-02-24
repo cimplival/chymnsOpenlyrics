@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:06">
+  <properties>
+    <titles>
+      <title>Take our Bread</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Offertory Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Take our bread, we ask you,<br/>take our hearts, we love you,<br/>take our lives, oh Father,<br/>we are yours, we are yours.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Yours as we stand <br/>at the table you set,<br/>yours as we eat the <br/>bread our hearts can't forget.<br/>We are the signs <br/>of your life with us yet;<br/>We are yours, we are yours. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Your holy people stand <br/>washed in your blood,<br/>spirit-filled, yet hungry, <br/>we await your food.<br/>Poor though we are, <br/>we have brought<br/>ourselves to you:<br/>We are yours, we are yours. </lines>
+    </verse>
+  </lyrics>
+</song>

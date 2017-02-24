@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:49">
+  <properties>
+    <titles>
+      <title>Bwana Asema Mimi Ni Wokovu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana asema mimi ni <br/>wokovu wa watu,<br/>wakinililia katika taabu yoyote,<br/>nitawasikiliza nami nitakuwa <br/>Bwana wao milele. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ewe Bwana uliirithia nchi yote,<br/>umewarejesha mateka wa Yakobo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Umeusamehe uovu wa watu wako<br/>umezisitiri hatua zao zote.</lines>
+    </verse>
+  </lyrics>
+</song>

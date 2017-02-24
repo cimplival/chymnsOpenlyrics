@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:43">
+  <properties>
+    <titles>
+      <title>Huyu ni Yesu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ni nani mbele ya altare hii <br/>awaalika wapendwa.<br/>Huyu ni Yesu Kristu <br/>kushiriki chakula safi chenye <br/>uzima mpya toka Mbinguni—<br/>Huyu ni Yesu Kristu<br/>Waumini simameni mtazameni <br/>huyu ni Yesu Kristu.<br/>Chini ya maumbo haya <br/>matakatifu ya mkate na divai.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Huyu ni Yesu, x2 <br/>huyu ni Yesu, ni Yesu ni Yesu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Anatuita kwake, <br/>tujongee mezani,<br/>huyu ni Yesu ni Yesu ni Yesu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tutubu dhambi zetu <br/>twendeni kumpokea,<br/>huyu ni Yesu ni Yesu ni Yesu. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Karamu ya mapendo, <br/>karamu ya amani<br/>huyu ni Yesu ni Yesu ni Yesu. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kuleni mwili wake, <br/>kunyweni damu yake,<br/>huyu ni Yesu ni Yesu ni Yesu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hima twendeni wote, <br/>tujongee mezani,<br/>huyu ni Yesu ni Yesu ni Yesu.</lines>
+    </verse>
+  </lyrics>
+</song>

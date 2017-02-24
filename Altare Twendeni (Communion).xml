@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:24">
+  <properties>
+    <titles>
+      <title>Altare Twendeni</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Altare altare <br/>(altare twendeni). x2<br/>Altare yake Mungu <br/>Baba twende.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Altare yake Mungu <br/>Baba njoo twendeni.<br/>Tumealikwa leo<br/>Tumsifu Mungu Baba <br/>wetu wa milele<br/>ni muumba wetu asifiwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwili wako na damu yako <br/>ni chakula cha roho<br/>Uzima wangu raha yangu<br/>Asante Mungu wetu <br/>Baba umetuchagua<br/>Ili tuwe wako hadi mwisho</lines>
+    </verse>
+  </lyrics>
+</song>

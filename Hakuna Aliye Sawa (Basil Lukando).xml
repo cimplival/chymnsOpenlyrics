@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:31">
+  <properties>
+    <titles>
+      <title>Hakuna Aliye Sawa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Basil Lukando</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hakuna aliye sawa naye Mungu,<br/>aketiye mahali patakatifu pake.<br/>Anayetutendea mengi <br/>makuu ya ajabu,<br/>basi yatupasa sote tumshukuru. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ardhi yarutubishwa na <br/>mvua zinyeshazo -<br/>kazi hiyo ni ya nani?<br/>Angalieni mazao <br/>yastawi mashambani-<br/>kazi hiyo ni ya nani? </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Watoto wanazaliwa <br/>na kukua nazo afya -<br/>kazi hiyo ni ya nani.<br/>Wazazi wapata riziki <br/>kuwahudumia -<br/>kazi hiyo ni ya nani. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Safari zawa salama <br/>bila misukasuko -<br/>kazi hiyo ni ya nani.<br/>Tumshukuru kwa kuwa<br/>yeye ndiye mwenye haki -<br/>mapenzi yake yatimizwe.</lines>
+    </verse>
+  </lyrics>
+</song>

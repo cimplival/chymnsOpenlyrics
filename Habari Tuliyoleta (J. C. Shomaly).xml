@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:30">
+  <properties>
+    <titles>
+      <title>Habari Tuliyoleta</title>
+      <title>Ni Nani Aliyesadiki</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Je! Je! Ni nani aliyesadiki <br/>habari hii tuliyoleta.<br/>Na! mkono wa Bwana <br/>amefunuliwa nani.<br/>Maana alikua mbele zake,<br/>kama mche kama mche mwororo<br/>(na kama) kama mzizi katika nchi kavu<br/>(Alidharauliwa na kukataliwa na watu<br/>Mtu mwenye huzuni nyingi <br/>ajuaye sikitiko). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ni kama mtu ambaye, <br/>watu humficha uso,<br/>aliyedharauliwa, <br/>hakuhesabiwa kitu.<br/>Hakika kayachukua, <br/>na masikitiko yetu,<br/>amejitwika huzuni, <br/>huzuni, huzuni yetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lakini tulidhania, <br/>yeye kuwa amepigwa,<br/>ya kuwa yeye kapigwa, <br/>kapigwa yeye na Mungu.<br/>Bali alijeruhiwa, <br/>yeye kwa makosa yetu,<br/>alichubuliwa yeye, <br/>pia kwa maovu yetu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adhabu amani yetu,<br/>ilikuwa juu yake,<br/>kwa kupigwa kwa sisi, <br/>sisi sote tumepona.<br/>Sisi ni kama kondoo, <br/>kondoo tumepotea<br/>tumegeukia njia, <br/>kila mtu njia yake.</lines>
+    </verse>
+  </lyrics>
+</song>

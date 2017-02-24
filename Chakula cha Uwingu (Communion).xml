@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:04">
+  <properties>
+    <titles>
+      <title>Chakula cha Uwingu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chakula cha uwingu ni tayari <br/>karamu ya upendo na amani. <br/>Songea (we) jongea <br/>(we) upokee. x2 <br/>Utaonja utamu wa mbinguni. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Chakula cha mbingu ni mwili <br/>wa Yesu na damu yake. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chakula cha mbingu ni mwili <br/>wa Yesu na damu yake. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Atakugawia uzima wa mbingu <br/>ulio bora. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atakushibisha atakubariki <br/>na kukunywesha.</lines>
+    </verse>
+  </lyrics>
+</song>

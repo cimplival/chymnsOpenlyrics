@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:29">
+  <properties>
+    <titles>
+      <title>Glory and Praise</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Alleluia</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Glory and Praise <br/>to you,<br/>Lord Jesus Christ. x2</lines>
+    </verse>
+  </lyrics>
+</song>

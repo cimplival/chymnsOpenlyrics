@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:21">
+  <properties>
+    <titles>
+      <title>Aleluya Tumwabudu Yesu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aleluya tumwabudu <br/>Yesu Kristu,<br/>yu hai mzima katika ekaristi<br/>Aleluya aleluya aleluya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sakramenti kuu hii ya mapendo,<br/>ulimojiweka kwa jili ya watu,<br/>Nasi twakupa yetu leo mapendo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni sadaka ya msalaba twaijua,<br/>kafufuka kisha kapaa kwa Baba,<br/>yuko nasi katika hii Ekaristi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ni chakula chetu bora na kwa ro ho,<br/>ni mwana kondoo yule wa pasaka,<br/>atulisha, atushibisha daima.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Njoni wote tumwabudu <br/>Yesu Kristu, nyoyo zetu, <br/>nyimbo zetu tumtolee,<br/>sifa zetu, shangwe <br/>zetu tumpatie.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mwili wako uwe asili ya heri,<br/>utakase nyoyo <br/>zetu kwa damuyo,<br/>zifike mbinguni daima milele.</lines>
+    </verse>
+  </lyrics>
+</song>

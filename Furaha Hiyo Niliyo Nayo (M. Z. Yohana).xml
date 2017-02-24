@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:27">
+  <properties>
+    <titles>
+      <title>Furaha Hiyo Niliyo Nayo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>M. Z. Yohana</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Furaha hiyo niliyo nayo <br/>yatoka kwa Mungu. x2<br/>(Ndiye Baba (baba), <br/>ninayemtumaini (baba)<br/>kwenye maisha yangu, <br/>yeye ndiye kimbilio). x2 <br/>Baba.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sina budi kumshangilia Mungu,<br/>Baba kwa huruma yake <br/>na wema wake,<br/>Mema mengi aliyonitend’a mimi,<br/>sina budi kushukuru <br/>asante Baba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yeye ndiye tumaini langu mimi,<br/>Ndiye msaada wangu <br/>na wokovu wangu,<br/>Bila Mungu mimi siwezi chochote,<br/>Sina ujanja wowote ni ubatili.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni wangapi, walimpuuza Mungu,<br/>kwa kukiuka sheria <br/>wakapata fimbo.<br/>Wakarudi, wakamlilia Mungu,<br/>kuomba huruma yake, <br/>akawasamehe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nawe ndugu kujiona we mdhambi<br/>Mungu anakutafuta urudi kwake.<br/>Nenda hima ukatubu dhambi zako,<br/>ukaipate furaha iliyo ya kweli.</lines>
+    </verse>
+  </lyrics>
+</song>

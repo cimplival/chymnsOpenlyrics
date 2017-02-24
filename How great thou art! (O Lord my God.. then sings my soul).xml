@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:40">
+  <properties>
+    <titles>
+      <title>How great thou art!</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>O Lord my God.. then sings my soul</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord my God when I in awesome wonder, <br/>consider all the worlds thy hands have made;<br/>I see the stars I hear the rolling thunder, <br/>thy power throughout the universe displayed.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Then sings my soul my Saviour God to thee<br/>How great thou art; how great thou art;<br/>Then sings my soul my Saviour God to thee<br/>How great thou art; how great thou art.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When through the woods and the forest glades<br/>I wonder, and hear the birds sing sweetly in the trees;<br/>When I look down from loftly mountain grandeur;<br/>and hear the brook and feel the gentle breeze.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when I think that God His Son not sparing,<br/>sent him to die I scarce can take it in;<br/>that on the cross my burden gladly bearing, <br/>He bled and died to take away my sin.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When burdens press and seem beyond endurance;<br/>bowed down with grief, to him I lift my face.<br/>And when in love He brings sweet assurance,<br/>my child for thee sufficient is my grace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When Christ shall come with shout of acclamation,<br/>and take me home what joy will fill my heart;<br/>when I shall bow in humble adoration, and there<br/>proclaim, my God how great thou art.</lines>
+    </verse>
+  </lyrics>
+</song>

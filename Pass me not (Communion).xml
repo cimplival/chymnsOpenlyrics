@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:47">
+  <properties>
+    <titles>
+      <title>Pass me not</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pass me not o gentle Saviour,<br/>hear my humble cry,<br/>while on others thou art calling,<br/>do not pass me by.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Saviour, saviour,<br/>hear my humble cry,<br/>while on others <br/>thou art calling,<br/>do not pass me by.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let me at thy throne of mercy,<br/>find a sweet relief,<br/>kneeling there in deep contrition,<br/>help my unbelief.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trusting only in thy merit,<br/>would I seek thy face?<br/>Heal my wounded broken spirit,<br/>save me by thy grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thou the spirit of all comfort,<br/>more than life to me.<br/>Whom have I on earth beside thee?<br/>Whom in heaven but thee?</lines>
+    </verse>
+  </lyrics>
+</song>

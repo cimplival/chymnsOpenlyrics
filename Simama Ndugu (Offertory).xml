@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:03">
+  <properties>
+    <titles>
+      <title>Simama Ndugu</title>
+    </titles>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nenda katoe sadaka toka mashambani,<br/>usisite ndugu nenda ukatoe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Simama ndugu simama ndugu,<br/>Mtolee Mungu wako pato lako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nenda katoe matunda toka mashambani,<br/>usisite ndugu nenda ukatoe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nenda katoe na fedha toka mifukoni,<br/>usisite ndugu nenda ukatoe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nenda katoe mifugo toka vizizini,<br/>usisite ndugu nenda ukatoe.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:31">
+  <properties>
+    <titles>
+      <title>Zawadi Tosha</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>St. Francis of Assisi Kariobangi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nimetunukiwa tuzo <br/>lenye thamani,<br/>nimeletewa zawadi <br/>toka Mbinguni,<br/>nimejishindia Mwana <br/>wa Mungu,<br/>nimepewa Yesu zawadi tosha.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ninashangilia naimba <br/>kwa furaha,<br/>ninarukaruka nacheza <br/>kwa furaha,<br/>napiga makofi na vigelegele,<br/>nimempata Yesu tuzo <br/>la ajabu (mimi).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ninakushukuru <br/>ee Mungu Baba yetu,<br/>nasema asante <br/>kwa mema yako yote<br/>napiga filimbi, <br/>ngoma na kayamba<br/>nimejishindia Bwana <br/>wa mabwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nikiwa na Yesu, <br/>magonjwa yamepona,<br/>nikiwa na Yesu mashaka <br/>yamekwisha,<br/>Yesu kiongozi, Yesu Jemedari,<br/>Yesu mchungaji, <br/>Yesu mambo yote.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maisha marefu <br/>ni tuzo nimetuzwa,<br/>uzima milele nimeshaahidiwa,<br/>mbinguni kwa Baba <br/>nitakaribishwa,<br/>nitaishi vyema <br/>siku zangu zote.</lines>
+    </verse>
+  </lyrics>
+</song>

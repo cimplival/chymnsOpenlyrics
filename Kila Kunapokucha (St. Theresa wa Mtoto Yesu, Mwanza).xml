@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:00">
+  <properties>
+    <titles>
+      <title>Kila Kunapokucha</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>St. Theresa wa Mtoto Yesu, Mwanza</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kila kunapokucha <br/>ndugu zangu mimi<br/>wananikwepa na kunikimbia<br/>majirani zangu wanatazama <br/>na bila kunitamkia neno<br/>wwe Muumba wangu najiuliza<br/>na kujitafakari mimi <br/>au nimekuwa na sura ya simba<br/>au nimekuwa na sura ya chui, <br/>hata ninatisha. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ninapokaa chini na <br/>kutafakari mwe-nendo wangu,<br/>(kwani uko) kwani uko, <br/>ni mimi niliupenda,<br/>(japo magumu) japo <br/>magumu mimi niliyapata,<br/>nilivaa sura ya kifalme <br/>pasipo kuwa na utu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nikiupekua pekua <br/>moyo wangu unanitisha<br/>(ni huo) ni uone <br/>tena kwa kudhamiria<br/>(kwa kauli Kwa kauli <br/>toka kwa ulimi wangu<br/>nilifanana na jitu baya <br/>tena limezalo watu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hakuna adui hakuna <br/>rafiki kwangu wote sawa<br/>(Hakuna mwema) kwangu <br/>mwema katika moyo wangu<br/>(wala rafiki) na rafiki <br/>katika roho yangu<br/>nilijifananisha na chui tena <br/>chui mwenye njaa.</lines>
+    </verse>
+  </lyrics>
+</song>

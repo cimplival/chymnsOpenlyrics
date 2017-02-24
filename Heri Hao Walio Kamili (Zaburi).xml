@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:35">
+  <properties>
+    <titles>
+      <title>Heri Hao Walio Kamili</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Heri hao walio kamili.<br/>Wafuatao sheria za Bwana,<br/>na kutenda yaliyo ya haki.<br/>Heri wenye kumtii Jehova,<br/>Na kwa moyo watamtafuta,<br/>na kufuata hizo njia zake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naam hawakutenda ubatili,<br/>wamezifuata hizo njia zake.<br/>Wewe umetupa mawaidha yako,<br/>ili sisi tuyatii yote.<br/>Ningependa, <br/>njia zangu ziwe Thabiti.<br/>Ningependa.<br/>Mungu nifuate amri zako, <br/>Ndipo mimi<br/>sitaaibika nikifuata maagizo yako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ntakusifu kwa moyo <br/>wa unyofu Bwana.<br/>Nikiisha jifunza hukumu niitatii.<br/>Nitatii amri, usiniache. *2<br/>Jinsi gani mimi nisafishe <br/>njia yangu?<br/>Ni kwa kutii na kufuata njia yako.<br/>Moyo wangu umekutafuta Bwana.<br/>Usiniache nipote mbali.<br/>Niyaache maagizo yako moyoni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Moyo wangu waweka neno lako,<br/>Ee Bwana, kutenda dhambi sitaki.<br/>Neno la Bwana litasimama imara<br/>huko mbinguni moyoni.<br/>Moyo wangu naweka neno lako,<br/>Ee Bwana. Ee Bwana, <br/>ninakupa moyo wangu.<br/>Uniokoe niwe wako milele.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nisife na dhambi.<br/>Ee Bwana ninakupa <br/>moyo wangu, <br/>unipokee.</lines>
+    </verse>
+  </lyrics>
+</song>

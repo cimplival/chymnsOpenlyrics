@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:50">
+  <properties>
+    <titles>
+      <title>Praise I will praise you</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Praise I will praise you, Lord,<br/>with all my heart, O God I<br/>will tell the wonders of your<br/>ways, and glorify and your name.<br/>Praise, I will praise you,<br/>In you I will find the source of<br/>all my joy. Al-le-lu-ia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love I will love you Lord with<br/>all my heart. O God, I will tell<br/>the wonders of you ways,<br/>and glorify you name.<br/>Love, I will love you, Lord,<br/>with all my heart. In you I will<br/>find the source of all my joy.<br/>Al-le-lu-ia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Serve, I will serve you, Lord,<br/>with all my heart. O God, I<br/>will tell the wonders of your <br/>name. Serve I will serve you, <br/>Lord, with all my heart. In you<br/>I will find the source of all my<br/>joy. Al-le-lu-ia!</lines>
+    </verse>
+  </lyrics>
+</song>

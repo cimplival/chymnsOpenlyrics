@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:56">
+  <properties>
+    <titles>
+      <title>Recitation (Kyrie and Gloria)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Prayer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord, have mercy.<br/>Christ, have mercy.<br/>Lord, have mercy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glory to God <br/>in the highest,<br/>and on earth<br/>peace to people <br/>of good will,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>we praise you,<br/>we adore you,<br/>we glorify you,<br/>we give you thanks<br/>for your great glory.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lord God, heavenly King,<br/>O God, Almighty Father.<br/>Lord Jesus Christ,<br/>only Begotten son,<br/>Lord God,<br/>Lamb of God, </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Son of the Father,<br/>you take away <br/>the sins of the world,<br/>have mercy on us;<br/>You take away <br/>the sins of the world,<br/>receive our prayer;</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You are seated <br/>at the right hand <br/>of the Father,<br/>have mercy on us.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>For you alone <br/>are Holy one,<br/>you alone are the Lord,<br/>you alone are<br/>the most High, <br/>Jesus Christ</lines>
+    </verse>
+    <verse name="v8">
+      <lines>with the Holy spirit, <br/>in the glory of God <br/>the Father.<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

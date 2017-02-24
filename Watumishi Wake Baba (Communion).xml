@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:24">
+  <properties>
+    <titles>
+      <title>Watumishi Wake Baba</title>
+    </titles>
+    <verseOrder>v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2 v6 c1 c2 v7 c1 c2</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Watumishi wake Baba <br/>wangapi waliopo, <br/>wanakula na kusaza <br/>chakula chake Baba.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nami — Nami nataabika hapa <br/>Nashi — Nashiriki na nguruwe <br/>Chaku — Chakula kisichofaa, <br/>yanipasa kurudi.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nita — Nitarudi na kusema <br/>Baba — Baba yangu nisamehe <br/>Nime — Nimekosa kwake Mungu <br/>Na mbele yako Baba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Baba kamwona yu mbali <br/>kashikwa na huruma, <br/>akakimbia kumlaki kamkumbata <br/>na busu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baba sistahili tena <br/>kuitwa mwana wako <br/>unifanye kama mmoja <br/>wa watumishi wako. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Baba yangu nimekosa <br/>ninaomba huruma <br/>unisamehe nirudi <br/>nikakutumikie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwana karibisha mimi <br/>kwenye karamu yako <br/>meza imeandaliwa <br/>inaningoja mimi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nasongea ninakuja <br/>ninakukimbilia <br/>mimi ni mtoto mpotevu <br/>Baba unipokee.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Nimekula nimeshiba <br/>nakushukuru Baba <br/>chakula kama asali <br/>asante sana Baba.</lines>
+    </verse>
+  </lyrics>
+</song>

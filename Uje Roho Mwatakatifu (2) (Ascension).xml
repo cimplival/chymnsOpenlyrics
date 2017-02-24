@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:18">
+  <properties>
+    <titles>
+      <title>Uje Roho Mwatakatifu (2)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11</verseOrder>
+    <authors>
+      <author>Ascension</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Uje, Roho Mtakatifu,<br/>tuangaze toka mbingu roho<br/>zetu kwa mwangao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uje, Baba wa maskini,<br/>uje mtoa wa vipaji,<br/>uje, mwanga wa mioyo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ee Mfariji mwema sana,<br/>ee rafiki mwema sana,<br/>ewe raha mustarehe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwenye kazi u pumziko,<br/>kwenye joto burudisho,<br/>U mfutaji wa machozi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ewe mwanga wenye heri,<br/>uwajaze waamini neema<br/>yako mioyoni.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bila nguvu yako wewe,<br/>mwanadamu hana kitu<br/>kwake yote yana kosa.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Osha machafuko yetu,<br/>panyeshee pakavu petu,<br/>na kuponya majeraha.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ulegeze ukaidi,<br/>pasha moto ubaridi,<br/>nyosha upotevu wote.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Wape waamini wako,<br/>wenye tumaini kwako,<br/>paji zako zote saba.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Wape tuzo ya fadhili,<br/>wape mwisho bila ila,<br/>wape heri ya milele.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>Amina, Aleluya, Amina,<br/>Aleluya, Amina, Aleluya.</lines>
+    </verse>
+  </lyrics>
+</song>

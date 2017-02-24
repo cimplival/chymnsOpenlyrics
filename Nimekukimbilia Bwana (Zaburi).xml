@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:31">
+  <properties>
+    <titles>
+      <title>Nimekukimbilia Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nimekukimbilia Bwana,<br/>nisiaibike melele. x2<br/>Kwa haki yako uniponye,<br/>tega sikio niokoe,<br/>uwe mwamba <br/>wa nguvu kwangu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Uwe mwamba wa<br/>makazi yangu,<br/>niendako siku zote,<br/>uniokoe katika watu <br/>waliotega kwa siri.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Usiwe mbali ewe <br/>Mungu wangu,<br/>haraka nisaidie <br/>waaibishe<br/>wanichukiao <br/>adui wa nafsi yangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adui zangu washauriana<br/>waseme umeniacha,<br/>mfuateni mkamateni <br/>hakuna wakumponya.</lines>
+    </verse>
+  </lyrics>
+</song>

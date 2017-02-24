@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:53">
+  <properties>
+    <titles>
+      <title>Bwana Ndiye Mchungaji (16th Sunday of Ordinary Time)</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Bwana ndiye mchungaji wangu <br/>sitapungukiwa na kitu <br/>sitapungukiwa)<br/>(Sitapungukiwa sitapungukiwa <br/>na kitu sitapungukiwa). x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>{(Katika) katika majani <br/>mabichi hunilaza <br/>(kando ya maji)<br/>kando ya maji ya utulivu <br/>huniongoza} x2<br/>{(Aiye) Aiyelele Iyelele <br/>Aiyelele Aiyelele Iyele            <br/>(Bwana) ndiye mchungaji <br/>wangu sitapungukiwa <br/>na kitu}. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hunihuisha nafsi yangu <br/>na kuniongoza katika <br/>njia za haki, <br/>kwa ajili ya jina <br/>lake Bwana ndiye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nam nijapopita katika <br/>bonde la uvuli wa mauti, <br/>sitaogopa mabaya <br/>sitaogopa Bwana ndiye.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwa maana wewe <br/>upo pamoja nami <br/>upo pamoja nami,<br/>gongo lako na fimbo yako <br/>vyanifariji Bwana ndiye.</lines>
+    </verse>
+  </lyrics>
+</song>

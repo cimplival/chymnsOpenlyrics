@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:30">
+  <properties>
+    <titles>
+      <title>ni vipaji twaleta kwako baba mwenyezi ee baba pokea</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>sadaka</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>ni vipaji twaleta kwako baba mwenyezi ee baba pokea</lines>
+    </verse>
+    <verse name="v1">
+      <lines>mkate na divai pokea baba mazao ya mashamba upokee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>zigeuze kuwa mwili pokea baba<br/>na damu yake Kristu upokee</lines>
+    </verse>
+    <verse name="v3">
+      <lines>watoto wetu baba pokea baba<br/>familia zetu baba upokee</lines>
+    </verse>
+  </lyrics>
+</song>

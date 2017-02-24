@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:26">
+  <properties>
+    <titles>
+      <title>Amelaaniwa Mtu Yule</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana asema hivi, <br/>amelaaniwa mtu yule<br/>amtegemeaye mwanadamu<br/>Amfanyaye mwanadamu <br/>kuwa kinga yake<br/>(Na moyoni mwake<br/>amemwacha Bwana<br/>Na moyoni mwa-ke a<br/>memwacha Bwana). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa maana yeye atakuwa <br/>kama vile fukara nyikani.<br/>Naye ataona siku zote <br/>yote mema yatendwayo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yeye ataishi maisha ya <br/>jangwani na yaliyo na ukame.<br/>Kwenye nchi kavu, yenye <br/>chumvi isiyokuwa na watu. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kama vile kware asanyaye <br/>makinda asiyoyazaa.<br/>Ni sawa na yule apataye <br/>mali wala si kwa haki. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amebarikiwa mtu yule <br/>amwitaye Bwana ndiye njia.<br/>Ndiye tumaini lake yeye <br/>siku za maisha yake.</lines>
+    </verse>
+  </lyrics>
+</song>

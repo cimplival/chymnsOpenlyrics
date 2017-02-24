@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:30">
+  <properties>
+    <titles>
+      <title>Nimeahidi Yesu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nimeahidi Yesu — <br/>kukutumikia. <br/>Wewe U Bwana wangu — <br/>u rafiki pia. <br/>Sitaogopa vita — <br/>wewe ndiwe mweza <br/>Sitaiacha njia —<br/>ukiniongoza.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Imbeni aleluya, Alleluia imbeni <br/>shangwe kwa Bwana Yesu <br/>ndiye mweza wetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dunia i karibu — <br/>Bwana siniache. <br/>Na mengi majaribu — <br/>yako pande zote. <br/>Siku zote adui — <br/>ni ndani nanje. <br/>Bwana Yesu nivute — <br/>karibu na wewe. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nikusikie wewe Bwana — <br/>nenda nami Bwana. <br/>Kelele za dunia — <br/>ndizo nyingi sana. <br/>Nena kunihimiza — <br/>au kunionya.<br/>Nena nikusikie — <br/>mwenye kuniponya. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Umewapa ahadi — <br/>wakufuatao. <br/>Kwenda uliko wewe — <br/>wawe huko nao. <br/>Nami nimeahidi — <br/>kukutumikia. <br/>Nipe neema Bwana — <br/>ya kukwandamia. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hatua yako Bwana — <br/>Na nizikanyage. <br/>Wewe u mwenye nguvu — <br/>mimi ni mnyonge. <br/>Niongoze nivute — <br/>nishike daima.<br/>Mwishoni niwasili — <br/>mbinguni salama.</lines>
+    </verse>
+  </lyrics>
+</song>

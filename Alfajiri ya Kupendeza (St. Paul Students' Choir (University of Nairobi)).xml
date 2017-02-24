@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:21">
+  <properties>
+    <titles>
+      <title>Alfajiri ya Kupendeza</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>St. Paul Students' Choir (University of Nairobi)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Alfajiri ya kupendeza, <br/>ni siku njema siku <br/>yenye baraka.<br/>Jua limekwishachomoza, <br/>laamsha wote waliolala.<br/>Ndege nao wanalialia <br/>kumshukuru Muumba.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Njooni,<br/>(Njooni baba mama na watoto<br/>njooni wote mbele za Bwana<br/>tumtolee shukrani zetu, <br/>kwa kutoa sadaka). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ndege wanamshukuru, <br/>kwa sauti za kupendeza.<br/>Na sisi tumshukuru, <br/>kwa zawadi alizotupa <br/>(njooni).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wanyama pia na mimea, <br/>vyote vimeumbwa na Mungu.<br/>Vitu vyote vya duniani, <br/>vyapaswa kumshukuru Mungu <br/>(njooni).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aliumba dunia hii, <br/>kaweka giza pia mwanga.<br/>Mchana tufanyeni kazi, <br/>usiku na tupumzike. <br/>(njooni)</lines>
+    </verse>
+  </lyrics>
+</song>

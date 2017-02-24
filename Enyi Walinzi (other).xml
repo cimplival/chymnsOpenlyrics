@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:21">
+  <properties>
+    <titles>
+      <title>Enyi Walinzi</title>
+      <title>Yesu Hayumo Katika Kaburi</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Enyi walinzi mwaenda wapi,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yesu hayumo katika kaburi <br/>(hakika), <br/>na Galilaya katangulia <br/>ni mzi-ma aleluya. x2<br/>Tuimbe leo Bwana amefufuka. x2<br/>Tuimbe leo hakika <br/>Bwana amefufuka<br/>Aaah aah aah kuu aleluya<br/>Aaah aah aleluya <br/>furaha kuu aleluya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nanyi walinzi uoga mwingi, </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na manukato mnayobeba,</lines>
+    </verse>
+  </lyrics>
+</song>

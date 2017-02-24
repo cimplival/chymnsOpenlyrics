@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:02">
+  <properties>
+    <titles>
+      <title>Kinywa Changu Kitasimulia</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Alex Nkanda</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kinywa changu kitasimulia haki<br/>na wokovu wako,<br/>kitasimulia haki <br/>na wokovu wako. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nimekukimbilia ewe Bwana <br/>nisiaibike milele.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ndiwe peke yako kinga langu,<br/>unikinge Bwana na mkorofi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nimekukimbilia wewe <br/>Bwana nisiabike milele.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mikononi mwako <br/>Bwana niokoe,<br/>unisikie Bwana, uniokoe.</lines>
+    </verse>
+  </lyrics>
+</song>

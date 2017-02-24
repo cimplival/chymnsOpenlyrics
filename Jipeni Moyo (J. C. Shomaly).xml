@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:54">
+  <properties>
+    <titles>
+      <title>Jipeni Moyo</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Waambieni wenye moyo safi,<br/>jipeni moyo. x2<br/>Tazama Mungu wenu <br/>anakuja kuwaokoa,<br/>Naye atawasikizisha nyinyi <br/>sauti yake katika.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Furaha ya mioyo yenu x3, <br/>mioyo yenu,<br/>furaha furaha, <br/>furaha ya mioyo-furaha,<br/>ya mioyo mioyo yenu<br/>furaha x5 <br/>ya mioyo mioyo yenu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nawaambieni (waambieni) <br/>wote jipeni moyo,<br/>(jipeni moyo), <br/>Mungu wenu anakuja <br/>kuwaokoa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Machozi yenu (na kilio), <br/>pia ni furaha yenu<br/>(hakika), <br/>kupanda ndio machozi, <br/>mavuno furaha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nyenyekeeni (nyenyekea) <br/>wote kiti chake Mungu,<br/>(cha Mungu), <br/>ppate uzima ule <br/>utokao kwake.</lines>
+    </verse>
+  </lyrics>
+</song>

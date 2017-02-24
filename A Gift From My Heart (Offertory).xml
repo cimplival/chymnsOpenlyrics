@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:19">
+  <properties>
+    <titles>
+      <title>A Gift From My Heart</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v4 c1 v5 v6</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>What shall I offer to the Lord,<br/>to make him happy?<br/>O tell me, <br/>What shall I offer to the Lord <br/>to please him? x2 </lines>
+    </verse>
+    <verse name="v1">
+      <lines>I may give him the best of my <br/>clothes, he may not take it.<br/>I may give him the best of <br/>my shoes, he may not take it. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A loving heart, (he will love),<br/>a patient heart, (he will love),<br/>a humble heart, (he will love)<br/>a caring heart,<br/>he will love. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I may give him the gift of a<br/>ram, he may not take it.<br/>I may give him the gift of <br/>a cow, he may not take it. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A loving heart, (he will love),<br/>a patient heart, (he will love),<br/>a humble heart, (he will love)<br/>a caring heart,<br/>he will love. x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I may give him the gift of a <br/>house, he may not take it.<br/>I may give him the gift of a<br/>car, he may not take it. x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A loving heart, (he will love),<br/>a patient heart, (he will love),<br/>a humble heart, (he will love)<br/>a caring heart,<br/>he will love. x2</lines>
+    </verse>
+  </lyrics>
+</song>

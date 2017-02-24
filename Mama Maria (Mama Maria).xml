@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:12">
+  <properties>
+    <titles>
+      <title>Mama Maria</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Mama Maria</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Maria mama wa Mungu <br/>m-barikiwa na mwenye heri,<br/>ulituzalia M-kombozi wetu <br/>tunakusalimu. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ave ave mama yetu <br/>sisi wanao twakusalimu<br/>Malkia wa mitume msimamizi <br/>wa Jumuiya yetu. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uliyekiwa dhambi ya asili <br/>mwombezi Maria<br/>twazikabidhi kwako vikundi <br/>vyote vya kanisa letu. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uliyepalizwa mbinguni <br/>kwa Mungu Baba utupokee<br/>ongoza kanisa letu <br/>twalitegemea ombi lako. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Karibu karibu mama <br/>tujumuike pamoja nawe,<br/>utufudishe kuomba <br/>na kuishi kindugu salama. x2</lines>
+    </verse>
+  </lyrics>
+</song>

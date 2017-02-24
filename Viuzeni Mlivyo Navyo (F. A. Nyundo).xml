@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:22">
+  <properties>
+    <titles>
+      <title>Viuzeni Mlivyo Navyo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>F. A. Nyundo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Viuzeni mlivyo navyo <br/>mtoe sadaka<br/>kwani mnajiwekea <br/>hazina mbinguni.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ziwekeni fedha zenu <br/>katika akiba ya mbinguni<br/>ziwekeni mali zenu katika <br/>mifuko ya mbinguni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Msidhani kwamba mnazipoteza <br/>mali zenu bure<br/>kweli kwamba mnaweka <br/>katika hazina ya mbinguni. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Viuzeni mali zenu mtoe <br/>sadaka kwake Bwana<br/>viuzeni vitu vyote mweke <br/>hazina ya mbinguni.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Rudisheni vitu vyote <br/>kwani yeye ndiye aliwapa<br/>aliwapa bure nanyi <br/>pia mkazirudishe bure.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mkatoe kwake Bwana <br/>kwa moyo mmoja na mapendo<br/>ni akiba mnaweka <br/>katika mifuko ya mbinguni.</lines>
+    </verse>
+  </lyrics>
+</song>

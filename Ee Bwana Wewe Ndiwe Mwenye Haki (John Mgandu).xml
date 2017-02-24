@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:15">
+  <properties>
+    <titles>
+      <title>Ee Bwana Wewe Ndiwe Mwenye Haki</title>
+      <title>Ndiwe Mwenye Haki</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>John Mgandu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Ee Bwana Bwana, <br/>ee Bwana Bwana, <br/>wewe ndiwe mwenye haki). x2 <br/>Na hukumu zako <br/>(na hukumu zako), <br/>na hukumu zako hukumu <br/>zako ni za adili. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kama zilivyo rehema zako, <br/>unitendee mtumishi wako. <br/>Na amri amri zako, <br/>unifundishe unifundishe. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mimi ni mtumishi wako, <br/>unifahamishe unifahamishe. <br/>Nipate kuzitoa, <br/>shuhuda zako shuhuda zako. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana uwape amani wakungojao,<br/>Ili watu wawasadiki manabii wako.<br/>Usikilize sala ya mtumwa wako, <br/>na ya taifa lako Israeli.</lines>
+    </verse>
+  </lyrics>
+</song>

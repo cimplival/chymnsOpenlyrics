@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:04">
+  <properties>
+    <titles>
+      <title>Kristu Mfalme</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Bernard Mukasa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ulimwengu unakiri <br/>mbingu zinahubiri<br/>kwamba yeye ni mwanzo <br/>na kwamba huyo huyo ni mwisho<br/>kwa kuwa huyo ni Alfa <br/>na bado ni Omega<br/>kwamba yeye ni mwanzo <br/>na kwamba huyo huyo ni mwisho.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Huyu mtukufu, <br/>ndiye Kristu mfalme. x2<br/>Mtawala wa upendo, <br/>yeye Kristu<br/>ajitoaye sadaka, <br/>yeye Kristu<br/>huyu mtukufu, <br/>ndiye Kristu mfalme.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anatawala dunia anamiliki mbingu,<br/>Kwamba yeye ni mwanzo <br/>na kwamba<br/>huyo huyo ni mwisho.<br/>Aliyekuwapo mwanzo, <br/>aliyepo na ajaye<br/>Kwamba yeye ni mwanzo <br/>na kwamba<br/>huyo huyo ni mwisho.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anayesujudiwa na <br/>watawala wa nchi,<br/>kwamba yeye <br/>ni mwanzo na kwamba<br/>huyo huyo ni mwisho.<br/>Anayewadhamini hata wamkataao,<br/>kwamba yeye <br/>ni mwanzo na kwamba<br/>huyo huyo ni mwisho.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tuliyemjengea <br/>nyumba ya kumtukuza,<br/>kwamba yeye <br/>ni mwanzo na kwamba<br/>huyo huyo ni mwisho.<br/>Akavutiwa nayo- na ameibariki<br/>kwamba yeye <br/>ni mwanzo na kwamba<br/>huyo huyo ni mwisho. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tuingie kwa shangwe <br/>twende kumshangilia,<br/>Kwamba yeye <br/>ni mwanzo na kwamba<br/>huyo huyo ni mwisho.<br/>Turukeruke nyumba <br/>tufurahi na malaika,<br/>Kwamba yeye <br/>ni mwanzo na kwamba<br/>huyo huyo ni mwisho.</lines>
+    </verse>
+  </lyrics>
+</song>

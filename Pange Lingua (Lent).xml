@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:46">
+  <properties>
+    <titles>
+      <title>Pange Lingua</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Lent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pange, lingua, gloriosi, <br/>Corporis mysterium,<br/>sanguinisque pretiosi, <br/>quem in mundi pretium<br/>fructus ventris generosi, <br/>rex effudit Gentium.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nobis datus, nobis natus, <br/>ex intacta Virgine,<br/>et in mundo conversatus, <br/>sparso verbi semine,<br/>sui moras incolatus, <br/>miro clausit ordine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>In supremae nocte coenae, <br/>recumbens cum fratribus<br/>observata lege plene, <br/>cibis in legalibus,<br/>cibum turbae duodenae, <br/>se dat suis manibus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Verbum caro, panem verum, <br/>verbo carnem efficit:<br/>Fitque sanguis Christi merum, <br/>et si sensus deficit,<br/>ad firmandum cor sincerum, <br/>sola fides sufficit.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tantum ergo Sacramentum, <br/>veneremur cernui:<br/>Et antiquum documentum, <br/>novo cedat ritui:<br/>Praestet fides supplementum, <br/>sensuum defectui.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Genitori, Genitoque, <br/>laus et jubilatio,<br/>salus, honor, virtus quoque, <br/>sit et benedictio:<br/>procedenti ab utroque,<br/>compar sit laudatio.</lines>
+    </verse>
+  </lyrics>
+</song>

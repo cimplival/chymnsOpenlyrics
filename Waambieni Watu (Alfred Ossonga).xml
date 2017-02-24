@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:22">
+  <properties>
+    <titles>
+      <title>Waambieni Watu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Alfred Ossonga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Waambieni watu walio <br/>na moyo wa hofu. x2<br/>(Jipeni moyo, msiogope (ogope) <br/>(kwa maana)<br/>tazama Mungu wenu nakuja <br/>kuwaokoa nyinyi. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Itieni nguvu <br/>mikono iliyo dhaifu.<br/>(Na fanyeni imara magoti <br/>yaliyolegea). x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ndipo macho ya vipofu <br/>yatafunguliwa.<br/>(Na masikio ya viziwi <br/>yatazinduliwa). x2 </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ndipo na kilema atarukaruka.<br/>(Na ulimi wake bubu <br/>ndipo utakapoimba). x2 </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na katika nyika <br/>maji yatabumbujika.<br/>(Na nchi yenye kiu <br/>itakuwa chemichemi). x2</lines>
+    </verse>
+  </lyrics>
+</song>

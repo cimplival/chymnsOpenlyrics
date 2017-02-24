@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:00">
+  <properties>
+    <titles>
+      <title>Sadaka Yetu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sadaka yetu ya <br/>mkate na divai,<br/>tunakutolea Baba <br/>mbele yako,<br/>twakuomba Baba <br/>Mungu pokea.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ni fedha kutoka <br/>mifukoni mwetu, <br/>hizo ni juhudi za <br/>mikono yetu, <br/>twakuomba Baba <br/>Mungu pokea.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nafaka kutoka <br/>mashambani mwetu,<br/>nazo ni juhudi za <br/>mikono yetu, <br/>twakuomba Baba <br/>Mungu pokea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tunaleta kwako <br/>na maombi yetu,<br/>na matatizo <br/>yanayotusumbua, <br/>twakuomba Baba <br/>Mungu pokea.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tunaleta kwako <br/>udhaifu wetu,<br/>tunaleta kwako <br/>na magonjwa yetu, <br/>twakuomba Baba <br/>Mungu pokea.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Huruma yako ndiyo <br/>faraja kwetu,<br/>mapendo yako ndiyo <br/>faraja kwetu, <br/>twakuomba Baba <br/>Mungu pokea.</lines>
+    </verse>
+  </lyrics>
+</song>

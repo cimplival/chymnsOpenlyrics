@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:28">
+  <properties>
+    <titles>
+      <title>Amri Mpya Nawapa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>St. Cecilia Arusha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Amri mpya nawapa, <br/>amri mpya nawapa<br/>mpendane, mpendane <br/>kama vile nilivyowapenda ninyi.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana Yesu alipokwisha <br/>kuwaosha miguu <br/>wanafunzi wake,<br/>akawaambia akasema, <br/>akawaambia akasema.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hivyo watu watatambua <br/>ya kwamba nyinyi <br/>mmekuwa wanafunzi wangu<br/>Mkiwa na upendo, <br/>mkiwa na upendo <br/>ninyi kwa ninyi.</lines>
+    </verse>
+  </lyrics>
+</song>

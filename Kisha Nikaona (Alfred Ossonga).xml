@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:02">
+  <properties>
+    <titles>
+      <title>Kisha Nikaona</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Alfred Ossonga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kisha nikaona mbingu <br/>mpya na nchi mpya,<br/>kisha nikaona mbingu <br/>mpya na nchi mpya,<br/>Nikauona mji (mji ule), <br/>ule mtakatifu,<br/>Jerusalem mpya ukishuka <br/>toka mbinguni.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa maana Mbingu ya kwanza<br/>na nchi ya kwanza, <br/>zimekwisha kupita,<br/>wala hapana bahari tena.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nikasikia sauti kubwa ikotoka,<br/>kwenye kiti cha enzi<br/>tazama maskani yake Mungu. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naye Mungu <br/>mwenyewe atakuwa,<br/>pamoja nao, naye atayafuta,<br/>machozi katika macho yao. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mauti maombolezo <br/>kilio maumivu,<br/>hayatakuwapo<br/>tazama yote <br/>yamekuwa mapya.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:54">
+  <properties>
+    <titles>
+      <title>Jina la Yesu Lafanya Mambo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>C. A. L. Ndomelo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Aeeh! Njooni muone - muone.<br/>Njooni muone - muone.<br/>Njooni muone Jina la Yesu - aeh!<br/>(Linafanya mambo - aa aah!<br/>linafanya mambo - jina la Yesu<br/>lafanya mambo makuu sana). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa jina la Yesu <br/>pepo wanakimbia.<br/>Kwa jina la Yesu <br/>wagonjwa wanapona.<br/>Kwa jina la Yesu <br/>viwete wanatembea.<br/>Kwa jina la Yesu <br/>vipofu wanaona.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa jina la Yesu <br/>mabubu wanaongea.<br/>Nao viziwi wana <br/>wanakusikia.<br/>Kwa jina la Yesu <br/>waganga wanaokoka.<br/>Kwa jina la Yesu <br/>dhambi wanazitubu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwa jina la Yesu <br/>waongo wanaokoka.<br/>Kwa jina la Yesu <br/>na wezi wanatubu.<br/>Kwa jina la Yesu <br/>wazinzi wanaokoka.<br/>Kwa jina la Yesu <br/>mbinguni wataenda.</lines>
+    </verse>
+  </lyrics>
+</song>

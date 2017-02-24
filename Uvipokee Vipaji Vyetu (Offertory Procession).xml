@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:21">
+  <properties>
+    <titles>
+      <title>Uvipokee Vipaji Vyetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Uvipokee, uvipokee<br/>(Bwana)<br/>vipaji, vipaji vyetu.<br/>Bwana Mungu <br/>uvipokee. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Uvipokee Bwana,<br/>vipaji vyetu Bwana,<br/>Bwana Mungu <br/>uvipokee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uipokee Bwana,<br/>sadaka yetu Bwana,<br/>Bwana Mungu <br/>uipokee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uyapokee Bwana<br/>mazao yetu Bwana,<br/>Bwana Mungu <br/>uyapokee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Utupokee Bwana <br/>nasi watoaji Bwana <br/>Bwana Mungu<br/>utupokee.</lines>
+    </verse>
+  </lyrics>
+</song>

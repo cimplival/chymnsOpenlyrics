@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:55">
+  <properties>
+    <titles>
+      <title>Rafiki Yangu Njoo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>J. Bahati</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rafiki yangu njoo kaa chini, <br/>nisikilize kwa makini<br/>rafiki njoo kaa chini, <br/>nikueleze jambo moja aah.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kila mtu atalipwa sawasawa <br/>na matendo ooh<br/>kila mtu atalipwa sawa <br/>nayo matendo yake. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kama uliua kwa upanga, <br/>utakufa kwa upanga<br/>uliua kwa silaha, <br/>utakufa kwa silaha aah.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kama ulikuwa ni mzinzi, <br/>utakufa kwa uzinzi<br/>ulikuwa mzinifu, <br/>utakufa kwa uzinzi iih.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kama ulikuwa mfitini, <br/>utalipwa ufitini<br/>ulikuwa mfitini, <br/>utalipwa ufitini iih.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kama ulikuwa mkarimu, <br/>utalipwa ukarimu<br/>ulikuwa ni mchoyo, <br/>utalipwa sawa na choyo ooh.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kama ulinitendea wema, <br/>utalipwa matendo mema<br/>ulinitendea baya, <br/>utalipwa kwa ubaya aah.</lines>
+    </verse>
+  </lyrics>
+</song>

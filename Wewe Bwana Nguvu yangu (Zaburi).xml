@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:26">
+  <properties>
+    <titles>
+      <title>Wewe Bwana Nguvu yangu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Wewe Bwana nguvu yangu <br/>nakupenda sana, wewe Bwana, <br/>Bwana ni jabali langu<br/>na boma na mwokozi wangu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mungu wangu, <br/>mwamba wangu ni naye kukimbilia, <br/>ugao yangu na pembe <br/>ya wokovu wangu na ngome yangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nitamwita Bwana <br/>astahiliye kusifiwa <br/>hivyo nitaokoka na adui zangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana ndiye aliyehai, <br/>na atukuzwe Mungu<br/> wa wokovu wangu, <br/>ampa Mfalme wokovu mkuu <br/>amfanyia fadhili masihi wake.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:29">
+  <properties>
+    <titles>
+      <title>Yes I shall Arise</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1 v10 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Yes I shall arise <br/>and return to my Father.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>To you O Lord <br/>I lift up my soul,<br/>in you O my God <br/>I place all my trust.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Look down on me<br/>have mercy O Lord,<br/>forgive me my sins <br/>behold all my grief.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>My heart and my soul<br/>shall yearn for your face,<br/>be gracious to me<br/>and answer my plea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Do not withhold <br/>your goodness from me,<br/>O Lord may your love<br/>be deep in my soul.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To you I pray <br/>have pity on me, <br/>my God I have sinned <br/>against you great love.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mercy I cry O Lord<br/>wash me clean,<br/>and whiter than snow<br/>my spirit shall be.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Give me again <br/>the joy of your help,<br/>now open my lips <br/>your praise I will sing.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Happy is he forgiven by God,<br/>his sins blotted out his guilt<br/>is no more.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>You are my joy<br/>my refuge and my strength, <br/>let all upright hearts<br/>give praise to the Lord.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>My soul will sing<br/>my heart will rejoice,<br/>the blessing of God will<br/>fill all my days.</lines>
+    </verse>
+  </lyrics>
+</song>

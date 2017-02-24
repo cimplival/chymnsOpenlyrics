@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:57">
+  <properties>
+    <titles>
+      <title>Kama Vile Mwili</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Ochieng Odongo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kama vile mwili ni mmoja <br/>nao unao viungo vingi<br/>tena na viungo vyote <br/>vya mwili ulonavyo ni vingi<br/>(kweli) ni mwili mmoja. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Vinafanya kazi zote, <br/>kwa pamoja siku zote<br/>kwani vyote vya maana, <br/>na vizuri kwelikweli<br/>nasi sote Wakristu <br/>tushirikiane. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa maana katika Roho, <br/>sisi sote tulibatizwa<br/>tulinyweshwa Roho mmoja, <br/>basi sote ni mwili mmoja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kama sisi ni Wayahudi <br/>au sisi ni Wayunani<br/>tukiwa ndani ya Yesu <br/>hatuko tofauti kabisa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miguu, mikono na macho <br/>masikio hata mapua<br/>na viungo vyote vya mwili <br/>vinafanya kazi kwa pamoja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Katika kanisa la Bwana <br/>sisi sote tuna nafasi<br/>tutumie nafasi zetu kwa <br/>huduma ya kanisa lake.</lines>
+    </verse>
+  </lyrics>
+</song>

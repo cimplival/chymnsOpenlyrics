@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:59">
+  <properties>
+    <titles>
+      <title>Karibuni Watu Wote</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Karibuni watu wote,<br/>Twende kwake Bwana Yesu<br/>tujongee mbele zake<br/>tumwabudu Mungu wetu<br/>aai aiya<br/>twende wote kwa furaha <br/>tupige vigelegele<br/>tumwimbie Mungu wetu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kama si uwezo <br/>wake hatungepata uhai.<br/>Alleluia<br/>atukuzwe Mungu wetu<br/>kama si uwezo wake <br/>hatungekuwa na nguvu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wana wako Bwana Mungu <br/>tumekuja mbele zako.<br/>Alleluia<br/>atukuzwe Mungu wetu<br/>twakuomba ewe Mungu <br/>upokee sala zetu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kina mama kina baba <br/>tumsifu Mungu wetu.<br/>Alleluia--<br/>atukuzwe Mungu wetu<br/>na wazee kwa vijana <br/>tumsifu Mungu wetu.</lines>
+    </verse>
+  </lyrics>
+</song>

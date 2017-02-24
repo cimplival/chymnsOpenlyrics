@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:17">
+  <properties>
+    <titles>
+      <title>Ee Mungu Umenichunguza</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Mungu wangu umenichunguza,<br/>Ukanifahamu nilivyo mimi. x2<br/>Wayafahamu matendo yangu<br/>nikiketi au kusimama, <br/>wewe unanijua mimi. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nikiwa kazini waniona –<br/>wewe unanijua mimi.<br/>Wewe wajua mawazo yangu –<br/>wewe unanijua mimi.<br/>Ningali bado nafikiria –<br/>wewe unanijua mimi.<br/>Nikifanya mabaya gizani –<br/>wewe unanijua mimi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wanizunguka kila upande –<br/>wewe unanijua mimi.<br/>Waniwekea mkono wako –<br/>wewe unanijua mimi.<br/>Maarifa hayo ni ya ajabu –<br/>wewe unanijua mimi.<br/>Siwezi kuyaelewa mimi –<br/>wewe unanijua mimi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nikimbie wapi mbali na wewe –<br/>wewe unanijua mimi.<br/>Niende wapi nikajifiche –<br/>wewe unanijua mimi.<br/>Nikipanda juu wewe uko –<br/>wewe unanijua mimi.<br/>Nikiwa safarini waniona –<br/>wewe unanijua mimi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Umeniumba mwili na roho –<br/>wewe unanijua mimi.<br/>Ulinitengeneza tumboni –<br/>wewe unanijua mimi.<br/>Hata kabla sijazaliwa –<br/>wewe unanijua mimi.<br/>Uwezo wako ni wa ajabu –<br/>wewe unanijua mimi.</lines>
+    </verse>
+  </lyrics>
+</song>

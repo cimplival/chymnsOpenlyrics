@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:29">
+  <properties>
+    <titles>
+      <title>Ni amani katika Yesu Bwana</title>
+    </titles>
+    <authors>
+      <author>Amani</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ni amani katika Yesu Bwana,<br/>ni amani.<br/>Ni amani katika Yesu Bwana,<br/>ni amani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ni upendo katika Yesu Bwana,<br/>ni upendo.<br/>Ni upendo katika Yesu Bwana,<br/>ni upendo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni baraka katika Yesu Bwana,<br/>ni baraka.<br/>Ni baraka katika Yesu Bwana,<br/>ni baraka.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ni faraja katika Yesu Bwana,<br/>ni faraja.<br/>Ni faraja katika Yesu Bwana,<br/>ni faraja.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ni fadhili katika Yesu Bwana,<br/>ni fadhili.<br/>Ni fadhili katika Yesu Bwana,<br/>ni fadhili.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ni umoja katika Yesu Bwana,<br/>ni umoja.<br/>Ni umoja katika Yesu Bwana,<br/>ni umoja.</lines>
+    </verse>
+  </lyrics>
+</song>

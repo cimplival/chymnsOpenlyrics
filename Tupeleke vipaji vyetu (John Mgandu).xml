@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:16">
+  <properties>
+    <titles>
+      <title>Tupeleke vipaji vyetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>John Mgandu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tupeleke vipaji vyetu <br/>tukamtolee Bwana (pia),<br/>pia na nafsi zetu, <br/>tukamtolee Bwana<br/>ili azibarikie. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mali zetu zote <br/>tumpelekee Bwana, <br/>tunamuomba azitakase <br/>ziwe safi sana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kazi ya mikono <br/>yetu tunamtolea Bwana, <br/>ili iwe shukrani kwake, <br/>Mungu muumba wetu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yeye ndiye muumba <br/>na anatupenda sisi, <br/>wajibu wetu siku <br/>zote tumtumikie.</lines>
+    </verse>
+  </lyrics>
+</song>

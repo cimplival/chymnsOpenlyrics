@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:56">
+  <properties>
+    <titles>
+      <title>Kaa Pamoja Nasi Bwana</title>
+      <title>Wanafunzi Wawili Wa Yesu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>John Mgandu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wanafunzi wawili wa Ye-su <br/>(wa Yesu)<br/>walipokaribia Ema-u (Emau)<br/>yesu alifanya kama ana-taka <br/>kuende-lea mbele<br/>wakamshawishi wakamshawishi <br/>wakisema.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kaa pamoja nasi Bwana, <br/>kaa pamoja nasi Bwana,<br/>kaa pamoja nasi Bwana, <br/>kwa kuwa kumekutwa <br/>na mchana umekwisha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akaingia ndani, akaingia ndani,<br/>na kukaa nao, na kukaa nao,<br/>akaingia ndani, akaingia ndani,<br/>na kukaa nao, na kukaa nao.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nasi twende na <br/>Yesu aliyefufuka<br/>maishani mwote <br/>tuishi naye Yesu (wakristu)<br/>nasi twende na Yesu aliyefufuka<br/>maishani mwote tuishi <br/>naye Yesu Mwo-ko-zi.</lines>
+    </verse>
+  </lyrics>
+</song>

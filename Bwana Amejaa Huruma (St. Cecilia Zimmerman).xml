@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:47">
+  <properties>
+    <titles>
+      <title>Bwana Amejaa Huruma</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>St. Cecilia Zimmerman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana amejaa <br/>huruma (amejaa),<br/>Bwana amejaa <br/>huruma na neema.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee nafsi yangu <br/>umhimidi Bwana,<br/>naam vyote vilivyomo <br/>ndani yangu<br/>vilihimidi jina lake takatifu. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akusamehe maovu yako<br/>akuponye magonjwa <br/>yako yote,<br/>akutie taji ya <br/>fadhili na rehema. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana ndiye afanyaye <br/>mambo ya haki,<br/>na hukumu kwa <br/>wote wanaoonewa<br/>alimjulisha Musa njia zake. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwana amejaa <br/>huruma na neema,<br/>haoni hasira upesi<br/>ni mwingi wa fadhili <br/>na rehema.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:58">
+  <properties>
+    <titles>
+      <title>Karamu Ya Mwisho</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Karamu ya mwisho <br/>ya Bwana Yesu<br/>aliketi na wanafunzi <br/>wake kwa huzuni.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yesu aliwaambia Mmoja <br/>wenu atanisaliti. x2<br/>Alitoa mkate akaumega<br/>kuleni kuleni huu <br/>ndio mwili wangu<br/>alitoa kikombe akashukuru<br/>kunyweni hii ndiyo <br/>damu yangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gethisemani Yesu alianguka <br/>kifudifudi kisha akaomba<br/>akasema Bwana kikombe <br/>hiki kwa mapenzi <br/>yako kiniepuke.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Golgotha Yesu alianguka <br/>kifudifudi na kisha akaomba<br/>mkombozi Yesu alitolewa <br/>mwanadamu apate kuokoka.</lines>
+    </verse>
+  </lyrics>
+</song>

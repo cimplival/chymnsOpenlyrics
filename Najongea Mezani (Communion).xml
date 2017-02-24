@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:24">
+  <properties>
+    <titles>
+      <title>Najongea Mezani</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Najongea mezani pako,<br/>Mwokozi wangu nipokee,<br/>nimekuja mimi mdhambi,<br/>unitakase dhambi zangu,<br/>unilishe kwa mwili wako,<br/>uninyweshe kwa damu yako.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ni chakula chenye uzima,<br/>kitulizo cha roho yangu,<br/>unishibishe kwa chakula,<br/>kilichotoka uwinguni.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sistahili uje kwangu,<br/>sema neno na nitapona,<br/>heri wenye moyo safi,<br/>tumealikwa kwa karamu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kamtoa mwili wake,<br/>kuwa chakula chetu sisi,<br/>huu ni upendo wake,<br/>Bwana yesu kwetu sisi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chakula safi cha uzima,<br/>uzima wa milele yote,<br/>wale wenye moyo safi,<br/>meza ya Bwana ii tayari.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:26">
+  <properties>
+    <titles>
+      <title>Amezaliwa Masiya wetu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2</verseOrder>
+    <authors>
+      <author>Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Amezaliwa Masiya wetu <br/>hoyee hoye hoye<br/>Mwana wa Mungu <br/>Mkombozi wetu<br/>Io amezaliwa naye <br/>Maria na amelazwa<br/>Kwenye hori la wanyama.<br/>Twende tukamwone<br/>Amekuja kwetu mwana <br/>wa Mungu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kuzichukua dhambi zetu <br/>wanadamu<br/>Mkombozi wetu<br/>Tucheze ngoma na kayamba <br/>tupige makofi<br/>Tumsujudie Bwana Mungu, <br/>kwa vigelegele.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wachungaji waondoka, <br/>waenda Bethlehemu,<br/>Wakamsujudie Bwana <br/>Mkombozi, kwa zawadi zetu<br/>Za dhahabu, uvumba <br/>na manemane.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amelala manyasini, <br/>twendeni tukamwone,<br/>Ee mtoto Yesu ishi ndani <br/>yetu, tuongoze sisi,<br/>Kwa mwanga wako <br/>mwanga wa Mbinguni.</lines>
+    </verse>
+  </lyrics>
+</song>

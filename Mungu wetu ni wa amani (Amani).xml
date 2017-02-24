@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:22">
+  <properties>
+    <titles>
+      <title>Mungu wetu ni wa amani</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 v3 c3 v4 c4 v5 c5</verseOrder>
+    <authors>
+      <author>Amani</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mungu wetu ni wa amani,<br/>Mungu wetu ni wa amani. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kanitoa wapi kaniweka wapi,<br/>kanitoa chini kaniweka kati, <br/>kanitoa kati kaniweka juu, <br/>Mungu wetu ni wa amani. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mungu wetu ni wa upendo,<br/>Mungu wetu ni wa upendo. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kanitoa wapi kaniweka wapi,<br/>kanitoa chini kaniweka kati, <br/>kanitoa kati kaniweka juu, <br/>Mungu wetu ni wa upendo. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mungu wetu ni wa furaha,<br/>Mungu wetu ni wa furaha. x2</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Kanitoa wapi kaniweka wapi,<br/>kanitoa chini kaniweka kati, <br/>kanitoa kati kaniweka juu, <br/>Mungu wetu ni wa furaha. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mungu wetu ni wa fadhili,<br/>Mungu wetu ni wa fadhili. x2</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Kanitoa wapi kaniweka wapi,<br/>kanitoa chini kaniweka kati, <br/>kanitoa kati kaniweka juu, <br/>Mungu wetu ni wa fadhili. x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mungu wetu ni wa baraka,<br/>Mungu wetu ni wa baraka. x2</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Kanitoa wapi kaniweka wapi,<br/>kanitoa chini kaniweka kati, <br/>kanitoa kati kaniweka juu, <br/>Mungu wetu ni wa baraka. x2</lines>
+    </verse>
+  </lyrics>
+</song>

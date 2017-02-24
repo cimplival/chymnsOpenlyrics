@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:05">
+  <properties>
+    <titles>
+      <title>Chini ya jua</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines> Chini ya jua kila kitu <br/>umekiumba wewe Mungu <br/>wetu wastahili sifa zote.<br/>Chini ya jua kila kitu <br/>umekiumba wewe Mungu <br/>wetu uhimidiwe milele.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(Tazama ndege wa angani <br/>asubuhi na mapema <br/>wanakusifu (tena) <br/>kwa sauti nzuri wakisifu <br/>uumbaji wako mkuu <br/>kwa nini mimi mwanadamu<br/>nisikutukuze Mungu wangu). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nikuimbie wimbo gani, <br/>wenye tenzi nzuri za kutukuza <br/>ukuu wako kutangaza uumbaji <br/>wako Mungu mkuu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Bwana wewe ndiwe Mungu, <br/>usiyefananishwa na <br/>kitu chochote kilicho dunianai <br/>kwa matendo yako <br/>makuu tena ya ajabu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwanadamu ni kitu gani,<br/>atenda maovu mengi nawe <br/>mwenyezi Mungu unasamehe <br/>hakika huruma yako <br/>Mungu ni ya pekee.</lines>
+    </verse>
+  </lyrics>
+</song>

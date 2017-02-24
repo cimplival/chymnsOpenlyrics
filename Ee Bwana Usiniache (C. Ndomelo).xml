@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:15">
+  <properties>
+    <titles>
+      <title>Ee Bwana Usiniache</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>C. Ndomelo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Ee Bwana Mungu wangu<br/>tembea nami usiniache <br/>kwenye dunia (hiyo)<br/>ya machafuko). x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nikianguka, Bwana, uniinue Bwana<br/>nikiteleza, Bwana, unishike mkono.<br/>Uniepushe na maadui wa roho yangu<br/>uniepushe na maadui wa roho yangu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tazama ninaishi kwa <br/>mashaka na hofu kubwa,<br/>(kwani) Baadhi ya wanadamu <br/>wenzangu wamegeuka.<br/>Kuwa ni maadui zangu,<br/>wananiwinda wanikamate <br/>wavinyokoe viungo,<br/>eti wajipatie mali.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tazama ninaishi kwa mashaka <br/>na hofu kubwa, (kwani) <br/>baadhi ya waathirika <br/>wenzangu wamekamatwa.<br/>Bwana na wameshauawa,<br/>wamewakata vichwa na mikono, <br/>na miguu yao Bwana, <br/>eti wajipatie mali.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tazama sisi wanao <br/>wakiwa twakimbilia (kwako),<br/>(kwako) twazikabidhi roho <br/>zetu mikononi mwako.<br/>Maana ni wewe kimbilio<br/>usituachie adui zako <br/>watutie mikononi<br/>Bwana utushike mkono.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:59">
+  <properties>
+    <titles>
+      <title>Roho Yangu Inakutamani</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Roho yangu Yesu <br/>inakutamani, <br/>njoo kwangu Yesu <br/>unipe heri. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nakupenda <br/>kwani wewe mwema,<br/>uniimarishe siku zote.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uje kwangu <br/>Yesu nakungoja, <br/>kwani wewe urafiki mkuu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maumbo <br/>ya mkate na divai,<br/>umo ndani kweli nasadiki.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na uzidi <br/>Yesu kuwa nami, <br/>unipe uzima wa milele.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Unilishe <br/>Yesu Mwili wako,<br/>uninyweshe Yesu damu yako.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Na uzidi<br/>Yesu kuwa nami,<br/>unipe uzima wa milele.</lines>
+    </verse>
+  </lyrics>
+</song>

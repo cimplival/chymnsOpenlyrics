@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:17">
+  <properties>
+    <titles>
+      <title>Misa Fadhili (Utukufu)</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>[t] Utukufu kwa Mungu Mbinguni<br/>[w] Utukufu (kwako) Mungu Mbinguni<br/>Na amani (kote) duniani<br/>(kwa) watu wa mapenzi mema.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tunakuheshimu tunakusifu,<br/>Tunakuabudu twakutukuza ee Bwana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tunakushukuru mfalme wa Mbingu<br/>Mwana wa pekee mwana wa Baba ee Bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unayeondoa makosa yetu<br/>Utuhurumie tusikilize ee Bwana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kuume kwa Baba unapoketi<br/>Mtakatifu mkuu tuhurumie ee Bwana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Roho Mtakatifu pamoja nawe,<br/>Ndani yake Bwana unatukuzwa ee Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

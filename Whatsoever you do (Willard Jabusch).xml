@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:27">
+  <properties>
+    <titles>
+      <title>Whatsoever you do</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Willard Jabusch</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Whatsoever you do<br/>to the least of my brothers,<br/>that you do unto me.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>When I was hungry, <br/>you gave me to eat;<br/>When I was thirsty, <br/>you gave me to drink. <br/>Now enter into the home <br/>of my Father.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When I was homeless, <br/>you opened your door;<br/>When I was naked, <br/>you gave me your coat.<br/>Now enter into the home <br/>of my Father.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I was weary, <br/>you helped me find rest;<br/>When I was anxious, <br/>you calmed all my fears.<br/>Now enter into the home <br/>of my Father.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When in a prison, <br/>you came to my cell;<br/>When on a sickbed, <br/>you cared for my needs.<br/>Now enter into the home<br/> of my Father.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>When I was aged <br/>you bothered to smile;<br/>When I was restless<br/>you listened and cared,<br/>Now enter int o the home <br/>of my Father.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>When I was laughed at, <br/>you stood by my side;<br/>When I was happy, <br/>you shared in my joy.<br/>Now enter into the home <br/>of my Father.</lines>
+    </verse>
+  </lyrics>
+</song>

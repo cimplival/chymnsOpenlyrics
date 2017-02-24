@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:29">
+  <properties>
+    <titles>
+      <title>Ni nani</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ni nani, <br/>aanayeweza kusema <br/>amemaliza mwaka salama <br/>kwa nguvu zake <br/>yeye mwenyewe. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nakuuliza we baba?<br/>Nakuuliza we mama?<br/>Nawauliza vijana?<br/>Tujiulizeni sote?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni nani <br/>anayeweza kusema, <br/>amemaliza mwaka salama <br/>kwa nguvu zake <br/>yeye mwenyewe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ni wengi, <br/>walitamani kuona <br/>siku hii hawakuiona <br/>wamekufa kwa mapenzi <br/>ya Mungu. x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nakuuliza we baba?<br/>Nakuuliza we mama?<br/>Nawauliza vijana?<br/>Tujiulizeni sote?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ni nani <br/>anayeweza kusema, <br/>amemaliza mwaka salama <br/>kwa nguvu zake <br/>yeye mwenyewe.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Wenzangu, <br/>tuliofika siku hii, <br/>tumshukuruni sana Mungu, <br/>kwa pendo <br/>ametuhurumia.x2</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nakuuliza we baba?<br/>Nakuuliza we mama?<br/>Nawauliza vijana?<br/>Tujiulizeni sote?</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Ni nani <br/>anayeweza kusema, <br/>amemaliza mwaka salama <br/>kwa nguvu zake <br/>yeye mwenyewe.</lines>
+    </verse>
+  </lyrics>
+</song>

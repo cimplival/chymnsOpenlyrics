@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:09">
+  <properties>
+    <titles>
+      <title>The Eucharistic Prayer</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Prayer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, holy, holy, Lord,<br/>God of hosts,<br/>Heaven and earth are full <br/>of your glory.<br/>Hosanna in the highest.<br/>Blessed is he who comes in the<br/>name of the Lord.<br/>Hosanna in the highest.</lines>
+    </verse>
+  </lyrics>
+</song>

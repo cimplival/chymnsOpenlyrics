@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:59">
+  <properties>
+    <titles>
+      <title>Roho ya Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>St. Paul's Choir Dsm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Roho ya Bwana <br/>imeujaza ulimwe-ngu<br/>nayo inayoviunganisha <br/>viumbe vyote ee<br/>hujua maana <br/>ya kila sauti aleluya. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kama Roho Mtakatifu <br/>alivyowajalia<br/>petro akasema k<br/>wa sauti kubwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Watu wa Uyahudi <br/>nanyi jueni,<br/>jueni jambo hili <br/>mkalitimize.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Roho wake atujaze <br/>na mapaji yake<br/>tuyafuate mema <br/>tufike Mbinguni.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:21">
+  <properties>
+    <titles>
+      <title>Alhamisi Kuu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alhamisi kuu <br/>Yesu alituwekea<br/>Ekaristia takatifu,<br/>chakula cha roho.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tuimbe - tuimbe, tumshukuru<br/>Tumshukuru Yesu, <br/>mkombozi wetu.<br/>Tuimbe - tuimbe, tumshukuru,<br/>Tumshukuru Yesu, <br/>sadaka yetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu alishika <br/>mkate akaubariki.<br/>Akawapa wafuasi, <br/>ndio mwili wangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na kikombe cha <br/>divai akakibariki.<br/>Akasema, ‘nyweni nyote,<br/>ndiyo damu yangu’. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yesu aliwapa amri <br/>wanafunzi wake<br/>‘Fanyeni hivi daima <br/>kwa kunikumbuka’. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kisha Yesu akaenda <br/>apate kuteswa.<br/>Akafuta dhambi zetu <br/>msalabani juu. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yesu anatutolea <br/>mwili na damuye.<br/>Naye Baba wa <br/>mbinguni anatubariki.</lines>
+    </verse>
+  </lyrics>
+</song>

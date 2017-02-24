@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:02">
+  <properties>
+    <titles>
+      <title>Kina Hiki</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Bernard Kiundi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kina hiki kina maji mengi <br/>pande nne zimejaa<br/>Ee Bwana, Dunia nayo mji mkavu,<br/>wamemezwa watu wengi <br/>ee Bwana<br/>(Ona) watu wauana ovyo,<br/>(ona) vita navyo vimezidi<br/>(tena) Magonjwa ya kushangaza<br/>sasa Bwana tufanyeje sisi? </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tunalia tunalia Bwana <br/>twalilia ulimwengu huu<br/>na machozi yetu sisi <br/>Bwana yakiokoe kizazi hiki<br/>usimame tutetee Bwana <br/>tusaidie wanao. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Maji yamekuwa mengi <br/>sana nashindwa kuvumilia<br/>sina msaada mimi <br/>Bwana naomba nihurumie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shida nyingi sana mimi <br/>Bwana zinazidi kunisonga<br/>nashindwa kuvumilia mimi <br/>ee Mungu nihurumie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dunia nayo yahuzunisha <br/>maovu yametawala,<br/>watu nao wateseka sana <br/>ee Mungu tusaidie.</lines>
+    </verse>
+  </lyrics>
+</song>

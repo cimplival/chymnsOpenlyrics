@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:01">
+  <properties>
+    <titles>
+      <title>Shangilio (Version)</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Shangilio</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alleluya, alleluia amina, <br/>alleluia alleluia amina<br/>alleluya, <br/>alleluia amina, alleluya<br/>mshukuruni Bwana kwa kuwa, <br/>fadhili zake ni za milele, </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mshukuruni, <br/>mshukuruni Bwana; <br/>mshukuruni mshukuruni Bwana<br/>alleluya, alleluia amina, <br/>alleluia alleluia amina<br/>alleluya, <br/>alleluia amina, alleluia.</lines>
+    </verse>
+  </lyrics>
+</song>

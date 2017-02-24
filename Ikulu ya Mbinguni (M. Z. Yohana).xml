@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:46">
+  <properties>
+    <titles>
+      <title>Ikulu ya Mbinguni</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>M. Z. Yohana</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ukimcha Bwana Mungu <br/>(katika) maisha yako yote.<br/>Hakika utakaribishwa <br/>(kwenye) ikulu ya Mbinguni. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tazama Mungu ni hodari (sana) <br/>wala hamdharau mtu yeyote.<br/>Naye ana uwezo (mwingi) <br/>katika kufunza ufahamu mwingi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hufungua masikio (yako) <br/>yasikie maonyo yake mwenyezi.<br/>Na kukuagiza (urudi) kwake <br/>na kuuacha uovu wako wote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kama wewe ukisikia (wewe) <br/>na kumtumikia atapitisha siku zako, <br/>na mafanikio (mengi) na miaka yenu <br/>katika furaha.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na ukithamini zaidi (mali) <br/>kuliko roho yako utaangamia.<br/>Na kufaa pasipo (maarifa) <br/>hautauona uso wa Mungu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Asili tunza isije (hasira)<br/> ikakuvuta ama ukafanya mzaha.<br/>Wala usikubali (kamwe) <br/>ukuu wa ukombozi ukutawale.</lines>
+    </verse>
+  </lyrics>
+</song>

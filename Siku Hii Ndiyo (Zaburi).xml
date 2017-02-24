@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:02">
+  <properties>
+    <titles>
+      <title>Siku Hii Ndiyo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Siku hii ndiyo <br/>aliyoifanya Bwana, <br/>tutashangilia na <br/>kuifurahia. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mshukuruni Bwana <br/>kwa kuwa ni mwema, <br/>(Kwa maana fadhili <br/>zake ni za milele.)<br/>Israeli na aseme sasa, <br/>(Ya kwamba fadhili <br/>zake  ni za milele.)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mkono wa kuume <br/>wa Bwana umetukuzwa,<br/>(Mkono wa kuume wa Bwana <br/>umetenda makuu)<br/>Sitakufa bali nitaishi, <br/>(Nami nitayasimulia <br/>matendo ya Bwana.)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jiwe walilolikataa waashi, <br/>(Limekuwa jiwe kuu la pembeni.)<br/>Neno hili limetoka <br/>kwa Bwana, <br/>(Nalo ni ajabu machoni petu.)</lines>
+    </verse>
+  </lyrics>
+</song>

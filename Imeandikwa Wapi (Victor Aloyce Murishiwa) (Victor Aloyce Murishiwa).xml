@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:47">
+  <properties>
+    <titles>
+      <title>Imeandikwa Wapi (Victor Aloyce Murishiwa)</title>
+    </titles>
+    <verseOrder>c1 c2 c3 v1 c1 c2 c3 v2 c1 c2 c3 v3 c1 c2 c3</verseOrder>
+    <authors>
+      <author>Victor Aloyce Murishiwa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nimefungua vitabu vyote <br/>nikapekua kurasa zote,<br/>kulitafuta andiko hili sikuliona<br/>ni wapi palipohalalishwa matendo haya<br/>machafu sana yachafuayo <br/>jamii yetu sikupaona <br/>fungua macho mkristu, <br/>fungua macho.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Giza nene limetanda, <br/>fungua macho<br/>Ni wakati wa kukesha, <br/>fungua macho<br/>Shetani katuzunguka, <br/>fungua macho<br/>Imeandikwa wapi kwamba <br/>ushoga ni halali?<br/>Wapi palipoandikwa rushwa <br/>ni funguo ya haki?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>(tena) <br/>Imeandikwa wapi kwamba <br/>hirizi ni halali?<br/>Wapi imehalalishwa wanaume <br/>kufunga ndoa?<br/>(hiyo) Imeandikwa wapi, <br/>imeandikwa wapi?<br/>Kurasa zote hakuna!<br/>Imeandikwa wapi imeandikwa wapi?<br/>Sheria zake Mungu!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kemea Mkristu matendo hayo<br/>kwa sakramenti zote uyasafishe<br/>epukana nayo matendo hayo<br/>kwa sakramenti zake uyasafishe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ingia katika shamba la Bwana<br/>mambo ya ulimwengu ni machafuko<br/>tembea katika shamba la Bwana<br/>zitende kazi zake kwa moyo safi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Njia zake Bwana usiziache<br/>ni barabara safi zenye amani.<br/>sheria za Bwana usiziache<br/>na maagizo yake ni ya Adili.</lines>
+    </verse>
+  </lyrics>
+</song>

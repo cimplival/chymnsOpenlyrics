@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:03">
+  <properties>
+    <titles>
+      <title>Chakula Cha Bwana Tayari</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Chakula cha Bwana tayari - <br/>chakula cha Bwana tayari (sasa). <br/>Chakula cha Bwana <br/>tayari twende tukale. <br/>Ni mwili wa Bwana (Yesu) <br/>na damuye twende tukale <br/>twende kwa furaha <br/>twende tukale</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ni chakula - kutoka Mbinguni <br/>Kimeandaliwa twende tukale. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ni chakula - cha kutushibisha, <br/>kimeandaliwa twende tukale. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni chakula - cha kutufariji,<br/>kimeandaliwa twende tukale. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ni chakula - cha kutupa nguvu, <br/>kimeandaliwa twende tukale</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:16">
+  <properties>
+    <titles>
+      <title>Tutoe Sadaka</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tutoe sadaka.<br/>(Kwa Mungu Baba aliyeumba<br/>ulimwengu mzima.) x2<br/>(Tukumbuke kwamba,<br/>ndiye aliyetupa uzima <br/>tutoe sadaka.) x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tutoe kwa moyo <br/>mwema tukampe Bwana; <br/>Na kwa ukarimu <br/>mwema tutoe kwa moyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nazo fedha zako <br/>nenda ukampe Bwana;<br/>Ndugu usisite nenda<br/>ukampe Bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chochote ulicho nacho <br/>ndugu ukatoe;<br/>Yeye ni muumba wetu <br/>ndugu ukatoe.</lines>
+    </verse>
+  </lyrics>
+</song>

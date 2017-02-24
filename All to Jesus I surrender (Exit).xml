@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:23">
+  <properties>
+    <titles>
+      <title>All to Jesus I surrender</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All to Jesus I surrender,<br/>all to Him I freely give;<br/>I will ever love <br/>and trust Him,<br/>in his presence daily live.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I surrender all, <br/>I surrender all.<br/>All to Thee, <br/>my blessed Savior,<br/>I surrender all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All to Jesus <br/>I surrender, humbly at his <br/>feet I bow, <br/>worldly pleasures all <br/>forsaken;<br/>Take me, Jesus, <br/>take me now.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All to Jesus I surrender,<br/>make me, Savior, <br/>wholly Thine;<br/>Let me feel thy Holy Spirit,<br/>truly know that <br/>thou art mine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All to Jesus I surrender,<br/>Lord, <br/>I give myself to Thee;<br/>Fill me with thy <br/>love and power,<br/>Let Thy blessing fall on me.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All to Jesus I surrender,<br/>now I feel <br/>the sacred flame.<br/>Oh, the joy of <br/>full salvation!<br/>Glory, glory to His name!</lines>
+    </verse>
+  </lyrics>
+</song>

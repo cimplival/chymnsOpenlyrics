@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:01">
+  <properties>
+    <titles>
+      <title>Kila Mwenye Pumzi</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Aleluya, aleluya, <br/>aleluya, aleluya. x2<br/>kila mwenye pumzi, <br/>na amsifu Bwana<br/>kila mwenye pumzi, <br/>na amsifu Bwana.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Msifuni Mungu katika <br/>patakatifu pake,<br/>msifuni katika anga <br/>la uweza wake. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Msifuni Mungu <br/>kwa matendo yake makuu<br/>msifuni kadiri ya wingi <br/>wa ukuu wake. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Msifuni Mungu <br/>kwa mvumo wa baragumu<br/>msifuni sifuni <br/>kwa kinanda na kinubi. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Msifuni Mungu <br/>kwa matari na kucheza<br/>msifuni sifuni <br/>kwa zeze na filimbi. x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Msifuni Mungu <br/>kwa matoazi yaliayo<br/>msifuni sifuni <br/>kwa matoazi yavumayo. x2</lines>
+    </verse>
+  </lyrics>
+</song>

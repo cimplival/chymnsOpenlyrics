@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:50">
+  <properties>
+    <titles>
+      <title>Bwana Bwana Bwana</title>
+    </titles>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana Bwana Bwana aa ah<br/>(ee Bwana) <br/>Bwana Bwana <br/>tuhurumie eeh,<br/>Bwana Bwana tuhurumie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kristu Kristu Kristu aa ah<br/>(ee Kristu) <br/>Kristu Kristu <br/>tuhurumie eeh,<br/>Kristu Kristu tuhurumie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana Bwana Bwana aa ah<br/>(ee Bwana) <br/>Bwana Bwana <br/>tuhurumie eeh,<br/>Bwana Bwana tuhurumie.</lines>
+    </verse>
+  </lyrics>
+</song>

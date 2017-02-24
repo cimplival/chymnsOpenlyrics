@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:46">
+  <properties>
+    <titles>
+      <title>Bwana Alipokwisha Kula</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Lent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana alipokwisha <br/>kula pamoja,<br/>na wafuasi wake <br/>aliwaosha miguu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana alipokwisha <br/>kula pamoja<br/>na wafuasi wake, <br/>aliwaosha miguu. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akawaambia mwafahamu <br/>niliyowatendea.<br/>Mimi niliye Bwana <br/>na mwalimu wenu. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nimewapa mfano,<br/>ili mtende nanyi vile vile. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amini amini <br/>nawaambia nyinyi<br/>Mtumwa si mkuu <br/>kuliko Bwana wake. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Wala mtume sio mkuu,<br/>kuliko aliyempeleka. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mkiyajua haya<br/>heri ninyi mkiyatenda.</lines>
+    </verse>
+  </lyrics>
+</song>

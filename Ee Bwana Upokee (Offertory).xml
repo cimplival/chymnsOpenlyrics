@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:15">
+  <properties>
+    <titles>
+      <title>Ee Bwana Upokee</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana upokee sadaka zetu <br/>(Twaomba japo) Japo ni kidogo sana <br/>Baba twaomba u-zi-i-pokee ee Baba Mungu wetu.<br/>Umenitendea mema na ya kupendeza <br/>Mungu Mwenyezi Baba <br/>sina cha kukupa zaidi ya sala yangu <br/>na sadaka yetu ya leo.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Pokea sadaka zetu <br/>twazileta mbele ya Altare. <br/>Twakuomba upokee Bwana <br/>unifanye kuwa mwili pia damu. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ewe Mkristu kumbuka  <br/>aliyokutendea Bwana,hata <br/>kama  hukumbuki nenda ukatoe<br/>shukurani zako kwa Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

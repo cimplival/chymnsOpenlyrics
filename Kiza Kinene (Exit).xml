@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:03">
+  <properties>
+    <titles>
+      <title>Kiza Kinene</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kiza kiza kinene, <br/>kimetanda pande zote, <br/>sasa mimi niende wapi. x2 <br/>Ee Bwana niende wapi, <br/>tabu zinanikabili, <br/>nakuomba Bwana <br/>wangu uniokoe. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mateso mengi (sana) <br/>yananikabili mimi, <br/>na nafsi yangu (mimi) <br/>inaangamia Bwana; <br/>niende wapi <br/>Bwana niokoe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nakuomba Bwana (wangu) <br/>unifikirie mimi, <br/>uchungu mkubwa (sana) <br/>wanidhoofisha sana; <br/>niende wapi Bwana niokoe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naelemewa (Bwana) <br/>nisafishe dhambi zangu, <br/>usiniache (Bwana) <br/>naangamia gizani; <br/>niende wapi Bwana niokoe.</lines>
+    </verse>
+  </lyrics>
+</song>

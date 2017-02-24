@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:03">
+  <properties>
+    <titles>
+      <title>Bwana Yesu Kazaliwa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1</verseOrder>
+    <authors>
+      <author>Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana Yesu kazaliwa, <br/>tumwimbie kwa furaha, <br/>aleluya.<br/>Aleluya aleluya <br/>aleluya aleluya <br/>aleluya.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa ajili yetu sisi, <br/>amezaliwa kitoto, <br/>aleluya. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amezaliwa kitoto, <br/>nasi tumepewa mwana, <br/>aleluya. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Utawala na uwezo, <br/>vimo mabegani mwake, <br/>aleluya. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jina lake ndilo Baba, <br/>wa milele tena mfalme, <br/>aleluya. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Enzi yake ya kifalme, <br/>haitakuwa na mwisho, <br/>aleluya. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Anakalia kitiye, <br/>chake Daudi babaye, <br/>aleluya. </lines>
+    </verse>
+    <verse name="v7">
+      <lines>Furaha binti Sayuni, <br/>umpokee Bwana wako, <br/>aleluya. </lines>
+    </verse>
+    <verse name="v8">
+      <lines>Dunia na ifurahi, <br/>nchi na ishangilie, <br/>aleluya.</lines>
+    </verse>
+  </lyrics>
+</song>

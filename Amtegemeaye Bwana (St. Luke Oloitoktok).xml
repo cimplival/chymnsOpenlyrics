@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:28">
+  <properties>
+    <titles>
+      <title>Amtegemeaye Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>St. Luke Oloitoktok</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Amtegemeaye Bwana Mungu,<br/>Ni kama Mlima Sayuni). x2<br/>(Twakutegemea wewe <br/>maana hatutatishika.<br/>Kwa maana, sisi ni watoto wako<br/>nawe ni Baba yetu). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa uwezo wako <br/>Baba ulio nao<br/>Ndiyo maana mataifa <br/>yanakusifu. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twaamini kwamba wewe <br/>ndiwe Muumba.<br/>Ndiyo maana sisi Bwana <br/>twakutegemea. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ee Bwana twakuomba <br/>ututazame,<br/>Angalia mataifa <br/>yakutegemee.</lines>
+    </verse>
+  </lyrics>
+</song>

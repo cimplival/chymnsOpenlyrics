@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:18">
+  <properties>
+    <titles>
+      <title>Ee Mungu Wangu Nifundishe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Mungu wangu unifundishe<br/>unifundishe kuwa mkarimu,<br/>unifundishe kukutumikia, <br/>kama unavyostahili.<br/>Kama unavyostahili,<br/>kutoa wala nisihesabu gharama,<br/>kukubali mateso <br/>bila kunung'unika,<br/>nitumike pasipo <br/>kutafuta pumziko.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nifanye kazi kwa moyo <br/>bila kutafuta ujira,<br/>ee Mungu nisaidie, <br/>nijitoe kwa kazi yako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nisaidie kujua nafanya <br/>mapenzi yako,<br/>nisije nikajikwa <br/>kwa kukosa uaminifu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mimi askari wa Yesu <br/>ee Bwana uniimarishe,<br/>nipigane hata kufa <br/>nikitetea jina lako.</lines>
+    </verse>
+  </lyrics>
+</song>

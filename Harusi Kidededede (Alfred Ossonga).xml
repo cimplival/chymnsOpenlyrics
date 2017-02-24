@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:32">
+  <properties>
+    <titles>
+      <title>Harusi Kidededede</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Alfred Ossonga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana harusi na bibi harusi, <br/>leo mmefunga ndoa ya maisha, <br/>kaeni kwa amani kidededede. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Upendo wenu umedhihirika<br/>uyani kwenu <br/>bamba ishini tototo.<br/>Uzuri wenu hauna kifani -<br/>uyani kwenu <br/>bamba ishini tototo.<br/>Na nyumba yenu imebarikiwa -<br/>uyani kwenu <br/>bamba ishini tototo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jitulize mjisikie sukari, <br/>siku ya leo ni yenu, furahini, <br/>mmepambwa maua <br/>mnapendeza. x2 </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana harusi pagawa <br/>changamka, <br/>Bibi harusi chachawa,<br/>chezacheza, penzi lenu <br/>leo limekamilika. x2 </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mapenzi yenu kweli<br/>yatasitawi, <br/>hakika yatasitawi<br/>yatamea kama ule <br/>mwerezi wa Lebanoni. x2 </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Baraka zake Mungu <br/>ziwashukie kaeni pasipo shida<br/>siku zote nyumba yenu <br/>iwe hekalu la Mungu. x2</lines>
+    </verse>
+  </lyrics>
+</song>

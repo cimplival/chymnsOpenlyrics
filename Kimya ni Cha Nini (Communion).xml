@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:02">
+  <properties>
+    <titles>
+      <title>Kimya ni Cha Nini</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v2 v3 c1 v3 v4 c1 v5 v6 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kimya kimya ni cha nini <br/>Bwana Yesu ametualika,<br/>kushiriki karamu yake, <br/>karamu ya mapendo<br/>siku ile iliyotangulia kifo chake<br/>(aliwaita wanafunzi wake) x2 <br/>akawaambia.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Huu ndio mwili wangu <br/>utakaotolewa kwa ajili yenu<br/>kuleni huu ili mpate <br/>uzima wa milele,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Haya basi amkeni (‘mke-ni) <br/>‘mkeni basi amkeni<br/>kushiriki uzima mtukufu <br/>kwa karamu ya Bwana). x2 </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hii ndiyo damu yangu <br/>itakayotolewa kwa ajili yenu<br/>kunyweni hii ili mpate <br/>uzima wa milele.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(Haya basi amkeni (‘mke-ni) <br/>‘mkeni basi amkeni<br/>kushiriki uzima mtukufu <br/>kwa karamu ya Bwana). x2 </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Amini ninawaambieni alaye <br/>mwili na kunywa damu<br/>bila kustahili atahukumiwa <br/>siku ya mwisho,<br/>Lakini alaye mwili na kunywa <br/>damu kwa kustahili<br/>nitamfufua siku ya mwisho.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>(Haya basi amkeni (‘mke-ni) <br/>‘mkeni basi amkeni<br/>kushiriki uzima mtukufu <br/>kwa karamu ya Bwana). x2</lines>
+    </verse>
+  </lyrics>
+</song>

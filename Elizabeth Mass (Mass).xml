@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:19">
+  <properties>
+    <titles>
+      <title>Elizabeth Mass</title>
+    </titles>
+    <verseOrder>v1 c1 v2 v3 c1 v4 v5 c1 v6 v7 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana, Bwana, Bwana, Bwana,<br/>tuhurumie. x2<br/>Kristu, Kristu, Kristu, Kristu,<br/>tuhurumie. x2<br/>Bwana, Bwana, Bwana, Bwana,<br/>tuhurumie. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Utukufu kwa Mungu juu,<br/>na amani duniani,<br/>(kwa watu wenye <br/>mapenzi mema). x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tunakusifu tunakuheshimu,<br/>sifa ni kwako milele yote.<br/>Twakuabudu tunakutukuza.<br/>sifa ni kwako milele yote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twakushukuru kwa utukufu,<br/>sifa ni kwako milele yote.<br/>Mfalme wa mbingu Baba<br/>mwenyezi,<br/>sifa ni kwako milele yote. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yesu Kristu mwana wa pekee,<br/>sifa ni kwako milele yote.<br/>Mwanakondoo mwana wake <br/>Baba,<br/>sifa ni kwako milele yote.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uondoaye dhambi za dunia,<br/>sifa ni kwako milele yote.<br/>Utuhurumie utusikilize,<br/>sifa ni kwako milele yote.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Unayeketi kuume kwa Baba,<br/>sifa ni kwako milele yote.<br/>Mtakatifu mkuu Yesu Kristu,<br/>sifa ni kwako milele yote.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Na pamoja naye Roho Mtakatifu,<br/>sifa ni kwako milele yote.<br/>Ndaniye Baba Amina Amina,<br/>sifa ni kwako milele yote.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:59">
+  <properties>
+    <titles>
+      <title>Bwana Pokea Sadaka (Our Lady of Guadalupe)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Our Lady of Guadalupe</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana Pokea sadaka, <br/>tukutoleayo. <br/>Bwana Mkate na divai, <br/>twazileta kwako.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Baba pokea - <br/>Bwana pokea sadaka. <br/>(Baba pokea, ooh Baba)<br/>Vyote ni mali yako,<br/>vyote Baba upokee ni yako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana Pokea sadaka, <br/>tukutoleayo. <br/>Kazi ya mikono yetu, <br/>twaileta kwako. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana Pokea sadaka, <br/>tukutoleayo.<br/>Bwana mazao ya mashamba, <br/>twayaleta kwako.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwana Pokea sadaka, <br/>tukutoleayo. <br/>Fedha za mifuko yetu,<br/>twazileta kwako. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwana Pokea sadaka, <br/>tukutoleayo.<br/>Bwana na pia nafsi zetu, <br/>twazileta kwako. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bwana Pokea sadaka, <br/>tukutoleayo.<br/>Vyote tulivyo navyo Baba,<br/>twavileta kwako. </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:51">
+  <properties>
+    <titles>
+      <title>Ivinda ya Tene</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Lent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ivinda ya tene ithyi twai ene nai<br/>twew’ie wasya uitwita<br/>mwana’asa Yesu nukutwita. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Asa waitu wa ituni<br/>tuekee mathavu maitu.<br/>Ithyi twi ene nai<br/>ithyi twi syana syaku.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twililei ana’asa tuekewe <br/>mathavu maitu,<br/>nundu Ngai ni mwene <br/>tei nutonya kutuekea. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naitu syana sya Mwiai <br/>tumbule mathavu maitu,<br/>kwa Ngai Asa wa ituni <br/>nutonya kutuekea.</lines>
+    </verse>
+  </lyrics>
+</song>

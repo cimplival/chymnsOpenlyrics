@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:32">
+  <properties>
+    <titles>
+      <title>Harufu Nzuri</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>sadaka</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sala yangu na ipae <br/>mbele yako Bwana <br/>kama moshi wa ubani <br/>moshi wa ubani. x2 <br/>Na kuinuliwa mbele ya uso wako <br/>(Bwana) uso wako uso <br/>wako mtakatifu <br/>(ikupendeze Ee Mungu). x4</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee Mungu tunakuomba uipokee <br/>sadaka yetu ya leo <br/>kwa moyo wa huruma <br/>ee Mungu nayo maombi yetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Harufu nzuri ya ubani <br/>izisindikize sala zetu za leo <br/>kwa moyo wa huruma <br/>ee Mungu nayo maombi yetu.</lines>
+    </verse>
+  </lyrics>
+</song>

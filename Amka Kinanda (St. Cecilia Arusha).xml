@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:27">
+  <properties>
+    <titles>
+      <title>Amka Kinanda</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>St. Cecilia Arusha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Ee Mungu Mungu wangu (moyo)<br/>Moyo wangu u thabiti (thabiti)<br/>Nitaimba nitai-imba nitaimba zaburi<br/>Nitaimba mimi nitaimba <br/>nitaimba zaburi).</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Mimi nitai-imba, nitaimba zaburi<br/>(Amka kinanda ewe kinanda -<br/>amka ewe kinanda<br/>Amka kinubi ewe kinubi - <br/>amka ewe kinubi<br/>Nitaamka alfaji-ri <br/>nitamuimbia Bwana.) x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee Mungu nitakushukuru <br/>kati ya watu.<br/>Nitakuimbia zaburi <br/>kati ya mataifa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa maana fadhili zako <br/>ni za milele.<br/>Na uaminifu wako hata <br/>juu mawinguni. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ee Mungu utukuzwe juu <br/>ya mbingu yote.<br/>Na juu ya nchi yote uwe<br/>utukufu wako.</lines>
+    </verse>
+  </lyrics>
+</song>

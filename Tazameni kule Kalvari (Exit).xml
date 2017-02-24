@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:07">
+  <properties>
+    <titles>
+      <title>Tazameni kule Kalvari</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tazameni kule Kalvari,<br/>Mwokozi aliteswa na dhambi,<br/>Alizikwa kule kaburini,<br/>mwisho alitoka kwa ushindi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nitashinda Bwana nitashinda,<br/>Kama wewe pia ulishinda,<br/>Nitapitia mapitoni mwako,<br/>Nitaanza Bwana nitashinda.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Njia mbovu zote nimeacha,<br/>nitapitia njia nyembamba,<br/>walipita Eliya na Musa,<br/>walianza Bwana, wakashinda.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kupokea nyimbo za ushindi,<br/>ziliinunuliwa kwa mawingu,<br/>malaika wote wanaimba,<br/>wanasifu nyimbo za ushindi.</lines>
+    </verse>
+  </lyrics>
+</song>

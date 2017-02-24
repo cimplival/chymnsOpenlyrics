@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:02">
+  <properties>
+    <titles>
+      <title>Kimya Bara na Bahari</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Fr. G. F. Kayeta</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kimya bara na bahari, <br/>kimya Mbingu na dunia<br/>Bwana Muumba wenu, <br/>mtoto Yesu asinzia.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kimya, kimya, asinzia, <br/>mpenzi wetu Mtoto Yesu. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amelazwa manyasini, <br/>mchanga mkiwa, myonge pia<br/>Yosefu na Maria wamo, <br/>mtoto Yesu kumtunzia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Malaika wanashuka. <br/>Mfalme wao kumlindia<br/>wanatunga nyimbo nzuri, <br/>mtoto Yesu kumwimbia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nasi pia twende hima <br/>Mungu wetu kumwangalia<br/>twende sote kwa juhudi <br/>mtoto Yesu kumwamkia.</lines>
+    </verse>
+  </lyrics>
+</song>

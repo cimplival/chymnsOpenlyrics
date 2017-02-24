@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:20">
+  <properties>
+    <titles>
+      <title>Utukuzwe ewe Baba</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1</verseOrder>
+    <authors>
+      <author>Offertory Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Utukuzwe ewe Baba <br/>Mungu utukuzwe<br/>A-aleluya-a<br/>Kwani Yesu Mfufuka ametualika<br/>A-aleluya-a</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Utukuzwe, utukuzwe<br/>Baba, Mumba ulimwengu<br/>A-aleluya-a. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tumepokea mkate mazao <br/>ya mashamba -<br/>A-aleluya-a.<br/>Ndio alama kwetu <br/>ya wema wako mkuu -<br/>A-aleluya-a.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni tunda la bidii <br/>ya mkono na ya moyo -<br/>A-aleluya-a.<br/>Jalie iwe kwetu chakula <br/>cha uzima -<br/>A-aleluya-a.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zawadi ya divai <br/>kutoka mizabibu -<br/>A-aleluya-a.<br/>Ndio alama kwetu <br/>ya wema wako mkuu -<br/>A-aleluya-a.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ni tunda la bidii <br/>ya mkono na ya moyo - <br/>A-aleluya-a.<br/>Jalie iwe kwetu <br/>kinywaji chake roho -<br/>A-aleluya-a.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sifa kwako ee Mungu <br/>kwa kuotesha mkate -<br/>A-aleluya-a.<br/>Shukrani kwako Baba <br/>kwa kutulisha sisi - <br/>A-aleluya-a.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Utukuzwe ee Mungu <br/>uliyetuchagua -<br/>A-aleluya-a.<br/>Tuwe taifa lako <br/>na kukutumikia -<br/>A-aleluya-a.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kwa pendo na fadhili<br/>umetufurahisha -<br/>A-aleluya-a.<br/>Ukatufikisha kwa sherehe <br/>yetu leo -<br/>A-aleluya-a.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Siku ya leo iwe <br/>kwa heshima na sifa -<br/>A-aleluya-a.<br/>Na utukufu wako <br/>na kwa mafa-a yetu -<br/>A-aleluya-a.</lines>
+    </verse>
+  </lyrics>
+</song>

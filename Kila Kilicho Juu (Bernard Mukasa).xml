@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:00">
+  <properties>
+    <titles>
+      <title>Kila Kilicho Juu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Bernard Mukasa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kila kilicho juu ya nchi, <br/>ni mali yake Bwana, <br/>mwumba mbingu.<br/>Kila kilicho juu ya nchi, <br/>ni mali yake Bwana, <br/>mwumba mbingu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mashamba ya Mungu, <br/>(yote) yote ya Mungu. x2<br/>Mazao ya Mungu, <br/>(yote) yote ya Mungu. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mifugo ya Mungu, <br/>(yote) yote ya Mungu. x2<br/>Bahari ya Mungu, <br/>(yote) yote ya Mungu. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na nyumba za Mungu, <br/>(zote) zote za Mungu. x2<br/>Na fedha za Mungu, <br/>(zote) zote za Mungu. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Milima ya Mungu,<br/>(yote) yote ya Mungu. x2<br/>Wanyama wa Mungu, <br/>(wote) wote wa Mungu. x2</lines>
+    </verse>
+  </lyrics>
+</song>

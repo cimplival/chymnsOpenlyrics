@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:48">
+  <properties>
+    <titles>
+      <title>Inakuwaje tunasikia maneno</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2</verseOrder>
+    <authors>
+      <author>Pentecost</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Inakuwaje tunasikia maneno <br/>wanayosema kwa lugha <br/>yetu wenyewe.<br/>Tunasikia mambo hayo <br/>ya Mungu wanayosema <br/>kwa lugha yetu wenyewe.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Wao ni Wagalilaya, <br/>nasi ni wa makabila, <br/>ya kutoka nchi mbalimbali <br/>(duniani), <br/>ina maana gani linashangaza <br/>jambo hili. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Siku ile ya Pentekoste ilipofika, <br/>mitume nao waamini, <br/>walikusanyika pamoja <br/>katika nyumba walimokuwa <br/>wamekaa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mara uvumi <br/>wa upepo ukasikika,<br/>ndimi za moto zikawashukia, <br/>wakawa wamejazwa <br/>na Roho Mtakatifu <br/>na kusema lugha nyingi.</lines>
+    </verse>
+  </lyrics>
+</song>

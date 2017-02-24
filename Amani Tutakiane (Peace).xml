@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:24">
+  <properties>
+    <titles>
+      <title>Amani Tutakiane</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amani yake Bwana - <br/>amani amani tutakiane.<br/>Amani yake Bwana - <br/>amani amani tutakiane.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Katika kanisa letu - <br/>amani tutakiane.<br/>Na kwa wakristu wote - <br/>Aamani mani tutakiane.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Upendo wake Bwana -<br/>upendo upendo tutakiane.<br/>Upendo wake Bwana -<br/>upendo upendo tutakiane.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Neema yake Bwana -<br/>neema neema tutakiane.<br/>Neema yake Bwana -<br/>neema neema tutakiane.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Furaha yake Bwana -<br/>furaha furaha tutakiane.<br/>Furaha yake Bwana -<br/>furaha furaha tutakiane.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fadhili zake Bwana -<br/>fadhili fadhili tutakiane.<br/>Fadhili zake Bwana -<br/>fadhili fadhili tutakiane.</lines>
+    </verse>
+  </lyrics>
+</song>

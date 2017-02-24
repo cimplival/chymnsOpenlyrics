@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:05">
+  <properties>
+    <titles>
+      <title>Kuimba ni Raha</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Bernard Mukasa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ni raha ni raha kuimba ni raha<br/>kumwimbia Bwana<br/>ni raha ni raha kuimba ni raha<br/>kumwimbia Bwana.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Pazeni sauti wapendwa imbeni<br/>mtatambua ilivyo raha<br/>tangazeni sifa za Bwana popote,<br/>ni baraka na ni raha sana jamani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sauti zetu zikifika kwa Mungu,<br/>Malaika wataimba raha<br/>nazo zikimpendeza atashusha,<br/>heri neema <br/>na raha sana jamaani.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tukimwimbia kwenye shida <br/>na tabu,<br/>anatuhurumia sana<br/>kwenye huzuni ataleta faraja<br/>nguvu amani <br/>na raha sana jamani.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwenye mafanikio tunayopata<br/>Tumshukuru kwa nyimbo Bwana<br/>Atazidisha baraka zake kwetu<br/>Tudumu katika <br/>raha sana jamani.</lines>
+    </verse>
+  </lyrics>
+</song>

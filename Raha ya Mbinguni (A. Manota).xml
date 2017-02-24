@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:55">
+  <properties>
+    <titles>
+      <title>Raha ya Mbinguni</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>A. Manota</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ngoja nikusimulie ndugu <br/>yangu raha ya Mbinguni<br/>(kwa kweli)<br/>mbinguni kuna raha, <br/>ni hakika kuna raha. x2 </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ni raha (ni raha) <br/>mbinguni ni raha ni raha tu<br/>mbinguni ni raha,<br/>ni raha (Mbinguni) <br/>ni raha ni raha tu<br/>mbinguni ni raha<br/>ni raha ni raha ni raha (kweli) <br/>mbinguni ni raha.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Huko watu hawafi kamwe - <br/>ni raha tu<br/>huko hakuna ma-gonjwa<br/>huko hawaijui huzuni<br/>mbingu ni raha ndugu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Malaika huimba huko<br/>wateule husifu huko<br/>watakatifu husujudia<br/>mbinguni ni raha ndugu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kila nyumba ni kwake Mungu<br/>ndiyo yerusalem mpya<br/>huko yuko mama maria<br/>mbinguni ni raha ndugu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tukitubu tutaingia<br/>tutamwona mwokozi Yesu<br/>tutasifu milele yote<br/>mbinguni ni raha ndugu.</lines>
+    </verse>
+  </lyrics>
+</song>

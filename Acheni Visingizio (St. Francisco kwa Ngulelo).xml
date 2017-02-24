@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:20">
+  <properties>
+    <titles>
+      <title>Acheni Visingizio</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>St. Francisco kwa Ngulelo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Acheni visingizio wanadamu,<br/>acheni visingizio kwamba <br/>hali ni ngumu. x2<br/>Nendeni mkatoe (vipaji)<br/> nendeni mkatoe vipaji<br/>nendeni mkatoe vipaji <br/>kwa Bwana. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Siyo ninyi wenye magari ya <br/>kifahari mnaodai hali ni ngumu.<br/>Siyo ninyi wenye fedha nyingi <br/>mifukoni mnaodai hali ni ngumu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siyo ninyi wenye majumba ya <br/>kifahari mnaodai hali ni ngumu.<br/>Ndani yake mmejaza vito vya <br/>thamani mnaodai hali ni ngumu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siyo ninyi mnaovuna mazao <br/>mengi mnaodai hali ni ngumu.<br/>Siyo ninyi mnaopokea <br/>mishahara mnaodai <br/>hali ni ngumu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Msidhani mmepata kwa uwezo <br/>wenu mnaodai hali ni ngumu.<br/>Bali ni Mungu aliye wajalia hayo <br/>mnaodai hali ni ngumu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kumbukeni mjane alotoa <br/>dinari mnaodai hali ni ngumu.<br/>Hakubakiza chochote mfukoni<br/>mwake mnaodai hali ni ngumu.</lines>
+    </verse>
+  </lyrics>
+</song>

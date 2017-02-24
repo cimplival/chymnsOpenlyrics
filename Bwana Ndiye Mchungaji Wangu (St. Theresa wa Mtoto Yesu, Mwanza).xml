@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:55">
+  <properties>
+    <titles>
+      <title>Bwana Ndiye Mchungaji Wangu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2</verseOrder>
+    <authors>
+      <author>St. Theresa wa Mtoto Yesu, Mwanza</author>
+    </authors>
+    <themes>
+      <theme>Zaburi</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>{Bwana ndiye mchungaji wangu,<br/>sitapungukiwa na kitu, sitapungukiwa<br/>{sitapungukiwa, Sitapungukiwa na kitu, <br/>sitapungukiwa} x2<br/>{(Katika majani) katika majani <br/>mabichi hunilaza (Kando ya maji) </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kando ya maji ya <br/>utulivu huniongoza} x2<br/>{Aiye aiyelele iyele Aiye aiyelele iyele<br/>Bwana ndiye mchungaji wangu, <br/>Sitapungukiwa na kitu}. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Huniuhuisha nafsi yangu, <br/>na kuniongoza,<br/>katika njia za haki kwa <br/>ajili ya Jina lake, Bwana ndiye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Au nijapopita kati ya <br/>bonde la uvuli wa mauti,<br/>sitaogopa mabaya <br/>sitaogopa, Bwana ndiye.</lines>
+    </verse>
+  </lyrics>
+</song>

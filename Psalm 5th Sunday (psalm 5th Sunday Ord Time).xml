@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:52">
+  <properties>
+    <titles>
+      <title>Psalm 5th Sunday</title>
+    </titles>
+    <authors>
+      <author>psalm 5th Sunday Ord Time</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>In the presence of the Angels <br/>I praise you.</lines>
+    </verse>
+  </lyrics>
+</song>

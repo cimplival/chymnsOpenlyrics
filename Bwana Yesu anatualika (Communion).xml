@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:02">
+  <properties>
+    <titles>
+      <title>Bwana Yesu anatualika</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Bwana Yesu anatualika) <br/>twende tujongee <br/>(mwenye moyo) <br/>safi na mwenye nia njema <br/>twende tuijongee <br/>karamu yake Bwana. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bwana Yesu ameandaa <br/>karamu takatifu <br/>karamu ya upatanisho <br/>(karamu) ya upendo kwetu <br/>twende tukale <br/>(mwili na damu yake) <br/>tupate uzima.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mwili wake Bwana Yesu <br/>ni chakula cha uzima <br/>na damu yake Bwana Yesu <br/>ni chakula kweli, <br/>twende tujongee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana Yesu anatuita <br/>wote wenye Moyo safi <br/>twende mezani pake <br/>ilitushiriki vema <br/>chakula cha roho.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hiki ni chakula kweli <br/>ni chakula cha uzima <br/>wa roho zetu hivyo <br/>twende tukampoke <br/>tupate uzima.</lines>
+    </verse>
+  </lyrics>
+</song>

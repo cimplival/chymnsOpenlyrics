@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:26">
+  <properties>
+    <titles>
+      <title>Nawapa Amri</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nawapa amri<br/>amri pendaneni;<br/>kama vile mimi<br/>nivyowapenda ninyi,<br/>nanyi, nanyi pia pendaneni.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wapenzi na tupendane<br/>neno latoka kwa Mungu<br/>na pia apendaye<br/>amezaliwa na Mungu,<br/>naye anamjua Mungu;<br/>Tupendane.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yule asiye na pendo<br/>hakumjua Mungu ni <br/>kwa maana Mungu ni<br/>mwenye upendo kamili,<br/>naye ametuamuru<br/>tupendane.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mungu apenda dunia<br/>kwa mapendo yake kwetu,<br/>akamtuma mwanaye<br/>mwana wake wa pekee<br/>hapa kwetu duniani;<br/>tupendane.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kila amkiriye Yesu<br/>kuwa ni mwana wa Mungu<br/>ndipo Mungu anakaa<br/>ndani yake mtu yule<br/>naye ndani yake Mungu;<br/>tupendane.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:33">
+  <properties>
+    <titles>
+      <title>Nitakwenda Mimi Mwenyewe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nitakwenda mimi mwenyewe<br/>nikatoe sadaka kwa Bwana.<br/>(Aliyeniumba mimi, <br/>aliyeniumba mimi,<br/>aliyeniumba mimi, <br/>Mungu wangu,<br/>Mungu wangu, Mungu wangu<br/>kwa kuniumba hadi <br/>nikapendeza). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kaniumba kwa mfano wake,<br/>kuliko viumbe vingine <br/>na sasa nikatoe shukrani. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vyote nilivyo navyo ni vyake<br/>nimrudishie kwa mapendo, <br/>na sasa nikatoe shukrani. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mema mengi amenijalia ya <br/>mbinguni na duniani,<br/>na sasa nikatoe shukrani.</lines>
+    </verse>
+  </lyrics>
+</song>

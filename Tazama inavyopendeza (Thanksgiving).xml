@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:07">
+  <properties>
+    <titles>
+      <title>Tazama inavyopendeza</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Iyelele iyele iyele iyele, <br/>Iyelele iyele iyele iyele,<br/>tazama inavyopendeza <br/>ndu-gu kuishi pamoja <br/>kwa upendo, </lines>
+    </verse>
+    <verse name="c2">
+      <lines>huku tukisaidianakatika <br/>shida mbali mbali za maisha, <br/>(Hilo ndilo pendo kamilifu,<br/>pendo alilotuachia Yesu) x2.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tuthami-ni maisha <br/>ya wezetu wanonge,<br/>tuwatu-nze yatima wazee <br/>na wajane.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tuthami-ni maisha <br/>ya wenzetu wanyonge,<br/>tuwatu-nze Yatima wazee <br/>na wajane.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Msaa-da na kwa watoto <br/>wa mitaani,<br/>msaa-da kwa wakimbizi <br/>wa nchi zote.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Msaa-da kwa wote wasio <br/>na chakula,<br/>msaa-da kwa yeyote asiye <br/>na nguo.</lines>
+    </verse>
+  </lyrics>
+</song>

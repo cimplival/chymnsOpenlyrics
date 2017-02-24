@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:37">
+  <properties>
+    <titles>
+      <title>Baba Yetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Misa Kariobangi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Baba yetu uliye mbinguni,<br/>jina lako litukuzwe,<br/>ufalme wako ufike, <br/>utakalo lifanyike.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Duniani kama mbinguni - <br/>utakalo lifanyike.<br/>Tupe leo mkate wetu - <br/>utakalo lifanyike.<br/>Mkate wetu wa kila siku - <br/>utakalo lifanyike.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tusamehe makosa yetu - <br/>utakalo lifanyike. <br/>Kama vile twawasamehe - <br/>utakalo lifanyike. <br/>Waliotukosea sisi - <br/>utakalo lifanyike. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Situtie majaribuni - <br/>utakalo lifanyike. <br/>Walakini utuopoe - <br/>utakalo lifanyike. <br/>Maovuni utuopoe - <br/>utakalo lifanyike. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwa kuwa ufalme ni wako - <br/>utakalo lifanyike. <br/>Na nguvu na utukufu - <br/>utakalo lifanyike. <br/>Utukufu hata milele - <br/>utakalo lifanyike. </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:41">
+  <properties>
+    <titles>
+      <title>Hoyahe (10.00 Choir)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoyahe, Hoyahe, <br/>na tufurahi siku ya leo. x2<br/>Alleluya — hoyee tulitukuze <br/>jina la Bwana. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoyahe, Hoyahe, <br/>na tufurahi siku ya leo.<br/>Alt: na tufurahi siku ya leo,<br/>Tenor: na tufurahi <br/>siku ya leo<br/>All: tulitukuze jina la Bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hoyahe, Hoyahe, <br/>Mungu wetu ndiwe <br/>Baba mfariji. x2<br/>Alleluya — hoyee kazi <br/>zako zote zinakusifu. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hoyahe, Hoyahe, Mungu <br/>wetu ndiwe Baba mfariji.<br/>Alt: Mungu wetu ndiwe <br/>Baba mfariji<br/>Tenor: Mungu wetu ndiwe <br/>Baba mfariji<br/>All: kazi zako zote <br/>zinakusifu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hoyahe, Hoyahe, <br/>tumshukuru kwa <br/>ajili ya Yesu. x2<br/>Alleluya — hoyee <br/>aliye nasi lake taifa. x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hoyahe, Hoyahe, <br/>tumshukuru kwa <br/>ajili ya Yesu<br/>Alt: tumshukuru kwa <br/>ajili ya Yesu<br/>Tenor: tumshukuru kwa <br/>ajili ya Yesu<br/>All: aliye nasi lake taifa.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hoyahe, Hoyahe, <br/>tumpe Mungu sifa, <br/>enzi, tukuzo. x2<br/>Alleluya — hoyee <br/>nguvu na heshima <br/>hata milele. x2</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hoyahe, Hoyahe, <br/>tumpe Mungu sifa, <br/>enzi, tukuzo<br/>Alt: tumpe Mungu sifa, <br/>enzi, tukuzo<br/>Tenor: tumpe Mungu sifa, <br/>enzi, tukuzo<br/>All: nguvu na heshima <br/>hata milele.</lines>
+    </verse>
+  </lyrics>
+</song>

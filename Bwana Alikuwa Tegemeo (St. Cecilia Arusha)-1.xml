@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:45">
+  <properties>
+    <titles>
+      <title>Bwana Alikuwa Tegemeo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>St. Cecilia Arusha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana alikuwa tegemeo,<br/>langu langu. x2<br/>Akanitoa akanipeleka <br/>panapo nafasi nafasi.<br/>Akaniponya kwa kuwa <br/>alipendezwa nami. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana alinitendea, <br/>sawasawa na haki yangu.<br/>Maana nimezishika njia zake <br/>wala sikumwasi Mungu. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nimeshika maagizoye, <br/>sikuacha na amri zake.<br/>Mbele za Bwana sikuwa na <br/>hatia nikalinda wema wangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Atukuzwe Baba na Mwana,<br/>naye Roho Mtakatifu.<br/>Kama mwanzo na sasa na <br/>siku zote na milele amina.</lines>
+    </verse>
+  </lyrics>
+</song>

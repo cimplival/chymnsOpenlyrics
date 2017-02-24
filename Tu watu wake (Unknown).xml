@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:13">
+  <properties>
+    <titles>
+      <title>Tu watu wake</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tu watu wake,<br/>tu watu wake,<br/>tu watu wake na<br/>kondoo wa malisho yake. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mfanyieni Bwana shangwe <br/>dunia yote,<br/>mtumikieni Bwana kwa furaha,<br/>(njooni mbele zake <br/>kwa kuimba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jueni kwana Bwana ndiye Mungu,<br/>ndiye aliyetuumba,<br/>na sisi watu wake<br/>(na kondoo wa malisho yake) x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwa kuwa Bwana ndiye mwema,<br/>rehema zake ni za milele,<br/>(na uaminifu wake <br/>vizazi na vizazi) x2</lines>
+    </verse>
+  </lyrics>
+</song>

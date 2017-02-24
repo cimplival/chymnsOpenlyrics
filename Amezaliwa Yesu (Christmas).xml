@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:26">
+  <properties>
+    <titles>
+      <title>Amezaliwa Yesu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amezaliwa Yesu - <br/>twimbe aleluya.<br/>Ni Mwana wake Mungu - <br/>twimbe aleluya.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aleluya - Mwokozi wa dunia. <br/>Aleluya - kashuka kwetu sisi.<br/>Amezaliwa Yesu - twimbe aleluya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amezaliwa mjumbe - <br/>twimbe aleluya.<br/>Wa shauri kuu la Mungu - <br/>twimbe aleluya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uzima wake Baba - <br/>twimbe aleluya.<br/>Umetujia leo - <br/>twimbe aleluya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mipaka ya dunia - <br/>twimbe aleluya.<br/>Ione usalama - <br/>twimbe aleluya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Malaika waliimba - <br/>twimbe aleluya.<br/>Kwa shangwe na furaha - <br/>twimbe aleluya.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Utukufu kwa Mungu - <br/>twimbe aleluya.<br/>Amani duniani - <br/>twimbe aleluya.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pamoja nao sisi - <br/>twimbe aleluya.<br/>Twende tumwabudu - <br/>twimbe aleluya.</lines>
+    </verse>
+  </lyrics>
+</song>

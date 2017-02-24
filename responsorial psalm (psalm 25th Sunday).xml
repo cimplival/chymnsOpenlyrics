@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:57">
+  <properties>
+    <titles>
+      <title>responsorial psalm</title>
+    </titles>
+    <authors>
+      <author>psalm 25th Sunday</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Behold, the Lord is the upholder of my life.</lines>
+    </verse>
+  </lyrics>
+</song>

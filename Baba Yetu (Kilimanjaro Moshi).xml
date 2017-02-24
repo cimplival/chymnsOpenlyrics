@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:36">
+  <properties>
+    <titles>
+      <title>Baba Yetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Kilimanjaro Moshi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Baba Baba Baba yetu <br/>uliye mbinguni,<br/>Jina lako litukuzwe Baba, x2 <br/>litukuzwe.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Utakalo lifanyike - <br/>Baba yetu uliye mbinguni.<br/>Duniani hata na mbinguni -<br/>Baba yetu uliye mbinguni.<br/>Utupe leo mkate wetu -<br/>Baba yetu uliye mbinguni.<br/>Tusamehe na makosa yetu -<br/>Baba yetu uliye mbinguni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kama vile tuwasameheavyo -<br/>Baba yetu uliye mbinguni.<br/>Wale wote walotukosea -<br/>Baba yetu uliye mbinguni<br/>Usitutie kishawishini -<br/>Baba yetu uliye mbinguni.<br/>Maovuni Baba utuopoe -<br/>Baba yetu uliye mbinguni.</lines>
+    </verse>
+  </lyrics>
+</song>

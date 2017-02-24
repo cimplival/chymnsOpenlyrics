@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:37">
+  <properties>
+    <titles>
+      <title>Hiki Ndicho Chakula Bora</title>
+    </titles>
+    <verseOrder>c1 c2 c3 c2 c3 v1 c1 c2 c3 c2 c3 v2 c1 c2 c3 c2 c3 v3 c1 c2 c3 c2 c3</verseOrder>
+    <authors>
+      <author>Deo Kalolela</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Hiki ndicho chakula bora <br/>kwa wanyofu moyo,<br/>wote wenye mioyo safi <br/>Bwana awaalika). x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(Haya njoni wote mezani <br/>kwa chakula bora cha uzima<br/>haya njoni wote mezani <br/>kwa chakula bora<br/>haya njoni  kwa chakula bora, <br/>cha uzima.<br/>Haya njoni wote mezani <br/>kwa chakula bora cha uzima,<br/>haya njoni wote mezani <br/>kwa chakula bora cha uzima.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Haya njoni wote mezani <br/>kwa chakula bora, <br/>njoni kwa <br/>chakula bora, cha uzima, wetu.<br/>Haya njoni wote mezani <br/>kwa chakula bora,<br/>cha uzima, wetu. Wana heri <br/>wale wote wanaokipokea). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa upendo Bwana Yesu <br/>amejitoa kama chakula,<br/>Bwana akajitoa, apate <br/>kuziokoa roho zetu. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Njooni wote wenye kiu <br/>ya kupokea wokovu wake,<br/>Njooni maskini, <br/>njoni viwete vipofu <br/>na wagonjwa. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tule tunywe siku zote <br/>kwa ukombozi wa roho zetu,<br/>haya njoni wote, <br/>mezani kwa Bwana <br/>kwa chakula bora.</lines>
+    </verse>
+  </lyrics>
+</song>

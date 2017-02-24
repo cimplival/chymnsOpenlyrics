@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:06">
+  <properties>
+    <titles>
+      <title>Kunapendeza kutazama</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 v3 c3 v4 c4 v5 c5</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kunapendeza <br/>kutazama kwake Bwana,<br/>nyumba yake Bwana <br/>inapendeza. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>inapendeza <br/>kweli inapendeza sana,<br/>inapendeza inafurahisha moyo,<br/>nyumba ya Bwana <br/>inapendeza. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kuna furaha <br/>kuingia kwake Bwana,<br/>nyumba yake Bwana <br/>ina furaha. x2 </lines>
+    </verse>
+    <verse name="c2">
+      <lines>ina furaha <br/>kweli ina furaha kubwa,<br/>ina furaha ni furaha ya mbinguni,<br/>nyumba ya Bwana ina furaha. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kuna baraka <br/>kuabudu kwake Bwana,<br/>nyumba yake Bwana <br/>ina baraka. x2</lines>
+    </verse>
+    <verse name="c3">
+      <lines>ina baraka kweli <br/>ina baraka nyingi,<br/>ina baraka inayo baraka tele,<br/>nyumba ya Bwana ina baraka. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kuna chakula <br/>kutulia kwake Bwana,<br/>nyumba yake Bwana<br/>ina chakula. x2</lines>
+    </verse>
+    <verse name="c4">
+      <lines>ina chakula kweli <br/>ina chakula kingi,<br/>ina chakula chakula cha roho zetu,<br/>nyumba ya Bwana ina chakula. x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kuna uzima<br/>kusujudu kwake Bwana,<br/>nyumba yake Bwana <br/>ina uzima. x2</lines>
+    </verse>
+    <verse name="c5">
+      <lines>ina uzima <br/>kweli ina uzima tele,<br/>ina uzima ni uzima wa milele,<br/>nyumba ya Bwana ina uzima. x2</lines>
+    </verse>
+  </lyrics>
+</song>

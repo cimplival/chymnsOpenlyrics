@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:49">
+  <properties>
+    <titles>
+      <title>Bwana Atakufunika</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana Atakufunika <br/>kwa manyoya yake<br/>Bwana atakufunika <br/>kwa manyoya yake.<br/>(Chini, chini chini chini,<br/>Chini - chini ya mbawa zake. x2<br/>utapata kimbilio kiimbilio). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mabaya hayatakupata wewe,<br/>wala tauni haitakaribia <br/>hema yako. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Atakufunika kwa manyoya yake,<br/>chini ya mbawa zake, chini<br/>utapata kimbilio, kimbilio. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Atakuagizia malaika, <br/>uwepo safarini,<br/>kweli, wakulinde katika <br/>njia zako zote.</lines>
+    </verse>
+  </lyrics>
+</song>

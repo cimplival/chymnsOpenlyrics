@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:54">
+  <properties>
+    <titles>
+      <title>Psalms 28th Sunday Yr B</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Psalm 28th Sunday Yr B</author>
+      <author>Psalm 28th</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Fill us with your merciful love, O Lord,<br/>and we shall exult.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Teach us to number our days,<br/>that we may gain wisdom of heart.<br/>Turn back, O Lord! How long?  R.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>At dawn. fill us with your merciful love,<br/>we shall exult and rejoice all our days.<br/>Give us joy for the days of our affliction,<br/>for the years when we looked upon evil.   R</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let your deed be seen by your servants,<br/>and your glorious power by their children.<br/>Let the favour of the Lord our God be upon us.<br/>Give success to the work of our hands,<br/>O give success to the work of our hands.   R.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:55">
+  <properties>
+    <titles>
+      <title>Johera</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Afred Ossonga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Johera <br/>(dakunyi's herahera). x2<br/>Manyase endwaro <br/>wololo hawawene<br/>Johida (dakunyi's hidahida). x2<br/>Manyase endwarowololo<br/> niwakadhi.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Njooni wote tushangilie,<br/>(Tuimbe kwa furaha, <br/>tucheze bila mwisho,<br/>tutoe shukrani kwa <br/>Bwana mtawala). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Waumini simameni, <br/>mbele zake Mungu wetu.<br/>Waimbaji mziimbe, <br/>sifa zake Jehova Rama.<br/>Waumini tamkeni, <br/>utukufu wake Yahweh.<br/>Makasisi na watawa na <br/>wacheze nyumbani mwake<br/>shangwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa sauti ya kinanda,<br/>kwa filimbi na kayamba.<br/>Kwa kinubi na kwa zeze,<br/>tunamwimbia Mungu wetu.<br/>Kwa kelele za furaha, <br/>kwa makofi kwa machezo.<br/>Kwa vigelegele kweli, <br/>njooni nyote tutoe shukrani.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwimbieni Mungu wetu, <br/>mwimbieni wimbo mpya.<br/>Mwimbieni kwa furaha <br/>mwimbieni kwa shangwe kubwa.<br/>Mungu wetu ni mkuu, <br/>ametenda maajabu.<br/>Ameumba vitu vyote, <br/>ulimwengu na jeshi lake lote.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mungu wetu katuumba,<br/>ili sote tumjue.<br/>Sisi sote tumpende, <br/>tumtumikie daima.<br/>Ametupa vitu vyote, <br/>atulinda siku zote.<br/>Tuna heri ya milele, <br/>tutaishi mbinguni kwake Baba.</lines>
+    </verse>
+  </lyrics>
+</song>

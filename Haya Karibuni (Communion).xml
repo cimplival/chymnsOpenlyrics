@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:33">
+  <properties>
+    <titles>
+      <title>Haya Karibuni</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Haya wapendwa wote <br/>mwaalika kwa karamu<br/>Kushiriki utamu, <br/>utamu wa karamu<br/>karamu ya Bwana. x2 </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Amka ndugu yangu <br/>Bwana Yesu ametuita<br/>tukale mwili wake pia <br/>tukanywe damu yake<br/>(twende) <br/>simama simama simama<br/>simama umpokee ee <br/>changamka changamka<br/>changamka changamka <br/>akujaze neema zake.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Karamu ya mapendo <br/>karamu safi na takatifu,<br/>mwaalikwa wapendwa <br/>ili mpokee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wenye mioyo safi <br/>mwokozi sasa ametuita,<br/>kwa moyo safi twende <br/>wote tupokee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tutubu dhambi zetu <br/>tushiriki karamu ya Bwana,<br/>kwa moyo safi twende <br/>wote tupokee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ni mapendo makubwa <br/>Mwokozi yeye katulinda,<br/>tuleni siku zote tufike kwake.</lines>
+    </verse>
+  </lyrics>
+</song>

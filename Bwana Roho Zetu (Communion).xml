@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:59">
+  <properties>
+    <titles>
+      <title>Bwana Roho Zetu</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana roho zetu zatamani:<br/>Hayo maji yenye uzima.<br/>Bwana roho zetu zina kiu:<br/>Tupe Maji hayo ya uzima.<br/>Ee Bwana, tuna kiu, <br/>tunyweshe, tunakiu.<br/>Ee Bwana, <br/>tupe Maji hayo ya uzima. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wewe ndiwe taa ya maisha:<br/>Wewe Ndiwe mweza vyote.<br/>Wewe ndiwe mwanga <br/>wetu sote:<br/>Utatuongoza daima.<br/>Ee Bwana, <br/>tuajua Daima tuko nawe.<br/>Ee Bwana, <br/>utatuongoza daima. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wewe ndiwe nguvu yetu sote:<br/>Wewe ndiwe mweza vyote.<br/>Tupigwapo kumbo na shetani:<br/>Wewe ndiwe tulizo letu.<br/>Ee Bwana, <br/>tuongoze daima maishani.<br/>Ee Bwana, <br/>tupe nuru yako njiani. x2</lines>
+    </verse>
+  </lyrics>
+</song>

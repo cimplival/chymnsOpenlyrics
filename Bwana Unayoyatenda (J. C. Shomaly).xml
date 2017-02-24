@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:01">
+  <properties>
+    <titles>
+      <title>Bwana Unayoyatenda</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Bwana unayoyatenda kwangu mimi <br/>ni huruma ya kweli (ya kweli) <br/>sitakuwa na fadhila <br/>nisipokiri haya). x2 <br/>(Kuniumba, bila ya kukwambia, <br/>Akili yangu tofauti sana <br/>Ninalala pia ninaamka <br/>tazama niko hai). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Uhai nilio nao, sijanunua lolote, <br/>Bwana nashukuru sana <br/>ninasema asante. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Marafiki umenipa, <br/>maisha ya kupendeza, <br/>Bwana nashukuru sana <br/>ninasema asante. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Umenipa na watoto, <br/>yote sikutarajia, <br/>Bwana nashukuru sana<br/>ninasema asante. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yote umetenda kwangu, <br/>bila mimi kuwa mwema. <br/>Bwana nashukuru sana <br/>ninasema asante.</lines>
+    </verse>
+  </lyrics>
+</song>

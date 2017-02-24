@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:14">
+  <properties>
+    <titles>
+      <title>Tuingie kwa Yahwe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tuingie —<br/>tuingie kwa Yahweh Bwana<br/>Yahweh Bwana<br/>furaha nyingi siku ya leo. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nilifurahi waliponiambia,<br/>Tutaingia nyumba ya sala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana asema <br/>nyumba yangu i leo,<br/>Itaitwa nyumba ya sala.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tumwabudu Bwana <br/>Yesu Kristu,<br/>Atupa uzima wa milele.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tufurahie siku hii ya leo,<br/>Kwani ni siku yake Bwana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sasa miguu yetu isimame,<br/>Katika hekalu lake Bwana.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tumshukuru Bwana <br/>Yesu Kristu,<br/>Atupa uzima wa milele.</lines>
+    </verse>
+  </lyrics>
+</song>

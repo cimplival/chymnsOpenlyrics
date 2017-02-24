@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:22">
+  <properties>
+    <titles>
+      <title>All Things are ready</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All things are ready <br/>come to the feast,<br/>come for the table <br/>is now spread.<br/>You famishing and <br/>weary come,<br/>and you shall be richly fed.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All things are ready<br/>come to the feast,<br/>come for the door <br/>is open wide.<br/>A place of honor <br/>is reserved,<br/>for you at the <br/>master's side.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All things are ready<br/>come to the feast,<br/>come while he waits to <br/>welcome you.<br/>Delay not while <br/>this day is yours,<br/>tomorrow may never be.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>All things are ready,<br/>come to the feast,<br/>leave every care and <br/>worldly strive.<br/>Come feast upon <br/>the love of God,<br/>and drink everlasting life.</lines>
+    </verse>
+  </lyrics>
+</song>

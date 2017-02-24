@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:04">
+  <properties>
+    <titles>
+      <title>Kristu Pasaka Wetu (Sekwensia)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kristu Paska yetu,<br/>amechinjwa sadaka;<br/>Tuile karamuye, <br/>na twimbe Aleluya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aliyejitoa, <br/>sadaka ya Paska;<br/>Wakristu wamtolee, <br/>sadaka ya sifa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwanakondoo <br/>aliwakomboa kondoo, <br/>Kristu asiye na dhambi;<br/>Amewapatanisha na Baba, <br/>watu wenye dhambi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mauti na uzima, <br/>vimeshindana ajabu;<br/>Mkuu wa uzima aliyekufa, <br/>atawala mzima.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Utuambie Maria, <br/>uliona nini njiani?;<br/>Niliona kaburi la Kristu Mzima,<br/>na Utukufu wa aliyefufuka.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mashahidi ni Malaika,<br/>leso ya uso na mavazi;<br/>Kristu tumaini langu kafufuka,<br/>awatangulia Galilaya.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Twajua Kristu amefufuka, <br/>kweli katika wafu<br/>ewe Mfalme mshindaji, <br/>utuhurumie.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Amina Aleluya, <br/>Amina Aleluya. x2</lines>
+    </verse>
+  </lyrics>
+</song>

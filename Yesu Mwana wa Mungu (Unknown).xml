@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:30">
+  <properties>
+    <titles>
+      <title>Yesu Mwana wa Mungu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Yesu, Mwana wa Mungu, x2<br/>leo amezaliwa;<br/>Piga vigelegele, x2<br/>leo amezaliwa.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Agano latimia,<br/>Mwokozi kaziliwa, Yesu,<br/>Mwana wa Mungu,<br/>kweli amezaliwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pangoni Bethlehem,<br/>amezaliwa Yesu,<br/>Yeye ni ndugu yetu,<br/>pia Mkombozi wetu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Japo yeye ni mfalme,<br/>kajifanya maskini,<br/>mwumba wa vitu vyote,<br/>kazaliwa nyasini.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maria ni mamaye,<br/>Yosefu ni mlishi wake,<br/>nasi sote nduguze,<br/>twende tufike kwake.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mbingu na zifurahi,<br/>nchi ishangilie,<br/>bahari na ivume,<br/>na vyote ndani yake.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Miti yote ya mwitu,<br/>iimbe kwa furaha,<br/>mbele ya Bwana wake,<br/>amekuja leo hii.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mwokozi amekuja<br/>kutawala dunia,<br/>kwa usawa na haki,<br/>na kwa rehema nyingi.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Enyi wakristu wote,<br/>imbeni kwa furaha,<br/>litukuzeni jina,<br/>la Bwana wetu Yesu.</lines>
+    </verse>
+  </lyrics>
+</song>

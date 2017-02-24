@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:59">
+  <properties>
+    <titles>
+      <title>Kazi ya Vidole</title>
+      <title>Nikiziangalia Mbingu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>St. Charles Lwanga Kisii</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nikiziangalia Mbingu, <br/>kazi ya vidole vyako<br/>mwezi nyota ulizoziratibisha.<br/>(Mtu ni kitu gani <br/>(mtu ni) hata umkumbuke<br/>Na binadamu <br/>hata umwangalie). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Umemfanya mdogo <br/>punde kuliko Mungu<br/>umemfika taji ya<br/> utukufu na heshima<br/>umemtawaza juu <br/>ya kazi ya mikono yako<br/>umevitia vitu vyote <br/>chini ya miguu yake. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kondoo na ng’ombe wote, <br/>na ng’ombe wote pia<br/>naam na wanyama wa kondeni, <br/>wa kondeni<br/>ndege wa angani <br/>na samaki wa baharini,<br/>na kila kipitacho <br/>njia za baharini. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wewe Mungu Bwana wetu <br/>Mungu Bwana wetu<br/>jinsi lilivyotukufu <br/>jina lako duniani<br/>wewe umeweka utukufu <br/>wako Mbinguni<br/>vinywani mwa watoto <br/>umeweka misingi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwa sababu yao <br/>wanaoshindana na wewe,<br/>uwakomeshe adui <br/>na kulipa kisasi<br/>mtu kitu gani <br/>hata wewe umkumbuke<br/>na binadamu <br/>hata umwangalie.</lines>
+    </verse>
+  </lyrics>
+</song>

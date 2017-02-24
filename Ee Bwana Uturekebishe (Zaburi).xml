@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:15">
+  <properties>
+    <titles>
+      <title>Ee Bwana Uturekebishe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana Mungu ee Bwana,<br/>ee Bwana Mungu<br/>(ee Bwana) Mungu <br/>ee Mungu uturekebishe <br/>na utuangazishe. <br/>Na utuangazishe na <br/>utuangazishe uso wako.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wewe uchungaye, <br/>uchungaye Israeli, <br/>utie nuru uziamshe <br/>nguvu zako .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wewe uketiye juu<br/> ya makerubi <br/>Utie nuru uziamshe<br/>nguvu zako. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ewe Mwenyezi Mungu <br/>utuangalie, <br/>Kwa wema wako <br/>nasi tutaokoka.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na mkono wako, <br/>na uwe juu yake. <br/>Huo mzabibu ulopandwa <br/>kwa mkono wako.</lines>
+    </verse>
+  </lyrics>
+</song>

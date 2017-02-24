@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:34">
+  <properties>
+    <titles>
+      <title>Aulaye Mwili Wangu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Aulaye mwili wangu <br/>na kuinywa damu yangu,<br/>(asema Bwana),<br/>hukaa ndani yangu, <br/>nami hukaa ndani yake. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Aulaye mwili wangu, <br/>na kuinywa damu yangu,<br/>ana uzima wa milele. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Njoni enyi wenye njaa, <br/>njooni enyi wenye kiu,<br/>njoni kwangu niwashibishe. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aniaminiye mimi, <br/>na kushika nisemavyo,<br/>nitamfufua siku ya mwisho. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mlapo chakula hiki, <br/>mnywapo kinywaji hiki,<br/>mwatangaza kifo cha Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

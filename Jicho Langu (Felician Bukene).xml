@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:54">
+  <properties>
+    <titles>
+      <title>Jicho Langu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Felician Bukene</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ni wewe jicho langu nakutegemea<br/>kuniongoza (niendapo).<br/>Ni wewe jicho langu taa <br/>yangu ya kumulika njia (nipitayo).</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Niongoze kwa huruma, <br/>niongoze kwa mapendo<br/>Nitazame mambo mema, <br/>yanayopendeza Mungu<br/>Jicho langu niongoze hata <br/>nikafike kwa Mungu Baba</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ukiwaona vipofu wote,<br/>tazama kwa huruma.<br/>Na ukiwaona walemavu wote,<br/>tazama kwa huruma.<br/>Na ukiwaona wasiojiweza,<br/>tazama kwa huruma.<br/>Nikafike kwake Mungu <br/>kwa huruma yangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ukiwaona yatima wote,<br/>tazama kwa huruma.<br/>Na ukiwaona na wajane pia,<br/>tazama kwa huruma.<br/>Na ukiwaona wanaoonewa,<br/>tazama kwa huruma.<br/>Nikafike kwake Mungu <br/>kwa huruma yangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwenendo mbaya wa binadamu, <br/>hayo usitazame.<br/>kama tamaa anasa ushirikina,<br/>hayo usitazame.<br/>Na matendo yanayomuasi Mungu,<br/>hayo usitazame.<br/>Nikafike kwake Mungu <br/>kwa matendo mema.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pia unapowaona wahitaji, <br/>tazama kwa upendo.<br/>Na kila mwanadamu aliyeumbwa,<br/>tazama kwa upendo.<br/>Haja za familia uliyonayo,<br/>tazama kwa upendo.<br/>Nikafike kwake Mungu <br/>kwa upendo wangu.</lines>
+    </verse>
+  </lyrics>
+</song>

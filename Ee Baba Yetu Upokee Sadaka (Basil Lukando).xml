@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:10">
+  <properties>
+    <titles>
+      <title>Ee Baba Yetu Upokee Sadaka</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Basil Lukando</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Baba yetu upokee sadaka. x2<br/>Ndiyo mapato <br/>ya kazi yetu za wiki<br/>tunakuomba upokee Baba.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Pokea mkate huu, <br/>pokea divai hii uitakate.<br/>Ni mazao yetu toka mashambani,<br/>uitakate.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pokea fedha hii <br/>tunakutolea uitakate.<br/>Ndiyo bidii baba <br/>uliyotujalia uitakate.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na maombi yetu, <br/>Baba uyapokee sisi ni wako.<br/>Kwani uwezo wote <br/>una wewe Baba tusikilize.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:45">
+  <properties>
+    <titles>
+      <title>Osa Nthembo Yaitu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Umunthi nitwiyumitye <br/>kuete nthembo<br/>osa nthembo yaitu <br/>na uituathima. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Osa osa aa, osa aa<br/>osa nthembo yaitu <br/>na uituathima.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mukate na ndivai <br/>syi mbee waku<br/>alyula mwii na nthakame <br/>ya mwana waku.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na syumw’a sya miundani <br/>syi mbee waku<br/>osa nthembo yaitu <br/>na uituathima. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na syumw’a sya mivuko <br/>syi mbee waku<br/>osa nthembo yaitu <br/>na uituathima. x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na syana situ, <br/>Ngai syi mbee waku<br/>osa syana situ <br/>na uisiathima. x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Na asyai maitu <br/>Ngai me mbee waku<br/>osa asyai maitu <br/>na uimaathima. x2</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Na muthembi waitu <br/>Ngai ee mbee waku<br/>osa muthembi witu <br/>na uimuathima. x2</lines>
+    </verse>
+  </lyrics>
+</song>

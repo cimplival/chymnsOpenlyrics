@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:31">
+  <properties>
+    <titles>
+      <title>Hail Queen of Heaven</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 v3 c3 v4 c4</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hail, Queen of heaven, <br/>the ocean star,<br/>guide of the wanderer <br/>here below,<br/>thrown on life's surge, <br/>we claim thy care,<br/>save us from peril <br/>and from woe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mother of Christ, <br/>star of the sea,<br/>pray for the wanderer, <br/>pray for me. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O gentle, chaste, <br/>and spotless Maid,<br/>we sinners make our prayers <br/>through thee;<br/>remind thy Son that he has paid<br/>The price of our iniquity.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Virgin most pure, star of the sea,<br/>pray for the sinner, pray for me. x2 </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sojourners in this vale of tears,<br/>to thee, blest advocate, we cry;<br/>Pity our sorrows, calm our fears,<br/>and sooth with hope our misery.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Refuge in grief, star of the sea,<br/>pray for the mourner, <br/>pray for me. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>And while to Him Who reigns above,<br/>in Godhead one, in Persons three,<br/>the Source of life, of grace, of love,<br/>homage we pay on bended knee:</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Do thou, bright Queen, <br/>star of the sea,<br/>Pray for thy children, <br/>pray for me. x2 </lines>
+    </verse>
+  </lyrics>
+</song>

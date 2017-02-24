@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:42">
+  <properties>
+    <titles>
+      <title>Huu Sasa ni Wakati (V. B. Kanuti)</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>V. B. Kanuti</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Huu sasa ni wakati <br/>wa kutoa yako sadaka,<br/>usisite Mungu wako akuona usifiche.<br/>Huu sasa ni wakati <br/>wa kutoa yako sadaka,<br/>usisite Mungu <br/>wako akuona usifiche.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Toa ndugu toa,<br/>toa ndugu toa ndugu<br/>ulicho nacho, <br/>mshukuru Mungu wako <br/>kwa mema yote. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mtolee shukrani <br/>zako Mungu wako,<br/>kwa kutoa zawadi uliyo nayo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ulivyo navyo <br/>amekupa Yeye Bwana,<br/>nawe mpe Bwana <br/>kwa shukrani.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nafsi zetu na mali <br/>pia vyake Bwana<br/>haki kuvirudisha <br/>kwake Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

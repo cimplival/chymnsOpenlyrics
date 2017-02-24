@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:04">
+  <properties>
+    <titles>
+      <title>St. Stephen Mass</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ewe Bwana tuhurumie,<br/>Ewe Bwana tuhurumie,<br/>kwani sisi tu wakosefu, (ewe)<br/>Ewe Bwana tuhurumie,<br/>kwani sisi tu wakosefu. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ewe Kristu tuhurumie,<br/>Ewe Kristu tuhurumie,<br/>kwani sisi tu wakosefu, (ewe)<br/>Ewe Kristu tuhurumie,<br/>kwani sisi tu wakosefu. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ewe Bwana tuhurumie,<br/>Ewe Bwana tuhurumie,<br/>kwani sisi tu wakosefu, (ewe)<br/>Ewe Bwana tuhurumie,<br/>kwani sisi tu wakosefu. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>TENOR/ BASS: <br/>Utukufu kwa Mungu mbinguni,<br/>na amani kote wema-a.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Twakusifu<br/>tunakuheshimu,<br/>twakuabudu,<br/>tunakutukuza. x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Utukufu kwa Mungu<br/>juu na amani,<br/>kwa watu-u wema <br/>pote duniani.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tunakushukuru <br/>mfalme wa mbingu,<br/>mwana wa pekee <br/>mwana wake Baba.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mwenye kuondoa <br/>makosa ye-etu,<br/>utuhurumie <br/>maombi pokea.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kuume <br/>kwa baba unapoketi,<br/>Mtakatifu mkuu<br/>utuhurumie.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Pamoja<br/>na roho Mtakatifu,<br/>ndani yake Baba we <br/>unatukuzwa.</lines>
+    </verse>
+  </lyrics>
+</song>

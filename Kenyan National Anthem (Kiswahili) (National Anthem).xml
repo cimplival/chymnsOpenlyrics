@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:59">
+  <properties>
+    <titles>
+      <title>Kenyan National Anthem (Kiswahili)</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>National Anthem</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ee Mungu nguvu yetu,<br/>Ilete baraka kwetu<br/>Haki iwe ngao na mlinzi<br/>Natukae na Undugu<br/>Amani na uhuru<br/>Raha tupate na ustawi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amkeni ndugu zetu<br/>Tufanye sote bidii<br/>Nasi tujitoe kwa nguvu<br/>Nchi yetu ya Kenya<br/>Tunayoipenda<br/>Tuwe tayari kuilinda.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Natujenge taifa letu<br/>Ee, ndio wajibu wetu<br/>Kenya istahili heshima<br/>Tuungane mikono<br/>Pamoja kazini<br/>Kila siku tuwe na shukrani.</lines>
+    </verse>
+  </lyrics>
+</song>

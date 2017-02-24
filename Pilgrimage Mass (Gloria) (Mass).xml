@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:48">
+  <properties>
+    <titles>
+      <title>Pilgrimage Mass (Gloria)</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v4 c1 v5 v6 c1 v7 v8 c1 v9 v10 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Glory to God in the highest,<br/>glory to God in the highest,<br/>(and peace to his people <br/>on earth x4). </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lord God heavenly King,<br/>glory to God.<br/>Almighty and Father, <br/>glory to God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lord God heavenly King,<br/>glory to God.<br/>Almighty and Father, <br/>glory to God in the highest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We worship oh Lord,<br/>glory to God.<br/>We give you thanks oh Lord,<br/>glory to God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Our praise for your glory,<br/>glory to God.<br/>Christ Jesus son of God,<br/>glory to God in the highest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lord God and Lamb of God,<br/>glory to God,<br/>Our sins you take away,<br/>glory to God.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>And the sins of the world,<br/>glory to God.<br/>Have mercy on us Lord,<br/>glory to God in the highest.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You are the chosen one,<br/>glory to God.<br/>Seated at the right hand,<br/>glory to God.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Right hand of the father,<br/>glory to God.<br/>Receive our prayers,<br/>glory to God in the highest.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>You are the only one,<br/>glory to God.<br/>Alone are the holy,<br/>glory to God.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>You are the most high,<br/>glory to God.<br/>With the Holy Spirit,<br/>glory to God in the highest.</lines>
+    </verse>
+  </lyrics>
+</song>

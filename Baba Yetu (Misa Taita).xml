@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:37">
+  <properties>
+    <titles>
+      <title>Baba Yetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Misa Taita</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Baba yetu uliye mbinguni -<br/>Baba yetu, Baba yetu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jina lako litukuzwe daima -<br/>Ee Baba, ee Baba, ee! <br/>Baba yetu uliye mbinguni,<br/>jina lako litukuzwe, <br/>ufalme wako ufike,<br/>utakalo lifanyike duniani <br/>kama mbinguni. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Utupe leo mkate <br/>wetu wa kila siku.<br/>Utusamehe makosa yetu, <br/>kama tunavyowasamehe.<br/>Na sisi waliotukosea, <br/>usitutie katika kishawishi,<br/>lakini utuopoe maovuni. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwani ufalme ni wako - <br/>Baba yetu.<br/>Kwani nguvu ni zako - <br/>Baba yetu.<br/>Utukufu ni wako - <br/>Baba yetu.<br/>Baba milele milele -<br/>Hizi zote zako Baba!</lines>
+    </verse>
+  </lyrics>
+</song>

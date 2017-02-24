@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:41">
+  <properties>
+    <titles>
+      <title>Hoyahe</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Thika Catholic</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoyahe, x2 <br/>na tufurahi siku ya leo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(Alleluia - hoye), <br/>tulitukuze jina la Bwana.<br/>Hoyahe, x2 <br/>na tufurahi siku ya leo. x3<br/>Tulitukuze Jina la Bwana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoyahe, x2 <br/>Mungu wetu ndiwe Baba Mfariji.<br/>Kazi zako zote zinakusifu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tumshukuru kwa ajili ya Yesu,<br/>aliye nasi lake taifa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tumpe Mungu, <br/>enzi tukuzo<br/>nguvu na heshima hata milele.</lines>
+    </verse>
+  </lyrics>
+</song>

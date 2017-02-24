@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:47">
+  <properties>
+    <titles>
+      <title>Bwana Ametamalaki</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana ametamalaki, <br/>Bwana ametamalaki, <br/>aleluya. </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mbingu/ zifurahi/ <br/>na dunia/ ishangilie<br/>Furahini, shangilieni, <br/>aleluya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mbingu hutangaza <br/>haki yake Bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mataifa/ yataona/<br/>utukufu/ wake Bwana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Umetukuka Ee Bwana/<br/>juu ya/ dunia yote.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kiti chako/ ni imara/ <br/>wewe upo/ tangu milele.</lines>
+    </verse>
+  </lyrics>
+</song>

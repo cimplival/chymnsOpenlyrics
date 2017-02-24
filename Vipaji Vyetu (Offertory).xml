@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:21">
+  <properties>
+    <titles>
+      <title>Vipaji Vyetu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vipaji vyetu - <br/>pokea Bwana pokea.<br/>Tulivyo navyo - <br/>ee (Bwana pokea x2).</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pokea pokea pokea <br/>Bwana Pokea. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Matunda yetu -<br/>pokea Bwana pokea.<br/>Mazao yetu -<br/>ee (Bwana pokea x2).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mioyo yetu -<br/>pokea Bwana pokea.<br/>Maisha yetu -<br/>ee (Bwana pokea x2).</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Matendo yetu -<br/>pokea Bwana pokea.<br/>Magumu yetu -<br/>ee (Bwana pokea x2).</lines>
+    </verse>
+  </lyrics>
+</song>

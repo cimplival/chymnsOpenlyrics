@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:22">
+  <properties>
+    <titles>
+      <title>All the earth proclaim</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>All the earth <br/>proclaim the Lord,<br/>sing your praise to God.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Serve you Lord, <br/>heart filled with gladness,<br/>come into his presence <br/>singing for joy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Know that the Lord <br/>is our Creator.<br/>Yes he is our Father,<br/>we are his sons.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>We are the sheep<br/>of his green pasture,<br/>for we are his people,<br/>he is our God.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Enter his gates <br/>bringing thanksgiving,<br/>oh enter his courts <br/>while singing his praise.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Our Lord is good,<br/>his love is enduring,<br/>his word is abiding now <br/>with all men.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Honour and praise be <br/>to the Father, <br/>the Son and the Spirit<br/>world without end.</lines>
+    </verse>
+  </lyrics>
+</song>

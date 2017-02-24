@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:08">
+  <properties>
+    <titles>
+      <title>Kwa Wingi wa Fadhili</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2</verseOrder>
+    <authors>
+      <author>Victor Aloyce Murishiwa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kwa wingi wa fadhili zako,<br/>kwa wingi wa rehema zako</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Bwa-na Bwana <br/>nikushukuruje Bwana<br/>nikushukuruje Bwana <br/>nikushukuruje<br/>Bwana Bwana Bwana <br/>nikushukuruje Bwana<br/>nikushukuruje mimi <br/>nikushukuruje (sasa)<br/>mimi nikushukuruje Bwana wangu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nitaimba vipi mimi, <br/>wimbo gani niimbe<br/>nimwimbie kwa furaha <br/>na shangwe kubwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siku zote ninawaza, <br/>kitu gani nimpe,<br/>kwa maana kila kitu <br/>ni mali yako.</lines>
+    </verse>
+  </lyrics>
+</song>

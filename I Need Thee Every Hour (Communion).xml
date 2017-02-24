@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:44">
+  <properties>
+    <titles>
+      <title>I Need Thee Every Hour</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I need thee every hour,<br/>most gracious Lord,<br/>no tender voice like thine,<br/>can peace afford.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>I need thee, oh, I need thee,<br/>Ev'ry hour I need thee;<br/>Oh, bless me now, <br/>my Saviour; I come to thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I need thee every hour,<br/>stay though near by;<br/>temptations lose their power<br/>when thou art nigh.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I need thee every hour,<br/>in joy and in pain;<br/>come quickly and abide,<br/>or life is vain.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I need thee every hour,<br/>teach me thy will<br/>and thy rich<br/>promises in me fulfill.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I need thee every hour,<br/>most Holy One<br/>Oh, make me thine indeed,<br/>thou blessed Son.</lines>
+    </verse>
+  </lyrics>
+</song>

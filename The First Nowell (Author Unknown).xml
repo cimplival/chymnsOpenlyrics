@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:09">
+  <properties>
+    <titles>
+      <title>The First Nowell</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The first nowell <br/>the angel did say,<br/>was to certain poor shepherds <br/>in fields as they lay;<br/>In fields where they lay <br/>keeping their sheep,<br/>On a cold winter’s night <br/>that was so deep.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nowell, nowell, <br/>nowell, nowell,<br/>born is the King of Israel!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>They looked up <br/>and saw a star,<br/>shining in the east, <br/>beyond them far;<br/>And to the earth <br/>it gave great light,<br/>and so it continued <br/>both day and night.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And by the light <br/>of that same star,<br/>three wise men came<br/>from country far;<br/>To seek for a King <br/>was their intent,<br/>and to follow the star <br/>wherever it went.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>This star drew nigh <br/>to the north-west,<br/>o'er Bethlehem <br/>it took its rest;<br/>And there it did both<br/>stop and stay,<br/>right over the place <br/>where Jesus lay.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Then entered in <br/>those wise men three,<br/>full reverently <br/>upon their knees;<br/>And offered there <br/>in his presence,<br/>their gold, and myrrh, <br/>and frankincense.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Then let us all <br/>with one accord,<br/>sing praises <br/>to our heavenly Lord;<br/>That hath made heaven <br/>and earth of naught,<br/>and with his blood mankind <br/>hath bought.</lines>
+    </verse>
+  </lyrics>
+</song>

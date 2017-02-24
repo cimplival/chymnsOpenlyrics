@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:49">
+  <properties>
+    <titles>
+      <title>Bwana Awabariki</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Harusi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana awabariki<br/>Bwana awabariki<br/>(Bwana)<br/>awabariki milele.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ukimcha Mungu - Bwana awabariki.<br/>Na kutembea - Bwana awabariki.<br/>Pamoja naye - Bwana awabariki.<br/>Heri ni yako - Bwana awabariki.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na mke wako - Bwana awabariki. <br/>Atastawi - Bwana awabariki.<br/>Kama mzabibu - Bwana awabariki. <br/>Wenye matunda - Bwana awabariki. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Watoto wako - Bwana awabariki. <br/>Watafanana - Bwana awabariki. <br/>Na machipuko - Bwana awabariki. <br/>Ya mzeituni - Bwana awabariki. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ubarikiwe - Bwana awabariki. <br/>Kutoka Saioni - Bwana awabariki. <br/>Maishani mwetu - Bwana awabariki.<br/>Amani kwako - Bwana awabariki. </lines>
+    </verse>
+  </lyrics>
+</song>

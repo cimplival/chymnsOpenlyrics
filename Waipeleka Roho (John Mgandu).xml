@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:23">
+  <properties>
+    <titles>
+      <title>Waipeleka Roho</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>John Mgandu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Waipeleka Roho, <br/>waipeleka Roho yako Ee Bwana,<br/>roho yako ee Bwana <br/>(Ee Bwana)<br/>(nawe waufanya upya, <br/>uso wa dunia aleluya) x2.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Njoo Roho Mtakatifu, <br/>uijaze nyoyo ya waamini, <br/>na uwashe ndani yao <br/>upendo wako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Nafsi yangu, <br/>umhimidi Bwana, <br/>wewe Mungu wangu, <br/>na imejifanya kuwa <br/>mkuu sana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ewe Bwana Mungu wangu, <br/>jinsi yalivyo mengi matendo <br/>yako na dunia imejaa <br/>mali yako.</lines>
+    </verse>
+  </lyrics>
+</song>

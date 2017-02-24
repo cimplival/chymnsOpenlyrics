@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:16">
+  <properties>
+    <titles>
+      <title>Ee Mungu Baba Mwenyezi (Thanksgiving)</title>
+    </titles>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Mungu Baba Mwenyezi twajongea<br/>kwako sisi viumbe vyako<br/>ndiwe muumba ndiwe mwenye<br/>pendo Mungu mwenye umoja<br/>twakushukuru kwa ajili ya baraka<br/>ya familia takatifu x2</lines>
+    </verse>
+  </lyrics>
+</song>

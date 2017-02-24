@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:38">
+  <properties>
+    <titles>
+      <title>Baba Yetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>St. Mary's Ongata Rongai</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Baba yetu wa Mbinguni<br/>Jina lako litukuzwe<br/>Ufalme wako na ufike<br/>Utakalo lifanyike.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dunia kama Mbinguni<br/>utupe leo mkate wetu<br/>mkate wetu wa kila siku <br/>(Baba)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tusamehe makosa yetu <br/>(Baba),<br/>Kama vile twawasamehe <br/>(wale),<br/>Waliotukosea sisi (Baba).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Situtie majaribuni (Baba),<br/>walakini utuopoe (kweli),<br/>maovuni utuopoe (Baba).</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwa kuwa ufalme ni wako <br/>(Baba),<br/>pia nguvu na utukufu<br/>(kweli),<br/>utukufu hata milele<br/>(Baba).</lines>
+    </verse>
+  </lyrics>
+</song>

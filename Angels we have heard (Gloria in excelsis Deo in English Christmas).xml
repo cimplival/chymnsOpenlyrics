@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:30">
+  <properties>
+    <titles>
+      <title>Angels we have heard</title>
+    </titles>
+    <authors>
+      <author>Gloria in excelsis Deo in English Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Angels we have heard on high <br/> singing sweetly through the night<br/>And the mountains in reply<br/>echoing their brave delight.<br/>Glo-oooooooooo ria in excelsis Deo x2<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shephards why this jubilee<br/>why this song of happy cheers<br/>what great brightness id you see<br/>what glad tidings did you hear<br/>Glo-oooooooooo ria in excelsis Deo x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>come to Bethlehem and see Him<br/>whose birth the angels sing<br/>come adore on bended knees<br/>Christ the Lord the new born king<br/>Glo-oooooooooo ria in excelsis Deo x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>see Him in a manger laid<br/>whom the Angels praise above <br/>Mary,Joseph lend your aid<br/>while w raise our hearts in love<br/>Glo-oooooooooo ria in excelsis Deo x2</lines>
+    </verse>
+  </lyrics>
+</song>

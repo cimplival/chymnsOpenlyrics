@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:33">
+  <properties>
+    <titles>
+      <title>Hawa Ndio Wanaotapatapa</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>M. Z. Yohana</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hawa ndio wale<br/>wasiomkumbuka Mungu<br/>ndio wale wasiomtumaini Mungu<br/>wanataka maisha ya mkato <br/>pasipo kutoka jasho.<br/>Hutamani visivyo vyao viwe vyao<br/>tegemeo lao ni kwa waganga <br/>ambapo hupewa dumba<br/>ili wapate kudhulumu <br/>vya wenzao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hawa ndio wale <br/>wanaotapatapa ovyo,<br/>ndio wale wasiomtumaini Mungu<br/>kila siku ni kiguu <br/>na njia eti wasaka pesa<br/>hata kukumbuka kusali hawataki<br/>wamesahau ya kwamba<br/>mwenyezi ndiye mgawa vyote<br/>na ndiye mpaji <br/>wa vyote kwa wanawe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hawa ndio wale <br/>wanaomkufuru Mungu<br/>ndio wanaochezea <br/>jina lake Mungu<br/>wanaishi maisha ya uzinzi <br/>pasipo kufunga ndoa<br/>na maisha yao <br/>hujaa machungu mengi<br/>Wengine wanaharibu miili <br/>eti wawe warembo<br/>Kana kwamba Mungu <br/>hakuwaumba vizuri.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hawa ndio wale <br/>wanaomdhihaki Mungu<br/>ndio wale wasioheshimu uhai wao<br/>wanatumia vibaya miili <br/>yao kwa ukahaba<br/>eti ili wajipatie kitu kidogo<br/>wengine wanavyolegeza ndoa <br/>sababu ya nyumba ndogo<br/>na kuziacha familia zikiteseka.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hawa ndio wale <br/>wanaompendeza Mungu<br/>ndio wale wanaoshika <br/>njia zake Mungu<br/>wale walioyatoa maisha <br/>yao kuwa sadaka<br/>kwa kumtumikia Mungu kwa undani<br/>Wanaouthamini uhai wao <br/>pia na majirani zao<br/>wakisaidiana vyema <br/>na kupendana.</lines>
+    </verse>
+  </lyrics>
+</song>

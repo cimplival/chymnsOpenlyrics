@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:07">
+  <properties>
+    <titles>
+      <title>Kuteswa Kwake</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Lent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kuteswa kwake Bwana <br/>kulinipa wokovu,<br/>siachi kumwimbia pote <br/>niendapo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aliyeniokoa ni Yesu<br/>aliyevumilia mateso<br/>aliyemwaga damu mtini,<br/>ndiye (ndiye) <br/>Bwana wangu. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa kunipenda <br/>mimi aliwambwa akafa,<br/>ni pendo la ajabu kunifilia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rohoni nimeoshwa <br/>kwa damu ya thamana,<br/>makosa yameoshwa <br/>naye mwokozi.</lines>
+    </verse>
+  </lyrics>
+</song>

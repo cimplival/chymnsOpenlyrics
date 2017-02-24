@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:36">
+  <properties>
+    <titles>
+      <title>Heri zaidi kutoa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>{(Ni heri zaidi kutoa) <br/>Ni heri zaidi kutoa <br/>kuliko kupokea.} x2 <br/>{(Ni heri ni heri zaidi kutoa, <br/>ni heri ni heri zaidi kutoa) x2 <br/>kuliko kupokea.} x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tunapaswa wote <br/>kuwasaidia waliodhaifu, <br/>tukikumbuka maneno <br/>yake mutume Paulo, <br/>(Heri zaidi kutoa kuliko <br/>kupokea).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vitu vyote kweli tumepewa <br/>bure tuvitoe bure, <br/>hatuna budi kuvirudisha <br/>vitu vyote kwake, <br/>(Heri zaidi kutoa <br/>kuliko kupokea).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hata kama ndugu <br/>unacho kidogo, <br/>usisite nenda vitu <br/>vyote ulivyo navyo Mungu <br/>ndiye kakupa, <br/>(Heri zaidi kutoa <br/>kuliko kupokea).</lines>
+    </verse>
+  </lyrics>
+</song>

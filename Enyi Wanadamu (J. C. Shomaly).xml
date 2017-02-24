@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:21">
+  <properties>
+    <titles>
+      <title>Enyi Wanadamu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Enyi wanadamu msisumbukie <br/>maisha yenu,<br/>kwani yale yote <br/>mnayoyasumbukia<br/>Mungu anayajua.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Msijiulize ulize kwamba mtaishi vipi,<br/>bali utafuteni kwanza,<br/>bali utafuteni, wa Mungu,<br/>bali utafuteni kwanza ufalme,<br/>nayo mahitaji yenu mnayohangaikia<br/>kila siku Mungu atawapa. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Msifikiri sana, <br/>juu ya maisha yenu<br/>bali mtumikieni Mungu<br/>kwa kusali na kutenda mema<br/>kwa kuwa, <br/>Mungu ndiye mtoaji wa vyote.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jueni Mungu ndiye, <br/>kinga ya maisha yenu<br/>sasa mtumikieni Mungu<br/>kwa kusali na kutenda mema<br/>kwa kuwa, <br/>Mungu ndiye mtoaji wa vyote.</lines>
+    </verse>
+  </lyrics>
+</song>

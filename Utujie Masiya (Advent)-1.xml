@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:20">
+  <properties>
+    <titles>
+      <title>Utujie Masiya</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Advent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Utujie, Masiya wetu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee Bwana, <br/>unijulishe jia zako,<br/>unifundishe mapito yako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uniongoze <br/>katika kweli yako,<br/>na kunifundisha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana yu mwema, <br/>mwenye adili,<br/>kwa hivyo twafundisha<br/>wenye dhambi njia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ee Bwana, <br/>utuonyeshe rehema zako,<br/>tupe na wokovu wako.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hakika,<br/>wokovu wake <br/>u karibu na wamchao,<br/>utukufu ukae katika <br/>nchi yetu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Fadhili na kweli<br/>zimekutana<br/>haki na amani <br/>zimebusiana.</lines>
+    </verse>
+  </lyrics>
+</song>

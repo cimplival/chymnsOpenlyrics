@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:25">
+  <properties>
+    <titles>
+      <title>Amefufuka Aleluya</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1 v10 c1</verseOrder>
+    <authors>
+      <author>Easter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Amefufuka, aleluya,<br/>Yesu amefufuka aleluya.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kaburi lafunguka, aleluya;<br/>Mwokozi kafufuka, aleluya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mapema asubuhi, aleluya;<br/>Katoka kaburini, aleluya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na sasa yuko hai, aleluya;<br/>Shujaa na hodari, aleluya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ni Bwana wa dunia, aleluya;<br/>Daima atawala, aleluya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mchungaji wetu mwema, <br/>aleluya;<br/>Alitoa uzima, aleluya</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mchungaji wetu mwema, <br/>aleluya;<br/>Leo amefufuka, aleluya.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Uzima kapotea, aleluya;<br/>Leo umerudishwa, aleluya.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tulipobatizwa, aleluya;<br/>Uzima tulipata, aleluya.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Siishi tena mimi, aleluya;<br/>Uhai wangu Kristu, aleluya.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Hii ndiyo siku kuu, aleluya;<br/>Yake Yesu na Yetu, aleluya.</lines>
+    </verse>
+  </lyrics>
+</song>

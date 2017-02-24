@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:07">
+  <properties>
+    <titles>
+      <title>Come My Brothers</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come my brothers <br/>praise the Lord,<br/>Alleluia.<br/>Praise the Lord,<br/>for he is God,<br/>Alleluia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Come to him <br/>with songs of praise,<br/>Alleluia.<br/>Songs of praise <br/>rejoice in him,<br/>Alleluia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>For the Lord<br/>is almighty God,<br/>Alleluia.<br/>He is king <br/>of all the world,<br/>Alleluia.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>In his hands <br/>are valleys deep,<br/>Alleluia.<br/>In his hands <br/>are mountains peaks,<br/>Alleluia.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>In his hands <br/>are all the seas,<br/>Alleluia.<br/>And the lands<br/>which he has made,<br/>Alleluia.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Come my brothers <br/>praise the Lord,<br/>Alleluia.<br/>He is our God,<br/>and we are his.<br/>Alleluia.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Praise the Father,<br/>praise the Son,<br/>Alleluia.<br/>Praise the Spirit,<br/>the Holy one,<br/>Alleluia.</lines>
+    </verse>
+  </lyrics>
+</song>

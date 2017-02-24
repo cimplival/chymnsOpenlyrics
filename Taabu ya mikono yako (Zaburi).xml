@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:06">
+  <properties>
+    <titles>
+      <title>Taabu ya mikono yako</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Taabu ya mikono yako <br/>hakika utakila, <br/>taabu ya mikono yako<br/>hakika utakila.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Heri kila mtu amchaye Bwana, <br/>aendaye katika njia yake.<br/>Heri yao wale wamchao Bwana<br/>utakuwa mwenye heri <br/>na Baraka tele.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mkeo atakuwa kama mzabibu, <br/>uzaao vyumbani mwa nyumba yako, <br/>nyumba yako wanao kama miche,<br/>ya mize ituni wakizunguka meza yako.</lines>
+    </verse>
+  </lyrics>
+</song>

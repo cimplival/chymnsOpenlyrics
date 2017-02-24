@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:29">
+  <properties>
+    <titles>
+      <title>Go tell it</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Go tell it on the mountain,<br/>over the hills and everywhere;<br/>Go tell it on the mountain,<br/>that Jesus Christ is born.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>While shepherds kept <br/>their watching, <br/>o'er wand'ring flocks<br/>by night;<br/>Behold from out of heaven,<br/>there shone a holy light.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>An lo when they <br/>had seen it,<br/>they all bowed down<br/>and prayed;<br/>They travelled on together,<br/>to where the babe was laid.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>When I was a seeker,<br/>I sought both night and day;<br/>I asked my Lord to help me,<br/>and he showed me the way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He made me a watchman,<br/>upon the city wall;<br/>And if I am a Christian,<br/>I am the least of all.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:42">
+  <properties>
+    <titles>
+      <title>Huyo Huyo Yesu Wangu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2</verseOrder>
+    <authors>
+      <author>Deo Kidaha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Huyo huyo huyo huyo <br/>Yesu wangu ni mwema), <br/>huyo huyo huyo huyo <br/>Yesu wangu ni mwema. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Anipa chakula huyo <br/>Yesu wangu ni mwema<br/>Anipa chakunywa huyo <br/>Yesu wangu ni mwema<br/>Ananijalia afya ya mwili <br/>na Roho nitamtumainia <br/>sitaogopa mabaya</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nikiwa taabuni huyo <br/>Yesu aniokoa - <br/>Huyo huyo huyo huyo <br/>Yesu wangu ni mwema.<br/>Nikihuzunika huyo Yesu anifarij i- <br/>Huyo huyo huyo huyo <br/>Yesu wangu ni mwema.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nikiwa na njaa huyo <br/>Yesu anishibisha - <br/>Huyo huyo huyo huyo <br/>Yesu wangu ni mwema.<br/>Nikiwa na kiu huyo <br/>Yesu anipa maji - <br/>Huyo huyo huyo huyo <br/>Yesu wangu ni mwema.<br/> </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nikishambuliwa huyo Yesu<br/> anitetea-<br/>Huyo huyo huyo huyo <br/>Yesu wangu ni mwema.<br/>Watesi wakija huyo <br/>Yesu ni ngome yangu - <br/>Huyo huyo huyo huyo <br/>Yesu wangu ni mwema.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Palipo sherehe yeye<br/> ndiye msimamizi - <br/>Huyo huyo huyo huyo <br/>Yesu wangu ni mwema.<br/>Palipo majonzi yeye <br/>ndiye makimbilio- <br/>Huyo huyo huyo huyo <br/>Yesu wangu ni mwema.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kaa ndani yangu nami <br/>nikae ndani yako - <br/>Huyo huyo huyo huyo <br/>Yesu wangu ni mwema.<br/>Uniburudishe niwe nawe <br/>maisha yote - <br/>Huyo huyo huyo huyo <br/>Yesu wangu ni mwema.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:43">
+  <properties>
+    <titles>
+      <title>Bino Bianwa Biefwe (Kiswahili)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bino bianwa biefwe.<br/>Bino bianwa biefwe.<br/>Ee Baba yakanila Baba.<br/>Ee Baba yakanila Baba.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kuno mkate kwefwe Baba,<br/>Yakanila Baba.<br/>Ino divai yiefwe Baba,<br/>Yakanila Baba.<br/>Buno bulamu bwefwe Baba,<br/>Yakanila Baba.<br/>Biosi biakhuli nawyo Baba,<br/>Yakanila Baba.<br/>All: Ee baba yakanila Baba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kano kamani kefwe Baba,<br/>Yakanila Baba.<br/>Chino chimbande chefwe Baba,<br/>Yakanila Baba.<br/>Chino chinjugu chefwe Baba,<br/>Yakanila Baba.<br/>Bino bimelwa chefwe Baba,<br/>Yakanila Baba.<br/>All: Ee baba yakanila Baba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Buno buyinda bwefwe Baba,<br/>Yakanila Baba.<br/>Chino chisendi chefwe Baba,<br/>Yakanila Baba.<br/>Buno obulala bwefwe Baba,<br/>Yakanila Baba.<br/>Khukhurera biosi Baba,<br/>Yakanila Baba.<br/>All: Ee baba yakanila Baba.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Obumanani bwefwe Baba,<br/>Yakanila Baba.<br/>Khuno khusanya khwefwe Baba,<br/>Yakanila Baba.<br/>Obusangafu bwefwe Baba,<br/>Yakanila Baba.<br/>Khukhurusilia bionsi Baba,<br/>Yakanila Baba.<br/>All: Ee baba yakanila Baba.</lines>
+    </verse>
+  </lyrics>
+</song>

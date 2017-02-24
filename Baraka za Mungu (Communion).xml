@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:39">
+  <properties>
+    <titles>
+      <title>Baraka za Mungu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Baraka za Mungu <br/>leo zinashuka,<br/>zinashuka zinashuka). x2<br/>Tunaimba, tunaimba, <br/>twashukuru Mungu Baba.<br/>Kwa heshima, sakramenti, <br/>nafurahia Mkatoliki.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sakramenti ya kitubio, <br/>tunatubu.<br/>Sakramenti ya ekaristi <br/>mwili wake,<br/>nafurahia mkatoliki. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sakramenti ya ubatizo,<br/>twaokoka.<br/>Twapata na Kipaimara<br/>tuna nguvu,<br/>nafurahia mkatoliki. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sakramentini ya <br/>daraja pia ndoa.<br/>Twapata pia na <br/>mapadri na masista,<br/>nafurahia Mkatoliki.</lines>
+    </verse>
+  </lyrics>
+</song>

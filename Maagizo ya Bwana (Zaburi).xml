@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:12">
+  <properties>
+    <titles>
+      <title>Maagizo ya Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>{(Maagizo ya Bwana <br/>ni adili niya adili niya adili) <br/> hufurahisha moyo wangu}x2 <br/>Maagizo ya Bwana niya <br/>adili huufurahisha moyo, <br/>maagizo ya Bwana niya adili <br/>huufurahisha moyo wangu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sheria ya Bwana <br/>ni kamilifu huiburudisha<br/> nafsi yaa-ngu, <br/>ushu-huda wa Bwana <br/>ni ami-ini humtia <br/>mjinga heki-ima.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kicho cha Bwana <br/>ni kitakati-ifu hudumu <br/>milele na mile-ele,<br/>hukumu za Bwana <br/>ni za –a kweli, <br/>zina haki haki kabi-isa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tena mtumishi <br/>wa-ko huonywa,<br/>katika kushika kuna <br/>thawabu nyingi ni nani<br/>awezaye kuyatabua,<br/>kutabua makosa yake.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Umzuie mtumishi wako <br/>asitende mambo ya kiburi,<br/>ndipo nitakapokuwa kamili,<br/>nitakuwa safi kabi-isa.</lines>
+    </verse>
+  </lyrics>
+</song>

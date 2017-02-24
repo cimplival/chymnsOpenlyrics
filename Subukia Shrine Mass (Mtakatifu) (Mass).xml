@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:05">
+  <properties>
+    <titles>
+      <title>Subukia Shrine Mass (Mtakatifu)</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mtakatifu, Mtakatifu, <br/>Mtakatifu Mungu wa majeshi<br/>Mbingu na dunia zimejaa, <br/>zimejaa utukufu wako.<br/>Hosana; Hosana; <br/>Hosana Hosana <br/>juu mbinguni. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mbarikiwa anayekuja <br/>anayekuja kwa jina la Bwana, <br/>Hosana; Hosana; <br/>Hosana Hosana juu <br/>mbinguni x2</lines>
+    </verse>
+  </lyrics>
+</song>

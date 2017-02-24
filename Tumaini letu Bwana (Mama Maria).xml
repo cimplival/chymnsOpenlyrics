@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:14">
+  <properties>
+    <titles>
+      <title>Tumaini letu Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Mama Maria</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tumaini letu Mama, <br/>Mama Maria,<br/>tumaini letu Mama, ee Mama, <br/>mwema ndiwe tumaini letu <br/>wewe Mama yetu Maria. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tuna tumaini kwako <br/>Mama yetu, <br/>tunakuja mbele yako, <br/>tunaleta maombi <br/>yetu kwako, <br/>ee Mama utusikilize, <br/>utusaidie sisi wanao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hapa duniani kuna vishawishi <br/>vingi vinavyotusonga sana, <br/>tunashindwa tukiwa peke yetu, <br/>ee Mama utusaidie<br/>tuvishinde vishawishi vyote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hapa duniani kuna <br/>kuna mambo mengi, <br/>yanayotutia giza, <br/>tunaomba utuangazie, <br/>ee Mama utuonyeshe <br/>njia iendayo kwa <br/>mwanao mbinguni.</lines>
+    </verse>
+  </lyrics>
+</song>

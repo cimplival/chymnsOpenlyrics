@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:31">
+  <properties>
+    <titles>
+      <title>Yumo humu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yumo humu mwokozi yesu,<br/>kwenye mzabibu na ngano tamu,<br/>ni mpole ni mwema ni uzima.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wau,<br/>(waumini, simameni, pole pole,<br/>kwa maringo, jongeeni karamuni,<br/>mpate, mpate,<br/>kumwonja mwokozi Yesu.) x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ekaristi ni jina lake,<br/>pamoja naye mungu mwenyewe,<br/>ndani yetu nasi ndani yake. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alitoa jioni<br/>ile kwa kumbukubu,<br/>yake milele<br/>tule tunywe wote tuokoke. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tugeuze maisha yetu<br/>yakafananae na meza hii<br/>huruma upendo msamaha.</lines>
+    </verse>
+  </lyrics>
+</song>

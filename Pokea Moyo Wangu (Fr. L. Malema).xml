@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:50">
+  <properties>
+    <titles>
+      <title>Pokea Moyo Wangu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Fr. L. Malema</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Pokea moyo wangu <br/>ee Mungu wangu,<br/>niweze kukupenda <br/>kwa pendo lako.<br/>Unipe moyo wako<br/>ewe Yesu Mkombozi wangu <br/>shinda kwangu,<br/>nami daima kwako.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Onjeni muone kwamba <br/>Bwana yu mwema<br/>na heri yule mtu anayetumaini <br/>Yesu Kristu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Katika nguvu za giza katutoa<br/>Na kutukaribisha katika <br/>ufalme wa pendo lake.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Habari njema alituhubiria<br/>na kutufungulia akatangaza <br/>mwaka wa neema.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mchungaji wangu mkuu <br/>ndiye Bwana Yesu,<br/>sikosi kitu kamwe kuniongoza <br/>kwenye njia nyofu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Baraka na heshima na<br/>utukufu,<br/>na uwezo kwa yeye <br/>mwana kondoo wa Mungu <br/>Milele.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:05">
+  <properties>
+    <titles>
+      <title>Kulea Watoto</title>
+    </titles>
+    <verseOrder>c1 c2 c3 v1 c1 c2 c3 v2 c1 c2 c3 v3 c1 c2 c3</verseOrder>
+    <authors>
+      <author>S. Z. Mutafungwa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kulea watoto ni kazi <br/>ya baba na kazi ya mama.<br/>Hilo ndilo jukumu <br/>walilopewa na Mwenyezi Mungu.<br/>Na kazi hiyo ifanywe <br/>kwa msaada wake Muumba.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ni kwa nini tunawanyima <br/>malezi bora na ya muhimu?<br/>Ni kwa nini tunawabembeleza <br/>watoto manyumbani?</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Watoto wanahitaji <br/>malezi yaliyo mema<br/>ni lazima waonyeshwe <br/>njia bora ya kupita<br/>ili kuwafurahisha <br/>wazazi na baadaye taifa. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Angalia watoto wadogo <br/>wanavyozurura<br/>usiku kucha utafikiri <br/>kwao ni mchana.<br/>Waone watoto wanavyofaa <br/>wengine nusu uchi<br/>mbele ya jamii pia <br/>na kwa wazazi wao.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mtoto anahitaji <br/>kupata angali mbichi<br/>ili aweze kukua katika <br/>maadili mema<br/>wazazi acheni pia kuwalea <br/>watoto kitajiri<br/>na kuwapa pesa nyingi <br/>eti ni za matumizi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pesa za watoto <br/>zinaishia kununua bangi<br/>kununulia kila aina <br/>ya dawa za kulevya.<br/>Tunadhani tunawapenda watoto<br/> kumbe tunawaharibu<br/>tujirekebishe wazazi <br/>tuokoe watoto.</lines>
+    </verse>
+  </lyrics>
+</song>

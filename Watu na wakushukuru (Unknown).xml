@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:24">
+  <properties>
+    <titles>
+      <title>Watu na wakushukuru</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Watu na wakushukuru)<br/>watu na wakushukuru <br/>Ee Mungu,<br/>watu wote <br/>na wakushukuru. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Watu na wakushukuru <br/>(Ee Mungu) watu, <br/>na wakuskukuru <br/>(watu wote) <br/>Ee Mungu watu <br/>na wakushukuru na <br/>wakushukuru. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mungu na atufadhili,<br/>na kutubariki,<br/>na kutuangazia uso wake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Njia yake ijulikane, <br/>duniani kote, <br/>wokovu wake <br/>katikati ya mataifa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mataifa washangilie, <br/>naam waimbe kwa furaha, <br/>maana kwa haki <br/>utawahukumu watu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mungu atatubariki, <br/>atatubariki sisi, <br/>miisho yote <br/>ya dunia itamcha yeye.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:59">
+  <properties>
+    <titles>
+      <title>Karibuni Mezani</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Karibuni mezani <br/>pake Bwana Yesu,<br/>tukale chakula cha uzima. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Karibuni (karibu karibu)<br/>Karibuni (karibu karibu)<br/>tupate uzima wa milele.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mkristu mie niende <br/>kwake Bwana Yesu,<br/>nikale chakula cha uzima. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alaye mwili wangu,<br/>na kunywa damu yangu,<br/>anao uzima wa milele. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Karibuni mezani,<br/>kwake Bwana yesu,<br/>tukale chakula cha uzima. x2</lines>
+    </verse>
+  </lyrics>
+</song>

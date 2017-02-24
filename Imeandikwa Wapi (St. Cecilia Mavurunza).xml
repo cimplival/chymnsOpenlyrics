@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:47">
+  <properties>
+    <titles>
+      <title>Imeandikwa Wapi</title>
+      <title>Nimefungua Vitabu</title>
+    </titles>
+    <verseOrder>c1 c2 c3 c4 v1 c1 c2 c3 c4 v2 c1 c2 c3 c4 v3 c1 c2 c3 c4</verseOrder>
+    <authors>
+      <author>St. Cecilia Mavurunza</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nimefungua vitabu vyote, <br/>nikapekua kurasa zote,<br/>Kulitafuta andiko hili, sikuliona<br/>ni wapi palipohalalishwa <br/>matendo haya machafu sana<br/>yachafuayo jamii yetu, sikupaona.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Fungua macho Mkristu – <br/>fungua macho.<br/>Giza nene limetanda – <br/>fungua macho.<br/>Ni wakati wa kukesha –<br/>fungua macho.<br/>Shetani katuzunguka – <br/>fungua macho.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Imeandikwa wapi kwamba <br/>ushoga ni halali?<br/>Wapi palipoandikwa rushwa <br/>ni fungu halali?<br/>Imeandikwa wapi kwamba <br/>hirizi ni halali?<br/>Wapi imehalishwa wanaume <br/>kufunga ndoa?</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Imeandikwa wapi? <br/>Imeandikwa wapi?<br/>Kurasa zote hakuna<br/>Imeandikwa wapi?<br/>Imeandikwa wapi?<br/>Sheria zake Mungu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kemea mkristu, matendo haya<br/>kwa sakramenti zake, uyasafishe<br/>epukana nayo, matendo haya<br/>kwa sakramenti zake, uyasafishe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ingia katika, shamba lake Bwana<br/>mambo ya ulimwengu, ni machukizo<br/>tembea katika, shamba la Bwana<br/>zitende kazi zake, kwa moyo safi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Njia zake Bwana, usiziache<br/>ni barabara safi, zenye amani<br/>sheria zake Bwana, usiziache<br/>na maagizo yake, ni yamini.</lines>
+    </verse>
+  </lyrics>
+</song>

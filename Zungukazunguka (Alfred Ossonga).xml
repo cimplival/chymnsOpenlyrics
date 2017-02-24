@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:31">
+  <properties>
+    <titles>
+      <title>Zungukazunguka</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Alfred Ossonga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mbinguni kwa Baba, <br/>kweli kuna raha,<br/>makerubi wote hata maserafi<br/>malaika wote na watakatifu,<br/>wako mbele za Mungu <br/>kila mtu na kazi yake.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Waimbaji tutaimbaimba, <br/>tutaimba nyimbo za shangwe.<br/>Malaika watarukaruka, <br/>wataruka mbele za Mungu.<br/>Watu wote (kweli) <br/>watafurahi nyumbani mwa Bwana.<br/>Watacheza (wote) <br/>pamoja wakizungukazunguka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tuimbe nyimbo <br/>nzuri kama makerubi,<br/>tuimbe kwa furaha <br/>kama maserafi<br/>na tuchezecheze <br/>kama watakatifu,<br/>tukirukaruka kama <br/>malaika wa Mungu. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wenye moyo safi <br/>na matendo mema,<br/>twendeni kwa Baba <br/>tupate dhawabu<br/>Tumekaribishwa <br/>mbinguni kwa Baba<br/>twendeni tuone, <br/>jinsi tulivyoandaliwa. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sisi tunaimba nyimbo <br/>za Mbinguni,<br/>tena twatabiri yale <br/>ya Mbinguni<br/>yote yalopita <br/>kwa wenye hekima,<br/>tumefunuliwa, <br/>tutangaze kwa nyimbo hizi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fanya utafiti na upeleleze,<br/>utafunuliwa siri za Mbinguni<br/>waloshinda vita, <br/>wateule wa Mungu<br/>wanatungojea kwenye <br/>raha ya siku zote.</lines>
+    </verse>
+  </lyrics>
+</song>

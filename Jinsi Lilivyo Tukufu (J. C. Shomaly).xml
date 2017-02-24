@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:54">
+  <properties>
+    <titles>
+      <title>Jinsi Lilivyo Tukufu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Wewe Bwana Mungu wetu<br/>jinsi lilivyo tukufu (jina)<br/>jinsi lilivyo tukufu <br/>jina lako duniani mwote. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nikiziangalia mbingu <br/>ni kazi yako Bwana,<br/>Mwezi pia na nyota <br/>ulizoratibisha wewe,<br/>naona ajabu ajabu ajabu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Naye mtu ni nini Bwana, <br/>hata umkumbuke,<br/>na binadamu hata <br/>yeye umwangazie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kondoo nao ng'ombe <br/>pia wanyama wa kondeni,<br/>ndege pia samaki <br/>ndani ya bahari.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Umemfanya punde punde <br/>mdogo kuliko Mungu,<br/>umemvika taji taji ya heshima.</lines>
+    </verse>
+  </lyrics>
+</song>

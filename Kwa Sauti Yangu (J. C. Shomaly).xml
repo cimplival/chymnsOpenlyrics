@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:08">
+  <properties>
+    <titles>
+      <title>Kwa Sauti Yangu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kwa sauti yangu <br/>nitamlilia Bwana<br/>kwa sauti yangu <br/>nitamuomba Bwana dua.<br/>(Nitafunua mbele zake, <br/>mbele zake<br/>mbele zake malalamiko yangu<br/>shida zangu nitazitangaza <br/>mbele zake). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Masikio yako na <br/>yasikilize sauti yangu.<br/>Ya-sikilize yasikilize <br/>sauti ya dua zangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maana kwa Bwana <br/>kuna fadhili na ukombozi<br/>na kwake Bwana <br/>kuna ukombozi mwingi.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:52">
+  <properties>
+    <titles>
+      <title>Jesu Musalambani</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7</verseOrder>
+    <authors>
+      <author>Lent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesu he! <br/>Jesu msalabani kaho.<br/>Jesu he! <br/>Jesu msalabani kaho.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uchikala urere lamka. x3<br/>Bwana Jesu yundadza <br/>undarichwa. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni pamadzi ninwe na voya<br/>ni pamadzi ga udzima,<br/>ninwe na voya, <br/>na voya, na voya;<br/>ninwe navoya <br/>ni pamadzi ga uzima.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Voya Mulungu asena <br/>voya Mulungu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesu msalabani, <br/>Kaho Jesu msalabani kaho.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Elamuhaha! Fuhaha!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Elamuhaha! fuhaha….. <br/>ah eh fuhaha.</lines>
+    </verse>
+  </lyrics>
+</song>

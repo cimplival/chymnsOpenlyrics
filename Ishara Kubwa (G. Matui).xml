@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:51">
+  <properties>
+    <titles>
+      <title>Ishara Kubwa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>G. Matui</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ishara kubwa <br/>imeonekana Mbinguni<br/>ambapo mwanamke <br/>aliyevikwa jua<br/>pia na mwezi chini <br/>ya miguu yake<br/>na taji la nyota kumi <br/>na mbili juu <br/>ya kichwa chake. x2</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Tufurahie sote katika Bwana, <br/>tunapoadhimisha<br/>siku kuu kwa heshima <br/>ya Bikira Maria.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jeshi la malaika washangilia, <br/>pia wanafurahi<br/>kupalizwa Mbinguni <br/>kwake Bikira Maria.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana amefunua <br/>wokovu wake, <br/>kati ya mataifa<br/>ameidhihirisha haki yake <br/>juu ya nchi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Atukuzwe Baba pia na Mwana, <br/>na Roho Mtakatifu<br/>Kama mwanzo sasa <br/>na siku zote na milele.</lines>
+    </verse>
+  </lyrics>
+</song>

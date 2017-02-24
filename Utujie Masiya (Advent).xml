@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:20">
+  <properties>
+    <titles>
+      <title>Utujie Masiya</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Advent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Utujie Masiya wetu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana huwafanyia <br/>hukumu walioonewa,<br/>Masiya wetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Huwapa wenye<br/>njaa chakula,<br/>Masiya wetu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana huwafungua<br/>waliofunguliwa,<br/>Masiya wetu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Huwafumbua <br/>macho waliopofuka,<br/>Masiya wetu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwana huwainua<br/>walioinama,<br/>Masiya wetu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bwana huwahifadhi,<br/> wageni,<br/>Masiya wetu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Huwatengemeza<br/>yatima na mjane,<br/>Masiya wetu.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Bwana huwapenda<br/>wanyofu,<br/>Masiya wetu.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Bwana atamiliki<br/>milele,<br/>Masiya wetu.</lines>
+    </verse>
+  </lyrics>
+</song>

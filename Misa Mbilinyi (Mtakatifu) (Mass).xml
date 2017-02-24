@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:18">
+  <properties>
+    <titles>
+      <title>Misa Mbilinyi (Mtakatifu)</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mtakatifu Bwana Mungu,<br/>Mungu wa majeshi x2.<br/>(Hosanna juu Hosanna,<br/>Hosanna juu Hosanna). x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mbingu na Nchi zimejaa,<br/>Utukufu wako. x2<br/>(Hosanna juu Hosanna,<br/>Hosanna juu Hosanna). x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mbarikiwa mwenye kuja,<br/>Kwa jina la Bwana.<br/>(Hosanna juu Hosanna,<br/>Hosanna juu Hosanna). x2</lines>
+    </verse>
+  </lyrics>
+</song>

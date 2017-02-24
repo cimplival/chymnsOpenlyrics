@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:03">
+  <properties>
+    <titles>
+      <title>Simama Imara</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Neno</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Simama - <br/>simama imara jilinde <br/>Jilinde - <br/>neno lako Bwana imara <br/>kesha kila siku uombe <br/>uombe - utasimama.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Milima yote na mabonde <br/>itayeyuka, <br/>neno lake Bwana imara, <br/>imara - litasimama.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mapendo ya Mungu, <br/>tumejaa roho ya kweli <br/>Imara yetu ndani yake, <br/>ndaniye, awe muhuri.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siku za huduma ni chache, <br/>tuwe mashujaa, <br/>Roho wa Yesu akaa nasi, <br/>kaa nasi, mpaka hatima.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Katika yote tutashinda, <br/>kwa nguvu yake <br/>nani aweza kututenga, <br/>kutenga, na pendo lake. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Heri ashikaye maneno, <br/>ya Mungu Mwana <br/>naam naja upesi Amina <br/>amina, njoo Yesu Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

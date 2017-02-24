@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:46">
+  <properties>
+    <titles>
+      <title>Bwana Amejaa Huruma</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Bwana amejaa huruma</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana amejaa huruma <br/>na neema, haoni hasira upesi <br/>ni mwingi wa fadhili.<br/>Maana Mbingu zilivyoinuka <br/>juu ya nchi.<br/>Kadiri ile ile, rehema zake <br/>ni kuu kwa wamchao.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee nafsi yangu umhimidi Bwana,<br/>na vyote vilivyo ndani yangu.<br/>Vilihimidi Jina lake Takatifu,<br/>ee nafsi yangu umhimidi Bwana,<br/>wala usizisahau fadhili zake zote.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Akusamehe maovu yako yote<br/>Akuponya magonjwa yako yote<br/>Aukomboa uhai wako na kaburi<br/>Akutia taji la fadhili na rehema<br/>Aushibisha neema uzee wako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana ndiye afanyaye <br/>mambo ya haki,<br/>na hukumu kwa wote wanaoonewa.<br/>Alimjulisha Musa njia zake<br/>na wana wa Israeli matendo yake<br/>wana wa Israeli matendo yake.</lines>
+    </verse>
+  </lyrics>
+</song>

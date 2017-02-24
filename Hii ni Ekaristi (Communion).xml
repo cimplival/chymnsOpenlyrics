@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:36">
+  <properties>
+    <titles>
+      <title>Hii ni Ekaristi</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hii ni ekaristi <br/>aliyotuachia<br/>Bwana Yesu Kristu, <br/>(Kristu) mkombozi wa dunia.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Imbeni - Imbeni kwa furaha,<br/>Sifuni- Sifuni ekaristi (alimo),<br/>alimo Yesu Kristu <br/>(Kristu) alimo ni mzima.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu katuonea, <br/>wema pia huruma,<br/>alitupenda sana <br/>(sana) akatupa uzima.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jioni Alhamisi, <br/>alichukua mkate,<br/>kaugeza mwili <br/>(mwili) kuleni mkaokoke.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pia alichukua, <br/>kikombe cha divai,<br/>kakigeuza damu <br/>(damu) kunyweni kaokoke.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Walipokwishakula, <br/>kawaosha miguu,<br/>nimewapa mfano <br/>(mfano) fanyeni nanyi vile. </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yesu mwili na damu, <br/>chakula cha uzima,<br/>tujaliwe kupata <br/>(pata) uzima wa milele.</lines>
+    </verse>
+  </lyrics>
+</song>

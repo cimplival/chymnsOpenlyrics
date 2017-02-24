@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:23">
+  <properties>
+    <titles>
+      <title>Waheana na Kameni</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Waheana na kameni <br/>ukagairwo o nako,<br/>Mwathani moe ii nomarathime.<br/>Waheana na giitirira <br/>muigana na ucio,<br/>Mwathani moe ii nomarathime.<br/>Warega gukiheana no <br/>anga ugakiiguirwo tha,<br/>Mwathani moe ii nomarathime.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Twarehe matega mbere <br/>yaku we mwathani,<br/>nithithino ya migunda itu, <br/>turagutegera.<br/>Mwathani moe ii nomarathime,<br/>Mwathani moe ii nomarathime.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maahinya ma miiri itu <br/>monete o tuhu uyu,<br/>Mwathani moe ii nomarathime.<br/>Korwo ndi hinya muiganu <br/>ingigutegera ki,<br/>Mwathani moe ii nomarathime.<br/>Ingienda gugutegera <br/>uigana hinya ucio,<br/>Mwathani moe ii nomarathime.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ngoro nyanduku na utana <br/>we tahe Mwathani,<br/>Mwathani moe ii nomarathime.<br/>Ngoro nyanduku na uthuci<br/>we tanjeheraria,<br/>Mwathani moe ii nomarathime...<br/>(continues...)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Niamu ndiri giakwa <br/>tiga kiria we uhete,<br/>Mwathani moe ii nomarathime.<br/>Nganja hatiri gutega <br/>nigugucokeria guoko,<br/>Mwathani moe ii nomarathime.</lines>
+    </verse>
+  </lyrics>
+</song>

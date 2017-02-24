@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:18">
+  <properties>
+    <titles>
+      <title>Ee Mungu Wangu Mfalme</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Ee Mungu wangu Mfalme <br/>nitakutukuza daima<br/>Nitalihimidi jina lako <br/>milele na milele.) x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana ana fadhili <br/>ni mwingi wa huruma<br/>si mwepesi wa hasira <br/>ni mwingi wa rehema<br/>Bwana ni mwema <br/>kwa watu wote<br/>na rehema zake <br/>zi juu ya kazi zake zote.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana kazi zako<br/>zote zitakushukuru<br/>na wacha Mungu <br/>wako watakuhimidi<br/>wataunena utukufu <br/>wa ufalme wako<br/>na kuuhadithia uweza wako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ili kuwajulisha watu <br/>matendo yake makuu<br/>na utukufu wa fahari <br/>ya ufalme wake<br/>ufalme wako ni u<br/>falme wa zamani zote<br/>na mamlaka yako <br/>ni ya vizazi vyote.</lines>
+    </verse>
+  </lyrics>
+</song>

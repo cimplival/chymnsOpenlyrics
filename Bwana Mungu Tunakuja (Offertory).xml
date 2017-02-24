@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:53">
+  <properties>
+    <titles>
+      <title>Bwana Mungu Tunakuja</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana Mungu <br/>tunakuja mbele zako,<br/>tunakuja leo na zawadi zetu<br/>zipokee zibariki <br/>ziwe za kupendeza.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Upokee mkate wetu <br/>toka ngano ya nchi hii.<br/>Upokee divai yetu <br/>toka tunda la mzabibu. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mazao ya mashamba <br/>tunaleta mbele zako.<br/>Nazo fedha za mifuko <br/>twaomba uzipokee. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maisha na matendo yetu, <br/>tunayaleta mbele zako.<br/>Roho zetu zenye toba <br/>twaomba uzipokee. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tuhurumie si wakosefu <br/>tunakuja mbele zako.<br/>Tuletee baraka zako <br/>kwetu sisi wenye dhambi.</lines>
+    </verse>
+  </lyrics>
+</song>

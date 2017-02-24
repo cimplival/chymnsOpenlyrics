@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:36">
+  <properties>
+    <titles>
+      <title>Hii ni Karamu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hii ni karamu, <br/>uzima wa roho.<br/>Yumo Bwana Yesu, <br/>kwa mwili wake<br/>kweli na damu yake.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Alisema Bwana <br/>twaeni wote mle <br/>ni mwili wangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alisema Bwana <br/>twaeni wote mnywe <br/>ni damu yangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nasi twasadiki <br/>ni mwili wake kweli <br/>na damu yake.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Alituamuru <br/>kufanya hivyo <br/>kwa ukumbusho wake </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tukifanya hivyo<br/>tunatangaza kifo <br/>cha Bwana Yesu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kwa hii karamu <br/>uzima wa <br/>Bwana wetu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Huu ni upendo <br/>aliotuachia <br/>mkombozi wetu.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hapa duniani <br/>twaishi na Baba<br/>kwa karamu hii </lines>
+    </verse>
+    <verse name="v9">
+      <lines>Na huko mbinguni<br/>tutaishi na Baba <br/>milele yote.</lines>
+    </verse>
+  </lyrics>
+</song>

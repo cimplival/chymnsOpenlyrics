@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:45">
+  <properties>
+    <titles>
+      <title>Ikaari Riri</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Ikaari riri ni Mwathani tukuria)<br/>Ngoro citu igie <br/>na hinya wa kuigana,<br/>mathingithi maremwo <br/>ni gucienyenyia,<br/>Ikaari ii Mwathani uka gwakwa,<br/>Ikaari ii reke ngwamukire.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ikaari twatigiirwo ni Muhonokia,<br/>Ikaari ii reke ngwamukire.<br/>Rituteithagie ithui agenda guku thi,<br/>Ikaari ii reke ngwamukire.<br/>Ni ikaari riri murio kuruga uuki,<br/>Ikaari ii reke ngwamukire.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O giathi ni kiri murugirwo wakio,<br/>Ikaari ii reke ngwamukire.<br/>Ikaari riri niwe ugithondekeirwo,<br/>Ikaari ii reke ngwamukire.<br/>Githagathage ukiambiririe kuriria,<br/>Ikaari ii reke ngwamukire.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uyu ti ugeni wa kuoyagirwo nguo,<br/>Ikaari ii reke ngwamukire.<br/>Tiga no nguo ya ukonyoku wa muoyo,<br/>Ikaari ii reke ngwamukire.<br/>Ikimenye ndugethirime mutino,<br/>Ikaari ii reke ngwamukire.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Njoya na muthece ndioyagira<br/> iria ingi, Ikaari ii reke ngwamukire.<br/>Wagitigwo na thutha ukagunwo ni ki?<br/>Ikaari ii reke ngwamukire.<br/>Nduhiuhe Mwathani we no <br/>agwetereire! <br/>Ikaari ii reke ngwamukire.</lines>
+    </verse>
+  </lyrics>
+</song>

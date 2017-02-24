@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:34">
+  <properties>
+    <titles>
+      <title>Haya Twendeni Wote</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Haya twendeni wote <br/>kule Bethlehemu,<br/>tukamwone, tukamwone, <br/>mkombozi wetu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Amelazwa nyasini -<br/>huyo mtoto Yesu.<br/>Mnyonge na mkiwa - <br/>huyo mtoto Yesu.<br/>Haya twende, <br/>haya twende.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maria na Yosefu - <br/>huko Bethlehemu.<br/>Wanamsujudu mtoto - <br/>huko Bethlehemu.<br/>Haya twende, <br/>haya twende.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wachunga waenda mbio - <br/>huko Bethlehemu.<br/>Kumwona mtoto Yesu - <br/>huko Bethlehemu.<br/>Haya twende, <br/>haya twende.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Malaika waimba - <br/>huko Bethlehemu.<br/>Kumsifu Bwana wetu - <br/>kaja duniani.<br/>Haya twende, <br/>haya twende.</lines>
+    </verse>
+  </lyrics>
+</song>

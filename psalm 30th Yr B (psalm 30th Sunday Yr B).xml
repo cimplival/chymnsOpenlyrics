@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:53">
+  <properties>
+    <titles>
+      <title>psalm 30th Yr B</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>psalm 30th Sunday Yr B</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>What great deeds the Lord worked for us!<br/>Indeed, we were glad.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>When the Lord brought back the exiles of Sion,<br/>we thought we were dreaming.<br/>Then was our mouth filled with laughter;<br/>on our tongues, songs of joy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Then the nations themselves said, "What great deeds<br/>the Lord worked for them!"<br/>What great deeds the Lord worked for us!<br/>Indeed, we were glad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bring back our exiles, O Lord,<br/>as streams in the south.<br/>Those who are sowing in tears;<br/>will sing when they reap.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>They go out, they go out, full of tears,<br/>Bearing seeds for the sowing;<br/>they come back, they come back with a song,<br/>bearing their sheaves.</lines>
+    </verse>
+  </lyrics>
+</song>

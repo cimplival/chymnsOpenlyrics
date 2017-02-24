@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:40">
+  <properties>
+    <titles>
+      <title>Basi Mkiwa Mmefufuliwa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Easter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Basi mkiwa mmefufuliwa, <br/>(mmefufuliwa) <br/>pamoja na Yesu Kristu.<br/>Yatafuteni yaliyo juu <br/>Kristu aliko.<br/>Ameketi mkono wa kuume, <br/>mkono wa kuume <br/>wa Mungu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Yafikirini yaliyo juu, <br/>siyo yaliyo katika nchi.<br/>Kwa maana mlikufa na <br/>uhai wenu umefichwa, <br/>pamoja na Kristu katika Mungu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kristu atakapofunuliwa, <br/>aliye uhai wetu.<br/>Ndipo na ninyi mtafunuliwa <br/>pamoja naye, <br/>pamoja naye katika utukufu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lakini sasa Kristu amefufuka, <br/>amefufuka katika wafu.<br/>Limbuko lao waliolala, <br/>maana mauti ililetwa na mtu.<br/>Kadhalika na kiyama <br/>ya wafu ililetwa na mtu.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:22">
+  <properties>
+    <titles>
+      <title>Mungu Nakulilia</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana Bwana Mungu wangu,<br/>Mungu wangu nalikulilia Ee Bwana,<br/>nalikulilia ee, <br/>Mungu wangu nalikulilia, <br/>Ee Bwama Mungu wangu nalikulilia <br/>Ee Bwana Mungu <br/>wangu ukaniponya. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee Bwana nitakutukuza <br/>kwa maana umeniinua, <br/>wala hukuwafurahisha <br/>adui zangu juu yangu<br/>umeniinua nafsi yangu <br/>kutoka kuzimu, <br/>umenihuisha na kunitoa miongoni <br/>mwao washukao shimoni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwimbieni Bwana zaburi enyi<br/>wataua wake, <br/>na kufanya shukrani kwa <br/>kumbukumbu la utakatifu wake, <br/>maana ghadhabu yake <br/>ni ya kitambo kidogo, <br/>katika radhi yake mna uhai.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ee Bwana usikie unirehemu, <br/>Bwana uwe msaidizi wangu, <br/>uligeuza matanga yangu <br/>kuwa machezo, <br/>ulinivua gunia ukanivika furaha.</lines>
+    </verse>
+  </lyrics>
+</song>

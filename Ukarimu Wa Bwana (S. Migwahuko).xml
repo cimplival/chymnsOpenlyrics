@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:18">
+  <properties>
+    <titles>
+      <title>Ukarimu Wa Bwana</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>S. Migwahuko</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nani kati ya watawala <br/>wote wa falme wa dunia <br/>hii aliyewahi kuandaa <br/>karamu akaalika <br/>watu wote.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ni nani kama <br/>Bwana Yesu mfalme <br/>wa mbingu na nchi <br/>anayetualika sote kwenye <br/>karamu aliyoiandaa <br/>bali tuwe na moyo safi. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sote tunaalikwa <br/>kushiriki kwenye <br/>karamu yake Bwana,<br/>tukiwa tajiri au masikini <br/>bali tuwe na moyo safi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ishara ya mapendo <br/>makubwa kwetu kutoka <br/>kwake Bwana Yesu;<br/>kutoa mwili kutoa damu <br/>yake kuzishibisha <br/>Roho zetu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ni fundisho kutoka kwake<br/>Bwana tuonyeshe ukarimu<br/>kwa ndugu rafiki <br/>au majirani daima <br/>maishani mwetu.</lines>
+    </verse>
+  </lyrics>
+</song>

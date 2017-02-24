@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:35">
+  <properties>
+    <titles>
+      <title>Njoni wapenzi tufanye shangwe</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5</verseOrder>
+    <authors>
+      <author>Entrance [Easter]</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Njoni wapenzi tufanye shangwe<br/>Mwokozi Bwana amefufuka<br/>viumbe vyote tufanye shangwe<br/>mwokozi Bwana amefufuka</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Natufanye shangwe, tuimbe aleluya<br/>Mwokozi Bwana amefufuka x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hakika mbingu zashangilia...<br/>nayo dunia yafanya shangwe..</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Juu mbinguni na duniani...<br/>viumbe vyote vinafurahi..</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tufanye shangwe kwa nyimbo nzuri...<br/>Tumsifu Bwana tumwabudie...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mwenye ukuu na utukufu...<br/>ni Mfalme Bwana wa vitu vyote...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:32">
+  <properties>
+    <titles>
+      <title>Asante Mungu</title>
+    </titles>
+    <verseOrder>v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2 e1 e2 e3 e4</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ehee nakumbuka kule nilikotoka; <br/>ahaa najiuliza mimi nisemeje.<br/>(kwako)<br/>Ehee kigugumizi kinanikamata; <br/>ahaa najiuliza mimi najihoji tu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sina neno mimi sina <br/>jipya la kusema,<br/>umetenda wema mpaka <br/>unanishangaza</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(nashukuru Bwana) –<br/>ahsante ahsnate Mungu<br/>(tena sana) – <br/>ahsnate ahsante Mungu<br/>(sina maneno) – <br/>ahsante ahsante Mungu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ehee ulinigusa tumboni mwa mama;<br/>ahaa najiuliza mimi nisemeje<br/>(kwako).<br/>Ehee nikazaliwa tayari kwa kazi;<br/>ahaa najiuliza mimi najihoji tu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ehee ukanipa kuwainua watu;<br/>ahaa najiuliza mimi nisemeje<br/>(kwako).<br/>Ehee wakakuimbia na kukusifu; <br/>ahaa najiuliza mimi najihoji tu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ehee dunia iliponishambulia;<br/>ahaa najiuliza mimi nisemeje<br/>(kwako).<br/>Ehee ukasimama ukanitetea;<br/>ahaa najiuliza mimi najihoji tu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ehee nitakuimbia na nyumba <br/>yangu;<br/>ahaa najiuliza mimi nisemeje<br/>(kwako).<br/>Ehee tutakusifu siku za uhai; <br/>ahaa najiuliza mimi najihoji tu.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>(ama kweli ) – Iya; <br/>(unanishangaza) <br/>wewe ni mwema,<br/>(ama kweli ) – Iya; <br/>(unapenda watu) <br/> wewe ni mwema,<br/>(ama kweli ) – Iya; (unawathamini) <br/>wewe ni mwema,</lines>
+    </verse>
+    <verse name="e2">
+      <lines>(nashukuru ) – Iya; <br/>(nashukuru sana) <br/> ewe ni mwema<br/>(nakusifu ) – Iya; (nakusifu sana) <br/>wewe ni mwema,<br/>(ama kweli ) – Iya; <br/>(unapenda watu)<br/>wewe ni mwema,</lines>
+    </verse>
+    <verse name="e3">
+      <lines>(siku zote ) – Iya; (nitakuimbia)<br/>wewe ni mwema.<br/>(Wewe ni mwema) – <br/>wewe ni mwema,<br/>(siku zote ni mwema) – <br/>wewe ni mwema,</lines>
+    </verse>
+    <verse name="e4">
+      <lines>(na mpole) -  <br/>wewe ni mwema<br/>(ama kweli ni mwema) – <br/>wewe ni mwema.<br/>ni mwema ………….<br/>iyaaaaaaaaaaaaa.</lines>
+    </verse>
+  </lyrics>
+</song>

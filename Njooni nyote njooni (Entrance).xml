@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:36">
+  <properties>
+    <titles>
+      <title>Njooni nyote njooni</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Njoni nyote, <br/>njooni tumshangilie, <br/>Bwana, <br/>wakristu wote njoote<br/>leo tumwabudu- Bwana.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(Tupigeni, makofi na vigelegele <br/>kwa shangwe.<br/>Tucheze ngoma,  <br/>kayamba na zeze pia kinubi,<br/>Tumwimbie, <br/>nyimbo tamu na tuseme<br/>aleluya,<br/>njooni nyote tumwabudu). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana ni mkuu - sana.<br/>Yeye ni mfalme - wetu.<br/>Njoni nyote mbele zake,<br/>njoni tuwambudu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Njoni ndugu njoo - leo <br/>Njoni dada njoo - leo.<br/>Njoni nyote mbele zake,<br/>njoni tumwabudu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yeye ndiye Bwana- wetu <br/>Yeye ndiye Mungu - wetu.<br/>Njoni nyote mbele zake,<br/>njoni tumwabudu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ameumba vitu - vyote <br/>Vitu vyote mali - yake.<br/>Hata sisi wanadamu tu,<br/>viumbe vyake Mungu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Atukuzwe Mungu - Baba <br/>Atukuzwe Mungu - Mwana.<br/>Njoni nyote mbele zake,<br/>Njoni tumwambie.</lines>
+    </verse>
+  </lyrics>
+</song>

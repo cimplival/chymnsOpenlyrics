@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:20">
+  <properties>
+    <titles>
+      <title>Enyi Nchi Yote</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Enyi nchi yote mpigieni <br/>Mungu vigelegele<br/>msifuni amewakweza maskini). x2<br/>Bwa-na akalikomboa taifa lake<br/>watu wote wakaokolewa<br/>ndege angani warukaruka<br/>miti milima yachezacheza; <br/>Pi -gi -e -ni! Mungu vigelegele <br/>enyi wenye haki. (Kusifu <br/>kwawapasa wanyofu wa moyo). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana amelikomboa <br/>taifa lake lote,<br/>kalikomboa taifa lake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nchi yote nayo <br/>sasa ishangilie Bwana,<br/>kalikomboa taifa lake.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Enyi viumbe wa Bwana <br/>msifuni Bwana Mungu<br/>kalikomboa taifa lake.</lines>
+    </verse>
+  </lyrics>
+</song>

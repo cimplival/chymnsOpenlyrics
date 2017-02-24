@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:54">
+  <properties>
+    <titles>
+      <title>Jesus, my Lord</title>
+    </titles>
+    <copyright>@ Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5</verseOrder>
+    <authors>
+      <author>Frederick W. Faber</author>
+    </authors>
+    <songbooks>
+      <songbook name="Queen of Apostles Hymnal" entry="413. Page 206"/>
+    </songbooks>
+    <themes>
+      <theme>Communion</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus, my Lord, <br/>my God, my all!<br/>How can I love <br/>Thee as I ought?<br/>And how revere <br/>this wondrous gift,<br/>So far surpassing <br/>hope or thought?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sweet Sacrament, <br/>we Thee adore!<br/>Oh, make us love <br/>Thee more and more.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Had I but Mary's <br/>sinless heart,<br/>To love Thee, <br/> my with dearest King,<br/>Oh, with what bursts <br/>fervent praise,<br/>Thy goodness, Jesus, <br/>would I sing!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ah, see! within a creature's<br/>hand the vast Creator <br/>deigns to be,<br/>Reposing, infant - like,<br/>as though on Joseph's arm,<br/>or Mary's knee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Thy Body, Soul <br/>and Godhead, all!<br/>O mystery of love divine!<br/>I cannot compass <br/>all I have,<br/>For all Thou hast and <br/>art are mine!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sound, sound, <br/>his praise, higher still,<br/>And come, ye angels, <br/>to our aid;<br/>'Tis God, 'tis God, <br/>the very God<br/>Whose power both man <br/>and angels made!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:28">
+  <properties>
+    <titles>
+      <title>Gaba Mass (Kyrie)</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O Lord have mercy,<br/>O Lord have mercy,<br/>O Lord have mercy,<br/>O Lord have mercy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Christ have mercy,<br/>Jesus Christ have mercy,<br/>Jesus Christ have mercy,<br/>Jesus Christ have mercy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O Lord have mercy,<br/>O Lord have mercy,<br/>O Lord have mercy,<br/>O Lord have mercy.</lines>
+    </verse>
+  </lyrics>
+</song>

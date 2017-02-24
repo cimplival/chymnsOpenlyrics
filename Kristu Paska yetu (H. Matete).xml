@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:05">
+  <properties>
+    <titles>
+      <title>Kristu Paska yetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>H. Matete</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kristu Paska <br/>yetu amechinjwa sadaka, <br/>tuile karamuye, <br/>tuimbe aleluya. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Aliyejitoa sadaka ya Paska, <br/>wakristu wamtolee <br/>sadaka ya sifa<br/>mwanakondoo <br/>(amewakomboa) <br/>mwanakondoo (Bwana Kristu) <br/>asiye na dhambi,<br/>amewapatanisha watu wenye <br/>dhambi na Baba yake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mauti na uzima vimeshindana ajabu<br/>Kuwa mzima aliyekufa <br/>atawala mzima<br/>utuambie Maria uliona nini, <br/>uliona nini njiani mama<br/>niliona kaburi la Kristu ni mzima, <br/>na utukufu wake Bwana Yesu <br/>aliyefufuka (kweli).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mashariki ni malaika, <br/>leso ya uso na mavazi, <br/>Kristu tumaini langu kafufuka. x2<br/>Twajua Kristu amefufuka, <br/>katika wafu ewe mfalme <br/>mshindaji utuhurumie, <br/>amina, aleluya.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:54">
+  <properties>
+    <titles>
+      <title>Bwana Ndiye Mchungaji</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Our Lady of Fatima Kongowea</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana ndiye mchungaji wangu. x2 <br/>Sitapungukiwa na kitu. x2 <br/>Katika malisho ya majani <br/>mabichi hunilaza, <br/>kando ya maji <br/>ya utulivu huniongoza. x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Huandaa meza mbele yangu, x2 <br/>machoni pa watesi wangu. x2 <br/>Umenimwaga mafuta <br/>kichwani mwangu, <br/>na kikombe changu kinafurika. x2 </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hakika wema na fadhili <br/>Hakika wema na fadhili<br/>zitanifuata siku zote. x2 <br/>Zitanifuata siku zote <br/>za maisha yangu, <br/>Nami nitakaa nyumbani <br/>mwa Bwana Milele. x2 </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Katika njia za haki, <br/>katika njia za haki, <br/>sitaogopa mabaya. x2 <br/>Kwa maana wewe <br/>upo pamoja nami <br/>Onyo lako na fimbo <br/>yako vyanifariji.</lines>
+    </verse>
+  </lyrics>
+</song>

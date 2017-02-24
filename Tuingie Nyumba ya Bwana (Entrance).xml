@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:14">
+  <properties>
+    <titles>
+      <title>Tuingie Nyumba ya Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tuingie nyumba ya Bwana, Mungu.<br/>Tumwabudu Bwana, Mungu.<br/>Tuingie nyumba ya Bwana, <br/>tukamwabudu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa nyimbo na vigelegele<br/>tukamwabudu,<br/>Furaha pia na kucheza <br/>tumshangilie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa ngoma pia na vinanda <br/>tumwadhimishe,<br/>Matari pia na kinubi <br/>tumsherekee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwa kuwa ndiye Mungu wetu <br/>na Muumba wetu,<br/>Na sisi ni kondoo<br/>wa malisho yake.</lines>
+    </verse>
+    <verse name="v4">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

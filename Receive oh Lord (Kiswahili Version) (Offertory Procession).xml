@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:56">
+  <properties>
+    <titles>
+      <title>Receive oh Lord (Kiswahili Version)</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2</verseOrder>
+    <authors>
+      <author>Offertory Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Receive oh Lord,<br/>this our offertory,<br/>receive oh Lord,<br/>the little we offer.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Pokea ewe Baba<br/>zawadi zetu zote,<br/>pokea ewe Baba,<br/>ingawa ni kidogo.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bread and wine,<br/>we offer to you,<br/>receive oh Lord,<br/>the little we offer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Our offerings,<br/>we offer to you,<br/>receive oh Lord,<br/>the little we offer.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Our happiness,<br/>we offer to you,<br/>receive oh Lord,<br/>the little we offer.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Our kindness,<br/>we offer to you,<br/>receive oh Lord,<br/>the little we offer.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Our parents,<br/>we offer to you,<br/>receive oh Lord,<br/>the little we offer.</lines>
+    </verse>
+  </lyrics>
+</song>

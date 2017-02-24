@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:24">
+  <properties>
+    <titles>
+      <title>Amani Yake Bwana (10 Oclock Choir)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amani yake Bwana, <br/>amani yake Bwana.<br/>Amani yake Bwana <br/>Amani iwe nawe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Upendo wake Bwana, <br/>upendo wake Bwana.<br/>Upendo wake Bwana <br/>upendo uwe nawe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baraka yake Bwana, <br/>baraka yake Bwana.<br/>Baraka yake Bwana <br/>Baraka iwe nawe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fadhili zake Bwana, <br/>fadhili zake Bwana.<br/>Fadhili zake Bwana <br/>Fadhili ziwe nawe.</lines>
+    </verse>
+    <verse name="v5a">
+      <lines>Faraja yake Bwana, <br/>faraja yake Bwana.<br/>Faraja yake Bwana <br/>faraja iwe nawe.</lines>
+    </verse>
+    <verse name="v5b">
+      <lines>Umoja wake Bwana, <br/>umoja wake Bwana.<br/>Umoja wake Bwana <br/>umoja uwe nawe.</lines>
+    </verse>
+  </lyrics>
+</song>

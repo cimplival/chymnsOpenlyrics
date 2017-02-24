@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:19">
+  <properties>
+    <titles>
+      <title>Acheni kukata tamaa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <authors>
+      <author>St. Cecilia Mirerani</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Mwenyezi ameniumba, <br/>akanileta kati yenu,<br/>Niwakumbushe watu wake <br/>thamani yenu duniani). x2<br/>(Acheni acheni kufa moyo,<br/>Acheni acheni kukata tama<br/>Yeye aliyewaumba anaijua <br/>kazi yake). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Aliijua asili yenu hata <br/>kabla hamjaumbwa,<br/>Ramani ya maisha yenu, <br/>yote imo mikononi mwake<br/>Magonjwa yanayowatesa <br/>na maumivu yasiyokoma,<br/>Ni mdogo kuliko yale <br/>aliyoyaponya mwenyewe. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hali mbaya ya kiuchumi, <br/>mlo mmoja madeni mengi<br/>Ni njia ya kunyenyekea <br/>na kumpa Mungu ukuu<br/>Misiba inayowaliza <br/>mnapofiwa na ndugu zenu,<br/>Ni njia ya wapendwa wenu <br/>kwenda mbinguni wakafurahi. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maumivu ya kuonewa <br/>kudhulumiwa kusingiziwa<br/>Ni nafasi ya kusamehe <br/>na kuishi kwa utakatifu.<br/>Matatizo ya ndoa zenu <br/>na migogoro ya familia,<br/>Ni bahati mmejaliwa <br/>ya kuishi kwa uvumilivu. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bebeni misalaba uyenu, <br/>nyamazeni msinungunike<br/>Huo ndio wokovu wenu <br/>shikilieni msiachie.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:28">
+  <properties>
+    <titles>
+      <title>Neno litasimama</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Bible Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Neno) Neno litasimama,<br/>(neno) neno litasimama,<br/>ya ulimwengu yatapita,<br/>lakini neno lake Bwana <br/>litasimama. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ujana wako utapita,<br/>uzee wako utapita,<br/>ya ulimwengu yatapita,<br/>lakini neno lake Bwana <br/>litasimama.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uwongo wako utapita,<br/>ulevi wako utapita,<br/>ya ulimwengu yatapita,<br/>lakini neno lake Bwana <br/>litasimama.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kisomo chako kitapita,<br/>na cheo chako kitapita,<br/>ya ulimwengu yatapita,<br/>lakini neno lake Bwana <br/>litasimama.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ya ulimwengu yatapita,<br/>ya wanadamu yatapita,<br/>ya ulimwengu yatapita,<br/>lakini neno lake Bwana <br/>litasimama.</lines>
+    </verse>
+  </lyrics>
+</song>

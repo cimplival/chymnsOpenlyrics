@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:21">
+  <properties>
+    <titles>
+      <title>Mpeni Mungu mali yake</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mpeni Mungu mali <br/>yake. x2<br/>Mpeni Bwana haki <br/>yake. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Leteni vipaji kwa Bwana,<br/>mpeni Bwana haki yake.<br/>Mkate kiini cha ngano,<br/>mpeni Bwana haki yake.<br/>Divai tunda la mzabibu,<br/>mpeni Bwana haki yake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nazo nafaka za mashamba,<br/>mpeni Bwana haki yake.<br/>Na kazi ya mikono yetu,<br/>mpeni Bwana haki yake.<br/>Nayo mapato ya mashamba,<br/>mpeni Bwana haki yake.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sisi ni mali yake Bwana,<br/>mpeni Bwana haki yake.<br/>Tutoe nafsi zetu kwake,<br/>mpeni Bwana haki yake.<br/>Nayo furaha na uchungu,<br/>mpeni Bwana haki yake.</lines>
+    </verse>
+  </lyrics>
+</song>

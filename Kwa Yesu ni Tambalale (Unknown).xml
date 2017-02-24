@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:08">
+  <properties>
+    <titles>
+      <title>Kwa Yesu ni Tambalale</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kwa Yesu ni tambalale, <br/>tambalale tambalale<br/>kwa Mungu hakuna milima, <br/>tambalale tambalale.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>{Tambalale — tambalale <br/>tambalale tambalale.<br/>Tambalale — tambalale <br/>tambalale hakuna milima.<br/>(Kweli tambalale) tambalale <br/>tambalale tambalale.<br/>Tambalale — tambalale <br/>tambalale hakuna milima.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hakuna magonjwa, <br/>dhiki wala njaa<br/>hakuna tatizo, <br/>mbinguni ni raha.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hakuna dhuluma, <br/>wala ufisadi<br/>hakuna tajiri, <br/>wote kwake sawa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hakuna ulevi, <br/>hakuna uzinzi,<br/>hakuna huzuni, <br/>wote ni furaha.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mbinguni kwa Baba, <br/>makao ni mengi<br/>tujipange sawa <br/>tukaishi naye.</lines>
+    </verse>
+  </lyrics>
+</song>

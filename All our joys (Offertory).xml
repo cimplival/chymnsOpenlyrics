@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:22">
+  <properties>
+    <titles>
+      <title>All our joys</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All our joys, Lord, take and<br/>bless all our sorrows, Lord,<br/>take and bless all our lives,<br/>Lord, take and bless, <br/>O Lord, come and bless.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bless the poor, Lord, bless<br/>the poor, heal the sick, Lord,<br/>heal the sick, <br/>free the suffering,<br/>Lord, free them all,<br/>O Lord, free them all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Feed the hungry, Lord<br/>feed them all, help the lonely<br/>Lord, help them all.<br/>Feed the hungry, Lord, <br/>feed them all.<br/>O Lord, feed them all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Give us peace, Lord,<br/>give us peace, teach us love,<br/>Lord, teach us love,<br/>in your love,<br/>Lord, make us one<br/>O Lord, make us one.</lines>
+    </verse>
+  </lyrics>
+</song>

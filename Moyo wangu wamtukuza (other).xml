@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:21">
+  <properties>
+    <titles>
+      <title>Moyo wangu wamtukuza</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Moyo, Moyo wangu <br/>wamtukuza Bwana, Roho, <br/>Roho yangu inafurahi. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa kuwa amemwangalia, <br/>kwa huruma mtumishi wake.<br/>Hivyo tangu sasa watu wote, <br/>wataniita mwenye heri. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa sababu <br/>mwenyezi Mungu, <br/>amenifanyia makuu,<br/>jina lake ni takatifu, </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Huruma yake <br/>ni kwa wote, <br/>wote wale wanaomcha,<br/>kizazi hata na kizazi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Huyatenda <br/>mambo makuu, <br/>kwa nguvu za mkono wake,<br/>wenye kiburi hutawanywa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hushusha wote <br/>wenye vyeo,<br/>kutoka vitini vya enzi,<br/>nao wale wanyenyekevu, <br/>wote hao huwainua.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Huwashibisha <br/>wenye njaa, <br/>na matajiri huwaacha,<br/>waende mikono mitupu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Hulilinda <br/>taifa lake, <br/>teule la mtumishi wake,<br/>akikumbuka huruma yake. </lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kama alivyowaahidia, <br/>babu zetu kuwaahidia,<br/>Ibrahimu na mzao wake.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Atukuzwe <br/>Baba na Mwana, <br/>naye Roho Mtakatifu.<br/>Leo kesho hata milele, <br/>kwa shangwe milele amina. </lines>
+    </verse>
+  </lyrics>
+</song>

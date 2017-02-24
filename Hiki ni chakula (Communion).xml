@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:37">
+  <properties>
+    <titles>
+      <title>Hiki ni chakula</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hiki ni chakula cha uzima <br/>(cha uzima)<br/>njooni tupokee. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana ni chakula <br/>kweli cha uzima,<br/>Bwana ni kinywaji kweli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana ndiye shime <br/>yangu na uzima<br/>kweli ni msaada wangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana ananifundisha <br/>njia zake kweli<br/>ni mwalimu wangu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwana ananituliza <br/>siku zote,<br/>yeye ni faraja yangu .</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwana ananishibisha <br/>siku zote,<br/>yeye ni chakula changu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bwana anaburudisha<br/>kweli kweli,<br/>yeye ni kinywaji changu.</lines>
+    </verse>
+  </lyrics>
+</song>

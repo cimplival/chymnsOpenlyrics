@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:43">
+  <properties>
+    <titles>
+      <title>I am the bread of life (Version 1)</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I am the bread of life, broken for all.<br/>Eat now and hunger no more.<br/>One faith, one hope, one symbol of love<br/>given to us in this one bread, one cup. <br/>O let us be one in the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my friends <br/>if you keep my commands,<br/>no longer servants but friends.<br/>See how my people have nothing to eat.<br/>Give them the bread that is you.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As God has loved me <br/>so I have loved you.<br/>Go and live on in my love. </lines>
+    </verse>
+  </lyrics>
+</song>

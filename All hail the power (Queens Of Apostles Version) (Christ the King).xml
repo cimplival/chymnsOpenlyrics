@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:22">
+  <properties>
+    <titles>
+      <title>All hail the power (Queens Of Apostles Version)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Christ the King</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All hail the power <br/>of Jesus' name. <br/>Let angels prostate fall;<br/>Bring forth the royal diadem;<br/>To crown him, crown him,<br/>crown him, crown him,<br/>Lord of all.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ye chosen seed <br/>of Israel's race.<br/>Ye ransomed from the <br/>fall Hail, him who saves <br/>you by his grace;<br/>And crown him, crown him,<br/>crown him, crown him,<br/>Lord of all.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sinners whose love <br/>can ne'er forget, <br/>the wormhood and the gall; <br/>Go spread your trophies<br/>at his feet;<br/>Now crown him, crown him,<br/>crown him, crown him,<br/>Lord of all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Let ev'ry kindred ev'ry tribe,<br/>on this terrestrial ball;<br/>To him all majesty ascribe;<br/>And crown him, crown him,<br/>crown him, crown him,<br/>Lord of all.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O that with yonder <br/>sacred throng. <br/>We at his feet may fall;<br/>we'll join the <br/>everlasting song;<br/>To crown him, crown him,<br/>crown him, crown him,<br/>Lord of all.</lines>
+    </verse>
+  </lyrics>
+</song>

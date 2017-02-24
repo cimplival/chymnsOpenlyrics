@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:41">
+  <properties>
+    <titles>
+      <title>Hubirini Kwa Sauti</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Merriack Kavakule</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hubirini kwa sauti ya kuimba, <br/>tangazeni haya<br/>(haya) yatamkeni mpaka <br/>mwisho wa dunia<br/>(semeni) Bwana amelikomboa <br/>taifa lake. x2 </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mpigie Mungu kelele <br/>za shangwe nchi yote<br/>imbeni utukufu wa jina lake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwambieni Mungu matendo <br/>yatisha kama nini,<br/>kwa ajili ya wingi <br/>wa nguvu zako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adui zako watakuja <br/>kunyenyekea kwako<br/>kwa kuwa wewe <br/>ndiwe uliye Mungu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Enyi mataifa njooni <br/>mtukuzeni Bwana<br/>zitangazeni sifa <br/>za Mungu wetu.</lines>
+    </verse>
+  </lyrics>
+</song>

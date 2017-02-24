@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:19">
+  <properties>
+    <titles>
+      <title>Acheni mimi</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>St. Paul Students' Choir (University of Nairobi)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Acheni mimi - Nimuimbie <br/>Muumba wangu,<br/>Aliyeniumba - Mimi kiumbe <br/>mwenye akili ). x2<br/>Aliyenipa uwezo wa <br/>kusimama hapa.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tangu tumboni mwa <br/>mama amenipa uhai<br/>Juzi jana leo nimeamka <br/>kesho ajua yeye<br/>Maisha yangu ayapa maziwa <br/>ni kama mtoto<br/>(Acheni mimi - nizitamke <br/>sifa za Mungu wangu<br/>Na sitachoka, kumuimbia<br/> mimi ningali hai). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nalala jioni na kuamka <br/>pia nazo nguvu,<br/>Ninafanya kazi na <br/>kujipatia riziki zangu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amenipatia akili yangu <br/>na wangu ubunifu,<br/>Shuleni kazini ninayoyafanya <br/>hayana pungufu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mara nyingi sana <br/>ninajiuliza nitampa nini<br/>Kwani Bwana amenitendea <br/>mengi bila ya kwa nini.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ninapokuwa nazo shida <br/>nyingi hunipa tulizo,<br/>Kwake kila mara watu <br/>wote hupata burudiko.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:28">
+  <properties>
+    <titles>
+      <title>Give me joy</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give me joy in my heart <br/>keep me praising.<br/>Give me joy in my <br/>heart I pray.<br/>Give me joy in my heart <br/>keep me praising. <br/>Keep me praising till the <br/>break of day.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sing hosanna, sing hosanna<br/>sing hosanna to the <br/>King of kings. <br/>Sing hosanna, sing hosanna,<br/>sing hosanna to the King.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give me faith in my heart<br/>keep me striving.<br/>Give me faith in my heart <br/>I pray.<br/>Give me faith in my heart,<br/>keep me striving.<br/>Keep me striving 'till <br/>the end of day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Give me love in my heart<br/>keep me serving.<br/>Give me love in my heart <br/>I pray.<br/>Give me love in my heart,<br/>keep me serving.<br/>Keep me serving 'till <br/>the end of day.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Give me hope in my heart<br/>keep me going.<br/>Give me hope in my heart <br/>I pray.<br/>Give me hope in my heart,<br/>keep me going.<br/>Keep me going 'till <br/>the end of day.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Give my oil in my lamp, <br/>keep me burning.<br/>Give me oil in my lamp, <br/>I pray.<br/>Give my oil in my lamp, <br/>keep me burning.<br/>Keep me burning <br/>'till the end of day.</lines>
+    </verse>
+  </lyrics>
+</song>

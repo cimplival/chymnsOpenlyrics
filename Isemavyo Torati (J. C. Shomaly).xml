@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:50">
+  <properties>
+    <titles>
+      <title>Isemavyo Torati</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Isemavyo torati ya kale,<br/>jicho kwa jicho, <br/>jino kwa jino,<br/>mkuki kwa mkuki, <br/>hiyo silaha ya mababu. x2<br/>Lakini mimi, ninawaambia, <br/>nawaambia,<br/>msilipize kisasi kwa <br/>mambo haya. x2 </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Akupigaye shavu lako moja, <br/>mgeuzie na la pili<br/>akunyang'anyaye na joho lako,<br/>mpe pia kanzu yako, <br/>utayashinda majaribu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ndugu nawaambia nyinyi, <br/>jifunzeni kusameheana,<br/>acheni chuki ubinafsi, <br/>hazisaidii kwa vyovyote.<br/>Ukikosewa samehe, <br/>sababu hata wewe wakosea<br/>Mungu asingesamehe, <br/>wewe na mimi tungekuwa wapi. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Wewe unayemchukia huyu <br/>huyu ameumbwa naye Mungu.<br/>Kumbuka wote sisi twapita, <br/>hakuna aishiye milele.<br/>Wamuua huyu na wewe, <br/>utakufa siku moja kama yeye.<br/>Utajibu nini kwa Mungu, <br/>kuifanya kazi yake bila ruhusa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Riziki aitoa Mungu, <br/>acha wivu pia masengenyo.<br/>Mwenzako amepata kwa jasho, <br/>fanya bidii ufanikiwe.<br/>Wamwonea wivu kwa nini, <br/>na kuanza kuharibu na kuiba.<br/>Utajibu nini kwa Mungu, <br/>kuharibu nchi yake aliyoumba.</lines>
+    </verse>
+  </lyrics>
+</song>

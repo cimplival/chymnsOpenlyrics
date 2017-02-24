@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:27">
+  <properties>
+    <titles>
+      <title>Amka Ewe Usinziaye</title>
+    </titles>
+    <verseOrder>c1 c2 c3 v1 c1 c2 c3 v2 c1 c2 c3 v3 c1 c2 c3</verseOrder>
+    <authors>
+      <author>St. Theresa wa Mtoto Yesu, Mwanza</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Amka ewe usinziaye, <br/>amka ewe usinziaye<br/>Amka, amka, fungua macho, <br/>amka. Pesa ni kitu cha kushangaza<br/>Imezitega nyoyo za watu tazama,<br/>Tazama uaminifu hakuna.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Imejenga matabaka kwa <br/>maskini na matajiri, pesa<br/>Imekuwa ni kitanzi, <br/>inafilisha hata sheria, pesa<br/>Inagombanisha ndugu <br/>kwa ndugu pesa (tena)<br/>Imekuwa ndiyo mzizi wa tamaa.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Lakini ajabu ni kwamba,<br/>Pesa kamwe pesa kamwe, <br/>haitanunua mbingu ee Mungu<br/>kama matajiri wangemiliki hewa, <br/>maskini wangekuwa wapi<br/>Kama matajiri wangemiliki mbingu, <br/>maskini wangekosa haki.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Pesa ni rafiki <br/>kwenye shida zako<br/>lakini pesa ni adui <br/>kwenye raha zako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pesa yabadili <br/>msimamo wako<br/>tazama pesa ni mbolea<br/>hustawisha dhambi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pesa ni mtego<br/>kwa imani yako<br/>Na tena pesa ni <br/>kioo kwa tabia yako.</lines>
+    </verse>
+  </lyrics>
+</song>

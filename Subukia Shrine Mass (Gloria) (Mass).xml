@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:05">
+  <properties>
+    <titles>
+      <title>Subukia Shrine Mass (Gloria)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Utukufu juu kwa Mungu <br/>na amani duniani<br/>kwao watu wenye mapenzi<br/>watu wenye mapenzi <br/>mema. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tunakusifu tunakuheshimu,<br/>twakuabudu,tunakutukuza,<br/>Twakushukuru kwa ajili yako, <br/>ya utukufu wako mkuu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Mungu Baba ndiwe Mfalme <br/>wa mbinguni Baba Mwenyezi,<br/>Ee Yesu Kristu Mwana wa pekee, <br/>mwana kondoo mwana wa Baba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uondoaye dhambi za watu, <br/>tuhurumie, tusikilize<br/>Tuhurumie mwenye rehema, <br/>maombi yetu uyapokee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uketiye kuume kwake, <br/>Mungu Baba tuhurumie<br/>Kwa kuwa ndiwe pekee yako, <br/>pekee yako Mtakatifu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pamoja naye Roho Mtakatifu, <br/>katika utukufu wake<br/>Anayeishi na kutawala, <br/>milele yote Amina.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:17">
+  <properties>
+    <titles>
+      <title>Ee Mungu Mwenye Rehema</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Mungu Mungu mwenye<br/>rehema utuinuliye nuru, <br/>ya uso wako Mungu <br/>mwenye rehema, <br/>ee Bwana Bwana Mungu, <br/>Sisi utuinuliye nuru <br/>ya uso wako.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee Mungu wa haki uitike<br/>yangu nikuitapo, <br/>umenifanyizia nafasi <br/>wakati wa shida. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jueni ya kuwa Bwana <br/>ameteua mtauwa, <br/>Bwana atasikia <br/>nimwitapo mimi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wengi husema nani <br/>atakayetuonyesha mema. <br/>Bwana utuinulie nuru <br/>ya uso wako. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Katika amani najilaza <br/>na kupata usingizi. <br/>Ndiwe unijaliaye <br/>kukaa salama.</lines>
+    </verse>
+  </lyrics>
+</song>

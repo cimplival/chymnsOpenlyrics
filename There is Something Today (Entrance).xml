@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:11">
+  <properties>
+    <titles>
+      <title>There is Something Today</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is something today <br/>in the house <br/>of the Lord. x3<br/>Hallelujah today in the <br/>house of the Lord!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>There is singing today <br/>in the house <br/>of the Lord. x3<br/>Hallelujah today in the <br/>house of the Lord!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is praising today <br/>in the house <br/>of the Lord. x3<br/>Hallelujah today in the <br/>house of the Lord!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is dancing today <br/>in the house <br/>of the Lord. x3<br/>Hallelujah today in the <br/>house of the Lord!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>There is shouting today <br/>in the house <br/>of the Lord. x3<br/>Hallelujah today in the <br/>house of the Lord!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>There is praying today <br/>in the house <br/>of the Lord. x3<br/>Hallelujah today in the <br/>house of the Lord!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>There is healing today <br/>in the house <br/>of the Lord. x3<br/>Hallelujah today in the <br/>house of the Lord!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>There is anointing today <br/>in the house <br/>of the Lord. x3<br/>Hallelujah today in the <br/>house of the Lord!</lines>
+    </verse>
+  </lyrics>
+</song>

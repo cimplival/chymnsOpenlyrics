@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:03">
+  <properties>
+    <titles>
+      <title>Kivumbi</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Charles Ruta</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hapo ndipo tulipomfurahia <br/>Bwana Mungu wetu.<br/>Hirizi na mizigo yote <br/>viliposhindwa kusimama.<br/>Shetani naye kivumbi <br/>kakitimua kakimbia.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hapo ndipo tukasema <br/>Mungu aitwe Mungu<br/>hapo ndipo tukasema <br/>Mungu apewe sifa<br/>hapo ndipo tukasema <br/>atawale Mungu milele. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tazama Bwana alipounyoosha <br/>mkono wake mkuu.<br/>Wachawi wote wakakoma, <br/>mapepo na yakanyamaza.<br/>Waganga na tunguri zao <br/>kwa aibu wakaduwaa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana alipoinua mkono <br/>hodari kwa wagonjwa.<br/>Wakoma wakatakasika <br/>viziwi wakasikia.<br/>Viwete wakarukaruka <br/>kwa furaha wamepona.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jicho la Bwana <br/>lilipowaelekea watu waovu.<br/>Hasira, chuki na majivuno <br/>vyote vikatoweka.<br/>Kiburi na maringo yao <br/>hapo ndipo vikapotea.</lines>
+    </verse>
+  </lyrics>
+</song>

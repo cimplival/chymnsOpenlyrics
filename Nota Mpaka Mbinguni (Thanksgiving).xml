@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:37">
+  <properties>
+    <titles>
+      <title>Nota Mpaka Mbinguni</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tumetafiti tukauliza,<br/>maandiko tukafunua,<br/>kutafuta watakatifu,<br/>wanafanya kazi gani <br/>mbinguni.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tutamsifu Mungu tutamwimbia<br/>watunzi, (Usiku na mchana jioni<br/>na asubuhi), tutampangia nota <br/>(kiangazi masika) mpaka <br/>mbinguni waumini. x2<br/>------------------------------<br/>Tumtamsifu waimbaji tutamwimbia <br/>watunzi, tutampangia nota,<br/>mpaka mbinguni - waumini. x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Enyi wasomi tuambieni,<br/>wana sayansi tujibuni,<br/>katika mambo ya mbinguni,<br/>nini kinafanyika duniani.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tumetambua kule mbinguni,<br/>hakuna kwenda ofisini,<br/>wala kumbi za burudani,<br/>ata kilimo hakuna lakini.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kumbe furaha za duniani,<br/>ni upumbavu na wazimu,<br/>na anasa za faa nini,<br/>sisi waimbaji tumeamua.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Waumini wote furahini,<br/>makasisi shangilieni,<br/>nanyi watawa jiungeni,<br/>kwa waimbaji hakuna matata.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Upendo wake ni wa ajabu,<br/>fadhili zake za milele,<br/>huruma yake ni amini,<br/>msamaha wake unatangaza.</lines>
+    </verse>
+  </lyrics>
+</song>

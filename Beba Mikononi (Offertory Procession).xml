@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:41">
+  <properties>
+    <titles>
+      <title>Beba Mikononi</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Offertory Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tusimame ndugu (leo),<br/>twende kwake Bwana (kweli).<br/>Usisite ndugu (yangu),<br/>amka twende hima. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Beba mikononi (mwako),<br/>uliojaliwa (leo).<br/>Peleka kwa Bwana (Mungu),<br/>upate baraka. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Peleka kwa moyo (ule),<br/>moyo wa mapendo (kweli).<br/>Peleka kwa Bwana (yote)<br/>uliojaliwa. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sadaka ya fedha (kweli),<br/>fedha za mifuko (ndugu).<br/>Amka upeleke (leo),<br/>mezani pa Bwana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mavuno mifugo (yote),<br/>ni mali ya Bwana (kweli).<br/>Tupeleke kwake (leo),<br/>atazipokea. x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mkate divai (vyote),<br/>tupeleke kwake (leo).<br/>Mpate baraka (tele),<br/>mbele zake Bwana. x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Twende ndugu twende (hima),<br/>twende  kwake Bwana (Mungu).<br/>tupeleke nafsi (zetu),<br/> zetu kwake Bwana. x2</lines>
+    </verse>
+  </lyrics>
+</song>

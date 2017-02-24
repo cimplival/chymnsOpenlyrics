@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:19">
+  <properties>
+    <titles>
+      <title>Misa Taita (Utukufu)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tukufu,<br/>tukufu kwa Mungu juu.<br/>Amani,<br/>na amani duniani.<br/>(Kwa watu wenye mapenzi,<br/>wenye mapenzi mema.) x2<br/>Amani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sifa, <br/>sisi tunakusifu.<br/>Heshima,<br/>sisi tunakuheshimu.<br/>(Tunakuabudu,<br/>sisi tunakuabudu.) x2<br/>Heshima.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tukufu,<br/>sisi tunakutukuza.<br/>Shukrani,<br/>sisi tunakushukuru.<br/>(Kwa'jili ya utukufu,<br/>utukufu wako mkuu.) x2<br/>Shukrani.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ee Mungu,<br/>ee Bwana Mungu.<br/>Ee Baba,<br/>Mfalme wa mbinguni.<br/>(Ee Mungu Baba,<br/>Mungu Baba mwenyezi.) x2<br/>Ee Baba.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ee Bwana,<br/>ee Bwana Yesu Kristu.<br/>Ee Mwana,<br/>Kristu Mwana wa pekee.<br/>(Mwana wa Baba, Mwana <br/>kondoo wa Mungu.) x2<br/>Ee Mwana.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mwokozi,<br/>mwenye kuondoa ndambi.<br/>Huruma, <br/>dhambi za dunia.<br/>(Utuhurumie, <br/>pokea ombi letu.) x2<br/>Huruma.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ee Yesu,<br/>kwani ndiwe Mtakatifu.<br/>Ee Kristu,<br/>kwani ndiwe Bwana.<br/>(Ee Yesu Kristu,<br/>ndiwe pekee yako Mkuu.) x2<br/>Ee Kristu.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Umoja,<br/>pamoja na roho mtakatifu.<br/>Milele,<br/>katika utukufu.<br/>(Tukufu wa Mungu Baba,<br/>Kristu anaishi.) x2<br/>Milele.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:26">
+  <properties>
+    <titles>
+      <title>Amewalisha kwa Ngano Bora</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>General</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Amewalisha kwa ngano bora <br/>Aleluya<br/>Akawashibisha asali <br/>ya mwambani. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Amewalisha kiini cha ngano,<br/>njoni tumwimbie Bwana <br/>Aleluya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>M-tukuzeni Mungu shime yetu <br/>njoni tumwimbie Bwana <br/>Aleluya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mshangilieni Mungu wa Yakobo<br/>njoni tumwimbie Bwana <br/>Aleluya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mwili wangu chakula mnashiriki <br/>njoni tumwimbie Bwana <br/>Aleluya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Damu yangu kinywaji cha uzima <br/>njoni tumwimbie Bwana <br/>Aleluya.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mnakitangaza kifo cha Bwana <br/>njoni tumwimbie Bwana <br/>Aleluya.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mpaka atakapo kuja Bwana wetu <br/>njoni tumwimbie Bwana <br/>Aleluya.</lines>
+    </verse>
+  </lyrics>
+</song>

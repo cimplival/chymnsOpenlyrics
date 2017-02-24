@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:08">
+  <properties>
+    <titles>
+      <title>Tazameni Meza ya Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tazameni meza ya Bwana,<br/>inapendeza (kama nini) <br/>Bwana Yesu ameandaa <br/>leo karamu kubwa <br/>(kweli kweli)<br/>Ni chakula chenye uzima <br/>chakula cha roho. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana alivyo mkarimu <br/>kautoa mwili wake<br/>Kautoa kama chakula <br/>cha wokovu wetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwili wa Bwana Yesu <br/>ni chakula<br/>bora cha uzima<br/>Damu yake Bwana Yesu <br/>ni kinywaji cha kweli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana ametualika, <br/>sote tujongee mezani<br/>Tukale chakula cha uzima <br/>wa roho zetu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Simama ndugu nenda ukale<br/>chakula cha uzima,<br/>ni chakula cheye uzima,<br/>chakula cha roho.</lines>
+    </verse>
+  </lyrics>
+</song>

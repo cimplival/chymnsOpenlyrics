@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:20">
+  <properties>
+    <titles>
+      <title>Mkristu Simama</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mkristu simama ukatoe sadaka,<br/>kutoa ni moyo wala si utajiri. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wiki nzima Bwana amekulinda,<br/>kutoa ni moyo wala si utajiri.<br/>Kazi yako mkristu umtolee,<br/>kutoa ni moyo wala si utajiri.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shida yako mkristu umtolee,<br/>kutoa ni moyo wala si utajiri.<br/>Mali yako mkristu umtolee,<br/>kutoa ni moyo wala si utajiri.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pendo lako mkristu umtolee,<br/>kutoa ni moyo wala si utajiri.<br/>Nafsi yako mkristu umtolee,<br/>kutoa ni moyo wala si utajiri.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Maisha yako mkristu umtolee,<br/>kutoa ni moyo wala si utajiri.<br/>Na chochote ndugu mkristu umtolee,<br/>kutoa ni moyo wala si utajiri.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Fedha zako mkristu umtolee,<br/>kutoa ni moyo wala si utajiri.<br/>Zao lako mkristu umtolee,<br/>kutoa ni moyo wala si utajiri.</lines>
+    </verse>
+    <verse name="v6">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

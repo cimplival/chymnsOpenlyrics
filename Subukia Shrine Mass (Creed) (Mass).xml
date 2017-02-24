@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:05">
+  <properties>
+    <titles>
+      <title>Subukia Shrine Mass (Creed)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nasadiki kwa Mungu Baba,<br/>muumba mbingu na dunia<br/>Na Yesu Kristu Mwanaye <br/>wa pekee, <br/>Mwana wake mwana wa Baba.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nasadiki, nasadiki, <br/>nasadiki, ninasadiki.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aliyetungwa kwa Roho Mtakatifu, <br/>akazaliwa na Bikira Maria<br/>Akateswa kwa mamlaka <br/>ya Ponsyo Pilato, <br/>kasulibiwa akafa akazikwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akafufuka siku ya tatu, <br/>akapaa juu mbinguni<br/>Ameketi kuume kwa  Baba, <br/>atarudi kutuhukumu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nasadiki kwa Roho Mtakatifu, <br/>na kwa kanisa Takatifu Katoliki<br/>Maondoleo ya dhambi za watu, <br/>na uzima wa milele Amina.</lines>
+    </verse>
+  </lyrics>
+</song>

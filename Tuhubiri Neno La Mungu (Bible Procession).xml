@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:13">
+  <properties>
+    <titles>
+      <title>Tuhubiri Neno La Mungu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Bible Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tuhubiri neno la Mungu,<br/>tuhubiri dunia yote.<br/>Tutangaze neno la Mungu,<br/>tutangaze dunia yote.<br/>Ili watu wote waokolewe,<br/>waupate uzima wa milele.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tushiriki pamoja na wenye shida,<br/>tuenende pamoja katika Bwana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tukoleze imani ya dini yetu,<br/>tueneze injili kwa watu wote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tuandae pamoja jubilei,<br/>tumshukuru Mungu kutukomboa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tuziandae nyoyo zetu pamoja,<br/>Tumshukuru Mungu, kutukomboa.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:20">
+  <properties>
+    <titles>
+      <title>Afrika Mashariki</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mmmm mmmmm mmmmm. x2<br/>Wananchi wote tuungane pamoja.<br/>Tujenge jumuiya <br/>ya Afrika Mashariki<br/>Wananchi wote tushikane mikono<br/>tuimarishe wote amani kwa pamoja.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tanzania nayo Kenya,<br/>hata Uganda tushirikiane<br/>Majirani toka Kongo,<br/>Rwanda na Burundi tusaidiane<br/>(Afrika Mashariki twafurahia sisi so-te<br/>Afrika Mashariki <br/>tunaiunga mkono). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Umoja wa nchi zote <br/>tuuimarishe sote.<br/>Tuweni taifa moja <br/>na lenye upendo. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Viongozi wetu wote <br/>wawe na maelewano.<br/>Mataifa yetu yote <br/>yawe na upendo. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sote sisi kama ndugu <br/>tuudumishe upendo<br/>Na kama taifa <br/>moja tusaidiane.</lines>
+    </verse>
+  </lyrics>
+</song>

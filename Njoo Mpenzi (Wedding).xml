@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:35">
+  <properties>
+    <titles>
+      <title>Njoo Mpenzi</title>
+    </titles>
+    <verseOrder>c1 v1 v2 v3 c1 v4 v5 c1 v6 v7 c1 v8 v9 c1</verseOrder>
+    <authors>
+      <author>Wedding</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Njoo mpenzi, njoo mpenzi,<br/>njoo mpenzi wangu,<br/>mkamilifu wa moyo wangu<br/>(ndiwe wa moyo wangu),<br/>uwe wangu daima,<br/>niwe wako daima,<br/>uwe wangu daima,<br/>niwe wako daima.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nitakulinganisha na niini ewe bibi<br/>yangu ewe kipeenzi cha roho,<br/>(aaah, aa aa aa aah)<br/>vile sauti yako ni taamu yako<br/>maneno mazuri hata suura-<br/>yako yanipendeza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kumbuka kweli,<br/>kumbuka kweli,<br/>kumbuka wewe <br/>kumbuka wewe<br/>(nikumbushe, nikumbushe <br/>nieleze, nieleze).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siku ile ya kwanza nilipokuona<br/>nikajawa na raha, <br/>ewe mpeenzi  wa moyo wangu,<br/>ndipo niliposema tazama <br/>kipenzi nitakuwa bibiyo na wewe <br/>bwanangu njoo mpeenzi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nakulinganisha na farasi,<br/>farasi kati ya magari,<br/>farasi kati ya magari,<br/>farasi kati ya magari <br/>ya Faraoh.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ewe mpenzi ni kama <br/>mfuko wa maanemane,<br/>uliolazwa usiku,<br/>uliolazwa usiku maziwani <br/>mwangu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nakulinganisha na tausi,<br/>tausi kati yaa ndege,<br/> tausi kati ya ndege, <br/>tausi kati yaa ndege <br/>wa angani.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Mpendwa wangu <br/>ni kama kishada<br/>kishada cha hina <br/>katika mizabibu huko, <br/>katika mizabibu huko, <br/>nchi Engedi.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Yageuze macho yako <br/>mbali na mimi,<br/>kwa maana yana <br/>upendo wenye nguvu<br/>kama mauti,<br/>macho yako mazuri sana <br/>kweli Mungu alikuumba.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Hebu tucheze,<br/>hebu tucheze <br/>tucheze sasa <br/>tucheze sasa,<br/>Tiriri, tiritiritiri<br/>tiritiritiri,tiritiritiri.</lines>
+    </verse>
+  </lyrics>
+</song>

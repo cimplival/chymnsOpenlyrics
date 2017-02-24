@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:41">
+  <properties>
+    <titles>
+      <title>Bendera ya Kristu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Familia Takatifu Katubuka Kigoma</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bendera ya Kristu yapepea, <br/>na tena yaongoza jahazi.<br/>Ukiwa ndani ya Kristu tucheze, <br/>marimba cheza hima kikristu.<br/>(Bendera) Ni bendera ya <br/>Kristu na hata Bwana.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Yapepea inatuongoza <br/>kwa Baba mbinguni juu.<br/>Yatuonyesha njia ya <br/>ukweli Bwana.<br/>Yapepea inatuongoza <br/>kwa Baba mbinguni juu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bendera bendera yenye <br/>msalaba wa ushindi.<br/>Ushindi ushindi kwa <br/>kuteswa kwake tumepona.<br/>Bendera bendera inatuongoza <br/>kwake Baba.<br/>Yanipa yanipa kila tumaini <br/>na ushindi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bendera bendera katikati <br/>yake ni msalaba.<br/>Msalaba msalaba alama <br/>ya Kristu mshindaji.<br/>Msalaba msalaba mti <br/>wa thamani wa bendera.<br/>Ni mti ni mti bendera <br/>kwa huo yapepea.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bendera bendera msalaba <br/>wake ni mwekundu.<br/>Ni damu ni damu ya <br/>mwanakondoo mshindaji.<br/>Kondoo kondoo <br/>aliyetolewa ni sadaka.<br/>Sadaka sadaka kwa <br/>kuchinjwa kwake tumepona.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bendera bendera pembe <br/>ni jeupe inang’ara.<br/>Ishara ishara ya <br/>utakatifu mlovaa.<br/>Bendera bendera<br/>haiteteleki yaongoza.<br/>Ni njia ni njia yenye<br/>uhakika wa mbinguni.</lines>
+    </verse>
+  </lyrics>
+</song>

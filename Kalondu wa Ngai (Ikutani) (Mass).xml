@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:57">
+  <properties>
+    <titles>
+      <title>Kalondu wa Ngai (Ikutani)</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We Kalondu, <br/>wa Ngai ula uvetaa thavu.<br/>Sya nthi utwiwie. x2<br/>We utwiw'ie tei - <br/>utwiw'ie tei. x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>We Kalondu, <br/>wa Ngai ula uvetaa thavu.<br/>Tunenge muuo. x2<br/>We tunenge muuo - <br/>tunenge muuo. x2</lines>
+    </verse>
+  </lyrics>
+</song>

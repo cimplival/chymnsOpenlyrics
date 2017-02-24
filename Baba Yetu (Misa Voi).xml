@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:37">
+  <properties>
+    <titles>
+      <title>Baba Yetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Misa Voi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Baba yetu,<br/>Baba yetu uliye mbinguni. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jina lako litukuzwe, <br/>ufalme wako ufike.<br/>Utakalo lifanyike, <br/>duniani kama mbinguni. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tupe leo riziki zetu, <br/>riziki za kila siku.<br/>Tusamehe makosa yetu,<br/>kama tunavyowasamehe, <br/>nasi waliotukosea. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Situtie majaribuni, <br/>walakini utuopoe.<br/>Tuopoe maovuni, <br/>tuopoe maovuni. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwa kuwa falme, <br/>ufalme ni wako.<br/>Na nguvu, <br/>utukufu milele<br/>utukufu milele, <br/>utukufu milele.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:46">
+  <properties>
+    <titles>
+      <title>Imani Kipimo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 e1</verseOrder>
+    <authors>
+      <author>O. A. Tarimo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kipimo cha uzani <br/>kwa hakika kinaitwa kilo.<br/>(Pia) kipimo cha ujazo <br/>jina lake kinaitwa lita<br/>(Sasa) kipimo cha imani <br/>yako ni nini. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Angalia maisha na matendo yako<br/>Na uyafananishe na imani yako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ukiwa na imani, pasipo matendo<br/>Yote ni kazi bure, haifai kitu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kipimo cha imani ni matendo yako<br/>Ukiwa na imani na matendo mema.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Imani – Imani (yako) bila matendo<br/>Haifai kitu,<br/>imekufa imani hiyo ni kazi bure! x2 </lines>
+    </verse>
+  </lyrics>
+</song>

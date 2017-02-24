@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:25">
+  <properties>
+    <titles>
+      <title>Ewe Yesu Utufanye</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Neno</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ewe Yesu utufanye <br/>watume wako,<br/>tupe nguvu na ujasiri <br/>tueneze injili yako.<br/>Tuwezeshe kudumisha <br/>mapenzi yako,<br/>na kufuata amri zote <br/>zitokazo kwako.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ewe Bwana tuangazie <br/>(mwanga wako). x2<br/>Tu vipofu wa neno lako <br/>tuonyeshe njia yako</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na imani tuongezee <br/>(tuwe huru). x2<br/>Kwani kamwe si watumwa, <br/>Yesu ametukomboa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tujalie upendo wako, <br/>(tupendane). x2<br/>Tuwapende watu wote <br/>kwani tu watoto wako.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mtume Paulo (mtume Paulo)<br/>mwalimu wetu, tuombee<br/>ili tusitenganishwe (ili tuwe)<br/>na upendo wake Kristu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mtakatifu Cecilia <br/>(tuombee). x2<br/>Ili tusitenganishwe na <br/>upendo wake Kristu,<br/>tuongoze njiani. x3</lines>
+    </verse>
+  </lyrics>
+</song>

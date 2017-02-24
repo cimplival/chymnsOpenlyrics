@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:20">
+  <properties>
+    <titles>
+      <title>Moyo wangu funguka</title>
+    </titles>
+    <verseOrder>c1 c2 c1 v1 c1 c2 c1 v2 c1 c2 c1 v3 c1 c2 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Moyo wangu funguka  <br/>moyo wangu funguka <br/>iye iye iyelelele iye<br/>moyo wangu funguka<br/>moyo wangu funguka. x2<br/>Kufuli la moyo legea kidogo <br/>ili Bwana Yesu aingie moyoni. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Wataka kitu gani wewe moyo<br/>(ili ufunguke) <br/>Bwana Yesu apate kuingia (leo)<br/>moyo moyo moyo wangu funguka, <br/>ni imbe wimbo gani wewe moyo <br/>(ili ufunguke), <br/>Bwana Yesu apate kuingia (leo)<br/>moyo moyo moyo wangu funguka.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nionee huruma wewe moyo<br/>moyo wangu tulia kwa Yesu<br/>moyo wangu moyo funguka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fungua masikio wewe moyo <br/>Bwana Yesu anabisha hodi hodi<br/>hodi moyo funguka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>kwenye uvungu wako<br/>wewe moyo vumbi limetawala moyoni<br/>ufisadi ushirikina.</lines>
+    </verse>
+  </lyrics>
+</song>

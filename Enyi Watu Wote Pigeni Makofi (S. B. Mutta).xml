@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:21">
+  <properties>
+    <titles>
+      <title>Enyi Watu Wote Pigeni Makofi</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>S. B. Mutta</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Enyi watu wote pigeni makofi. x2<br/>Pigieni Bwana Mungu wetu,<br/>shangilieni kwa vigelegele.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Enyi watu pigeni makofi, <br/>mpigieni Mungu,<br/>pigeni kelele kwa sauti <br/>ya shangwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa kuwa Bwana aliye juu, <br/>ni mwenye kuogofya,<br/>ndiye mfalme mkuu <br/>wa dunia yote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana atawaapisha watu, <br/>wote wa nchi yake,<br/>na mataifa chini <br/>ya miguu yake.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwana Mungu wetu amepaa <br/>kwa sauti ya shangwe,<br/>amepaa kwa sauti ya baragumu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Enyi watu wote mwimbieni <br/>Bwana naam mwimbieni,<br/>mwimbieni mfalme <br/>na mshangilieni.</lines>
+    </verse>
+  </lyrics>
+</song>

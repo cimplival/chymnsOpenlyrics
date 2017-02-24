@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:25">
+  <properties>
+    <titles>
+      <title>Nasadiki</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author>Nasadiki</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nasadiki kwa <br/>Mungu mmoja,<br/>Baba mwenyezi, <br/>Mwumba mbingu <br/>na nchi,<br/>na vitu vyote <br/>vinavyoonekana,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>na visivyoonekana.<br/>Nasadiki kwa Bwana <br/>mmoja Yesu Kristu,<br/>Mwana wa <br/>pekee wa Mungu.<br/>Aliyezaliwa kwa Baba, <br/>tangu milele yote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mungu aliyetoka <br/>kwa Mungu,<br/>mwanga kwa mwanga,<br/>Mungu kweli <br/>kwa Mungu kweli,<br/>Aliyezaliwa bila kuumbwa,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>mwenye umungu <br/>mmoja na Baba,<br/>ambaye vitu vyote <br/>vimeumbwa naye.<br/>Ameshuka toka mbinguni<br/>kwa ajili yetu <br/>sisi wanadamu,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>na kwa ajili <br/>ya wokovu wetu.<br/>(Huinama mpaka: <br/>"akawa mwanadamu")<br/>Akapata mwili kwa uwezo<br/>wa Roho Mtakatifu<br/>kwake yeye Bikira Maria, <br/>akawa mwanadamu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Akasulubiwa pia, <br/>kwa ajili yetu sisi;<br/>akateswa kwa mamlaka <br/>ya Ponsyo Pilato,<br/>akafa, akazikwa.<br/>Akafufuka siku ya tatu,<br/> ilivyoandikwa.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Akapaa mbinguni, <br/>amekaa kuume kwa Baba.<br/>Atakuja tena kwa utukufu,<br/>kuwahukumu <br/>wazima na wafu;<br/>nao ufalme wake <br/>hautakuwa na mwisho.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nasadiki kwa <br/>Roho Mtakatifu,<br/>Bwana mleta uzima,<br/>atokaye kwa <br/>Baba na Mwana.<br/>Anayeabudiwa <br/>na kutukuzwa,<br/>pamoja na Baba na Mwana,</lines>
+    </verse>
+    <verse name="v9">
+      <lines>aliyenena kwa <br/>vinywa vya manabii.<br/>Nasadiki kwa Kanisa moja,<br/>takatifu, katoliki, la mitume,<br/>naungama ubatizo mmoja,</lines>
+    </verse>
+    <verse name="v10">
+      <lines>kwa maondoleo <br/>ya dhambi. <br/>Nangojea na <br/>ufufuko wa wafu.<br/>Na uzima wa milele ijayo.<br/>Amina.</lines>
+    </verse>
+  </lyrics>
+</song>

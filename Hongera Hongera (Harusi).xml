@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:39">
+  <properties>
+    <titles>
+      <title>Hongera Hongera</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Harusi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hongera hongera-<br/>Bwana harusi hongera <br/>na bibi harusi. x2<br/>Kwa kujongea altare yake Bwana<br/>upendo wenu mmeudhihirisha<br/>muishi kwa amani siku zote <br/>katika nyumba yenu.<br/>Mungu awabariki awalinde <br/>maisha yenu yote.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tunawatakia he-ri, <br/>salama na amani,<br/>shikeni agano lenu, <br/>kwa uaminifu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mungu awajalie-ni, <br/>baraka na rehema,<br/>wajalieni watoto <br/>walo watakatifu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Leo mmedhihiri-sha, <br/>upendo thabiti,<br/>alounganisha Mungu, <br/>yasitenganishwe.</lines>
+    </verse>
+  </lyrics>
+</song>

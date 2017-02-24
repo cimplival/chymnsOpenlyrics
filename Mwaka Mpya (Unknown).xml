@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:23">
+  <properties>
+    <titles>
+      <title>Mwaka Mpya</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Shukrani kwako ee Baba<br/>kwa kutujalia sote,<br/>kuanza mwaka mpya <br/>salama. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ajali nyingi umetukinga,<br/>maradhi mengi umetuponya,<br/>twakushukuru ee Mungu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Twakushukuru ee Mungu<br/>kutimiza mwaka,<br/>na mwaka mpya kuuona,<br/>asante Mungu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa upendo wako Mungu<br/>afya umetujalia,<br/>siku zote za maisha,<br/>asante Mungu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baraka za mwaka huu,<br/>Baba tujalie,<br/>utulinde siku sote,<br/>asante Mungu.</lines>
+    </verse>
+  </lyrics>
+</song>

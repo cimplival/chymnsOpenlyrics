@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:43">
+  <properties>
+    <titles>
+      <title>Omorembe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(Omorembe, Omorembe<br/>Omorembe ob <br/>ease more). x2<br/>Buna tata ere antomete<br/>omorembee obe aso more. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Obwanchani, Obwanchani<br/>Obwanchani bobe <br/>ase more). x2<br/>Buna tata ere antomete<br/>Obwanchani obe aso more.x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Omogoko, omogoko<br/>omogoko obe <br/>ase more). x2<br/>Buna tata ere antomete<br/>Omogoko obe ase more .x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>(Obosera obosera,<br/>obosera bobe <br/>ase more). x2<br/>buna tata ere antomete<br/>obosera bobe ase more. x2</lines>
+    </verse>
+  </lyrics>
+</song>

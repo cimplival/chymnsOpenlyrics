@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:33">
+  <properties>
+    <titles>
+      <title>Haya Tazameni</title>
+      <title>Ameweza</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Bernard Mukasa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Haya tazameni nyinyi wenyewe<br/>Mungu wangu mwenye <br/>nguvu ametenda yote.<br/>Hata magumu yasiyofanyika<br/>Mungu wangu mwenye nguvu <br/>ametenda yote.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ameweza — <br/>huyo ameweza yametimia. x2<br/>Oh Bwana Mungu kaweza —<br/>huyo ameweza yametimia. x2<br/>Yasiyowezekana —<br/>huyo ameweza yametimia. x2<br/>Yote ameyatenda —<br/>Ameweza — <br/>huyo ameweza yametimia. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maji yaliyomwagika kabisa—<br/>Mungu wangu mwenye nguvu <br/>ametenda yote.<br/>Ameyazoa yakajaa upya— <br/>Mungu wangu mwenye nguvu <br/>ametenda yote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Katikati ya bahari ya Shamu—<br/>Mungu wangu mwenye nguvu <br/>ametenda yote.<br/>Israeli kapita kwa miguu— <br/>Mungu wangu mwenye nguvu <br/>ametenda yote.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nipofukiwa shimo la zege—<br/>Mungu wangu mwenye nguvu <br/>ametenda yote.<br/>Kulipokucha kaniweka huru— <br/>Mungu wangu mwenye nguvu <br/>ametenda yote.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vilema vyangu nilipomwonyesha—<br/>Mungu wangu mwenye nguvu <br/>ametenda yote.<br/>Amevigusa vikapona mara—<br/>Mungu wangu mwenye nguvu <br/>ametenda yote.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nitapaza sauti kilimani—<br/>Mungu wangu mwenye nguvu <br/>ametenda yote.<br/>Dunia yote isikie haya—<br/>Mungu wangu mwenye nguvu <br/>ametenda yote.</lines>
+    </verse>
+  </lyrics>
+</song>

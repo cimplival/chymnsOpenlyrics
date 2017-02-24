@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:01">
+  <properties>
+    <titles>
+      <title>Kimeeleweka</title>
+      <title>Kilichomfanya Baba Amtoe Mwanawe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 e1 e2 e3 e4 e5 e6</verseOrder>
+    <authors>
+      <author>Bernard Mukasa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kilichomfanya Baba amtoe <br/>mwanawe wa pekee.<br/>Kilichomfanya mwana akubali <br/>kufa kifo cha aibu.<br/>Leo kimefafanuliwa, <br/>leo kimeeleweka.<br/>Leo kimefafanuliwa, <br/>kimeeleweka, kimeeleweka!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Alimuona mwanadamu, <br/>anaanguka kuzimu<br/>akaja kumuinua, <br/>akakibugia kifo<br/>akashuka nacho, <br/>kuzimu kisha, <br/>akakiacha huko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alijua udanganyifu <br/>wa Ibilisi mzushi<br/>akaja kuuharibu <br/>na kufunua ukweli<br/>kuzigaragaza,<br/>hila za mwovu, <br/>na kumuaibisha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alimpenda mwanadamu, <br/>akampenda upeo.<br/>Kajifanananisha naye <br/>bali hakutenda dhambi.<br/>Akamuinua kiumbe <br/>huyu kampandisha hadhi.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Amevishinda vita vya imani, <br/>mshindi<br/>amevaa utukufu na enzi, <br/>Mwokozi<br/>aeh atangaza mlango wa mbingu, <br/>u wazi<br/>aeh na urithi wa utawala</lines>
+    </verse>
+    <verse name="e2">
+      <lines>Kafufuka kama alivyosema yesu, <br/>amefufuka, ameyashinda mauti<br/>Kafufuka (kafufuka) <br/>kama alivyosema Yesu,<br/>amefufuka (kafufuka) <br/>ameyashinda mauti.</lines>
+    </verse>
+    <verse name="e3">
+      <lines>Kaivunja milango yote ya kuzimu, <br/>ameivunja, ameyashinda mauti/<br/>Kafufuka (kafufuka) <br/>kama alivyosema Yesu,<br/>amefufuka (kafufuka) <br/>ameyashinda mauti.</lines>
+    </verse>
+    <verse name="e4">
+      <lines>Kaonyesha ya kwamba inawezekana, <br/>ameonyesha ameyashinda mauti.<br/>Kafufuka (kafufuka) <br/>kama alivyosema Yesu,<br/>amefufuka (kafufuka) <br/>ameyashinda mauti.</lines>
+    </verse>
+    <verse name="e5">
+      <lines>Kwa hiyo, tuimbe aleluya <br/>ni shangwe kuu,<br/>kwa hiyo, tuimbe aleluya <br/>kwani Bwana ameyashinda mauti.<br/>kwa hiyo, tuimbe aleluya <br/>ni shangwe kuu,<br/>kwa hiyo, tuimbe aleluya kwani<br/>Bwana ameyashinda mauti.</lines>
+    </verse>
+    <verse name="e6">
+      <lines>Ameyashinda mauti, <br/>ameyashinda mauti,<br/>ame ame ame ame <br/>ameyashinda mauti.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:54">
+  <properties>
+    <titles>
+      <title>Queen of Apostles (Gloria)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Glory, glory to God<br/>Glory to God in the highest. x2<br/>On earth peace be to <br/>men of good will.<br/>Peace to men of good will. x3 </lines>
+    </verse>
+    <verse name="v1">
+      <lines>God we praise you<br/>God we bless you.<br/>We adore you our Father<br/>glorify you.<br/>We give you thanks<br/>for your glory Lord our God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Heavenly King<br/>almighty God.<br/>Lord Jesus Christ Son Of God<br/>begotten Son<br/>of the Father.<br/>Lord lamb of God Son of God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You take away<br/>sins of the world.<br/>Oh God receive our prayers.<br/>You are seated <br/>at the right hand<br/>of God mighty our Father.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Have mercy Lord<br/>for you alone<br/>are holy one and the Lord.<br/>You are alone<br/>the most high with<br/>Holy spirit all the time.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:44">
+  <properties>
+    <titles>
+      <title>Onjeni Muone</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Onjeni muone ya kuwa <br/>Bwana yu mwema. x2<br/>Oo onjeni. x2 <br/>Onjeni muone ya kuwa Bwana<br/>Bwana yu mwema. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nitamhimidi Bwana kila wakati,<br/>Sifa zake zi <br/>kinywani mwangu daima<br/>katika Bwana <br/>nafsi yangu itajisifu,<br/>wanyenyekevu wasikie <br/>wakafurahi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mtukuze Bwana <br/>mtukuze pamoja nami,<br/>tuliadhimishe jina lake pamoja<br/>masikini aliita Bwana akasikia,<br/>akamuokoa na tabu zake zote.</lines>
+    </verse>
+  </lyrics>
+</song>

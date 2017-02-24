@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:11">
+  <properties>
+    <titles>
+      <title>Ee Bwana Mwumba wa Vitu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>St. Theresa wa Mtoto Yesu, Mwanza</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Wewe Bwana Muumba wa <br/>vitu vyote wewe ni wa kutisha.<br/>Na mwenye nguvu papo hapo <br/>mwingi wa huruma na haki. x2<br/>(Wewe peke yako ni mfalme, <br/>na wewe peke yako ni mfalme.<br/>Hapana aliye mwema <br/>ila wewe Bwana).  x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hapana aliye na fadhili <br/>na atendaye sawa ila wewe.<br/>Wewe ndiwe mwenye nguvu tena <br/>na mwenye nguvu na wa siku zote.<br/>Wewe wawaokoa <br/>waisraeli katika uovu wote.<br/>Ulichagua watu wazee <br/>na kuwaweka wakikuu.<br/>Ipokee dhabihu tunayokutolea <br/>kwa niaba ya watu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na uwakusanye watu wetu<br/>waliotawanyika duniani.<br/>Uwaachilie wale walio <br/>utumwani nchi za kigeni.<br/>Na uwaangilie kwa huruma <br/>watu wanyanyasikao.<br/>Pia waangalie kwa huruma <br/>watu wadharauliwao.<br/>Uwafanye mataifa watambue <br/>wewe Mungu wetu.</lines>
+    </verse>
+  </lyrics>
+</song>

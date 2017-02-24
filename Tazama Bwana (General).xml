@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:07">
+  <properties>
+    <titles>
+      <title>Tazama Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>General</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tazama Bwana tunakuja kwako <br/>(leo) twaleta zawadi <br/>zetu mbele yako<br/>tunakuomba Mungu<br/>Baba pokea.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa nguvu zako <br/>tuliweza kustawisha<br/>mazao bora na sasa twakutolea <br/>mashamba uliyarutubisha <br/>kwa mvua nzuri<br/>mazao kwa wingi yakasitawi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bahari ,mito na maziwa <br/>Bwana ukajaza <br/>samaki wengi wakupendeza <br/>angani ndege wengi wakirukaruka<br/>kushangilia neema yako <br/>Ee Bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wanyama maporini <br/>wakirukaruka kushangilia<br/>neema yako Ee Bwana, <br/>wadudu nao wakichezacheza <br/>kuonyesha furaha kubwa <br/>walio nayo.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

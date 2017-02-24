@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:40">
+  <properties>
+    <titles>
+      <title>Bawo Thixo Somandla</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/b/ Bawo, Thixo Somandla,<br/>Buyinton’ ubugwenxa bam?<br/>Azi senzen’ ebusweni beNkosi,<br/>Bawo, Thixo Somandla?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>/s/ (Azi senzeni na? x2<br/>Azi senzeni Nkosi yam,<br/>Sigqibana nje! )x4</lines>
+    </verse>
+    <verse name="v3">
+      <lines>/b/ (Bawo, Thixo Somandla,<br/>Buyinton’ ubugwenxa bam?<br/>Azi senzen’ ebusweni beNkosi,<br/>Bawo, Thixo Somandla?) x4</lines>
+    </verse>
+    <verse name="v4">
+      <lines>/a/ (Emhlaben’<br/>Sibuthwel’ ubunzima x2<br/>Bawo, Thixo Somandla.) x3</lines>
+    </verse>
+    <verse name="v5">
+      <lines>/s/ (Mayedlule lendebe<br/>Azi senzeni Nkosi yam<br/>Sigqibana nje) x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>/b/ (Ndnesingqala<br/>Enhliziyweni yam<br/>Ndisolokho ndisitsho “Mngci!<br/>Ayidlule lendebe,<br/>Bawo, Thixo Somandla”.) x2</lines>
+    </verse>
+  </lyrics>
+</song>

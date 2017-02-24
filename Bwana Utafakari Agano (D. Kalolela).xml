@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:01">
+  <properties>
+    <titles>
+      <title>Bwana Utafakari Agano</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>D. Kalolela</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana, ulitafakari agano, <br/>usisahau (milele). <br/>Uhai wa watu <br/>wako walioonewa. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee Mungu usimame <br/>ujitetee mwenyewe, <br/>usisahau sauti <br/>ya watesi wako. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maana pahali penye <br/>giza katika nchi <br/>pamejaa makali ya ukatili.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aliyeonewa asirejee<br/>ametiwa haya, <br/>mnyonge mhitaji <br/>na walisifu jina lako.</lines>
+    </verse>
+  </lyrics>
+</song>

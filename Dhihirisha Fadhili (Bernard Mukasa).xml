@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:09">
+  <properties>
+    <titles>
+      <title>Dhihirisha Fadhili</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Bernard Mukasa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Dhirisha fadhili fadhili <br/>zako za ajabu wewe <br/>uwaokoaye wanaokukimbilia. <br/>Wasinione wasio haki, wananionea <br/>adui za roho yangu wanaonizunguka <br/>(Bali mimi bali mimi niutazame uso <br/>wako katika haki, <br/>niamkapo nishibishwe <br/>kwa sura yako). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wamenishtaki kwa makosa <br/>yao wenyewe, <br/>wakanihukumu kwa madhambi <br/>waliyotenda, <br/>wamekunywa damu yangu <br/>waonekane wema <br/>mbele ya watu. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ushike kigao ushike ngao usimame <br/>Bwana utete nami.</lines>
+    </verse>
+  </lyrics>
+</song>

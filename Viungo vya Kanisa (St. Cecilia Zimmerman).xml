@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:22">
+  <properties>
+    <titles>
+      <title>Viungo vya Kanisa</title>
+    </titles>
+    <verseOrder>c1 c2 c3 v1 c1 c2 c3 v2 c1 c2 c3 v3 c1 c2 c3</verseOrder>
+    <authors>
+      <author>St. Cecilia Zimmerman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kama mwili wote ungekuwa jicho,<br/>Mwili wote ungekuwa jicho,<br/>Je, je, sikio lingekuwa nini,<br/>Mwili wote ungekuwa ni sikio,<br/>wote ungekuwa ni sikio, </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Je, je, mtu angewezaje<br/>wezaje kunusa<br/>mikono haiwezi kuiambia <br/>miguu haifanyi kazi<br/>tumbo nalo litaishi vipi <br/>basi mdomo nao ukigoma.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Hilo ni kanisa,<br/>linahitaji jumuiya <br/>na moyo wa kujitolea,<br/>kuzitoa sadaka zetu <br/>hata pia fungu la kumi,<br/>viungo vya kanisa.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Viungo vya kanisa <br/>letu ni kujitolea<br/>kwa hali pia nazo <br/>mali kanisa liendelee. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daktari hawezi kuwa <br/>bora kuliko mwalimu,<br/>sote tushirikiane <br/>kwa michango na mali.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Viungo vya kanisa <br/>lote kuungana jumuiya<br/>kusali kusaidiana <br/>kwa walio masikini.</lines>
+    </verse>
+  </lyrics>
+</song>

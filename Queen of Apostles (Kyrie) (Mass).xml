@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:54">
+  <properties>
+    <titles>
+      <title>Queen of Apostles (Kyrie)</title>
+    </titles>
+    <verseOrder>v1 v2 v1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lord God Mighty Father <br/>have mercy on us.<br/>Lord God Mighty Father <br/>have mercy on us. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus Christ <br/>have mercy on us.<br/>Jesus Christ <br/>have mercy on us. x2</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lord God Mighty Father <br/>have mercy on us.<br/>Lord God Mighty Father <br/>have mercy on us. </lines>
+    </verse>
+  </lyrics>
+</song>

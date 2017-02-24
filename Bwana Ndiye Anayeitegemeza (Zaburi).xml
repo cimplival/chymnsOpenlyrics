@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:53">
+  <properties>
+    <titles>
+      <title>Bwana Ndiye Anayeitegemeza</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana ndiye <br/>anayeitegemeza nafsi yangu, <br/>anayeitegemeza <br/>anayeitegemeza <br/>anayeitegemeza <br/>nafsi yangu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee Mungu kwa jina <br/>lako uniokoe, <br/>na kwa uweza wako <br/>unifanyie hukumu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Mungu uyasikie <br/>maombi yangu, <br/>uyasikilize maneno <br/>ya kinywa changu kinywa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maana wageni <br/>wamenishambulia,<br/>wote watishao wanaitafuta <br/>nafsi yangu.</lines>
+    </verse>
+  </lyrics>
+</song>

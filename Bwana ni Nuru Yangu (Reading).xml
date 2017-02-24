@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:58">
+  <properties>
+    <titles>
+      <title>Bwana ni Nuru Yangu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>Reading</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana ni nuru yangu, <br/>na wokovu wangu, <br/>nimwogope nani, <br/>Bwana ni ngome <br/>ya uzima wangu, <br/>nimhofu nani. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Watesi wangu <br/>na adui zangu, <br/>walijikwaa wakaanguka,<br/>Jeshi lijapokupigana nami, <br/>moyo wangu hautaogopa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vita vijaponitokea <br/>hata hapo nitatumaini,<br/>Neno moja nalitaka <br/>kwa Bwana, <br/>nalo ndilo nitalitafuta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nikae nyumbani kwa Bwana,<br/>siku zote za maisha yangu,<br/>Niutazame uzuri <br/>wa Bwana nakutafakari, <br/>hekaluni mwake.</lines>
+    </verse>
+  </lyrics>
+</song>

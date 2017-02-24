@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:03">
+  <properties>
+    <titles>
+      <title>Cha Kukupendeza</title>
+      <title>Nikupe Nini</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>T. P. H. Kessy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Nikupe nini Mungu wangu, <br/>nikupe nini Mungu wangu, <br/>cha kukupendeza, <br/>cha kukupendeza, <br/>cha kukupendeza <br/>cha kukupendeza, <br/>cha kupendeza, siku hii ya leo.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ninacho kidogo, <br/>cha kukupendeza, <br/>ewe Mungu wangu <br/>Ninachoandaa siku hii <br/>ya leo ndicho hiki Bwana. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sadaka ya leo, <br/>ni sadaka safi, isiyo na doa. <br/>Twakuomba Bwana <br/>twakuomba Bwana <br/>upendezwe nayo. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twatoa mkate,<br/>twatoa divai,<br/>upendezwe nayo. <br/>Fedha nazo Bwana, <br/>tunakutolea, upokee Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

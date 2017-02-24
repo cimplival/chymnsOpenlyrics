@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:44">
+  <properties>
+    <titles>
+      <title>Broken for Me</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Broken for me,<br/>broken for you;<br/>The body of Jesus Christ <br/>is broken for us. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>He offered his body,<br/>he poured out his soul;<br/>The body of Jesus<br/>is broken for us.<br/>Jesus was broken that we <br/>might be whole.<br/>The body of Jesus<br/>is broken for us.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O come to my table<br/>and with me dine;<br/>The body of Jesus <br/>is broken for us.<br/>Eat of my bread and<br/>drink of my wine.<br/>The body of Jesus<br/>is broken for us.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O this is my body <br/>given for you;<br/>The body of Jesus <br/>is broken for us.<br/>Eat it remembering <br/>I died for you.<br/>The body of Jesus<br/>is broken for us.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O this is my blood <br/>I shed for you;<br/>The body of Jesus <br/>is broken for us.<br/>For your forgiveness,<br/>making you new.<br/>The body of Jesus<br/>is broken for us.</lines>
+    </verse>
+  </lyrics>
+</song>

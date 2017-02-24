@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:39">
+  <properties>
+    <titles>
+      <title>Baragumu la Maria</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c2 v3 c3 v4 c4</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nawakaribisha viumbe <br/>wa dunia tumuimbie. x2<br/>Kwa kuwa wokovu wetu <br/>umepitia tumboni mwake. x2<br/>Ndiye simu ya neema toka <br/>kwa Baba kuletwa kwetu. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tumpigie ngoma <br/>vinanda na baragumu.<br/>Mama Maria (salamu) <br/>mama wa Yesu (Maria). x4<br/>Pigeni kelele za shangwe shangilia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tunakubali kwamba <br/>Yesu ni Bwana na Mungu <br/>wetu. x2<br/>Hebu fikirini ana dhamani<br/>gani mzazi wake. x2<br/>Mama pekee aliyejaliwa <br/>mimba kutoka juu. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tumpigie ngoma <br/>vinanda na baragumu.<br/>Mama Maria (salamu) <br/>mama wa Yesu (Maria). x4<br/>Kwa ngoma na matarubeta furahia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alimbadilisha nepi <br/>Bwana wetu Mwokozi wetu. x2<br/>Akamuogesha tunayemuabudu <br/>Mwana wa Mungu. x2<br/>Anajua kula yake<br/>na vaa yake na lala yake. x2</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Tumpigie ngoma <br/>vinanda na baragumu.<br/>Mama Maria (salamu) <br/>mama wa Yesu (Maria). x4<br/>Kwa kinanda cha nyuzi <br/>kumi sherekea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ulimwengu ungeijua <br/>siri hii na tungepona. x2<br/>Wote ungekubali <br/>kusali rosari tungeokoka. x2<br/>Amani ingepatikana <br/>duniani tungefurahi. x2</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Tumpigie ngoma <br/>vinanda na baragumu<br/>Mama Maria (salamu) <br/>mama wa Yesu (Maria). x4<br/>Kwa filimbi <br/>na kwa zumari changamka.</lines>
+    </verse>
+  </lyrics>
+</song>

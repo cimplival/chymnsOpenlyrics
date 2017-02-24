@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:59">
+  <properties>
+    <titles>
+      <title>Katika Taabu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Ochieng Odongo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana wangu ninakuomba<br/>Bwana uwe pamoja nami. x2<br/>((Kweli) katika taabu <br/>(tabu) zangu zote<br/>(Bwana) Katika taabu <br/>zangu zote) x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Aketiye mahali pa siri pake<br/>atakaa katika uvuli wake<br/>nitasema Bwana ndiye kimbilio<br/>ngome yangu <br/>nitakayemtumaini.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mabaya hayatakupata <br/>mwenzangu<br/>tauni haitakaribia kwako<br/>kwani atakuagizia malaika<br/>wakulinde katika <br/>njia zako zote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mikononi mwao watakuchukua<br/>usije ukajikwaa kwenye jiwe<br/>utawakanyaga simba pia nyoka<br/>wala simba na nyoka utawaseta.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwa kuwa amenijua jina langu<br/>taniita nami nitamwitikia<br/>nitakuwa pamoja naye taabuni<br/>nitamuokoa na kumtukuza.</lines>
+    </verse>
+  </lyrics>
+</song>

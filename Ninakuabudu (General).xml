@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:31">
+  <properties>
+    <titles>
+      <title>Ninakuabudu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>General</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ninakuabudu ee Mungu<br/>wangu japo wafichika<br/>nakutazama,<br/>nakuona kwa imani <br/>ee Mungu wangu,<br/>(Chini ya maumbo haya<br/>ya Hostia). x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ninakuabudu Mungu<br/>kwa moyo,<br/>nakunyenyekea <br/>kwa moyo,<br/>namwaminia Yesu<br/>mwana wa Mungu,<br/>(Chini ya maumbo <br/>haya ya Hostia). x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alipokufa Yesu juu<br/>ya msalaba,<br/>wabaya wakasema<br/>ati ameshindwa,<br/>na wote watu wema <br/>wakamfuata.<br/>(Umungu wake wala<br/>hautashindwa). x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mafahamu yangu <br/>yana danganyana,<br/>yanapokuona na kukugusa,<br/>Yesu Mungu mwana<br/>wa Mungu wa ukweli,<br/>(Chini ya maumbo haya<br/>ya Hostia). x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ee Yesu mfichika <br/>sasa atuona,<br/>hili jambo moja naomba sana,<br/>utakapo fufuka <br/>nikuone kwa uso,<br/>(nipate heri<br/> ya utukufu wako). x2</lines>
+    </verse>
+  </lyrics>
+</song>

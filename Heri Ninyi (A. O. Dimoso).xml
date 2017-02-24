@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:35">
+  <properties>
+    <titles>
+      <title>Heri Ninyi</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>A. O. Dimoso</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Heri ninyi watakapowashtumu<br/>Na kuwanenea <br/>kila neno baya.x2<br/>Lakini furahini sana (sana) <br/>na kushangilia<br/>(shangilia)<br/>Kwa kuwa dhawabu yenu <br/>kubwa Mbinguni.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Watawasaliti ninyi ili mpate dhiki,<br/>watawakamata ninyi <br/>na kuwapiga sana,<br/>kwa ajili ya jina langu. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Watawazushia ninyi <br/>maneno ya uwongo,<br/>watawahukumu ninyi<br/>jinsi watavyotaka,<br/>kwa ajili ya jina langu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Watawafuata ninyi <br/>ili wawasakame,<br/>kwa maana mtasifiwa <br/>kwa kila mfanyacho,<br/>kwa ajili ya jina langu.</lines>
+    </verse>
+  </lyrics>
+</song>

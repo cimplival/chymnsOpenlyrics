@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:59">
+  <properties>
+    <titles>
+      <title>Bwana Tunakushukuru</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1 v9 c1</verseOrder>
+    <authors>
+      <author>Moyo Safi (Unga Ltd)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana tunakushukuru,<br/>Bwana tunakushukuru. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa wema wako -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Umetulisha -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Umetunywesha - <br/>(twashukuru eeh <br/>eeh twashukuru). x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kweli ee Bwana -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Unatupenda -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Sisi wanao -<br/>(twashukuru eeh <br/>eeh twashukuru). x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sote tuimbe -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Tumekombolewa -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Shetani kashindwa -<br/>(twashukuru eeh <br/>eeh twashukuru). x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unatujali -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Tucheze pamoja -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Bwana ni mwema -<br/>(twashukuru eeh <br/>eeh twashukuru). x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Unatujali -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Unatupenda -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Unatutunza -<br/>(twashukuru eeh <br/>eeh twashukuru). x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Njooni tucheze -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Sikukuu yetu -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Na ngoma tucheze -<br/>(twashukuru eeh <br/>eeh twashukuru). x2</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Njooni tucheze -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Umetulinda -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Unatutuma -<br/>(twashukuru eeh <br/>eeh twashukuru). x2</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Wazazi wetu -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Walezi wetu -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Mmetulea -<br/>(twashukuru eeh <br/>eeh twashukuru). x2</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Shirika letu -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Ulibariki -<br/>(twashukuru eeh <br/>eeh twashukuru). x2<br/>Na sisi sote -<br/>(twashukuru eeh <br/>eeh twashukuru). x2</lines>
+    </verse>
+  </lyrics>
+</song>

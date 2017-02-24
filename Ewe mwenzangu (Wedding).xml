@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:22">
+  <properties>
+    <titles>
+      <title>Ewe mwenzangu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Wedding</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ewe mwenzangu,<br/>univishe pete,<br/>kwenye chanda changu,<br/>iwe ni alama <br/>ya uaminifu wako. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Naapa mbele ya Mungu<br/>mimi ni wako siku sote <br/>nitamuacha baba,<br/>nitamwacha na mama<br/>niambatane nawe <br/>nasi tutakuwa mili mmoja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Macho yangu yameona, <br/>yamewaona wengi sana,<br/>katika hao wengi ninakuvika <br/>pete iwe alama yangu <br/>ya uaminifu wangu kwako.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wewe sio maiaika,<br/>ni mwanadamu,<br/>kama mimi makosa <br/>kawaida tuko sawa <br/>maumbile maumbile ya mungu ,<br/>nita kusamehe ukinikosea.</lines>
+    </verse>
+  </lyrics>
+</song>

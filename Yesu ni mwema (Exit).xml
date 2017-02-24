@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:30">
+  <properties>
+    <titles>
+      <title>Yesu ni mwema</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2 v6 v7 v8 v9</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nimetafakari habari zako<br/>(Nami nashindwa kuelewa kabisa).<br/>Binadamu angenipa neema<br/>(Kesho angechoka kunipa zaidi).<br/>Lakini wewe hauna kikomo<br/>(Wala mvua yako haina majira).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>(Bwanaa) wanyesha mvua<br/>(Bwanaa) kwawalio jangwani<br/>(Bwanaa) wawasha juaa<br/>(Bwanaa) mpaka baharini<br/>(kweli) Bwana (wewe ni)<br/>mwema sana.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nitasimulia miji<br/>(Yesu ni mwema Yesu ni mwema).<br/>Nitahuubiri vijiji<br/>(Yesu ni mwema Yesu ni mwema).<br/>Nitayafafanua haya<br/>(Yesu ni mwema Yesu ni mwema).</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Watu  wote wapate kuyajua<br/>(Yesu ni mwema Yesu ni mwema).<br/>Nitasimulia nchi<br/>(Yesu ni mwema Yesu ni mwemaa).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niliwaza kwa ubinadamu mpaka<br/>mwisho wakufikiri<br/>(ukataka nijipe moyo nisihofu kitu)<br/>Kwa kuwa humtupi anayekutumainia<br/>(ukataka nijipe moyo nisihofu kitu<br/>kamwe)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uzoefu wa mapito haya<br/>ukaninyima usingizi<br/>(ukataka nijipe moyo nisihofu kitu).<br/>Kanuni za dunia zikavunja matumaini<br/>(ukataka nijipe moyo nisihofu kitu)<br/>kamwe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Giza lililotanda mchana<br/>likanifunika usoni<br/>(ukataka nijipe moyo nisihofu kitu).<br/>Nikapiga kelele hofu kuu ikanisonga<br/>(ukataka nijipe moyo nisihofu kitu)<br/>kamwe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Naimbaee Naimba leo Naimbaee<br/>Naimba mimi, ulijua wazi kwamba<br/>mimi sikua nasitahili, kwa sababu<br/>mimi mdhaifu mwili na roho,<br/>ukaruhusu nifanikwe juhudi zangu,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>makusudi ilinione ukuu wako,<br/>ndugu wanipende, jamaa waniheshimu,<br/>marafiki wanijali, wanisaidie,<br/>ndiyo maana leo, mimi nakurudishia,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>(utukufu niwako milele,<br/>sifa na heshima ni vyako daima,<br/>wewe peke yako unastahili,<br/>usifiwe na uhimidiwe)</lines>
+    </verse>
+    <verse name="v9">
+      <lines>(Nakushukuru Bwana)<br/>kwakuwa umeniona asante. x2<br/>(Nakupa utukufu)<br/>kwa kuwa umeniona asante.<br/>(Milele na milele)<br/>kwa kuwa umeniona asante.<br/>(Nakushukuru Bwana)<br/>kwa kuwa umeniona asantee.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:15">
+  <properties>
+    <titles>
+      <title>Misa Amecea (Santus)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mtakatifu mtakatifu Bwana,<br/>Mungu wa majeshi,<br/>Mtakatifu mtakatifu Bwana,<br/>Mungu wa majeshi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mbingu na dunia zimejaa, zimejaa,<br/>(Mbingu na dunia zimejaa <br/>utukufu wako). x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hosanna juu Hosanna juu,<br/>Hosanna juu Hosanna juu,<br/>mbinguni. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mbarikiwa anayekuja,<br/>Mbarikiwa anayekuja,<br/>Mbarikiwa,<br/>(Mbarikiwa anayekuja <br/>kwa jina lake Bwana) x2.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hosanna juu Hosanna juu,<br/>Hosanna juu Hosanna juu,<br/>mbinguni. x2</lines>
+    </verse>
+  </lyrics>
+</song>

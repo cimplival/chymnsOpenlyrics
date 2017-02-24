@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:03">
+  <properties>
+    <titles>
+      <title>Kitambaa Kipeperushe</title>
+    </titles>
+    <verseOrder>v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2 v6 c1 c2</verseOrder>
+    <authors>
+      <author>St. Cecilia Hombolo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jiangalie jinsi unavyoenenda, <br/>ujiulize kama hivyo ni sawa.<br/>Ndugu rejea ahadi yako <br/>kumkataa Ibilisi muovu.<br/>Dhamira yako inakuambia nini, <br/>inakusuta au bado ni huru, sasa.<br/>Ndugu rejea ahadi yako <br/>kumfuata Bwana Yesu milele.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ewe Mwenzangu - <br/>kipeperushe kitambaa chako.<br/>Cha ubatizo - <br/>cheupe kinachomeremeta.<br/>Kisichafuke - <br/>kipeperushe kitambaa chako.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Cha ubatizo - <br/>cheupe kinachomeremeta.<br/>Kiweke safi - <br/>kipeperushe kitambaa chako.<br/>Cha ubatizo - <br/>cheupe kinachomeremeta.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uliye naye kweli ni mzuri sana, <br/>pia kumbuka yuko wako wa ndoa -<br/>Ndugu rejea ahadi yako <br/>kumkataa Ibilisi muovu.<br/>Uliyeapa ni wewe sio mwingine, <br/>kushikamana naye yule mmoja, basi -<br/>Ndugu rejea ahadi yako <br/>kumkataa Ibilisi muovu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maendeleo kweli ni muhimu sana, <br/>lakini na wenzako wanahitaji -<br/>ndugu rejea ahadi yako <br/>kumkataa Ibilisi muovu.<br/>Hicho kipato ndicho ulichopimiwa, <br/>au mwenzetu unachota zaidi, leo -<br/>ndugu rejea ahadi yako <br/>kumkataa Ibilisi muovu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unatamani kuwa mwenye madaraka, <br/>umejiandaaje kuyatumia -<br/>ndugu rejea ahadi yako<br/>kumkataa Ibilisi muovu.<br/>Je ni halali watu tukakutukuza, <br/>wakati yupo yule alokuumba, haya -<br/>ndugu rejea ahadi yako <br/>kumkataa Ibilisi muovu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kumbuka Yesu alipigwa mijeredi, <br/>kwa sababu ya haya unayotenda -<br/>ndugu rejea ahadi yako <br/>kumkataa Ibilisi muovu.<br/>Akatundikwa mtini akiwa tupu, <br/>kadhalilishwa mwisho akauawa, hivyo -<br/>ndugu rejea ahadi yako <br/>kumkataa Ibilisi muovu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kumbuka kuwa siku ile inakuja, <br/>matendo yako yote kuhesabiwa -<br/>ndugu rejea ahadi yako <br/>kumkataa Ibilisi muovu.<br/>Ni heri leo ukitunze kitambaa, <br/>siku ya mwisho kiwa bado cheupe, kweli -<br/>ndugu rejea ahadi yako <br/>kumkataa Ibilisi muovu.</lines>
+    </verse>
+  </lyrics>
+</song>

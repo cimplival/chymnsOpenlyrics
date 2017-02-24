@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:13">
+  <properties>
+    <titles>
+      <title>Ee Bwana Sistahili</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>J. Sangu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana, sistahili<br/>sistahili ee Bwana uje <br/>moyoni mwangu. x2<br/>(Lakini sema neno Bwana <br/>sema neno<br/>(neno tu)<br/>nami nitajongea mbele <br/>kwa karamu). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Karamu ya Bwana yatupa uzima,<br/>ni mwili wa Bwana na damu yake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hiki ni chakula kutoka Mbinguni,<br/>Bwana atuita kutushibisha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Huu mwili wangu <br/>hii damu yangu,<br/>njooni kwangu nami nitawalisha.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Siku zote Bwana atulisha sisi,<br/>kwa chakula bora <br/>kutoka mbinguni.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Atukuzwe Baba <br/>atukuzwe mwana,<br/>atukuzwe Roho mtakatifu <br/>daima yote.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:43">
+  <properties>
+    <titles>
+      <title>Huyu ni Yule Yesu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Alfred Ossonga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Huyu ni yule Yesu, Yesu,<br/>Yesu mwana wa Daudi.<br/>Huyu ni yule Yesu, Yesu,<br/>Mwana wa Galilaya.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mwambieni Binti Sayuni, <br/>tazama mfalme wako.<br/>(Anakuja kwako mpole,<br/> amepanda mwanapunda). x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Inukeni enyi malango, <br/>inueni vichwa vyenu.<br/>(Mfalme apate ingia, <br/>mfalme wa utukufu). x2 </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na watoto wa Wayahudi, <br/>walimlaki Mwokozi.<br/>(Wakiyachukua matawi, <br/>wakipiga makelele). x2 </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aliyakemea mawimbi, <br/>bahari ikatulia.<br/>(Akatembea juu ya maji, <br/>akatembea kwa miguu). x2 </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aliponya wagonjwa wengi, <br/>kwa neno la kinywa chake.<br/>(Hata vazi lake ni dawa, <br/>yule mama alipona). x2 </lines>
+    </verse>
+    <verse name="v6">
+      <lines>Alimfufua Lazaro, <br/>Lazaro aliyekufa.<br/>(Akarudi tena mzima <br/>akatoka kaburini). x2</lines>
+    </verse>
+  </lyrics>
+</song>

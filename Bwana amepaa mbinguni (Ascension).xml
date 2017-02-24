@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:47">
+  <properties>
+    <titles>
+      <title>Bwana amepaa mbinguni</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1</verseOrder>
+    <authors>
+      <author>Ascension</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana amepaa mbinguni,<br/>aleluya (kweli)<br/>Bwana amepaa kwa shangwe,<br/>aleluya.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ninapaa kwenda kwa Baba<br/>yangu na Baba yenu,<br/>kwa Mungu wangu <br/>na Mungu wenu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mioyoni yenu isihuzunike,<br/>kwa maana ninakwenda <br/>kwa Baba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ninakwenda kuwatengenezea<br/>mahali,<br/>nitakuja tena kuwachukua.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ili mpate kuwapo,<br/>nilipo mimi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kutoka mbinguni atakuja<br/>Mwokozi tunayemtazamia,<br/>ndiye Bwana Yesu Kristu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bwana atageuza <br/>mwili wetu wa unyonge,<br/>upate kufanana<br/>na mwili wake<br/>wa utukufu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kristu alikufa<br/>kwa ajili yetu,<br/>akafuka.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Amekaa kuume kwa Baba,<br/>ni yeye anayetuombea.</lines>
+    </verse>
+  </lyrics>
+</song>

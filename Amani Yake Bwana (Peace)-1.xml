@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:25">
+  <properties>
+    <titles>
+      <title>Amani Yake Bwana</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amani yake Bwana, <br/>amani ya Bwana.<br/>Amani yake Bwana <br/>amani tutakiane.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Amani kweli- <br/>amani ya Bwana.<br/>Amani yake Bwana <br/>amani tutakiane.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Upendo wake Bwana, <br/>upendo wa Bwana.<br/>Upendo wake Bwana <br/>upendo tutakiane.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baraka yake Bwana, <br/>baraka ya Bwana.<br/>Baraka yake Bwana <br/>Baraka tutakiane.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fadhili zake Bwana, <br/>fadhili za Bwana.<br/>Fadhili zake Bwana <br/>Fadhili tutakiane.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Umoja wake Bwana, <br/>umoja wa Bwana.<br/>Umoja wake Bwana <br/>umoja tutakiane.</lines>
+    </verse>
+  </lyrics>
+</song>

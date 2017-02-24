@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:16">
+  <properties>
+    <titles>
+      <title>Tupige Makofi</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tupige makofi na vigelegele<br/>Mwana wake Mungu amezaliwa.<br/>Chereko Chereko nderemo vifijo<br/>Mwana wake Mungu amezaliwa.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kitoto lala sinzia <br/>aleluya tuimbe,<br/>Hongera Maria Hongera Mama.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dunia ifanye shangwe <br/>Bwana kazaliwa,<br/>Mwana wake Mungu amezaliwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aleluya Aleluya tuimbe Aleluya <br/>Kitoto cha mbingu sinzia Mwana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ni usiku wa manane <br/>usiku mtukufu,<br/>Imbeni sifuni jina la Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

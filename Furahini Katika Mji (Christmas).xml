@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:27">
+  <properties>
+    <titles>
+      <title>Furahini Katika Mji</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Christmas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Furahini katika mji wa Daudi <br/>amezaliwa mtoto. x2<br/>Tumepewa mtoto mwanaume<br/>mwenye ufalme mabegani pake<br/>Enyi mataifa njooni <br/>tufurahi tumshangilie Bwana<br/>Tumshangilie Bwana <br/>Yesu kazaliwa. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa maana kwa ajili <br/>yetu mtoto amezaliwa,<br/>tumshangile (Bwana)<br/>Tumepewa mtoto <br/>mwana wake Mungu<br/>kwetu kazaliwa,<br/>tumshangilie (Bwana). </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na uwezo wa kifalme <br/>utakuwa begani mwake,<br/>tumshangilie (Bwana)<br/>Ataitwa jina lake <br/>mshauri wa ajabu,<br/>tumshangilie (Bwana).</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:17">
+  <properties>
+    <titles>
+      <title>Misa Kariobangi (Gloria)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Utukufu juu kwa Mungu,<br/>Utukufu juu Mbinguni<br/>Na amani kote duniani, <br/>Kwa wenye mapenzi mema.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tunakusifu tunakuheshimu, <br/>tunakuabu tunakutukuza<br/>Twakushukuru kwa ajili, <br/>ya utukufu wako mkuu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ewe Mungu ndiye mfalme, <br/>wa mbinguni Baba mwenyezi<br/>Ewe Bwana Yesu Kristu, <br/>wa pekee mwana wa baba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ewe Yesu mwanakondoo, <br/>wa Mungu mwana wa Baba<br/>Ewe mwenye kuziondoa, <br/>dhambi zetu tuhurumie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ewe mwenye kuziondoa, <br/>za dunia dhambi za watu<br/>Ewe mwenye rehema nyingi, <br/>upokee maombi yetu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uketiye kuume kwake, <br/>Mungu Baba tuhurumie<br/>Kwa kuwa ndiwe uliye, <br/>peke yako Mtakatifu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Peke yako ni wewe Bwana, <br/>peke yako Bwana mkuu<br/>Peke yako ni mkombozi, <br/>peke yako Yesu Kristu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Naye Roho Mtakatifu, <br/>katika utukufu wake<br/>Mungu mmoja anayeishi, <br/>na kutawala milele yote.</lines>
+    </verse>
+  </lyrics>
+</song>

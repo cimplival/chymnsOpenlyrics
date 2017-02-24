@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:22">
+  <properties>
+    <titles>
+      <title>Mungu Baba pokea</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mungu Baba pokea <br/>sadaka yetu leo,<br/>twakutolea kwa <br/>jina la mwanao.<br/>Ya Abeli na Ibrahimu<br/>ilikupendeza,<br/>yetu Baba ipendeze, <br/>upokee tu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Upokee - sadaka yetu,<br/>ndilo fumbo - la kukupendeza.<br/>(La Baba na Mwana <br/>na Roho Mtakatifu). x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Njooni wote tutoe<br/>sadaka yetu leo,<br/>kwa sifa na utukufu<br/>wake Mwenyezi.<br/>Mkate huu na divai <br/>viwe mwili wake,<br/>kwa heshima kuu <br/>sadaka tumtolee. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ee Mwenyezi tupokee <br/>tuwe mali yako,<br/>twakusihi kwa shukurani <br/>kuu tupokee.<br/>Tunakutolea nguvu <br/>kazi na mavuno,<br/>kwa huruma yako <br/>dhambi tuondolee. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kama mwanzo Mungu <br/>Baba nasi asifiwe,<br/>na mwanaye ndiye <br/>aliyetukomboa.<br/>Roho Mtakatifu ndiye <br/>wetu mfariji,<br/>utatu Mtakatifu <br/>Mungu mmoja twakiri.</lines>
+    </verse>
+  </lyrics>
+</song>

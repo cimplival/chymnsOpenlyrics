@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:03">
+  <properties>
+    <titles>
+      <title>Cha Kutumaini Sina</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cha kutumaini sina, <br/>ila damu yake yesu,<br/>sina wema wa kutosha, <br/>dhambi zangu kuziosha.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Damu yake na sadaka, <br/>nategemea daima,<br/>yote chini yakiisha, <br/>Mwokozi atanitosha.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Njia yangu iwe ndefu, <br/>yeye hunipa wokovu,<br/>mawimbi yakinipiga, <br/>nguvu zake ndiyo nanga.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nikiitwa hukumuni, <br/>rohoni nina amani,<br/>nikivikwa haki yake, <br/>sina hofu mbele yake.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kwake Yesu nasimama,<br/>ndiye Mwamba ni salama,<br/>ndiye Mwamba ni salama,<br/>ndiye mwamba ni salama.</lines>
+    </verse>
+  </lyrics>
+</song>

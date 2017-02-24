@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:39">
+  <properties>
+    <titles>
+      <title>Holy Virgin</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy Virgin, by God’s decree,<br/>you were called eternally;<br/>That he could give <br/>his Son to our race.<br/>Mary, we praise you, <br/>hail, full of grace.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ave, ave, ave, Maria. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By your faith <br/>and loving accord, <br/>as the handmaid of the Lord,<br/>you undertook God’s<br/> plan to embrace. <br/>Mary we thank you, <br/>hail, full of grace.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Refuge for your <br/>children so weak, <br/>sure protection all can seek.<br/>Problems of life <br/>you help us to face. <br/>Mary, we trust you, <br/>hail, full of grace.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To our needy <br/>world of today love <br/>and beauty you portray,<br/>showing the path<br/>to Christ we must trace. <br/>Mary, our mother, <br/>hail, full of grace.</lines>
+    </verse>
+  </lyrics>
+</song>

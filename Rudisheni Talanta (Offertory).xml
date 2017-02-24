@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:00">
+  <properties>
+    <titles>
+      <title>Rudisheni Talanta</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Rudisheni talanta zenu,<br/>rudisheni talanta <br/>zenu kwa Bwana. x2<br/>Kama wale wawili walivyorudisha<br/>talanta mbili na tano faida.<br/>Nanyi pia<br/>rudisheni talanta <br/>zenu kwa Bwana. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Rudisheni talanta kama <br/>wawili walivyorudisha<br/>mbili na tano na faida.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ukificha talanta, <br/>utanyang’anywa <br/>na kupewa yule<br/>aliyeleta na faida.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ukifanya hesabu, <br/>na Mungu wako <br/>kwa zile talanta<br/>mrudishie na faida.</lines>
+    </verse>
+  </lyrics>
+</song>

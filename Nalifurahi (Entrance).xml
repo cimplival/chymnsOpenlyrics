@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:25">
+  <properties>
+    <titles>
+      <title>Nalifurahi</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Nalifurahi sana) <br/>waliponiambia na twende. <br/>(Furahi sana)<br/>waliponiambia na twende. <br/>(Nyumbani mwa Bwana <br/>twende). x2 </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nitakushukuru kwa moyo<br/>wangu wote<br/>(nitakushukuru)<br/>mbele ya miungu kuimbia zaburi<br/>(nitakushukuru).</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nitakusujudu katika nyumba<br/>yako <br/>(nitakushukuru)<br/>Nitalisifu jina lako ee Baba<br/>(nitakushukuru).</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwa fadhili zako na uaminifu wako<br/>(nitakushukuru)<br/>kwa maana wewe umekuza ahadi<br/>(nitakushukuru).</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nilipokuita uliniitikia<br/>(nitakushukuru)<br/>ukanifariji ukanitia nguvu<br/>(nitakushukuru).</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:03">
+  <properties>
+    <titles>
+      <title>Kongoi Mising</title>
+    </titles>
+    <verseOrder>i1 c1 v1 c1 v2 c1 v3 c1 v4 c1 e1</verseOrder>
+    <authors>
+      <author>St. Peter Kabsabet</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Kongoi mising Cheptalel Kwandanyo<br/>(Kongoi mising (haiya haiya)<br/>kongoi missing kiptayanyo). x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(Kongoi we kongoi cheptalel <br/>(kongoi)<br/>Kongoi we Baba kongoi mising). x2<br/>(Twakushukuru Mungu, <br/>maana we u mwema<br/>kongoi we Baba kongoi <br/>mising. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wakati wa majonzi, <br/>wewe ndiwe tulizo<br/>wakati wa hasira <br/>wewe ni burudisho (hakika)<br/>wakati wote Baba <br/>wewe ni tegemeo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Giza likitokea wewe <br/>ndiwe mwangaza,<br/>magonjwa yakijiri <br/>wewe ndiwe tabibu,<br/>wakati wote Baba <br/>wewe ni tegemeo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Adui zangu wote <br/>umewaaibisha,<br/>japo ni wengi sana <br/>kama nywele za kichwa,<br/>wakati wote Baba <br/>wewe ni tegemeo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wakati wa– njaa <br/>wewe ni msaada<br/>wajane mayatima <br/>wewe unawalinda wote.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Kongoi mising <br/>Cheptalel Kwandanyo<br/>(Kongoi mising (haiya haiya)<br/>kongoi missing kiptayanyo). x2</lines>
+    </verse>
+  </lyrics>
+</song>

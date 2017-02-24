@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:21">
+  <properties>
+    <titles>
+      <title>All Glory</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Christ the King</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>All glory laud and honour<br/>to thee redeemer king,<br/>to whom the lips of children<br/>make sweet hosannas ring.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Thou art the King of Israel<br/>thou David's royal son.<br/>Who in the Lord's name <br/>comest the King<br/>and blessed one.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The company of angels<br/>are praising thee on high.<br/>And mortal men and all<br/>things created make reply.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The people of the hebrews<br/>with palms before thee went.<br/>Our praise and prayer and<br/>anthems before thee <br/>we present.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To thee before thy passion<br/>they sung their<br/>hymns of praise.<br/>To thee now high exalted <br/>our melody we raise.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Thou didst accept <br/>their praises accept <br/>the prayers we bring.<br/>Who in all good delightest<br/>thou good and gracious king.</lines>
+    </verse>
+  </lyrics>
+</song>

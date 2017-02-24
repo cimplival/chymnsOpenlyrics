@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:59">
+  <properties>
+    <titles>
+      <title>Kazaliwa Mtoto Mungu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Christina G. Rosetti</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kazaliwa mtoto Mungu, <br/>binadamu wote furahini.<br/>Kazaliwa Mtoto Mungu, <br/>umwendee wimbo wangu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tangu elfu nne miaka<br/>walimwagua manabii.<br/>Tangu elfu nne miaka<br/>twamngojea na kumtaka.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ni mzuri, ni mpendelevu,<br/>kitoto hicho Mwana mpenzi,<br/>ni mzuri, ni mpendelevu,<br/>mwenye adhama, mtukufu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Banda la wanyama nyumbaye,<br/>kitanda chake ni manyasi<br/>banda la mnyama nyumbaye<br/>kwa Mungu hali gani je?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atakaye nyoyo zetu<br/>zikae naye urafiki<br/>atakaye nyoyo zetu<br/>mara moja tumtoe tu.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:06">
+  <properties>
+    <titles>
+      <title>Kusanyikeni Viumbe</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kusanyikeni kusanyikeni <br/>viumbe wake Bwana<br/>tumsifuni Mungu wetu <br/>mwema aliyeumba vyote. x2<br/>Amsheni vinanda leteni <br/>na zeze na nyimbo nzuri,<br/>zenye kupendeza <br/>msifuni Mungu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kaumba nchi, <br/>kaumba wanyama,<br/>binadamu na fikira zake<br/>lipi lisilomtegemea yeye <br/>iwe mvua ama ni jua.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kawapa wengine mali <br/>nyingi sana,<br/>wengine ni dhiki tupu<br/>ili wote wategemeane <br/>kwa kile alichowajalia.</lines>
+    </verse>
+  </lyrics>
+</song>

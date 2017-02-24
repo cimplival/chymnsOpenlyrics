@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:37">
+  <properties>
+    <titles>
+      <title>Baba Yetu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Misa Mwanda</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Baba yetu uliye mbinguni -<br/>mbinguni Baba yetu, <br/>uliye mbinguni.<br/>Jina lako, Baba litukuzwe -<br/>litukuzwe, jina lako <br/>Baba litukuzwe.<br/>Ufalme wako Baba utufikie -<br/>fikie, ufalme wako Baba utufikie.<br/>Utakalo - lifanyike <br/>duniani kama mbinguni. x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Utupe leo mkate <br/>wetu wa kila siku -<br/>kila siku utupe leo mkate <br/>wetu wa kila siku.<br/>Utusamehe makosa yetu -<br/>yetu utusamehe makosa yetu.<br/>Tusameheavyo na sisi -<br/>na sisi waliotukosea.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Usitutie katika kishawishi -<br/>kishawishi usitutie <br/>katika kishawishi.<br/>Lakini - utuopoe maovuni. <br/>Amina. Amina. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwa kuwa falme <br/>ni wako ee Baba.<br/>Ee Baba kwa kuwa <br/>falme ni wako ee Baba.<br/>Nguvu na -<br/>utukufu na hata milele. x2</lines>
+    </verse>
+  </lyrics>
+</song>

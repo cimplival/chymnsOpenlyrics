@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:50">
+  <properties>
+    <titles>
+      <title>Inueni Vichwa Vyenu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author>G. F. Handel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Inueni vichwa vyenu, <br/>enyi malango, inukeni<br/>Enyi malango ya milele, <br/>mfalme wa utukufu apate kuingia<br/>ni nani mfalme wa utukufu. x4<br/>Bwana mwenye nguvu hodari. x2 <br/>Bwana hodari wa vita.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Inueni vichwa vyenu, <br/>enyi malango,<br/>naam inueni vichwa vyenu, <br/>enyi malango ya milele,<br/>mfalme wa utukufu <br/>apate kuingia,<br/>mfalme wa utukufu <br/>apate kuingia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni nani mfalme wa utukufu. x4<br/>Bwana wa majeshi. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yeye ndiye mflame wa utukufu. x6<br/>Bwana wa majeshi <br/>(Bwana wa majeshi), <br/>Yeye ndiye mfame <br/>wa utukuuuuufu. x3</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yeye ndiye mfame <br/>wa utukufu. x2<br/>Bwana wa majeshi. x8<br/>Yeye ndiye mfame wa <br/>utukuuuuufu, utukuufu<br/>Yeye ndiye mfame wa utukufu. x2<br/>Bwana wa majeshi. x6</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Yeye ndiye mfalme <br/>wa utukuuuuufu, <br/>mfalme wa tukufu<br/>Yeye ndiye mfalme wa utukufu<br/>wa utukufu.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:22">
+  <properties>
+    <titles>
+      <title>Voyai Nenyu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Fr. M. Nzola</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Voyai nenyu (syonthe) <br/>nenyu na nimukunengwa). x2<br/>((Ningumwia) Nenyu manthai<br/>nundu nimukwona kwa muikiio<br/>(vingusyai) <br/>nenyu nimukuvinguiwa. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ni wiva wina mwana (wake)<br/>akimwitya kimutu <br/>akamunenga ivia. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ni wiva wina mwana (wake),<br/>akimwitya ikuyu <br/>akamunenga nzoka.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ethia niwisi kunenga (syana)<br/>mithinzio miseo <br/>ti mbee Asa waitu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Muikemakie nundu (nundu)<br/>wa kila mwiya mwinywa <br/>na kila mwiivw’ika.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na nyunyi sya yayani (syonthe)<br/>ona itivandaa <br/>asa niwe usyithasya.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vai undu utatonyeka (kwake)<br/>kwa mboya na muikiio <br/>ni Ngai wi utonyi.</lines>
+    </verse>
+  </lyrics>
+</song>

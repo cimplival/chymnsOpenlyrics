@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:55">
+  <properties>
+    <titles>
+      <title>Bwana Nguvu Zangu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>T. Khaoya</author>
+    </authors>
+    <themes>
+      <theme>Zaburi</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Wewe Bwana nguvu zangu <br/>nakupenda sana. x2 <br/>Bwana - ni jabali langu (na boma) <br/>na boma langu, <br/>boma na Mwokozi wangu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mungu wangu Mwamba <br/>wangu ninayemkimbilia <br/>Ngao pembe boma <br/>ya wokovu wangu <br/>nitamwita Bwana <br/>asitahiliye kusifiwa. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana ndiye aliye hai <br/>na atukuzwe Mungu. <br/>Ampa mfalme, <br/>ampa mfalme ampa mfalme. <br/>Wake mkuu, <br/>amfanyia fadhili masiha wake.</lines>
+    </verse>
+  </lyrics>
+</song>

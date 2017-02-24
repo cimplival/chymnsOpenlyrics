@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:29">
+  <properties>
+    <titles>
+      <title>Ni Nini Kitanizuia (10 Oclock) choir</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 v1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ni nini kitanizuia,<br/>ni nini kitanizuia mimi. x2<br/>Nisiende mbele ya meza<br/>kumpokea Bwana. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kama ni uongo; <br/>jifikirie mwenyewe jifikirie.<br/>Kama ni uzushi; <br/>jifikirie mwenyewe jifikirie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kama ni kuiba; <br/>jifikirie mwenyewe jifikirie. <br/>Kama ni unyang'anyi; <br/>jifikirie mwenyewe jifikirie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kama ni uzinzi;<br/>jifikirie mwenyewe jifikirie<br/>Kama ni uchawi; <br/>jifikirie mwenyewe jifikirie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kama ni ulevi; <br/>jifikirie mwenyewe jifikirie<br/>Kama ni kuiba; <br/>jifikirie mwenyewe jifikirie.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:25">
+  <properties>
+    <titles>
+      <title>Ewe Yesu Ulikuja</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Yesu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ewe Yesu ulikuja<br/>kutuokoa sisi. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bwana Yesu nioshe dhambi <br/>niwe wako milele (Bwana).<br/>Bwana Yesu nioshe dhambi<br/>niwe wako milele.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ewe Yesu ulikuja kwa <br/>ajili ya watu. x2 </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ewe Yesu ulikuja tupate <br/>‘okolewa. x2 </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ewe Yesu uje kwangu, <br/>fufua moyo wangu. x2</lines>
+    </verse>
+  </lyrics>
+</song>

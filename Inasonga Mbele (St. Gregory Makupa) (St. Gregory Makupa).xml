@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:48">
+  <properties>
+    <titles>
+      <title>Inasonga Mbele (St. Gregory Makupa)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>St. Gregory Makupa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Inasonga mbele injili yetu <br/>ulimwenguni kote,<br/>neno laenda mbele. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Injili - (iende mbele <br/>Injili yake Yesu. x2). x2<br/>(Inasonga mbele, <br/>Injili, x2 <br/>yake Yesu. x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Inasonga mbele injili yetu <br/>katika mataifa,<br/>neno laenda mbele. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Inasonga mbele injili yetu <br/>katika makabila,<br/>neno laenda mbele. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Inasonga mbele Injili yetu<br/>katika jumuiya,<br/>neno laenda mbele. x2</lines>
+    </verse>
+  </lyrics>
+</song>

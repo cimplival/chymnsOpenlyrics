@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:18">
+  <properties>
+    <titles>
+      <title>Ee Tich Angwen</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>E tich angwen motelone <br/>sandne Yesu Ruodhwa. x2<br/>Neno kawo Makati <br/>mogwedho Neno nginyo. x2<br/>Nopogo - <br/>nejolupne kanowacho negini<br/>chamuru mae ringra.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Chamuru ringre Yesu<br/>madhuru rembemaler<br/>ng'ama chamo ring'reno<br/>noyudi ngima maber. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bang'e kendo nokawo <br/>kikombe Mar Divai. x2<br/>Nenogwedho mopogone <br/>jolupne Divai no. x2<br/>Kowacho -<br/>kauru ma mondumadhi <br/>uduto mae remba, <br/>remo maler. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu jawar nowacho <br/>nejolupne en jahawi. x2<br/>Ngama chamo makati <br/>kendo madho Divai ni.<br/>Noyudi - <br/>ngima maber kata kotho <br/>to nyaka ana chiere, <br/>chieng'giko. x2</lines>
+    </verse>
+  </lyrics>
+</song>

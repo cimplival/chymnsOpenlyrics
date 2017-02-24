@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:20">
+  <properties>
+    <titles>
+      <title>Enyi Mataifa</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Enyi mataifa,<br/>mshukuruni Mungu wa Miungu <br/>(Mungu),<br/>mshukuruni Mungu kwa kuwa <br/>yeye ni mwema kwetu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kwa furaha kuu - pigeni <br/>ngoma kinanda na kinubi nalo zeze.<br/>Ni shangwe leo - watu <br/>wote waimbe <br/>kwa furaha na kucheza -<br/>(mmm mmm) mshukuruni Mungu <br/>wa miungu mshukuruni.<br/>kaweza Bwana -<br/>sisi nasi twaimba aleluya aleluya.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fadhili za Bwana zinadumu <br/>kwao wamchao,<br/>fadhili za Bwana zinadumu <br/>kwao wamchao. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na rehema zake kwetu <br/>sisi kweli za milele,<br/>na uaminifu wake <br/>wadumu milele yote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwimbieni Bwana Mungu <br/>yeye astahili sifa,<br/>na fadhili zake Bwana <br/>Mungu yeye za milele.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:12">
+  <properties>
+    <titles>
+      <title>Ee Bwana Nakuinulia Nafsi Yangu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>John Mgandu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana nakuinulia nafsi yangu.<br/>Ee Mungu wangu,<br/>ee Mungu wangu,<br/>nimekutumaini wewe nisiaibike.<br/>Ee Mungu wangu,<br/>ee Mungu wangu,<br/>nimekutumaini wewe nisiaibike.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Adui zangu wasifurahi <br/>kwa kunishinda,<br/>nao wakungojeao <br/>hawataaibika.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana unijulishe <br/>njia zako zote Bwana,<br/>Bwana unifundishe <br/>mapito yako yote.</lines>
+    </verse>
+  </lyrics>
+</song>

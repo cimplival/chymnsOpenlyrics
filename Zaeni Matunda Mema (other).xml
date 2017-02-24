@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:31">
+  <properties>
+    <titles>
+      <title>Zaeni Matunda Mema</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zaeni matunda mema, <br/>zaeni matunda yale,<br/>zaeni yenye baraka, <br/>zaeni ya kheri.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Bwana akiyapokea <br/>yatabarikiwa vyema,<br/>zaeni matunda mema <br/>zaeni ya kheri.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Safisha mwenendo wako, <br/>safisha matendo yako,<br/>safisha na Bwana Yesu, <br/>safisha yote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fanyeni kazi kindugu, <br/>fanyeni kazi kwa bidii,<br/>fanyeni na Bwana Yesu <br/>fanyeni na yote.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tolea matendo yako <br/>pamoja na moyo wako,<br/>naye Bwana Mungu wako <br/>atakubariki.</lines>
+    </verse>
+  </lyrics>
+</song>

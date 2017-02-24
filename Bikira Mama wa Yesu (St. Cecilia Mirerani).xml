@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:42">
+  <properties>
+    <titles>
+      <title>Bikira Mama wa Yesu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>St. Cecilia Mirerani</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bikira mama wa Yesu <br/>tunakusalimu.<br/>Pokea zetu salamu <br/>mama yetu mwema.<br/>(Sisi wanao twakulilia mama <br/>yetu Maria, twahangaika bondeni <br/>huku kwenye machozi.<br/>Utuokoe Mama, <br/>kwenye mateso ha-ya). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tuombee Mama kwa <br/>Mwanao Yesu Kristu.<br/>Sisi wakosefu yafute <br/>makosa yetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mama yetu mwema <br/>njoo ukae na sisi.<br/>Njoo utulinde na<br/>maadui wabaya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fukuza shetani <br/>asitutie gizani.<br/>Njoo njoo mama <br/>wanao twaangamia.</lines>
+    </verse>
+  </lyrics>
+</song>

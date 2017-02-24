@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:29">
+  <properties>
+    <titles>
+      <title>And Can It Be, That I Should Gain?</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Charles Wesley (1738)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>And can it be that I should gain <br/>an interest in the Saviour's blood?<br/>Died He for me, who caused His pain;<br/>for me, who Him to death pursued?<br/>Amazing love! how can it be,<br/>That Thou, my God, shouldst die for me?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Amazing love! how can it be,<br/>That Thou my God, shouldst die for me?<br/>Amazing love! how can it be,<br/>That Thou my God, shouldst die for me?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>He left His Father's throne above<br/>so free so infinite His grace -<br/>Emptied Himself of all but love;<br/>And bled for Adam's helpless race;<br/>'Tis mercy all, immense and free,<br/>O praise my God, it reaches me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No condemnation now I dread;<br/>Jesus, and all in Him, is mine;<br/>Alive in Him, my living Head;<br/>And clothed in righteousness divine;<br/>Bold I approach th'eternal throne;<br/>And claim the crown, through Christ <br/>my own.</lines>
+    </verse>
+  </lyrics>
+</song>

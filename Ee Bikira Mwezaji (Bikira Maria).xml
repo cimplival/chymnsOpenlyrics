@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:10">
+  <properties>
+    <titles>
+      <title>Ee Bikira Mwezaji</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Bikira Maria</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ee Bikira mwezaji, <br/>ave Maria.<br/>Msikilizaji mwombaji,<br/>ave Maria.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tafadhali nifadhili na uzima<br/>ee mama mwema, <br/>ave, ave, ave Maria.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Duniani daima, <br/>ave Maria.<br/>Tunahitaji msaada, <br/>ave Maria.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Katika udhaifu, <br/>ave Maria.<br/>Utupatie nguvu, <br/>ave Maria.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Msaada wa Wakristu, <br/>ave Maria.<br/>Tupeleke kwa Mungu, <br/>ave Maria.</lines>
+    </verse>
+  </lyrics>
+</song>

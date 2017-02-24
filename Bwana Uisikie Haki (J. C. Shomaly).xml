@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:00">
+  <properties>
+    <titles>
+      <title>Bwana Uisikie Haki</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana uisikie haki - <br/>usikie haki. <br/>Utege sikio lako Bwana - <br/>kwa maombi yangu. <br/>(Bwana) <br/>(Usikilize maombi yangu <br/>yasiyotoka katika <br/>yasiyotoka katika <br/>midomo ya hila). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nyayo zangu<br/>zimeshikamana zimeshikamana <br/>na njia zako, <br/>hatua zangu haziku - <br/>hazikuondoshwa. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Mungu nimekuita <br/>wewe kwa maana <br/>wewe utaitika,<br/>utege sikio lako nisikie mimi. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unifiche chini ya uvuli <br/>chini ya uvuli wa mbawa. <br/>Zako, niamkapo <br/>nishibishwe kwa sura yako.</lines>
+    </verse>
+  </lyrics>
+</song>

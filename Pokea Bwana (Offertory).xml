@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:49">
+  <properties>
+    <titles>
+      <title>Pokea Bwana</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Furaha mateso yetu,<br/>Bwana tunakutolea <br/>mikononi mwako<br/>pokea sadaka ewe Bwana <br/>wetu tunayokutolea leo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pokea Bwana. x2 <br/>Ee Bwana Pokea. x2<br/>Pokea Bwana ewe Bwana <br/>wetu tunayokutolea leo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mazao ya kazi zetu zote,<br/>tunakutolea Baba Mungu wetu, <br/>Pokea sadaka ewe Bwana <br/>wetu tunayokutolea leo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pokea mkate na divai,<br/>ndiyo alama ya agano jipya,<br/>pokea sadaka ewe Bwana <br/>wetu tunayokutolea leo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hivi ndio mwili <br/>na damu ya Kristu,<br/>Ndiyo imani ya wakristu,<br/>pokea sadaka ewe Bwana <br/>wetu tunayokutolea leo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Atukuzwe Baba <br/>na mwana na Roho,<br/>Mwanzo leo kisha milele,<br/>pokea sadaka ewe Bwana <br/>wetu tunayokutolea leo.</lines>
+    </verse>
+  </lyrics>
+</song>

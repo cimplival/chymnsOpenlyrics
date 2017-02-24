@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:43">
+  <properties>
+    <titles>
+      <title>Binadamu Ni Mavumbi</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Lent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Binadamu, <br/>binadamu ni mavumbi.<br/>Mavumbini - <br/>mavumbini atarudi.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Na tukifika - <br/>huko tutaimba aleluya.<br/>Makao - makaoni ya raha, <br/>ya raha (na starehe),<br/>yako huko mbinguni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwili wake - <br/>mwili wake hukauka.<br/>Hukauka - <br/>kama ua la bondeni.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:29">
+  <properties>
+    <titles>
+      <title>God of Mercy</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>God of mercy<br/>and compassion,<br/>look with pity upon me,<br/>Father let me call<br/>thee father,<br/>'tis thy child returns <br/>to thee.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus Lord, <br/>I ask for mercy<br/>Let me not implore in vain,<br/>All my sins,<br/>I now detest them,<br/>Never, will I sin again.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By my sins <br/>I have deserved death<br/>and endless misery,<br/>hell with all its pains<br/>and torments,<br/> and for all eternity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>By my sins <br/>I have abandon'd<br/>right and claim <br/>to heaven above, <br/>where the saints<br/>rejoice forever,<br/>in a boundless sea of love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>See our saviour,<br/>bleeding dying,<br/>on the the cross of <br/>calvary.<br/>To that cross my sins<br/>have nail'd him, <br/>yet he bleeds<br/>and dies for me.</lines>
+    </verse>
+  </lyrics>
+</song>

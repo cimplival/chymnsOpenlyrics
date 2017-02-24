@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:59">
+  <properties>
+    <titles>
+      <title>Kenyan  National Anthem (English)</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>National Anthem</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O God of all creation<br/>Bless this our land and nation<br/>Justice be our shield <br/>and defender<br/>May we dwell in unity<br/>Peace and liberty<br/>Plenty be found within <br/>our borders.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let one and all arise<br/>With hearts both <br/>strong and true<br/>Service be our <br/>earnest endeavour<br/>And our homeland of Kenya<br/>Heritage of splendour<br/>Firm may we stand <br/>to defend.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Let all with one accord<br/>In common bond united<br/>Build this our nation together<br/>And the glory of Kenya<br/>The fruit of our labour<br/>Fill every heart <br/>with thanksgiving.</lines>
+    </verse>
+  </lyrics>
+</song>

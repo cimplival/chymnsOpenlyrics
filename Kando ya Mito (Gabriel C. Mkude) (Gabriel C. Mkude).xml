@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:57">
+  <properties>
+    <titles>
+      <title>Kando ya Mito (Gabriel C. Mkude)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Gabriel C. Mkude</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kando ya mito ya Babeli <br/>ndiko tulikoketi,<br/>tukalia tulipoikumbuka <br/>kumbuka Sayuni.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Katika miti iliyo <br/>katikati yake,<br/>tulivitundika vinubi <br/>vinubi vyetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maana huko <br/>walituchukua mateka<br/>na walitaka tuwaimbie <br/>nyimbo za Sayuni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Natuimbeje nyimbo <br/>nyimbo zake wa Bwana<br/>katika nchi ya ugenini <br/>ee Yerusaleme.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ulimi wangu na ugandamane<br/>na kaa la kinywa changu <br/>nisipokukumbuka.</lines>
+    </verse>
+  </lyrics>
+</song>

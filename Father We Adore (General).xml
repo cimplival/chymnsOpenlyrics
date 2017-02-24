@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:26">
+  <properties>
+    <titles>
+      <title>Father We Adore</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>General</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father we adore you<br/>lay our lives before you,<br/>how we love you. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus we adore you,<br/>lay our lives before you,<br/>how I love you. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Spirit we adore you,<br/>lay our lives before you,<br/>how we love you. x2</lines>
+    </verse>
+  </lyrics>
+</song>

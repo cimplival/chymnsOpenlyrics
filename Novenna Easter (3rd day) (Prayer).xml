@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:37">
+  <properties>
+    <titles>
+      <title>Novenna Easter (3rd day)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Prayer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Today bring to me all <br/>devout and faithful souls<br/>and immense them in <br/>the ocean of my mercy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>These souls brought me<br/>consolation on the way <br/>of the cross.<br/>They were that drop<br/>of consolation in the midst<br/>of an ocean of bitterness.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Most merciful Jesus,<br/>from the treasury of <br/>your mercy, <br/>you impart your graces <br/>in great abundance <br/>to each and all.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Receive us into <br/>the abode of your most <br/>compassionate heart,<br/>and never let us escape <br/>from it.<br/>We beg this grace of you, </lines>
+    </verse>
+    <verse name="v5">
+      <lines>by that most wondrous love <br/>for the heavenly Father, <br/>with which your heart<br/>burns so fiercely.<br/>Eternal Father, <br/>turn your merciful gaze</lines>
+    </verse>
+    <verse name="v6">
+      <lines>upon faithful souls, <br/>as upon the inheritance<br/>of your Son. <br/>For the sake of <br/>his sorrowful passion,<br/>grant them your blessing, </lines>
+    </verse>
+    <verse name="v7">
+      <lines>and surround them<br/>with your constant protection. <br/>Thus may they never <br/>fall in love, <br/>or lose treasure <br/>of the holy faith,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>but rather, <br/>with all the hosts <br/>of Angels and Saints,<br/>may they glorify your <br/>boundless mercy, <br/>for endless ages. <br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

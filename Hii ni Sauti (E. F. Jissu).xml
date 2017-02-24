@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:36">
+  <properties>
+    <titles>
+      <title>Hii ni Sauti</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>E. F. Jissu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hii ni sauti ya mtu yule, <br/>aliaye kutoka nyikani. x2<br/>Itengezeni njia ya Bwana,<br/>yanyoosheni mapito yake. x2<br/>Na wote wenye mwili watauona, <br/>wokovu wa Mungu aleluya. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Haya ng'oeni magugu yote, <br/>tusafishe tusafishe.<br/>Haya ng'oeni na mizizi yake, <br/>tusafishe tusafishe.<br/>Tusaishe bila ya kinyongo,<br/>ndugu zangu tusafishe.<br/>Tusafishe kwa moyo mmoja, <br/>ndugu zangu tusafishe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tuichimbeni mizizi ya rushwa, <br/>tusafishe tusafishe.<br/>Tuyafukieni mashimo ya rushwa, <br/>tusafishe tusafishe.<br/>Tusafishe bila ya kinyongo, <br/>ndugu zangu tusafishe.<br/>Tusafishe kwa moyo mmoja, <br/>ndugu zangu tusafishe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tujaze kifusi penye ubinafsi, <br/>tusafishe tusafishe.<br/>Tujenge upendo kwa jamii yote, <br/>tusafishe tusafishe.<br/>Tusafishe bila ya kinyongo, <br/>ndugu zangu tusafishe.<br/>Tusafishe kwa moyo mmoja, <br/>ndugu zangu tusafishe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Penye fitina tumwage Molami, <br/>tusafishe tusafishe.<br/>Penye majungu tumwage Molami, <br/>tusafishe tusafishe.<br/>Tusafishe bila ya kinyongo, <br/>ndugu zangu tusafishe.<br/>Tusafishe kwa moyo mmoja, <br/>ndugu zangu tusafishe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tuzisafisheni nyumba za wachawi, <br/>tusafishe tusafishe.<br/>Tuzisafisheni kwa jina la Mungu, <br/>tusafishe tusafishe.<br/>(ii) Tusafisheni kwa imani, <br/>ndugu zangu tusafishe.<br/>Tusafishe siku ile yaja, <br/>ndugu zangu tusafishe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tuing'oeni mizizi ya vita, <br/>tusafishe tusafishe.<br/>Tupalilie shamba la upedo, <br/>tusafishe tusafishe.<br/>(ii) Sisi sote ni watoto wa Mungu, <br/>ndugu zangu tupendane.<br/>Sisi sote baba yetu mmoja, <br/>ndugu zangu tupendane.</lines>
+    </verse>
+  </lyrics>
+</song>

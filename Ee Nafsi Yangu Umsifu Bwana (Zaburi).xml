@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:18">
+  <properties>
+    <titles>
+      <title>Ee Nafsi Yangu Umsifu Bwana</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee nafsi yangu umsifu <br/>umsifu umsifu Bwana <br/>umsifu Bwana umsifu <br/>Bwana. x2<br/>Ee nafsi yangu umsifu <br/>(umsifu Bwana) <br/>Ee nafsi yangu umsifu <br/>umsifu umsifu (Bwana) <br/>umsifu Bwana. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana huishika kweli milele, <br/>huwafanyia hukumu <br/>walioonewa walioonewa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Huwapa wenye njaa chakula, <br/>naye huwafungua waliofungwa <br/>waliofungwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana huwafumbua <br/>macho waliopofuka, <br/>huwainua waliolioinama <br/>walioinama.</lines>
+    </verse>
+  </lyrics>
+</song>

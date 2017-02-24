@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:28">
+  <properties>
+    <titles>
+      <title>Yanipasa Kumshukuru Mungu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2 v5 c1 c2 v6 c1 c2</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Yanipasa  kumshukuru <br/>Mungu wangu <br/>aliye niumba <br/>na kunifanya jinsi <br/>nilivyo. x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kaniumba mwili na roho, <br/>(Hiya) <br/>kanipa uhai na nguvu, (Hiya) <br/>lazima ni msifu yeye, (Hiya) <br/>ingawa mimi ni mnyonge (Hiya) <br/>lazima ni msifu Mungu wangu, <br/>nyakabidhi na maisha yangu <br/>yawe mikononi mwake.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nitamsifu kwa kila machungu, <br/>Ee- -Ee-, Ee- -Ee-, Ee- -Ee-<br/>Maa-na yeye kanifanya nilivyo, <br/>Ee- -Ee-, Ee- -Ee-, Ee- -Ee-</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nitamsifu kwa upofu wangu, <br/>Ee- -Ee-, Ee- -Ee-, Ee- -Ee-.<br/>Maa-na yeye kanifanya nilivyo.<br/>Ee- -Ee-, Ee- -Ee-, Ee- -Ee.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nitamsifu kwa ugumba wangu, <br/>Ee- -Ee-, Ee- -Ee-, Ee- -Ee-<br/>Maa-na yeye kaniumba nilivyo, <br/>Ee- -Ee-, Ee- -Ee-, Ee- -Ee-</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ingawa watu wanicheka sana, <br/>Ee- -Ee-, Ee- -Ee-, Ee- -Ee- <br/>Sitachoka kumsifuMuumba,  <br/>Wa-ngu,.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nitamsifu kwa magonjwa yangu, <br/>Ee- -Ee-, Ee- -Ee-, Ee- Ee-<br/>Maa-na yeye anajua yote, <br/>Ee- -Ee-, Ee- -Ee-, Ee- -Ee-</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ingawa watu wananitenga, <br/>Ee- -Ee-, Ee- -Ee-, Ee- -Ee-<br/>Yeye atanipokea kwake,   <br/>Mbinguni,</lines>
+    </verse>
+  </lyrics>
+</song>

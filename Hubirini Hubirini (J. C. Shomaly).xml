@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:41">
+  <properties>
+    <titles>
+      <title>Hubirini Hubirini</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hubirini hubirini, <br/>hubirini kwa sauti ya kuimba,<br/>hubirini nyote,<br/>tangazeni haya yatamkeni <br/>mpaka mwisho wa dunia. x2<br/>Semeni Bwana, <br/>amelikomboa, amelikomboa,<br/>amelikomboa <br/>(taifa taifa, taifa taifa, <br/>taifa lake). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mpigieni Mungu <br/>vigelegele enyi wenye haki<br/>kusifu kunawapasa wanyofu, <br/>wanyofu wa moyo. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa kuwa Bwana ni mkuu <br/>na mwenye kusifiwa,<br/>hubirini hubirini hubirini <br/>kwa sauti ya kuimba. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zitajeni sifa zake <br/>ametukuka Bwana Mungu,<br/>hubirini hubirini hubirini<br/>kwa sauti ya kuimba.</lines>
+    </verse>
+  </lyrics>
+</song>

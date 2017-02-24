@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:41">
+  <properties>
+    <titles>
+      <title>Hoyahe Hoyahe</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>(Hoyahe, hoyahe<br/>Natufurahi siku ya leo). X2<br/>(Aleluya, hoye<br/>Tulitukuze jina la Bwana). x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoyahe, hoyahe<br/>(Na tufurahi siku ya leo). x3<br/>Tulitukiuze jina la Bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>(Hoyahe, hoyahe<br/>Mungu wetu ndiwe <br/>Baba mfariji). x2<br/>(Aleluya, hoye<br/>Kazi zako zote zinakusifu). x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hoyahe, hoyahe<br/>(Mungu wetu ndiwe <br/>Baba mfariji). x3<br/>Kazi zako zote zinakusifu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>(Hoyahe, hoyahe<br/>Tumshukuru kwa ajili <br/>ya Yesu). x2<br/>(Aleluya, hoye<br/>Aliye nasi lake taifa). x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hoyahe, hoyahe<br/>(Tumshukuru kwa ajili <br/>ya Yesu). x3<br/>Aliye nasi lake taifa.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>(Hoyahe, hoyahe<br/>Tumpe Mungu sifa, <br/>enzi tukuzo). x2<br/>(Aleluya, hoye<br/>Nguvu na heshima <br/>hata milele). x2</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hoyahe, hoyahe<br/>(Tumpe Mungu sifa, <br/>enzi tukuzo). x3<br/>Nguvu na heshima <br/>hata milele.</lines>
+    </verse>
+  </lyrics>
+</song>

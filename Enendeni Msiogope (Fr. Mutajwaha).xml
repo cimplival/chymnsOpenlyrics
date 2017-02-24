@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:20">
+  <properties>
+    <titles>
+      <title>Enendeni Msiogope</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Fr. Mutajwaha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Enendeni, nendeni msiogope<br/>lihubiri neno duniani kote, <br/>nendeni. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Enyi wanafunzi wangu<br/>mimi nawatuma,<br/>mataifa yote nendeni <br/>mkahubiri.<br/>Nendeni kwa moyo wote<br/>wala msiogope,<br/>shikeni vema shauri <br/>ninalowapa. Ee!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Enjili hii viumbe vyote visikie,<br/>ili mapenzi ya Baba yatimilike.<br/>Nyumba, anasa na <br/>mali havina nafasi,<br/>ondokaneni na hivyo <br/>nimewatuma. Ee!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dhiki hatari na <br/>shida havitawaweza,<br/>giza na hila za mwovu vitayeyuka.<br/>Elewa kwamba mimi <br/>nipo nanyi daima,<br/>Ondoeni shaka kweli <br/>sitawaacha. Ee!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nanyi mkishatimiza niliyoamuru,<br/>posho kupata na taji mtavalishwa.<br/>Itakuwa heri gani Mbinguni kufika,<br/>enzi nitakayopewa <br/>kuwarithisha. Ee!</lines>
+    </verse>
+  </lyrics>
+</song>

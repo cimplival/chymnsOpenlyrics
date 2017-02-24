@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:02">
+  <properties>
+    <titles>
+      <title>Sifuni kazi zake Maria</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sifuni kazi zake Maria (sifuni)<br/>Na malaika sifuni<br/>Bikira mwenye sifa mama<br/>Sifuni Mama wa Muumba. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Malaika mbinguni <br/>wanasifu kazi zake<br/>Kwa unyenyekevu <br/>alikubali pia mapenzi yake Mungu<br/>Basi sifuni Maria.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naye Mama Maria <br/>anatuombea sote<br/>Na maombi yetu pia <br/>anafikisha kwa mwanaye Yesu<br/>Basi sifuni Maria.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aliteuliwa kuwa <br/>Mama yake Mungu<br/>Pia sisi sote ni Mama yetu <br/>mwema tumpe sifa<br/>Basi sifuni Maria.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenye kumcha<br/>Bwana sifuni kazi za Mama<br/>Kwa njia yake Mama <br/>tunashiriki utimilifu wa uzima<br/>Basi sifuni Maria.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:31">
+  <properties>
+    <titles>
+      <title>Nimeonja Pendo Lako</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nimeonja pendo lako, <br/>nimejua u mwema.<br/>Nitakushukuru nitawainua <br/>wote wakusifu wewe.<br/>Nitawaongoza vyema <br/>waimbe kwa furaha<br/>Nitakushukuru nitawainua <br/>wote wakusifu wewe.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ukarimu wako ee Bwana, <br/>na huruma yako wewe<br/>Msamaha wako ee Bwana, <br/>na upole wako wewe<br/>Umenitendea wema usiopimika<br/>Nitakushukuru nitawainua <br/>wote wakusifu wewe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kina mama simameni, <br/>piga vigelegele -<br/>Nitakushukuru nitawainua <br/>wote wakusifu wewe.<br/>Na kina baba nyanyuka, <br/>mkapige makofi -<br/>Nitakushukuru nitawainua <br/>wote wakusifu wewe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Watu wote nesanesa, <br/>chezeni kwa furaha -<br/>Nitakushukuru nitawainua <br/>wote wakusifu wewe.<br/>Inua mikono juu, <br/>mshangilieni Bwana -<br/>Nitakushukuru nitawainua <br/>wote wakusifu wewe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Watawa washangilie, <br/>makasisi waimbe -<br/>Walei warukeruke, <br/>waseme aleluya -<br/>Nitakushukuru nitawainua <br/>wote wakusifu wewe.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vitambaa mikononi, <br/>vipeperushwe juu -<br/>Na vichwa viyumbeyumbe, <br/>kwa mwendo wa kuringa -<br/>Nitakushukuru nitawainua <br/>wote wakusifu wewe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nitakushukuru mimi, <br/>na nyumba yangu yote -<br/>Nitakushukuru nitawainua <br/>wote wakusifu wewe.<br/>Nitayatangaza haya, <br/>maisha yangu yote -<br/>Nitakushukuru nitawainua <br/>wote wakusifu wewe.</lines>
+    </verse>
+  </lyrics>
+</song>

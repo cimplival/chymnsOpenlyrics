@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:46">
+  <properties>
+    <titles>
+      <title>Imani Yangu</title>
+    </titles>
+    <verseOrder>c1 c2 c3 c4 c5 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Victor Aloyce Murishiwa</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Niko katikati ya mbingu na ardhi,<br/>ninaning’inia sina pa kushika.<br/>Duniani sipo na mbinguni sipo<br/>ninawayawaya Bwana niokoe.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nikienda huku<br/>mambo moto moto,<br/>Nikienda kule ni baridi tupu.<br/>Mbele yangu giza<br/>nyumba yangu giza,<br/>mahubiri mengi <br/>yananiyumbisha imani.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>kumtafuta Mwokozi<br/>Ee Mungu wangu uko wapi, <br/>ili nije kwako hima.<br/>Mbele yangu kuna giza nene, <br/>na nyuma yangu<br/>ni giza, mahubiri mengi yamezidi<br/>na mengine <br/>yananiyumbisha imani.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Nikienda huku ninabatizwa na<br/>nikirudi (kule) ninaitwa mimi kafiri.<br/>Giza pande zote mahubiri ni mengi<br/>na mengine <br/>yananiyumbisha imani.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Nikienda huku ni moto <br/>nikirudi huku baridi,<br/>vuguvugu haitakiwi <br/>na imani yangu yayumba.<br/>Mungu wangu nisaidie <br/>niokoe nisipotee<br/>mahubiri mengi<br/>na mengine <br/>yananiyumbisha imani.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Manabii wengi wananiyumbisha,<br/>nifuate yupi nimuache yupi.<br/>Wapo wa uongo, wapo wa kweli,<br/>Njoo Bwana Yesu Rudi kwetu hima<br/>ulimwengu huu ulioufia <br/>umekuwa Jela la maskini.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Roho yangu Bwana inakutamani<br/>wewe peke yako <br/>ndiwe tiba yangu<br/>neno lako Bwana litaniponya<br/>kwa sababu wewe <br/>Mungu ni mmoja.<br/>Twakuomba Baba utuunganishe<br/>matabaka yote na yatoweke.</lines>
+    </verse>
+  </lyrics>
+</song>

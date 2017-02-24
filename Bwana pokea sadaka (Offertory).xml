@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:58">
+  <properties>
+    <titles>
+      <title>Bwana pokea sadaka</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana pokea <br/>sadaka tunayokutolea.<br/>Mkate divai <br/>na fedha ni mali yako.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana pokea mazao <br/>tunayokutolea. <br/>Ni tunda la jasho <br/>letu sisi wanao. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana pokea <br/>na fedha tunazokutolea. <br/>Ni tunda la kazi <br/>zetu tuzifanyazo. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana pokea vipaji, <br/>shukrani kwako wewe. <br/>Umetukomboa <br/>Bwana tuko maliyo. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nazo nyoyo zetu <br/>Baba uzipokee sasa. <br/>Nazo nafsi zetu <br/>zote twazitolea.</lines>
+    </verse>
+  </lyrics>
+</song>

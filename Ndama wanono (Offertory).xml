@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:26">
+  <properties>
+    <titles>
+      <title>Ndama wanono</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Leteni Ndama walionona <br/>Mdhabahuni kwa Bwana <br/>(tena), <br/>toeni bila (ya) kinyongo <br/>Moyoni ndipo mtabarikiwa <br/>naye. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Leteni Ndama aliyeshiba <br/>majani ya kondeni,<br/>mkamtolee Mungu Baba <br/>yenu kwa shukurani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Peleka sadaka yako iliyo Safi <br/>na ya kupendeza,<br/>ndipo utakapokitikisa <br/>kiti cha mwenyezi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kumbuka yule mjane <br/>aliyetoa senti moja,<br/>alibarikiwa na kuongezewa <br/>na Mwenyezi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sadaka iliyo Safi ni <br/>ile inayokugusa wewe, <br/>hiyo ndiyo sadaka iliyo <br/>safi sana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Isaka alitolewa na Baba <br/>yake kama sadaka, <br/>hivyo Abrahamu alizidishiwa <br/>uzao wake. <br/></lines>
+    </verse>
+  </lyrics>
+</song>

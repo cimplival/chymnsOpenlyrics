@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:42">
+  <properties>
+    <titles>
+      <title>Bikira Maria (Anthem Charles)</title>
+    </titles>
+    <verseOrder>c1 c2 c3 c4 v1 c1 c2 c3 c4 v2 c1 c2 c3 c4 v3 c1 c2 c3 c4 v4 c1 c2 c3 c4</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bikira Maria Malkia <br/>wa mitume<br/>Roho Mtakatifu <br/>alikushukia wewe<br/>Kutimiza utabiri alivyonena <br/>Malaika wa Mungu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nawe ukatungwa <br/>Mama yake  Mungu Mwana <br/>Nafsi ya pili katika Utatu Takatifu<br/>Naye Ndiye Yesu Kristu <br/>Mwana wa Mungu Falme <br/>wa Mitume</lines>
+    </verse>
+    <verse name="c3">
+      <lines>U-li- shi-riki pa-moja na <br/>mitume wakati wote<br/>Ewe Bikira Mama usiye na dhambi<br/>Utuombee kwa Mwanao Yesu.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Ili tufuate njia kweli <br/>yenye mwanga<br/>Ndiwe Mal-ki-a wa <br/>mitume wake Yesu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mwanga wa msalaba takatifu, <br/>ili kuangazia tangu kale.<br/>Ukawa ni mbarikiwa, <br/>tena mzazi wa wokovu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kama vile ulivyo mtunza Yesu, <br/>ukawa mzazi bora mbarikiwa.<br/>Utuombee wazazi, <br/>tuweze kuzaa mitume.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ewe mama, <br/>utuombee ili tufuate njia kweli, <br/>yenye mwanga.<br/>Ndiye Malkia wa Mitume<br/>wake Yesu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ewe Mama Yesu Maria utuombee,<br/>Tuwe na Imani thabiti <br/>ndiwe nyota ya Mbinguni.<br/>Naye ndiye Yesu Kristu <br/>Mwana wa  Mungu Mbombozi <br/>wa Ulimwengu.</lines>
+    </verse>
+  </lyrics>
+</song>

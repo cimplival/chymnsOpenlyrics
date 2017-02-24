@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:06">
+  <properties>
+    <titles>
+      <title>Kuna Vitu Sita</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>M. Mtinga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kuna vitu sita <br/>anavyovichukia Bwana,<br/>naam viko saba <br/>vilivyo chukizo kwake. x2<br/>(Macho ya kiburi <br/>ulimi wa uwongo). x6<br/>(Na mikono imwagayo <br/>damu isyo na hatia). x4</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Moyo uwazao <br/>mawazo mabaya. x3<br/>Miguu myepesi <br/>kukimbilia maovu. x2 </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Shahidi wa uwongo <br/>asemaye uwongo. x3<br/>Amchukiza Bwana. x2 </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Naye apandaye mbegu <br/>za fitina kati ya ndugu<br/>wapendanao, <br/>ni chukizo kwa Bwana. x2</lines>
+    </verse>
+  </lyrics>
+</song>

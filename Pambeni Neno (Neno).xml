@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:46">
+  <properties>
+    <titles>
+      <title>Pambeni Neno</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Neno</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana Yesu atualika kusikiliza<br/>neno lake lenye upendo <br/>pambeni neno.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pambeni neno la uzima <br/>pambeni neno<br/>pambeni neno la uzima <br/>pambeni neno.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana Yesu atualika kusikiliza<br/>neno lake lenye hekima <br/>pambeni neno.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana Yesu atualika kusikiliza<br/>Neno lake lenye uzima <br/>pambeni neno.</lines>
+    </verse>
+  </lyrics>
+</song>

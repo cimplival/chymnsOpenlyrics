@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:31">
+  <properties>
+    <titles>
+      <title>Hapa We Msafiri</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10</verseOrder>
+    <authors>
+      <author>Fr. G. F. Kayeta</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hapa we msafiri<br/>simama na tazama,<br/>(Nimekufa leo (kesho) <br/>ni zamu yako (ona)<br/>Ona vema nilivyowekwa humu, <br/>na nilivyo acha <br/>mali na jamaa). x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nilitoka uchi tumboni <br/>mwa mama yangu, <br/>(tumboni mwa mamangu)<br/>na kurudi uchi (kati) ka <br/>tumbo la nchi (sanda)<br/>sanda moja hilo ni vazi langu, <br/>wameninyang'anya <br/>hata senti moja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nifunike vema na <br/>hilo jembe lako <br/>(na hilo jembe lako)<br/>nilitangatanga (kati)ka <br/>ulimwengu (basi)<br/>basi leo kiburi kimekwisha, <br/>kumbe dunia hii ni mti mkavu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nyumba yangu leo ni shimo <br/>udongoni (ni shimo udongoni)<br/>hakuna mlango (haku) na <br/>madirisha (kita)<br/>kitanda changu na Blanketi langu,<br/>ni udongo mzito wanielemea.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kifafanuacho watu mbele ya Mungu <br/>(watu mbele ya Mungu)<br/>si cheo kikubwa (sida) <br/>raja sisifa (mate)<br/>matendo mema saa ya kufa kwangu, <br/>yatafungua mlango<br/>wa mbinguni (au) (uwingu).</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ole wangu mimi <br/>nilifanya ujinga <br/>(nilifanya ujinga)<br/>kwa kuambatana (nawa)<br/>tu wa dunia (ona)<br/>ona leo wote wameniacha, <br/>hasa watu wale niliowapenda.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Unaponiona jiwazie mwenyewe <br/>(jiwazie mwenyewe),<br/>kufa siku moja (kwa wo) te <br/>ni lazima (japo)<br/>Sultani japo ni mtumwa, <br/>Mungu atamwita ikiwa saa yake.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Nimekufa leo nilipona salama <br/>(nilipona salama)<br/>nilijishania (mwenye) <br/>afya mwilini (nama)<br/>na mara moja nikaanguka chini; <br/>Labda huamini kwamba nalimzima.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Yesu msalabani kateswa <br/>vikali mno (kateswa vikali mno)<br/>kwa kutukomboa <br/>(aka) mwaga damuye <br/>(wahu) wahurumie wote wa toharani, <br/>mwanga wa milele uwaangazie.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Kwaherini wote kwaherini wapenzi <br/>(kwaherini wapenzi)<br/>nimekwenda kwetu <br/>(sita) rudi nyumbani (kwahe) rini<br/>Baba kwaheri Mama yangu, <br/>Mungu akipenda kwake tukutane.</lines>
+    </verse>
+  </lyrics>
+</song>

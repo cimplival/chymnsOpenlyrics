@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:06">
+  <properties>
+    <titles>
+      <title>Sweet Sacrament Divine</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sweet Sacrament Divine,<br/>hid in thine earthly home;<br/>Lo round thy lowly shrine,<br/>with supplicant <br/>hearts we come.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus, to thee our voice <br/>we raise, in songs of love<br/>and heart felt praise,<br/>Sweet Sacrament Divine.<br/>Sweet Sacrament Divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sweet Sacrament of peace,<br/>dear home of every heart;<br/>Where restless <br/>yearnings cease,<br/>and sorrows all depart.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There in thine<br/>ear all trustfully,<br/>we tell our tale of misery.<br/>Sweet Sacrament of peace.<br/>Sweet Sacrament of peace.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sweet Sacrament of rest,<br/>Ark from the ocean's roar;<br/>Within thy shelter blest,<br/>soon may we<br/>reach the shore.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Save us, for still the <br/>tempest raves;<br/>Save, lest we sink <br/>beneath the waves.<br/>Sweet Sacrament of rest.<br/>Sweet Sacrament of rest.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sweet Sacrament Divine,<br/>Earth's light and Jubilee;<br/>In thy far depths <br/>doth shine,<br/>thy God - heads majesty.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Sweet light,<br/>so shine on us, we pray,<br/>that earthly joys may <br/>fade away.<br/>Sweet Sacrament Divine.<br/>Sweet Sacrament Divine.</lines>
+    </verse>
+  </lyrics>
+</song>

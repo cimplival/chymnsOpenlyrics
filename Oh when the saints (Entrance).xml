@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:42">
+  <properties>
+    <titles>
+      <title>Oh when the saints</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7 c1 v8 c1</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh when the saints <br/>go marching in,<br/>oh when the saints <br/>go marching in,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>oh Lord I want to be <br/>in that number,<br/>oh when the Saints <br/>go marching in.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh when the angels <br/>blow their horns,<br/>oh when the angels<br/>blow their horns.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh when the stars<br/>fall from the sky,<br/>oh when the stars <br/>fall from the sky,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh when the moon, <br/>turns into blood,<br/>oh when the moon, <br/>turns into blood,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oh when the sun,<br/>shall become dark,<br/>oh when the sun,<br/>shall become dark,</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Oh when the earth,<br/>turns into fire,<br/>oh when the earth,<br/>turns into fire,</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Oh when the earth,<br/>turns into fire,<br/>oh when the earth<br/>turns into fire,</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Oh when the Lord <br/>calls out the names,<br/>oh when the Lord <br/>calls out the names,</lines>
+    </verse>
+  </lyrics>
+</song>

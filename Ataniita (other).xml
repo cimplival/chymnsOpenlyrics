@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:34">
+  <properties>
+    <titles>
+      <title>Ataniita</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ataniita nami nitamwitikia, <br/>nitamwokoa, <br/>na kumtukuza. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nitakuwa naye taabuni, <br/>nitamwokoa na kumtukuza.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa siku nyingi nitamshibisha,<br/>Nami nitamwonyesha <br/>wokovu wangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwa kuwa amekaza kunipenda,<br/>nitamwokoa; na kumweka <br/>mahali palipo juu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwa kuwa amenijua jina langu, <br/>ataniita nami nitamwitikia.</lines>
+    </verse>
+  </lyrics>
+</song>

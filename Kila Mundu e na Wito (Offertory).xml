@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:01">
+  <properties>
+    <titles>
+      <title>Kila Mundu e na Wito</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kila mundu e na wito <br/>kila mundu e na wito.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Wake wa mwanya kuthukuma <br/>Ngai wa matuni,<br/>wake wa mwanya kuthukuma <br/>Ngai wa matuni<br/>kielelo kitu ni kuvoya <br/>Ngai atutethye<br/>kielelo kitu ni kuvoya <br/>Ngai atutethye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Naitu syana twina wito <br/>kila mundu e na wito.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nenyu asyai mwina wito<br/>kila mundu e na wito.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Atumia mwina wito<br/>kila mundu e na wito.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ona iveti syina wito<br/>kila mundu e na wito.</lines>
+    </verse>
+  </lyrics>
+</song>

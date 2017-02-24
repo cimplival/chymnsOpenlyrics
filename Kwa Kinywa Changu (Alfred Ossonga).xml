@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:07">
+  <properties>
+    <titles>
+      <title>Kwa Kinywa Changu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Alfred Ossonga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kwa kinywa changu <br/>nitaziimba sifa zako<br/>ulimi wangu utanena <br/>siku zote.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oh Lord and my savior, <br/>I will sing for you. x2<br/>Mwili wangu utaja <br/>na furaha mbele zako,<br/>moyo wangu utatoa <br/>shukurani kwako Baba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mikono yangu napeperusha <br/>juu hewani<br/>nashangilia napigapiga <br/>hata makofi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miguu yangu narusharusha <br/>pande zote<br/>naenda mbio nifike <br/>kule uliko nitubu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwa macho yangu <br/>nitakuona Mungu wangu<br/>kwa mawazo yangu <br/>nitakuwaza daima.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kwa masikio yangu <br/>nitakusikiliza<br/>uniitapo nitakuitika <br/>milele yote.</lines>
+    </verse>
+  </lyrics>
+</song>

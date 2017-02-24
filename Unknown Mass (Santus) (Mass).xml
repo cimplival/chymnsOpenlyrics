@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:19">
+  <properties>
+    <titles>
+      <title>Unknown Mass (Santus)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy holy holy,<br/>holy holy holy.<br/>The angels are singing<br/>hosanna in the highest.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hosanna in the highest,<br/>hosanna in the highest.<br/>The angels are singing<br/>hosanna in the highest. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blessed is he,<br/>who comes in the <br/>Lord's name.<br/>The angels are<br/>hosanna in the highest.</lines>
+    </verse>
+  </lyrics>
+</song>

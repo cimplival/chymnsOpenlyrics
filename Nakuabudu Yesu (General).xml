@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:25">
+  <properties>
+    <titles>
+      <title>Nakuabudu Yesu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>General</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nakuabudu Yesu <br/>katika hostya,<br/>U Mungu kweli <br/>na mwanadamu katika<br/>sacramenti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nakuabudu,<br/>Nakuabudu fudifudi,<br/>ee mfalme mtukufu<br/>wa milele.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ee Yesu,<br/>kwa mapendo unakka kwetu,<br/>u mgeni  wetu toka mbinguni<br/>twakuja kuabudu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baraka yako, Yesu, <br/>utupatie,<br/>tukinge na maovu <br/>ya leo,<br/>tuishi kwa amani.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Uwabariki pia wapenzi wetu,<br/>uwajalie neema yako,<br/>watoe shukrani kuu.</lines>
+    </verse>
+  </lyrics>
+</song>

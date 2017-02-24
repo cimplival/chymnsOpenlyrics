@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:10">
+  <properties>
+    <titles>
+      <title>The Mystery of Faith (Option A)</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Prayer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We proclaim your faith<br/>O Lord,<br/>and profess your resurrection<br/>until you come again.</lines>
+    </verse>
+  </lyrics>
+</song>

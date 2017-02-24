@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:00">
+  <properties>
+    <titles>
+      <title>Bwana Unaweza</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2</verseOrder>
+    <authors>
+      <author>St. Cecilia Arusha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Vipofu, viziwi, <br/>na wakoma wakapona <br/>Makahaba wakaepuka <br/>kifo cha mawe. <br/>Wenye harusi wakajaliwa divai <br/>Lazaro akafufuka siku ya tatu. <br/>Nimekuita kwa hofu <br/>siku nyingi sana.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nimekulilia ili nisaidike <br/>Unaweza unaweza Bwana, <br/>Unaweza unaweza sana <br/>Nitazame nitazame upya, <br/>Nitazame kwa huruma yako.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dhambi zangu <br/>zimegeuka mzigo kwangu. <br/>Zinanizuia kuona hurumayo <br/>unaweza unaweza Bwana </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lakini niende wapi zaidi ya kwako <br/>tena wewe una huruma ya milele <br/>unaweza unaweza Bwana. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nimekulilia siku nyingi nimeomba <br/>shida zangu zinazidi kunilemea <br/>unaweza unaweza Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:14">
+  <properties>
+    <titles>
+      <title>Ee Bwana Ulimwengu Wote (John Mgandu)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>John Mgandu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana ulimwengu wote<br/>u katika uweza wako.<br/>(Wala hakuna awezaye kukupinga<br/>wala hakuna awezaye <br/>kukupinga ukipenda) x2.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wewe umeumba vyote <br/>mbingu na nchi.<br/>Na vitu vyote vya ajabu <br/>vilivyomo chini ya mbinguni<br/>ndiwe Bwana <br/>Bwana wa vyote.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa kuwa Bwana ni mkuu,<br/>mwenye kusifiwa sana <br/>na wa kuhofiwa kuliko miungu.<br/>Maana miungu ya watu si kitu<br/>lakini Bwana ndiye <br/>aliyezifanya Mbingu.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:17">
+  <properties>
+    <titles>
+      <title>Twakushukuru U Mwema</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Twakushukuru,<br/>u mwema sana<br/>Yesu asante.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kwa kutulisha sisi -<br/>Yesu asante.<br/>Kwa kutunywesha sisi -<br/>Yesu asante.<br/>Kajiunga nasi - <br/>Yesu asante.<br/>Kwa kutuunganisha -<br/>Yesu asante.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa mwili wako bora -<br/>Yesu asante.<br/>Kwa damu yako bora -<br/>Yesu asante.<br/>Kwa kuja ndani yangu -<br/>Yesu asante.<br/>Kwa kukaa na sisi -<br/>Yesu asante.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kwa mafundisho yako -<br/>Yesu asante.<br/>Kwa mfano wako Bora -<br/>Yesu asante.<br/>Kwa msalaba wako -<br/>Yesu asante.<br/>Kwa ufufuko wako -<br/>Yesu asante.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kwa sakramenti zako - <br/>Yesu asante.<br/>Kwa uchungaji wako -<br/>Yesu asante.<br/>Kwa maombezi yako -<br/>Yesu asante.<br/>Kwa ukombozi wako -<br/>Yesu asante.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kwa kujifanya mtu - <br/>Yesu asante.<br/>Kwa kutupenda sisi - <br/>Yesu asante.<br/>Kwa kutuvuta kwako -<br/>Yesu asante.<br/>Kwa mema yako yote -<br/>Yesu asante.</lines>
+    </verse>
+  </lyrics>
+</song>

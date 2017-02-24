@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:20">
+  <properties>
+    <titles>
+      <title>Utukufu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 v7</verseOrder>
+    <authors>
+      <author>Utukufu [Kariobangi]</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Utukufu juu kwa Mungu<br/>utukufu juu mbinguni<br/>na amani kote duniani, kwa<br/>wenye  mapenzi mema</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tunakusifu tunakuheshimu<br/>tunakuabudu tunakutukuza<br/>twakushukuru kwa ajili<br/>ya utukufu wako mkuu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ewe Mungu, ndiwe mfalme<br/>wa mbinguni Baba Mwenyezi<br/>ewe Bwana Yesu Kristu, wa pekee<br/>Mwana wa Baba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ewe Yesu, Mwana Kondoo, wa Mungu<br/>Mwana wa Baba, ewe Mwenye kuziondoa<br/>dhambi zetu, tuhurumie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ewe Mwenye kuziondoa za dunia<br/>dhambi za watu, ewe mwenye<br/>rehema nyingi, upokee maombi yetu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Uketiye kuume kwake, Mungu Baba<br/>tuhurumie, kwa kuwa ndiwe uliye<br/>peke yako Mtakatifu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Peke yako ni wewe Bwana,<br/>peke yako Bwana Mkuu,<br/>peke yako ni Mkombozi<br/>peke yako Yesu Kristu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Naye Roho Mtakatifu, katika <br/>utukufu wake, Mungu mmoja<br/>anayeishi na kutawala milele yote.</lines>
+    </verse>
+  </lyrics>
+</song>

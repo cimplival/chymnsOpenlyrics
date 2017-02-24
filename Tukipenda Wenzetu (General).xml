@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:14">
+  <properties>
+    <titles>
+      <title>Tukipenda Wenzetu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>General</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tukipenda wenzetu, <br/>kati yetu Mungu yupo.<br/>Tukipenda wenzetu, <br/>kati yetu Mungu yupo.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Aliyetufanya tuwe ndugu <br/>ndiye Yesu Ndugu yetu,<br/>audhiye mmoja wao, <br/>mapendoye si ya kweli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tukimpenda Mungu wetu, <br/>tuwaze na nduguze.<br/>Amri yake ni nyepesi, <br/>neno lake kupendana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kati ya ugomvi na fitina, <br/>na katika kisirani.<br/>Chuki yote na hasira, <br/>kati yetu ziondoe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yesu Kiongozi wetu, <br/>kweli nenole twalijua.<br/>Jaza nyoyo za Wakristu <br/>wapendane siku zote.</lines>
+    </verse>
+  </lyrics>
+</song>

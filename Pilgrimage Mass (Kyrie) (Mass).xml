@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:48">
+  <properties>
+    <titles>
+      <title>Pilgrimage Mass (Kyrie)</title>
+    </titles>
+    <verseOrder>i1 i2 i3</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>Lord have mercy, x2<br/>Lord have mercy, x2<br/>Lord have mercy on us.</lines>
+    </verse>
+    <verse name="i2">
+      <lines>Christ have mercy, x2<br/>Christ have mercy, x2<br/>Christ have mercy on us.</lines>
+    </verse>
+    <verse name="i3">
+      <lines>Lord have mercy, x2<br/>Lord have mercy, x2<br/>Lord have mercy on us.</lines>
+    </verse>
+  </lyrics>
+</song>

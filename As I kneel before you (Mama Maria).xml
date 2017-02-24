@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:31">
+  <properties>
+    <titles>
+      <title>As I kneel before you</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Mama Maria</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As I kneel before you,<br/>as I bow my head <br/>in prayer,<br/>take this day, <br/>make it yours<br/>and fill me with your love.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ave Maria, <br/>gratia plena,<br/>dominus tecum,<br/>benedicta tu. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All I have I give you,<br/>every dream and <br/>wish are yours,<br/>Mother of Christ,<br/>Mother of mine, <br/>present them to my Lord.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>As I kneel before you,<br/>and I see your smiling face,<br/>ev'ry thought, ev'ry word<br/>is lost in your embrace.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:42">
+  <properties>
+    <titles>
+      <title>Oh God Our Creator</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Oh God our creator, <br/>we bow before <br/>you in homage <br/>and songs of praise <br/>presenting our <br/>offerings to you. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>We are presenting to <br/>you bread and wine,<br/>receive our gifts and <br/>make them sacred.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Take our hearts almighty <br/>God transform us,<br/>that God we may <br/>offer sacred gift.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>May our souls be pure <br/>oh God and holy,<br/>may all our sacrifice<br/>be sacred.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>We present the gift <br/>of food and money,<br/>oh God bless the <br/>works of all our hand.</lines>
+    </verse>
+  </lyrics>
+</song>

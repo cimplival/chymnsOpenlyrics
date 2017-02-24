@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:47">
+  <properties>
+    <titles>
+      <title>Peace Is Flowing Like a River (English Choir)</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Peace is flowing like a river,<br/>flowing out through you and me, <br/>spreading out into the desert, <br/>setting all the captives free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Love is flowing like a river,<br/>flowing out through you and me, <br/>spreading out into the desert, <br/>setting all the captives free.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Joy is flowing like a river,<br/>flowing out through you and me, <br/>spreading out into the desert, <br/>setting all the captives free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Faith is flowing like a river,<br/>flowing out through you and me, <br/>spreading out into the desert, <br/>setting all the captives free.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hope is flowing  like a river,<br/>flowing out through you and me, <br/>spreading out into the desert, <br/>setting all the captives free.</lines>
+    </verse>
+  </lyrics>
+</song>

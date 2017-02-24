@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:05">
+  <properties>
+    <titles>
+      <title>Kristu Yeye Yule</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>St. Paul Students' Choir (University of Nairobi)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Kristu yeye yule leo na milele,<br/>huyu Yesu yeye ndiye <br/>Alfa na Omega Kristu. x2<br/>(Ni mwanzo wa (nyakati)<br/>Ni mwisho wa (nyakati)<br/>Jana leo (na kesho) <br/>Alfa pia (Omega)<br/>Tawala. x3 <br/>Kristu tawala mioyo yetu). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Wewe ndiwe kitulizo <br/>cha maisha yetu, Kristu<br/>wewe ndiwe mkate wetu <br/>wa kila siku, Kristu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ukombozi umetupa <br/>kwa kunyenyekea, Kristu,<br/>tutakupa nini kama <br/>fidia ya kweli Kristu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ugumu wa ulimwengu <br/>wanipa vikwazo, Kristu<br/>natamani kufanana <br/>na rafiki zangu, Kristu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nijalie maisha mema <br/>yenye baraka, Kristu<br/>nipate ninayopenda <br/>kwa mapenzi yako, Kristu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nijalie moyo wa <br/>kutopenda tamaa, Kristu.<br/>Nitosheke na yote <br/>utayonipa mimi, Kristu.</lines>
+    </verse>
+  </lyrics>
+</song>

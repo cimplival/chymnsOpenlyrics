@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:47">
+  <properties>
+    <titles>
+      <title>Para Chieng</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Para chieng ki duogo Yesu<br/>para kibiro epiny<br/>para mondo adonjie piny <br/>polomalo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ka Yesu ne o gurgi <br/>jo kuo ariyo<br/>jakuo moro ne yanye <br/>to moro ne ywage.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>To jal machielo cha, <br/>ne ok odewe e<br/>ne pok olokore, <br/>ne otho gi richone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jaduong' Nicodemus, <br/>gi Joseph Arimathea<br/>ne gi kawo Ringre Ruoth, <br/>ma gi keto ebur maber.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Adwaro in iwuon, <br/>mondo ilokri<br/>to in kilokori, <br/>in ibed gi Yesu Ruoth.</lines>
+    </verse>
+  </lyrics>
+</song>

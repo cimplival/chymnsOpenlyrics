@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:14">
+  <properties>
+    <titles>
+      <title>Ee Bwana Unikumbuke</title>
+      <title>Ee Mwana wa Mungu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>John Mgandu</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Mwana wa Mungu <br/>unifanye leo nishiriki<br/>kwenye karamu yako <br/>karamu ya kiroho. x2<br/>(Sitaifunua siri kwa adui zako<br/>Wala mimi sitakupa busu <br/>kama lile la Yuda). x2<br/>Bali kama yule mwizi<br/>Ninakuomba ee Bwana unikumbuke <br/>mimi katika ufalme wako.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ninakuabudu Bwana kifulifuli,<br/>enzini uliyefichika Mungu uliye hai.<br/>Ulipo kweli chini ya maumbo haya,<br/>Ya mkate pia divai ninajinyenyekeza<br/>karibu kwangu Bwana <br/>njoo ukae nami.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Huu ni mwili na damu kweli ni hakika<br/>nikiona nigusa tena nikionja.<br/>Ni Yesu mwenyewe mimi pia ninasadiki<br/>aliyejitoa kwa ajili ya ulimwengu<br/>fumbo hili ni la kweli imani inaelewa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kila ninapopokea komunyo takatifu<br/>ninarudishiwa nguvu mpya bila shaka.<br/>Ekaristi huimarisha mapendo moyoni<br/>yadumisha amani furaha iliyopotea<br/>hii hakika ni dawa safi ya roho.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:20">
+  <properties>
+    <titles>
+      <title>Aleluya Aleluya Aleluya</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Moyo Safi (Unga Ltd)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Aleluya aleluya, aleluya. x2<br/>(Aleluya aleluya, <br/>aleluya aleluya. Aleluya <br/>aleluya, aleluya). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mungu nirehemu mimi, <br/>nirehemu, sawasawa na <br/>fadhili zako Bwana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa rehema zako Bwana, <br/>uyafute makosa yangu <br/>ee Bwana nitakate.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nioshe kabisa Bwana, <br/>na uovu, nitakase dhambi <br/>zangu Bwana wangu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nakiri makosa yangu,<br/> Bwana wangu, <br/>nimekukosea wewe <br/>Bwana wangu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Niumbie moyo safi, <br/>moyo safi, usinitupe <br/>ee Bwana mbali nawe.</lines>
+    </verse>
+  </lyrics>
+</song>

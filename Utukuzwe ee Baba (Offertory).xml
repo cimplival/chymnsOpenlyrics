@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:20">
+  <properties>
+    <titles>
+      <title>Utukuzwe ee Baba</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Utukuzwe ee Baba <br/>Mungu wa ulimwengu<br/>maana kwa wema wako <br/>sisi twakutolea<br/>[vipaji vyetu hivi, mkate na divai<br/>ni mazao ya nchi <br/>na kazi zetu] x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Pokea zawadi tunaleta<br/>ni shukrani kwako Bwana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pokea mazao ya mashamba<br/>ni kazi ya wanadamu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Twakutolea nyoyo zetu<br/>zitakase ee Bwana Mungu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vitu vyote Bwana mali yako<br/>twakuomba Bwana pokea.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na sisi sote ni mali yako<br/>tunajitolea kwako Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

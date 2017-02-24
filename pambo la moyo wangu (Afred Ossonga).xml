@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:46">
+  <properties>
+    <titles>
+      <title>pambo la moyo wangu</title>
+    </titles>
+    <authors>
+      <author type="words">Afred Ossonga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Nimezunguka sana dunia hii,<br/>kulitafuta pambo hili.<br/>Pambo la moyo wangu nimelipata<br/>Nimepata mke mwema.<br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Iyelele iyelele vigelegele makofi (piga) makofi.<br/>Ni raha tu, ni raha tu, pambo nimelipata.<br/>Iyelele, iyelele vigelegele midundo (cheza) midundo.<br/>mchaka mchaka mchaka mchaka, pambo la moyo wangu.<br/></lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Karibuni wapenzi tufurahie,<br/>tule tunywe tucheze ni furaha.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ninakuacha baba nawe mama ,naambatana naye mke wangu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Leo yametimia maandiko,<br/>yale yalionenwa aleluya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Njooni tuserebuke kwa midundo,<br/>tule tunywe tucheze ni furaha.</lines>
+    </verse>
+  </lyrics>
+</song>

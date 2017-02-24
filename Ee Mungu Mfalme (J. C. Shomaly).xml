@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:17">
+  <properties>
+    <titles>
+      <title>Ee Mungu Mfalme</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Mungu mfalme <br/>Bwana mimi nitakutukuza, <br/>nitalihimidi jina lako Bwana. x2 <br/>(Kila siku nitakuhimidi <br/>ewe Mungu wangu <br/>nitalitukuza jina lako milele. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana ana fadhili, <br/>ni mwingi wa rehema, <br/>si mwepesi wa hasira <br/>ni mwingi wa rehema. <br/>Na rehema zake <br/>ni kwa viumbe vyote. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Viumbe vyote vyako <br/>Mungu vitakusujudu. <br/>Na wacha Mungu <br/>wako watakuhidi. <br/>Wataunena utukufu wako <br/>na kuhadithia uweza wako.</lines>
+    </verse>
+  </lyrics>
+</song>

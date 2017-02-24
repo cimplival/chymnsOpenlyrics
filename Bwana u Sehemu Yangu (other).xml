@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:59">
+  <properties>
+    <titles>
+      <title>Bwana u Sehemu Yangu</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana u sehemu yangu, <br/>rafiki yangu, wewe.<br/>Katika safari yangu, <br/>tatembea na wewe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pamoja na wewe, <br/>pamoja na wewe.<br/>Katika safari yangu, <br/>tatembea na wewe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mali hapa sikutaka, <br/>ili niheshimiwe.<br/>Na yanikute mashaka, <br/>sawasawa na wewe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pamoja na wewe, <br/>pamoja na wewe.<br/>Heri nikute mashaka <br/>sawasawa na wewe.<br/>Niongoze safarini <br/>mbele unichukue.</lines>
+    </verse>
+  </lyrics>
+</song>

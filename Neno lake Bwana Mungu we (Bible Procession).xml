@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:28">
+  <properties>
+    <titles>
+      <title>Neno lake Bwana Mungu we</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Bible Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Neno lake Bwana Mungu we,<br/>silaha ya mapambano eh eh, <br/>mapambano,<br/>silaha ya mapambano <br/>dhidi ya ibilisi,<br/>hayo ndiyo mapambano, <br/>dhidi ya uovu. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yesu ameshinda, <br/>Yesu ameshinda,<br/>Mtawala. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neno lake Bwana Mungu we,<br/>linashinda mapambano eh eh, <br/>mapambano,<br/>linashinda mapambano <br/>dhidi ya ibilisi,<br/>hayo ndiyo mapambano, <br/>dhidi ya uovu. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Neno lake Bwana Mungu we,<br/>linapenya mapambano eh eh, <br/>mapambano,<br/>linapenya mapambano <br/>dhidi ya ibilisi,<br/>hayo ndiyo mapambano, <br/>dhidi ya uovu. x2</lines>
+    </verse>
+  </lyrics>
+</song>

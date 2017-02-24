@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:27">
+  <properties>
+    <titles>
+      <title>Amkeni wote</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Offertory</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Amkeni wote tupeleke<br/> kwake Bwana.<br/>Amkeni wote tupelele <br/>zawadi kwa Bwana. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sasa ni wakati wa kutoa <br/>zawadi chochote <br/>ulicho nacho <br/>kakitoe kwa Bwana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mungu Baba Mwenyezi <br/>yeye amekulinda <br/>chochote ulicho nacho <br/>kakitoe kwa Bwana. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baba Mama simama simama<br/>kwa furaha chochote <br/>ulicho nacho <br/>kakitoe kwa Bwana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ndugu yangu fikiri <br/>ni wagonjwa wangapi <br/>walobaki nyumbani <br/>kwa matatizo ya afya.</lines>
+    </verse>
+  </lyrics>
+</song>

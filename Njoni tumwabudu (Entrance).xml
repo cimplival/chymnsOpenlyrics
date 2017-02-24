@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:34">
+  <properties>
+    <titles>
+      <title>Njoni tumwabudu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>Entrance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Njoni tumwabudu, <br/>tumsujudie Muumba) x2<br/>Tukusanyike katika <br/>nyumba yake Baba<br/>tumfanyie shangwe <br/>mwamba wa wokovu wetu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(Njoni njoni nyote <br/>(njoni) tumwimbie <br/>(njoni) kwa furaha <br/>(njoni) tumwabudu). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Njoni tumwabudu tumsujudie, <br/>tumfanyie shangwe <br/>njoni tumwabudu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tujongee uso wake <br/>kwa masifu tumfanyie <br/>shangwe njoni tumwabudu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tumshanglie kwa nyimbo <br/>za shangwe tumfanyie <br/>shangwe njoni tumwabudu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwana Mungu mkuu <br/>na mfalme mkuu <br/>tumfanyie shangwe <br/>njoni tumwabudu.</lines>
+    </verse>
+  </lyrics>
+</song>

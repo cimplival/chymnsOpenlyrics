@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:28">
+  <properties>
+    <titles>
+      <title>Anakuja Masiya</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Advent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Anakuja masiya,<br/>anakuja anakuja<br/>anakuja kwetu,<br/>anakuja masiya<br/>Bwana mfalme,<br/>kutuokoa.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Itengenezeni njia yake <br/>yatayarisheni mapito yake,<br/> anakuja masiya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mabonde yote na yafukiwe,<br/>na vilima vyote visambazwe,<br/>anakuja masiya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mioyo yote na itakaswe, <br/>watu wote na wawe tayari,<br/>anakuja masiya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dunia itaona salama, <br/>watu watakuwa na amani,<br/>anakuja masiya.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Watu watauona wokovu, <br/>wokovu utokao kwa Bwana,<br/>anakuja masiya.</lines>
+    </verse>
+  </lyrics>
+</song>

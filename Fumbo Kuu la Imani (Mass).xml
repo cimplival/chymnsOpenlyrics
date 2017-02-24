@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:27">
+  <properties>
+    <titles>
+      <title>Fumbo Kuu la Imani</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fumbo kuu la imani,<br/>fumbo kuu la imani <br/>milele twaamini. <br/>Yakuwa.<br/>Yesu ni mwana wa Mungu.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:52">
+  <properties>
+    <titles>
+      <title>Bwana Mungu Amepaa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bwana Mungu amepaa <br/>kwa kelele za shagwe<br/>(Bwana kwa sauti <br/>ya baragumu Aleluya). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Enyi watu wote pigeni makofi, <br/>mpigieni Mungu kelele <br/>kwa sauti ya shangwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa kuwa Bwana aliye juu, <br/>ni mwenye kuogofya ndiye <br/>Mfalme wa dunia yote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwimbieni Mungu naam imbeni, <br/>muimbieni Mfalme wetu naam <br/>imbeni kwa akili.</lines>
+    </verse>
+  </lyrics>
+</song>

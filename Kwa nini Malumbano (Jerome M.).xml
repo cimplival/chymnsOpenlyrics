@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:07">
+  <properties>
+    <titles>
+      <title>Kwa nini Malumbano</title>
+    </titles>
+    <verseOrder>c1 c2 c3 c4 c5 v1 c1 c2 c3 c4 c5 v2 c1 c2 c3 c4 c5</verseOrder>
+    <authors>
+      <author>Jerome M.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mbona watu wa mataifa <br/>wanafanya ghasia (ghasia)<br/>na kuivuruga amani <br/>kati ya mataifa. x2 </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Kwa nini vita <br/>na malumbano viwepo,<br/>amani imetoweka, <br/>kwa nini viwepo viwepo,<br/>kwa nini vita kwa nini <br/>vita viwepo kati yetu.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Kwa nini vita na malumbano <br/>viwepo kati yetu,<br/>sisi tulio kitu kimoja kwa nini <br/>vita viwepo kati yetu.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Kwa nini vita <br/>na malumbano viwepo<br/>kati yetu kwa nini vita <br/>viwepo kati yetu.</lines>
+    </verse>
+    <verse name="c5">
+      <lines>Kwa nini vita na malumbano <br/>vita viwepo kati yetu,<br/>sisi tulio kweli watoto <br/>wake Baba mmoja.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Babu na bibi hawaelewani,<br/>Baba na mama, <br/>kaka na dada wamefarakana,<br/>wamemsahau Mungu Baba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bila huruma, <br/>wengi wanaua<br/>watoto wasio na hatia, <br/>mbona wanatupwa,<br/>sasa hukumu i juu yenu.</lines>
+    </verse>
+  </lyrics>
+</song>

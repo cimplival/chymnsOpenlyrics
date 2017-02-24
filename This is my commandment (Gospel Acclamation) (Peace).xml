@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:11">
+  <properties>
+    <titles>
+      <title>This is my commandment (Gospel Acclamation)</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Allelluya, Allelluya, <br/>this is my commandment,<br/>that you love one another,<br/>that your joy may be full,<br/>Allelluya, Allelluya, Allell-uya.</lines>
+    </verse>
+  </lyrics>
+</song>

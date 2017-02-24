@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:37">
+  <properties>
+    <titles>
+      <title>Hiki ni Chakula kwa Wote</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Communion</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hiki ni chakula <br/>kwa wote wampendao<br/>mkate na divai <br/>ni chakula cha Roho.<br/>Wanyofu wa moyo <br/>twendeni tukampokee<br/>tupate uzima <br/>wa milele na milele.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Bwana Yesu alhamisi kuu kajitolea,<br/>Mwili na damu yake ziwe kiburudisho<br/>Akatuamuru tukipenda kumkumbuka,<br/>Mwili na damu ni ishara ya penzi lake. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alaye mwili na kunywa <br/>damu asema Bwana,<br/>Aishi ndani yangu na mimi ndani yake<br/>Yeye ni rafiki yangu na nitamfufua,<br/>Nitaandamana naye safarini mwake .</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Alaye mwili wa Yesu na kuinywa damu,<br/>Bila stahili ana hukumu ya milele<br/>Tujitakase kabla ya kula karamuyo,<br/>Kitubio ni sakramenti ya mapatano.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ee Yesu nipe neema ya kukupokea,<br/>Unipe nguvu ya kuweza kujitakasa<br/>Unijalie kukupenda na moyo wote,<br/>Mwishowe nishiriki karamu <br/>ya Mbinguni.</lines>
+    </verse>
+  </lyrics>
+</song>

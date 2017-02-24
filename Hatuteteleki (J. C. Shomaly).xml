@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:33">
+  <properties>
+    <titles>
+      <title>Hatuteteleki</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Hatuteteleki na wala hatubabaishwi,<br/>Mioyoni mwetu hakuna cha kutusuasua<br/>Kwa kuwa tunaye mwenyezi <br/>Mungu mwenye haki). x2</lines>
+    </verse>
+    <verse name="c2">
+      <lines>(Ukiwa na imani na Mungu –<br/>Hautaaibishwa, hautatishwatishwa,<br/>hautadhamiria dhambi<br/>Kama ni maisha ya dunia -<br/>utakula na kunywa, utavaa vizuri,<br/>utapata hata na watoto,<br/>tena wenye tabia njema <br/>na elimu bora). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ndani yake yeye ni utamu, <br/>shida haijui watu wake,<br/>kweli Mungu ni mwema. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Afya njema aliumba yeye, <br/>utajiri aujua yeye,<br/>kweli Mungu ni mwema. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wa dunia wakikusimanga, <br/>Mungu atafanya unenepe<br/>kweli Mungu ni mwema.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kazi zako watakupangia, <br/>hata sio kwa idhini yako<br/>Mungu awasamehe.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:20">
+  <properties>
+    <titles>
+      <title>Endai Inywothe</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 e1</verseOrder>
+    <authors>
+      <author>Bible Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Endai inywonthe ningumutuma<br/>mukaete malondu ala maite.<br/>Endai inywonthe ningumutuma, <br/>endai, endai<br/>mukaete malondu ala maite iii iii<br/>kanisani ya Ngai Asa.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Nyie nietete meana, nyie, nyie,<br/>kanisani ya Ngai Asa<br/>we uetete meana, we, we,<br/>kanisani ya Ngai Asa<br/>inywi muetete meana, <br/>inywi, inywi,<br/>kanisani ya Ngai Asa *2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yesu ameie atume make<br/>endai kila vandu iulu wa nthi<br/>mukatavanye ndeto ya Ngai<br/>kwa mbai syonthe <br/>iulu wa nthi. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Neenyu aklisto ningumutuma<br/>mukaete malondu ala maite<br/>na mwamona muimaete <br/>kanisani ya Ngai Asa.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Kamba: Enendeni Nyote Nawatuma.</lines>
+    </verse>
+  </lyrics>
+</song>

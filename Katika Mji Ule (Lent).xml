@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:59">
+  <properties>
+    <titles>
+      <title>Katika Mji Ule</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Lent</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Katika mji mwema <br/>mbinguni kwa Mungu<br/>ndiko ahadi zetu ziendako. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mji wangu <br/>wa huko mbinguni juu,<br/>nikiuona ninautamani.<br/>furaha ya dhambi yanitia giza,<br/>nitauona lini mji mwema. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ninatamani sana <br/>kwenda mji huo. x2<br/>Ambako nitaishi bila shida. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwokozi wetu Yesu <br/>naye asikia. x2<br/>Yale maombi yetu <br/>tuombayo. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Usikose kuomba Yesu,<br/>asikia. x2<br/>Naye atatufikisha, <br/>mbinguni. x2</lines>
+    </verse>
+  </lyrics>
+</song>

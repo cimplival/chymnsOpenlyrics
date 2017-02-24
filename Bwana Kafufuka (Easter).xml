@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:50">
+  <properties>
+    <titles>
+      <title>Bwana Kafufuka</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Easter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>(Bwana kafufuka tuimbe) <br/>Bwana kafufuka tuimbe <br/>Aleluya. x2 <br/>Utukufu na ukuu unayeye <br/>hata milele na milele. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Yeye aliyebeba dhambi <br/>zetu kafufuka, <br/>na tuimbe aleluya aleyuya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yeye aliyetufia mtini kafufuka, <br/>na tuimbe aleluya aleyuya.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yeye ndiye Pasaka yetu <br/>sisi kafufuka, <br/>na tuimbe aleluya aleyuya.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Yeye aliye nuru yetu sisi kafufuka, <br/>na tuimbe aleluya aleyuya.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:05">
+  <properties>
+    <titles>
+      <title>Chiegni Duogo</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1 e1 e2 e3</verseOrder>
+    <authors>
+      <author>other</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chiegni duogo ero kamano <br/>jayalo Yesu chiegni. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ero kamano jayalo Yesu <br/>chiegni duogo. x2<br/>Kong’o wamadho waweyo <br/>Yesu chiegni.<br/>Chiegni Chiegni, duogo duogo<br/>ero kamano jayalo Yesu <br/>chiegni duogo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miel wamielo waweyo <br/>Yesu chiegni. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bayo wabayo waduogo <br/>Yesu chiegni. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nyiri wachodo waweyo <br/>Yesu chiegni. x2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Juok wairo waweyo <br/>Yesu chiegni. x2</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kuo wkwelo waweyo <br/>Yesu chiegni. x2</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Wanthuolo wanyalolemo<br/>Wanthuolo wanyalolemoni <br/>wanthuolo.</lines>
+    </verse>
+    <verse name="e2">
+      <lines>Kasunga turi -<br/>Wanthuolo wanyalolemoni <br/>wanthuolo.<br/>Karicho turi -<br/>Wanthuolo wanyalolemoni <br/>wanthuolo.</lines>
+    </verse>
+    <verse name="e3">
+      <lines>Kakuo chandi -<br/>Wanthuolo wanyalolemoni <br/>wanthuolo.<br/>Kanyuola lawi -<br/>Wanthuolo wanyalolemoni <br/>wanthuolo.</lines>
+    </verse>
+  </lyrics>
+</song>

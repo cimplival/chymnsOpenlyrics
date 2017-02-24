@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:28">
+  <properties>
+    <titles>
+      <title>Amri Mpya Nawapa</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>St. Cecilia Arusha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Amri mpya nawapa mpendane, <br/>kama vile nilivyowapenda ninyi<br/>Kama vile nilivyowapenda ninyi <br/>asema Bwana. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mimi niendako ninyi <br/>hamuwezi kuja.<br/>Mimi niendako ninyi <br/>hamuwezi kuja.<br/>Kadhalika sasa ninawaambia <br/>ninyi asema Bwana.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hivyo watu wote <br/>watatambua ya kuwa.<br/>Ninyi mmekuwa <br/>wanafunzi wangu<br/>mkiwa na upendo <br/>ninyi kwa ninyi asema Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

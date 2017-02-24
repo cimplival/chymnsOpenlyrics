@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:29">
+  <properties>
+    <titles>
+      <title>Anga na Mbingu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Easter</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Anga na Mbingu vitangaze haya, <br/>Dunia yote ishangilie jambo hili.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tazama Kristu amejifufua, <br/>tazama Bwana kashinda mauti.<br/>Bwana Yesu kafufuka,<br/>Ameyashinda mauti watu <br/>wote duniani tuimbe (aleluya),<br/>Tuimbe (kafufuka),<br/> aleluya aleluya Bwana <br/>kafufuka tuimbe aleluya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maria Salome na Magdalena, <br/>walishangazwa kulikuta <br/>kaburi wazi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na malaika akawatokea, <br/>akawaambia, <br/>Bwana Yesu amefufuka.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Katangulia kule Galilaya, <br/>nendeni huko ndiko <br/>mtakakomkuta.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:12">
+  <properties>
+    <titles>
+      <title>Ee Bwana Nitakutukuza</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana nitakutukuza mimi <br/>nitakutukuza Bwana wangu. <br/>(Nitakutukuza Bwana) x2 <br/>kwa maana, <br/>kwa maana umeniinua <br/>wala hukuwafurahisha <br/>adui adui zangu, <br/>(juu yangu) x5. </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Umeniinua nafsi yangu <br/>kutoka kuzimu, <br/>umeniuhuisha na kunitoa <br/>mwao washukao shimoni. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mwimbieni Bwana zaburi <br/>enyi watauwa, <br/>na kufanya shukurani kwake <br/>kumbukumbu la utakatifu. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Usikie Bwana Bwana<br/>wangu na kunirehemu, <br/>pia uwe msaidizi wangu<br/>nitakushukuru Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

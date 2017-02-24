@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:15">
+  <properties>
+    <titles>
+      <title>Ee Bwana Wangu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 c1 c2 v3 c1 c2 v4 c1 c2</verseOrder>
+    <authors>
+      <author>M. Mtinga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ee Bwana wangu na <br/>muumba wangu, <br/>wema wako wanitia <br/>nguvu kuongea nawe. <br/>Ee Mungu wangu <br/>u tumaini langu, <br/>wewe ni mlinzi mwaminifu <br/>wa maisha yangu.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ninajua wazi ya kwamba, <br/>unanipenda upeo Bwana. <br/>Wewe ni mwali mwangavu <br/>wa roho yangu. <br/>Ndiwe tegemeo pekee - <br/>ni kimbilio langu, Bwana, <br/>chanzo cha uzima wangu <br/>na ngome yangu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Kama sio wewe Bwana <br/>kukaa pamoja nami.<br/>Wanadamu waliponishambulia <br/>wangenimaliza. <br/>Ulikuwa ngao yangu, <br/>Mwokozi wa roho yangu. <br/>Sina budi kusema asante <br/>naomba usiniache.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nilipokuita Bwana <br/>uliitika mapema, <br/>katika taabu zangu zote <br/>ulituma jeshi lako. <br/>Umenifanya imara <br/>imani sikuitupa, <br/>na leo tazama niko <br/>hapa kutaja uwezo wako. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ni kweli naona wazi <br/>huruma uliyo nayo, <br/>umenisamehe dhambi <br/>zangu ingawa ni chafu sana.<br/>Umenitoa shimoni <br/>umenifuta machozi, <br/>naomba unipake mafuta <br/>nieneze sifa zako. </lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nitakupa nini Bwana <br/>kama shukrani zako, <br/>kwa ukarimu uliotenda <br/>katika maisha yangu.<br/>Umeniokoa Bwana, <br/>minyororo imekatwa <br/>naomba usinitupe Bwana, <br/>shetani ananiwinda.</lines>
+    </verse>
+  </lyrics>
+</song>

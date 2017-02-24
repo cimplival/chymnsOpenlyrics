@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:34">
+  <properties>
+    <titles>
+      <title>Hazina ya Mvivu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>J. Matthias</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hazina ya Mvivu <br/>ni maneno ya uongo,<br/>furaha ya mvivu <br/>ni kugonganisha watu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Hawezi kulala <br/>kapata usingizi usiku<br/>usiku mzima hukodoa <br/>macho akiwaza<br/>kukipambazuka aende <br/>kwa nani kupiga umbeya.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Asubuhi mapema <br/>huamka na kuvaa nguo,<br/>hajafagia nyumba huyo <br/>huyo kwa jirani kaenda,<br/>hodi jirani jirani naye <br/>karibu tupo unasemaje<br/>atapiga umbea hapo hadi <br/>chakula cha mchana ale.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Akipitapita mitaani <br/>huwa amependeza,<br/>salamu kwa watu utasema <br/>huyu ni mtu mwema<br/>kumbe ni muovu asiye <br/>kuwa na aibu kwa watu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wenzake wanaamka <br/>mapema na kwenda kazini<br/>yeye akiamka huyo <br/>huyo safari kwenye pombe<br/>akishafika huko tazama <br/>anavyolewa wala hawazi<br/>familia yake itakula <br/>nini mchana na usiku.</lines>
+    </verse>
+  </lyrics>
+</song>

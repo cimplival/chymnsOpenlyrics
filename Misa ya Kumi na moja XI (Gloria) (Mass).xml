@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:19">
+  <properties>
+    <titles>
+      <title>Misa ya Kumi na moja XI (Gloria)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Utukufu kwa Mungu <br/>mbinguni <br/>na amani kwa watu wema.<br/>(Tunakusifu-u tunakuheshimu, <br/>twakuabudu, tunakutukuza). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Utukufu kwa Mungu <br/>juu na amani, <br/>kwa watu-u wema <br/>pote duniani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Twakushukuru <br/>mfalme wa mbingu, <br/>Mwana wa pekee wake Baba. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwenye kuondoa <br/>makosa ye-etu, <br/>utuhurumie maombi pokea.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kuume kwa Baba unapoketi, <br/>Mtakatifu mkuu utuhurumie. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pamoja na Roho Mtakatifu, <br/>ndani yake Baba <br/>we unatukuzwa.</lines>
+    </verse>
+  </lyrics>
+</song>

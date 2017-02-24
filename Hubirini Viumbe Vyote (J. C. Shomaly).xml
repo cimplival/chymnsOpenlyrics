@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:42">
+  <properties>
+    <titles>
+      <title>Hubirini Viumbe Vyote</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hubirini viumbe <br/>vyote muishio duniani,<br/>tangazeni wokovu wake <br/>muumba mbingu na nchi.<br/>Kwa kuwa Bwana <br/>katupenda katuumba,<br/>kwa mfano na sura <br/>yake Mungu wetu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hubirini kwa kuimba tena <br/>kwa kusali na kucheza,<br/>tangazeni utukufu wake <br/>aliye mtawala, <br/>semeni kwa shangwe pia <br/>na furaha Bwana ni mtawala<br/>ametukomboa ametubariki<br/>njooni tufurahi naye.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tukuzeni sifa zake <br/>enyi viumbe wa duniani,<br/>wahubiriini mataifa <br/>habari za utukufu.<br/>Kwa kuwa Bwana <br/>katupenda katuumba,<br/>kwa mfano na sura <br/>yake Mungu wetu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na nyimbo nzuri na pia <br/>shangwe asifiwe Mwokozi,<br/>shamra shamra <br/>vigelegele asifiwe Mwokozi.<br/>Kwa kuwa Bwana <br/>katupenda katuumba,<br/>kwa mfano na sura <br/>yake Mungu wetu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vilema bubu na viziwi <br/>wote wapone leo,<br/>matajiri na maskini <br/>wote waungane pamoja,<br/>kwa kuwa Bwana <br/>katupenda katuumba,<br/>kwa mfano na sura <br/>yake Mungu wetu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Watu wote na wasimame <br/>washikane mikono,<br/>watoto nao kwa pamoja <br/>tuwainue juu.<br/>Kwa kuwa Bwana <br/>katupenda katuumba,<br/>kwa mfano na sura <br/>yake Mungu wetu.</lines>
+    </verse>
+  </lyrics>
+</song>

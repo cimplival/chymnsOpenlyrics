@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:56">
+  <properties>
+    <titles>
+      <title>Jua Likichomoza</title>
+    </titles>
+    <verseOrder>c1 c2 c3 v1 c1 c2 c3 v2 c1 c2 c3 v3 c1 c2 c3</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jua likichomoza mji <br/>wote huu na! ta! za! ma.<br/>Naona msafara, msafara,<br/>pilika pilika nyingi kila mtu <br/>ataka ku! pa! ta! riziki.<br/>Inachanganya, inachanganya,<br/>magari na watu katika <br/>mji mzima.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Najiulizauliza Mbinguni <br/>tutakuwa wangapi,<br/>kama hapa tuko hivi dunia <br/>yote tutakuwa wangapi?<br/>(Swali gumu sana)<br/>Lo kweli Mungu wetu <br/>yeye ni mwenye uwezo.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>((Na tena) Gari lako liwe sala, <br/>Njia yako iwe Yesu, <br/>nyumbani kuwe mbinguni.<br/>kwenye makao yake <br/>Mwenyezi Mungu,<br/>sheria kanuni <br/>zake Mungu hutumika<br/>kwa wanaompenda).x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Yeye ni mwenye uwezo -<br/>ukitubu utamwona Mungu.<br/>Tajiri au masikini - <br/>ukitubu utamwona Mungu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yeye hana msafara - <br/>ukitubu utamwona Mungu.<br/>Hata hana askari - <br/>ukitubu utamwona Mungu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mwizi acha kuiba - <br/>ukitubu utamwona Mungu.<br/>Mwenye fitina uache - <br/>ukitubu utamwona Mungu. </lines>
+    </verse>
+  </lyrics>
+</song>

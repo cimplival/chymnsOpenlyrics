@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:16">
+  <properties>
+    <titles>
+      <title>Misa Fadhili (Jina Lako)</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 v7</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Jina Lako Baba litukuzwe<br/>utawale petu milele yote. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Baba yetu mwema <br/>uliye mbinguni,<br/>jina lako Baba litukuzwe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na ufalme wako <br/>uje hapa kwetu,<br/>na mapenzi yako yatimilike </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tupe leo mkate wa kila siku,<br/>tupe leo mkate wa kila siku.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Na utusamehe <br/>makosa yetu,<br/>kama tufanyavyo <br/>kwa ndugu zetu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Situtie Baba kishawishini,<br/>bali maovuni utuopoe.</lines>
+    </verse>
+    <verse name="v6">
+      <lines/>
+    </verse>
+    <verse name="v7">
+      <lines>Ufalme na nguvu <br/>na utukufu,<br/>vyote vyako Baba <br/>hata milele.</lines>
+    </verse>
+  </lyrics>
+</song>

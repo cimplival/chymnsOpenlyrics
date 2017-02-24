@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:24">
+  <properties>
+    <titles>
+      <title>Mystery of faith (When we eat this Bread)</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Holy holy holy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When we eat this Bread,<br/>and drink this cup,<br/>we proclaim your death,<br/>Lord Jesus,<br/>until you come in Glory.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:29">
+  <properties>
+    <titles>
+      <title>Yawa uling'aling'a</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Bible Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Yawa uling'aling'a <br/>uparagang'o injili kalo. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Umetho, uido, <br/>kauparang'o Injili kalo.<br/>Yawa uling'aling'a <br/>uparang'o Injili kalo</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Uchodo, ukwelo kauparo <br/>mana Injili kalo.<br/>Yawa uling'aling'a <br/>uparang'o Injili kalo</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Umetho, uido, <br/>kauparang'o Injili kalo.<br/>Yawa uling'aling'a <br/>uparang'o Injili kalo.</lines>
+    </verse>
+  </lyrics>
+</song>

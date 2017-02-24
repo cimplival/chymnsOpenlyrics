@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:12">
+  <properties>
+    <titles>
+      <title>Tiketi Ya Mbinguni</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5</verseOrder>
+    <authors>
+      <author>Thanksgiving</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hii ni tiketi tiketi <br/>yangu ya Mbinguni we<br/>naanza safari hiyo<br/>Nipishe nipite dunia <br/>hii ni mapito tu –<br/>naanza safari hiyo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Imani na matendo, <br/>(sala) sala na ibada<br/>(takatifu) <br/>Ndiyo ngao yangu hiyo.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mimi sitalala tiketi <br/>yangu nailinda tu<br/>Wala sigeuki kule <br/>aliko mwovu shetani.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Furaha ukarimu mizigo <br/>yangu naibeba tu<br/>Jemedari wangu ni <br/>Bwana Yesu simba wa vita.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nimhofu nani nimwogope <br/>nani mwenye mwili<br/>Safari ni ngumu lakini <br/>Yesu ni dereva we.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Safiri salama katika<br/>meli ya Mbinguni<br/>Nahodha shupavu ni <br/>Bwana Yesu kaza mwendo e.</lines>
+    </verse>
+  </lyrics>
+</song>

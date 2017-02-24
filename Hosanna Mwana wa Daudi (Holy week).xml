@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:40">
+  <properties>
+    <titles>
+      <title>Hosanna Mwana wa Daudi</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Holy week</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hosanna mwana <br/>wa Daudi. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ndiye mbarikiwa yeye<br/>ajaye kwa jina la Bwana,<br/>mfalme wa Israeli.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hosanna, hosanna,<br/>hosanna juu. x2<br/>Mbinguni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tazameni mfalme <br/>anayekuja.<br/>Kwa jina la Bwana, <br/>mpole na mnyenyekevu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mwana wa Daudi<br/>ni mbarikiwa.<br/>Ndiye mweye kuja<br/>kwa jina lake Bwana.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mwana wa Daudi<br/>ashangiliwe.<br/>Na ahimidiwe,<br/>milele na milele.</lines>
+    </verse>
+  </lyrics>
+</song>

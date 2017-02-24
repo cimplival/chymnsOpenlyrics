@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:01">
+  <properties>
+    <titles>
+      <title>Kilio cha Mjane</title>
+    </titles>
+    <verseOrder>c1 c2 v1 c1 c2 v2 v3 c1 c2 v4 v5 c1 c2</verseOrder>
+    <authors>
+      <author>Familia</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ni nani wa kuwasaidia <br/>na kuwajali wajane.<br/>Ni sisi tuliowapenda <br/>walipokuwa na waume zao.<br/>Ni nani wa kuwasaidia <br/>na kuwajali wajane.<br/>Ni sisi tuliowapenda <br/>na sasa tunawadhulumu hao.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tazama leo ni sisi wenyewe <br/>chanzo cha huzuni kwao<br/>Tazama leo ni sisi wenyewe <br/>chanzo cha machozi yao. x2<br/>(Ni nani atakayekisikiliza <br/>kilio cha mjane<br/>ni nani atakayekijali <br/>kilio cha mjane). x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mlishirikiana nao vizuri <br/>walipoifunga ndoa yao.<br/>Tazama bibi harusi <br/>walimkaribisha kwa nderemo.<br/>Nderemo nderemo tushangilie <br/>kaka yetu leo kapata jiko.<br/>Karibu karibu wifi karibu <br/>karibu hapa ni kwako.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maisha mazuri maisha magumu <br/>ilikuwa ni siri ya wawili.<br/>Maisha kufanikiwa hiyo <br/>ni siri ya baba na mama.<br/>Maisha ya ndoa yakitenguka <br/>baba mwenye nyumba akitutoka.<br/>Hatamu tunaishika kuchukua <br/>mali za marehemu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wewe utachukua gari lile, <br/>mashamba yake mimi nitayatunza.<br/>Na nyumba ya marehemu <br/>ataishika na mipaka yetu.<br/>Mama na watoto tunafukuzwa <br/>thamani ya utu wetu haipo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Wengine wanachukua watoto <br/>wa marehemu wakawasomeshe.<br/>Na kumbe ni hila tupu <br/>wanafanyizwa kazi ngumu ngumu.<br/>Kupika na kulea ni kazi yao <br/>kufua nguo hata na kupasi.<br/>Huruma itakujia <br/>ukiwaona wanavyosotesha.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ndugu yangu leo ninakuomba <br/>mimi nawe sasa tubadilike.<br/>Na tuwe kitu kimoja mfano <br/>wa kuigwa na jamii.<br/>Tuonyeshe na kudhamini haki <br/>za wajane hata na kuwajali.<br/>Watoto tuwajengee misingi <br/>bora ya baadaye.</lines>
+    </verse>
+  </lyrics>
+</song>

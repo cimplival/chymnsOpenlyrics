@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:15">
+  <properties>
+    <titles>
+      <title>Misa Centenary (Gloria)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1 v6 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tenor: Utukufu kwa Mungu <br/>juu mbinguni<br/>All: na amani iwe, kwa watu <br/>wenye mapenzi mema <br/>duniani kote.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(Tunakusifu) tunakusifu, <br/>tunakuheshimu, tunakuabudu, <br/>tunakutukuza. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tenor: tunakushuuru Mungu <br/>kwa ajili<br/>All: ya ‘tukufu  wako, <br/>mkuu ee Bwana ni Mungu <br/>ndiwe mfalme wa mbinguni.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tenor: ee Baba mwenyezi, <br/>Bwana Yesu Kristu<br/>All: ee mwana wa pekee, <br/>ee Mungu mwana kondoo <br/>wa Mungu, <br/>mwana wake Baba.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tenor: mwenya kuondoa <br/>dhambi za dunia<br/>All: utuhurumie, <br/>‘tuhurumie maombi yetu <br/>Bwana uyapokee.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tenor: mwenye kuketi <br/>kuume kwa Baba<br/>All: utuhurumie, <br/>kwa kuwa ndiwe pekee <br/>yako ni mtakatifu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tenor: pekee yako Bwana <br/>pekee yako mkuu<br/>All: ewe Yesu Kristu, <br/>pamoja naye Roho <br/>mtakatifu milele yote.</lines>
+    </verse>
+  </lyrics>
+</song>

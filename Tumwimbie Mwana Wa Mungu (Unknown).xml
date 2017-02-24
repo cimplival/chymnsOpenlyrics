@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:15">
+  <properties>
+    <titles>
+      <title>Tumwimbie Mwana Wa Mungu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tumwimbie, tumwimbie<br/>Mwana wa Mungu,<br/>tumwimbie tumwimbie<br/>Mwana wa Mungu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Mwana wa Mungu<br/>amezaliwa mwokozi wetu,<br/>amezaliwa.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana wa mbingu,<br/>amezaliwa Mfalme wa mbingu,<br/>amezaliwa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yesu masiha,<br/>amezaliwa tukamwabudu,<br/>amezaliwa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mtoto mpenzi,<br/>amezaliwa tukamsalimu,<br/>amezaliwa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kwa watu wote,<br/>amezaliwa mleta amani,<br/>amezaliwa.</lines>
+    </verse>
+  </lyrics>
+</song>

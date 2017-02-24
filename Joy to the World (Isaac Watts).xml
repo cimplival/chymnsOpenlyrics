@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:55">
+  <properties>
+    <titles>
+      <title>Joy to the World</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>Isaac Watts</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Joy to the world,<br/> the Lord has come;<br/>Let earth receive her King.<br/>Let every heart, prepare him room;<br/>(And heaven <br/>and nature sing), x2<br/>And heaven, <br/>and heaven and nature sing.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Joy to the world, <br/>the Saviour reigns;<br/>Let men their songs employ.<br/>While fields and floods, <br/>rock hills and plains;<br/>(Repeat the sounding joy), x2<br/>Repeat, <br/>repeat the sounding joy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He rules the world <br/>with truth and grace;<br/>And makes the nations prove,<br/>the glories of his righteousness;<br/>(And wonders of his love), x2<br/>And wonders <br/>and wonders of his love.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No more let sin <br/>and sorrows grow.<br/>Nor thorns infest the ground;<br/>He comes to make,<br/>his blessings flow;<br/>(Far is as the <br/>curse is found), x2<br/>Far as <br/>far as the curse is found.<br/>Let earth receive her King.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:28">
+  <properties>
+    <titles>
+      <title>ngima lomba! Peace</title>
+    </titles>
+    <authors>
+      <author>ngima lomba peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ngima lomba -<br/><br/>iwaniwatio-<br/>iwaniwatio ni ngima!</lines>
+    </verse>
+  </lyrics>
+</song>

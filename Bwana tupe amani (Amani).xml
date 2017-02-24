@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:59">
+  <properties>
+    <titles>
+      <title>Bwana tupe amani</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Amani</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana tupe amani,<br/>amani amani amani,<br/>O-lo-lo o-lo-lo amani,<br/>amani amani amani.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bwana tupe upendo,<br/>upendo upendo upendo,<br/>O-lo-lo o-lo-lo upendo,<br/>upendo upendo upendo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bwana tupe furaha,<br/>furaha furaha furaha,<br/>O-lo-lo o-lo-lo furaha,<br/>furaha furaha furaha.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bwana tupe faraja,<br/>faraja faraja faraja,<br/>O-lo-lo o-lo-lo faraja,<br/>faraja faraja faraja</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Bwana tupe fadhili,<br/>fadhili fadhili fadhili,<br/>O-lo-lo o-lo-lo fadhili,<br/>fadhili fadhili fadhili.</lines>
+    </verse>
+  </lyrics>
+</song>

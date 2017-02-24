@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:28">
+  <properties>
+    <titles>
+      <title>Neno la Mungu</title>
+    </titles>
+    <verseOrder>c1 c2 v1 v2 c1 c2 v3 v4 c1 c2 v5 v6 c1 c2</verseOrder>
+    <authors>
+      <author>Bible Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Neno la mungu ndio <br/>ngao yetu,<br/>neno, <br/>kweli neno neno, <br/>hilo lidumu milele. x2 </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Neno, neno hilo ni hekima, <br/>hakika, neno hilo, jamani,<br/>ni wokovu, neno,<br/>tulifuate kwa imani,<br/>neno hilo,<br/>neno, latupa mwongozo <br/>wa kumjua mungu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Neno la Mungu lamchoma <br/>shetani,<br/>hilo neno lina nguvu.<br/>Neno la mungu ni mwanga  <br/>kwa wote,<br/>hilo neno lina nguvu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tena linakata kama upanga,<br/>neno kweli neno,<br/>kwa vigelegele tulishangilie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tulisome na kulifuata,<br/>hilo neno lina nguvu.	<br/>Tuuliishi kwa kutenda mema,<br/>hilo neno lina nguvu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tena linakata kama upanga,<br/>neno kweli neno,<br/>kwa vigelegele tulishangilie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na hilo neno ndio nguzo yetu,<br/>hilo neno lina nguvu.<br/>Nimhimili wa maisha yetu,<br/>hilo neno lina nguvu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tena linakata kama upanga,<br/>neno kweli neno,<br/>kwa vigelegele tulishangilie.</lines>
+    </verse>
+  </lyrics>
+</song>

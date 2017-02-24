@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:27">
+  <properties>
+    <titles>
+      <title>Ndipo niliposema</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Zaburi</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ndipo niliposema, <br/>tazama nimekuja; <br/>Bwana nimekuja;<br/>Tazama nimekuja <br/>kuyafanya mapenzi yako.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nalimgonja <br/>Bwana kwa saburi, <br/>akaniinamia akasikia <br/>kilio change; <br/>akatuma wimbo mpya <br/>kinywani mwangu ndio <br/>sifa zake Mungu wetu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dhabihu na matoleo <br/>hukupendezwa nayo, <br/>masikio yangu umeyazibua, <br/>kafara na sadaka za dhambi <br/>hukuzitaka, ndipo nilisema, <br/>tazama nimekuja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Katika gombo <br/>la chuo nimeandikiwa, <br/>kuyafanya mapenzi <br/>yako mapenzi yako; <br/>Ee Mungu wangu ndiyo <br/>furaha furaha yangu; <br/>naam sheria yako imo <br/>moyoni mwangu.</lines>
+    </verse>
+  </lyrics>
+</song>

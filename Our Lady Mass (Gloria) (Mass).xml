@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:45">
+  <properties>
+    <titles>
+      <title>Our Lady Mass (Gloria)</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Mass</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Utukufu kwa Mungu mbinguni</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Utukufu kwa Mungu <br/>mbinguni,<br/>na amani duniani <br/>kwao watu kwa watu, <br/>kwa watu wenye <br/>mapenzi mema. x2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tunakusifu, twakuheshimu <br/>twakuabudu twakutukuza<br/>twakushukuru<br/>mfalme wa mbingu, <br/>mwana wa pekee,<br/>mwana wa  Baba, Bwana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Unayeondoa makosa <br/>yetu tuhurumie,<br/>tusikilize, <br/>kuume kwa <br/>Baba unapoketi, <br/>Mtakatifu mkuu tuhurumie,<br/>Bwana.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pamoja na <br/>Roho Mtakatifu,<br/>ndani ya Baba unatukuzwa,<br/>Mungu mmoja anayeishi <br/>ndiye mtawala milele <br/>yote, Bwana.</lines>
+    </verse>
+  </lyrics>
+</song>

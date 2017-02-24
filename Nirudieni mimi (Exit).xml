@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:54:31">
+  <properties>
+    <titles>
+      <title>Nirudieni mimi</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>Exit</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Lakini hata sasa asema<br/> Bwana nirudieni, <br/>mimi kwa mioyo <br/>yenu yote. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Fanyeni mabadiliko mioyoni mwenu, <br/>kwa kufunga, <br/>kwa kulia na kuomboleza - <br/>nirudieni mimi kwa mioyo yenu yote.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pigeni Tarumbeta huko Sayuni, <br/>waambieni watu wote<br/> ili wafunge -<br/> nirudieni mimi kwa mioyo <br/>yenu yote.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kusanyeni watu wote <br/>waleteni kwangu, <br/>waleteni na watoto hata wazee - <br/>nirudieni mimi kwa mioyo <br/>yenu yote.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mpingeni yule mwovu atawakimbia, <br/>nikaribieni nami nitawakaribia - <br/>nirudieni mimi kwa mioyo <br/>yenu yote.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Takaseni mikono yenu <br/>iliyojaa dhambi, <br/>safisheni mioyo yenu yenye <br/>nia mbili - <br/>nirudieni mimi kwa mioyo <br/>yenu yote.</lines>
+    </verse>
+  </lyrics>
+</song>

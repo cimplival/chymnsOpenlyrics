@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:02">
+  <properties>
+    <titles>
+      <title>Bwana Yesu Alitamka</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>General</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bwana Yesu alitamka<br/>alitamka, mimi ndimi<br/>njia ya kweli mtu haji<br/>kwa Baba yangu<br/>ila kwa njia <br/>yangu mimi. x2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hebu juilize njia gani<br/>uifuatayo na waelekea <br/>wapi,<br/>nawafuata njia <br/>ya kweli. x2<br/>Jiulize, jiulize, jiulize.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kuna njia iliyo<br/>nyembamba (nyembamba)<br/>yaelekea<br/>uzimani na ile<br/>pana ya anasa<br/>yaelekea jehanamu. x2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ngamia ni rahisi sana<br/>(isi sana)<br/>kuingia tundu la<br/>shindano kuliko mtu <br/>mwenye mali kuingia <br/>mbinguni kwa Baba. x2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mimi ndimi mwanzo<br/>na mwisho (na mwisho)<br/>Mimi Alfa na Omega <br/>mtu haji kwa Baba yangu<br/>ila kwa njia yangu mimi. x2</lines>
+    </verse>
+  </lyrics>
+</song>

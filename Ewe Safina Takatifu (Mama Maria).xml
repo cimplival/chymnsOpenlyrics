@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:25">
+  <properties>
+    <titles>
+      <title>Ewe Safina Takatifu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Mama Maria</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Ewe safina takatifu,<br/>iliyoteuliwa, (na Mungu), <br/>ni safina ambayo Mungu<br/>Kaijaza neema, ya milele<br/>imeshatulia katika<br/>hekalu la Mungu.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ewe mama mzazi wa Mungu,<br/>mama usiye na doa, <br/>dhambi haikukuchafua<br/>Bikira Maria.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kwa uzuri wewe wang'ara<br/>mbinguni,<br/>wa kutazama taji la nyota,<br/>umelivaa<br/>mama wa Muumba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ewe mama Bikira Maria<br/>ndiwe mlango wa nuru,<br/>ziangazie nyonyo zetu zipate<br/>neema.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Umebarikiwa mama <br/>kwa njia yako wokovu mkubwa <br/>ulifika ulimwenguni.</lines>
+    </verse>
+  </lyrics>
+</song>

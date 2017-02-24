@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:52:42">
+  <properties>
+    <titles>
+      <title>BIBLE PROCESSION</title>
+      <title>Ni neno toka kwa bwana</title>
+    </titles>
+    <authors>
+      <author>Bible Procession</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ni neno toka kwa bwana linakuja<br/>Ni neno toka kwa bwana linakuja</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tusikie neno neno lake Bwana<br/>Ni neno toka kwa bwana linakuja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Injili toka kwa Bwana inakuja...<br/>Ushindi....<br/>Baraka...<br/>Hekima...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:08">
+  <properties>
+    <titles>
+      <title>The Apostles Creed</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author>Prayer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I believe in God, <br/>the Father Almighty, <br/>Creator of heaven and earth; <br/>I believe in Jesus Christ, <br/>His only Son, our Lord: </lines>
+    </verse>
+    <verse name="v2">
+      <lines>He was conceived <br/>by the power of the Holy Spirit, <br/>and born of the Virgin Mary; <br/>He suffered under Pontius Pilate, <br/>was crucified, <br/>died and was buried. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>He descended to the dead; <br/>On the third day <br/>he rose again.; <br/>He ascended into heaven,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>and is seated at the right hand <br/>of the Father; <br/>He will come again <br/>to judge the living <br/>and the dead. </lines>
+    </verse>
+    <verse name="v5">
+      <lines>I believe in the Holy Spirit, <br/>the Holy Catholic Church, <br/>the communion of Saints, <br/>the forgiveness of sins, <br/>the resurrection of the body, <br/>and life everlasting. <br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

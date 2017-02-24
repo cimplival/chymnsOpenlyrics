@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:15">
+  <properties>
+    <titles>
+      <title>Tunaomba Amani</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Peace</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Thayu wa Kristu <br/>uroguikurukira; <br/>giai na thayu <br/>na mugie naguo muno.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Na inyue athuri, <br/>Kristu aramuira <br/>giai na thayu <br/>na mugie naguo muno.<br/>Na inyue atumia, <br/>Kristu aramuira <br/>giai na thayu <br/>na mugie naguo muno.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na inyue anake, <br/>Kristu aramuira <br/>giai na thayu <br/>na mugie naguo muno.<br/>Na inyue airitu, <br/>Kristu aramuira <br/>giai na thayu <br/>na mugie naguo muno.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na ciana ciitu, <br/>Kristu aramuira <br/>giai na thayu <br/>na mugie naguo muno.<br/>Na andu othe, <br/>Kristu aramuira <br/>giai na thayu <br/>na mugie naguo muno.</lines>
+    </verse>
+  </lyrics>
+</song>

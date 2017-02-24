@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:52">
+  <properties>
+    <titles>
+      <title>Jeshi la Malaika</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sasa jeshi la malaika<br/>lashangilia jina hili tukufu.<br/>Na sisi viumbe duniani <br/>twashuhudia utukufu mkuu.<br/>Twaungana na malaika <br/>tukisifu sana jina hili ni kuu.<br/>Tangu Yohane atabiri <br/>na sisi sote hatuliasi ni kuu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Twimbe twimbe tumsifuni Yesu,<br/>Jina lake latenda makuu<br/>Mfalme Kristu mwana wake Mungu<br/>tumsifuni tumsifuni <br/>tumshukuru Mungu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dhambi yake Adamu babu <br/>na bibi Eva ilikuwa asili,<br/>mkombozi Yesu katumwa <br/>dunia yote sisi kutuokoa.<br/>Waliokuwa na kiburi ni Ibilisi <br/>na wenye shingo ngumu,<br/>wamebaki midomo wazi <br/>wakiteketea kwa moto mkali.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Wasioamini na wasiomkubali<br/>kwao ni kama ndoto,<br/>muda wao ukishapita kilio <br/>chao mavuno ni mkaa.<br/>Mawazo yao duni sana <br/>na mbinu zao zisizoenda mbali,<br/>wasiokubali ya kuwa Mungu<br/>ndiye mweza wa kila kitu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kina Baba mama vijana <br/>pia watoto jueni hili jambo.<br/>Dunia yote ina mwisho <br/>ya dunia ni ya muda mfupi.<br/>Biashara zisiwe nyingi <br/>mkasahau aliyetuumba sisi,<br/>mwenye uwezo wa kutoa <br/>pumzi na afya yapaswa tumtii.</lines>
+    </verse>
+  </lyrics>
+</song>

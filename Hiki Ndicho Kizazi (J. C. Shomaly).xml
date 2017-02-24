@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:53:37">
+  <properties>
+    <titles>
+      <title>Hiki Ndicho Kizazi</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>J. C. Shomaly</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Hiki ndicho kizazi cha <br/>wakutafutao ee Mungu wetu. x2<br/>Cha wakutafutao uso wako <br/>ee Mungu wa Yakobo,<br/>(hiki ndicho),  x2 <br/>kizazi cha wakutafutao Mungu. x2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ee Bwana ulinijua <br/>tangu tumbo-ni,<br/>wewe unayajua <br/>maneno ya-ngu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mchana na usiku <br/>umekuwa kinga,<br/>ee Mungu Mungu <br/>wangu nitakusifu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nitakusifu mimi siku <br/>zote ee Mungu,<br/>unibariki Bwana daima milele.</lines>
+    </verse>
+  </lyrics>
+</song>

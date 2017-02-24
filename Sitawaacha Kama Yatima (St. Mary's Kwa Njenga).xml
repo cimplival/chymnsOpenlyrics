@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2017-01-14T20:55:03">
+  <properties>
+    <titles>
+      <title>Sitawaacha Kama Yatima</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>St. Mary's Kwa Njenga</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sitawaacha nyinyi kama yatima, <br/>Sitawaacha nyinyi (Acha nyinyi) <br/>Asema Bwana (ee Bwana) <br/>(Naja kwenu mioyo yenu ijae, <br/>Furaha na amani,<br/>asema Bwana). x2 <br/>eeh</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Nitawaombea nyinyi kwa Baba yangu <br/>Naye atamtuma -Roho- wa kweli <br/>Huyo Roho Baba atakayemtuma <br/>Ndiye atakayewafariji mio-yo-ni.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Utukufu ulionipa ee Baba <br/>Nimewapa na wao -ili - wapate <br/>Kujua ndiwe peke uliyenituma <br/>Ukawapenda wao ulivyo-ni-pe-nda.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baba hao ulionipa nataka <br/>Wawe pamoja nami, -nami- popote <br/>Popote kutazama utukufu wako <br/>Utukufu ulionipa, anase-ma - Bwa-na.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Baba si hao tu ninawaombea <br/>Lakini nao wale -watao-niamini <br/>Wote wawe umoja kama we Baba <br/>Ulivyo ndani yangu nami nda-ni ya-ko.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sitawaacha nyinyi kama yatima <br/>Waipeleka roho, -yako- e Baba <br/>Nawe unaufanya uso wa nchi <br/>Uso wa nchi upya, anase-ma Bwa-na.</lines>
+    </verse>
+  </lyrics>
+</song>
